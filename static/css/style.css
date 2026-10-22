@@ -338,7 +338,7 @@ li.is-studied .check-dot { background: var(--good); border-color: var(--good); b
 .toc a { display: block; padding: 3px 0; color: var(--text-soft); text-decoration: none; line-height: 1.35; }
 .toc a:hover, .toc a.is-current { color: var(--primary); }
 .toc a.is-current { font-weight: 800; }
-@media (max-width: 1180px) { .doc-grid { grid-template-columns: minmax(0, 1fr); } .toc { display: none; } .doc { margin: 0 auto; } }
+@media (max-width: 1180px) { .doc-grid { grid-template-columns: minmax(0, 1fr); } .toc { display: none; } .doc { margin: 0 auto; width: 100%; } }
 .doc-head { margin-bottom: 18px; }
 .doc-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
 .sibling-nav { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 10px 16px; margin-bottom: 22px; }
