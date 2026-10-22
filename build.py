@@ -206,7 +206,7 @@ def load_collection(folder: Path) -> list[dict]:
         meta, text = front_matter(f.read_text(encoding="utf-8"))
         body, toc = render_md(text)
         pages.append({"slug": f.stem, "meta": meta, "body": body, "toc": toc,
-                      "title": meta.get("title", f.stem), "order": meta.get("order", 99)})
+                      "title": meta.get("title", f.stem), "order": float(meta.get("order", 99))})
     pages.sort(key=lambda p: (p["order"], p["slug"]))
     return pages
 
