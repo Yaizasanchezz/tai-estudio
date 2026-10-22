@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}{{ law.corto }} · Texto oficial · TAI Estudio{% endblock %}
+{% block mainclass %}main main-doc{% endblock %}
+{% block content %}
+<div class="doc-grid">
+  <article class="doc legal">
+    <nav class="crumbs" aria-label="Ruta">
+      <a href="{{ base }}">Inicio</a><span>›</span>
+      {% if law.slug == 'constitucion' %}<a href="{{ base }}constitucion/">Constitución</a>{% else %}<a href="{{ base }}leyes/">Leyes</a>{% endif %}
+      <span>›</span><span>Texto oficial</span>
+    </nav>
+    <header class="doc-head">
+      <p class="eyebrow">Texto oficial consolidado</p>
+      <h1>{{ data.titulo if data else law.nombre }}</h1>
+      <div class="doc-actions">
+        {% if explained_url %}<a class="chip-btn" href="{{ base }}{{ explained_url }}">Ver explicada</a>{% endif %}
+        <a class="chip-btn ghost" href="{{ boe_url }}" target="_blank" rel="noopener">Abrir en el BOE ↗</a>
+      </div>
+      {% if data %}
+      <p class="muted small">Última actualización según el BOE: {{ data.fecha_actualizacion_fmt or data.fecha_actualizacion }} · Descargado el {{ data.descargado }}. Fuente: API de legislación consolidada del BOE.</p>
+      {% endif %}
+    </header>
+
+    {% if data %}
+      {% if toc|length > 6 %}
+      <details class="law-index">
+        <summary>Índice ({{ toc|length }} entradas)</summary>
+        <ul>
+          {% for t in toc %}<li class="lt-{{ t.tipo }}"><a href="#{{ t.id }}">{{ t.titulo }}</a></li>{% endfor %}
+        </ul>
+      </details>
+      {% endif %}
+      <div class="legal-text">
+        {% for b in data.bloques %}
+        <section class="lb lb-{{ b.tipo }}" id="{{ b.id }}">
+          {{ b.html|safe }}
+        </section>
+        {% endfor %}
+      </div>
+    {% else %}
+      <div class="notice">
+        <p><strong>El texto oficial aún no se ha descargado.</strong> Se descarga automáticamente del BOE en la próxima actualización de la web. Mientras tanto, puedes leerlo directamente en el BOE:</p>
+        <p><a class="btn btn-primary" href="{{ boe_url }}" target="_blank" rel="noopener">Abrir en el BOE</a></p>
+      </div>
+    {% endif %}
+  </article>
+</div>
+{% endblock %}

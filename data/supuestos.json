@@ -1,0 +1,380 @@
+{
+ "supuestos": [
+  {
+   "id": "supuesto-1",
+   "titulo": "Supuesto 1 · Bloque III: aplicación de gestión de ayudas",
+   "bloque": "desarrollo",
+   "enunciado": "**Enunciado.** El Ministerio va a desarrollar AYUDAS-WEB, una aplicación para tramitar ayudas. Tendrá un front-end en Angular, una API REST en Java (Spring Boot) y una base de datos PostgreSQL con estas tablas:\n\n- SOLICITANTE(**nif**, nombre, email, provincia)\n- CONVOCATORIA(**id_conv**, titulo, importe_total, fecha_fin)\n- SOLICITUD(**id_sol**, nif, id_conv, fecha, importe, estado)\n\nUn solicitante puede presentar solicitudes a muchas convocatorias y una convocatoria recibe solicitudes de muchos solicitantes. El equipo trabaja con Scrum en sprints de 2 semanas y usa Git.",
+   "preguntas": [
+    {
+     "pregunta": "La relación entre SOLICITANTE y CONVOCATORIA es:",
+     "opciones": [
+      "1:1, resuelta con una clave foránea en CONVOCATORIA.",
+      "1:N, resuelta con una clave foránea en SOLICITANTE.",
+      "N:M, resuelta mediante la tabla SOLICITUD.",
+      "N:M, que no puede representarse en el modelo relacional."
+     ],
+     "correcta": 2,
+     "explicacion": "SOLICITUD actúa como tabla intermedia con las claves foráneas nif e id_conv, más atributos propios (fecha, importe, estado).",
+     "id": "s1-01"
+    },
+    {
+     "pregunta": "En la tabla SOLICITUD, las columnas nif e id_conv son:",
+     "opciones": [
+      "Claves primarias.",
+      "Claves foráneas.",
+      "Claves alternativas.",
+      "Atributos derivados."
+     ],
+     "correcta": 1,
+     "explicacion": "Referencian a las claves primarias de SOLICITANTE y CONVOCATORIA. La clave primaria de SOLICITUD es id_sol.",
+     "id": "s1-02"
+    },
+    {
+     "pregunta": "Para obtener el número de solicitudes por convocatoria, mostrando solo las que tienen más de 100, la consulta correcta es:",
+     "opciones": [
+      "`SELECT id_conv, COUNT(*) FROM SOLICITUD WHERE COUNT(*) > 100 GROUP BY id_conv;`",
+      "`SELECT id_conv, COUNT(*) FROM SOLICITUD GROUP BY id_conv HAVING COUNT(*) > 100;`",
+      "`SELECT id_conv, SUM(*) FROM SOLICITUD GROUP BY id_conv HAVING SUM(*) > 100;`",
+      "`SELECT id_conv, COUNT(*) FROM SOLICITUD HAVING COUNT(*) > 100;`"
+     ],
+     "correcta": 1,
+     "explicacion": "Las funciones de agregado no pueden ir en WHERE; el filtro sobre grupos va en HAVING y necesita GROUP BY.",
+     "id": "s1-03"
+    },
+    {
+     "pregunta": "Para listar los solicitantes que no han presentado ninguna solicitud:",
+     "opciones": [
+      "`SELECT s.nif FROM SOLICITANTE s INNER JOIN SOLICITUD o ON s.nif = o.nif WHERE o.id_sol IS NULL;`",
+      "`SELECT s.nif FROM SOLICITANTE s LEFT JOIN SOLICITUD o ON s.nif = o.nif WHERE o.id_sol IS NULL;`",
+      "`SELECT s.nif FROM SOLICITANTE s LEFT JOIN SOLICITUD o ON s.nif = o.nif WHERE o.id_sol = NULL;`",
+      "`SELECT nif FROM SOLICITUD WHERE id_sol IS NULL;`"
+     ],
+     "correcta": 1,
+     "explicacion": "El LEFT JOIN conserva todos los solicitantes; los que no tienen solicitud quedan con columnas nulas. Con INNER JOIN nunca aparecerían, y `= NULL` nunca es verdadero. También valdría `WHERE NOT EXISTS (…)`.",
+     "id": "s1-04"
+    },
+    {
+     "pregunta": "Para que la columna estado solo admita los valores 'PENDIENTE', 'CONCEDIDA' o 'DENEGADA', se define una restricción:",
+     "opciones": [
+      "UNIQUE",
+      "CHECK",
+      "DEFAULT",
+      "FOREIGN KEY"
+     ],
+     "correcta": 1,
+     "explicacion": "`CHECK (estado IN ('PENDIENTE','CONCEDIDA','DENEGADA'))`. Otra opción de diseño sería una tabla de estados con clave foránea.",
+     "id": "s1-05"
+    },
+    {
+     "pregunta": "Se quiere guardar automáticamente en una tabla HISTORICO cada cambio de estado de una solicitud. Lo adecuado es:",
+     "opciones": [
+      "Una vista.",
+      "Un índice sobre estado.",
+      "Un disparador AFTER UPDATE a nivel de fila.",
+      "Una secuencia."
+     ],
+     "correcta": 2,
+     "explicacion": "El trigger se ejecuta tras cada UPDATE y puede usar los valores antiguo y nuevo (OLD y NEW) de cada fila modificada.",
+     "id": "s1-06"
+    },
+    {
+     "pregunta": "Las búsquedas por nif en SOLICITUD son lentas. La medida más directa es:",
+     "opciones": [
+      "`CREATE INDEX idx_sol_nif ON SOLICITUD(nif);`",
+      "`ALTER TABLE SOLICITUD DROP COLUMN nif;`",
+      "`TRUNCATE TABLE SOLICITUD;`",
+      "`CREATE VIEW v_nif AS SELECT nif FROM SOLICITUD;`"
+     ],
+     "correcta": 0,
+     "explicacion": "Un índice acelera las búsquedas por esa columna, a cambio de algo más de coste en las inserciones y actualizaciones. Una vista no mejora el rendimiento por sí sola.",
+     "id": "s1-07"
+    },
+    {
+     "pregunta": "En la API REST, para dar de alta una nueva solicitud lo correcto es:",
+     "opciones": [
+      "`GET /solicitudes/nueva`, que responde 200.",
+      "`POST /solicitudes`, que responde 201 Created.",
+      "`PUT /solicitudes`, que responde 204.",
+      "`DELETE /solicitudes`, que responde 201."
+     ],
+     "correcta": 1,
+     "explicacion": "POST crea un recurso en la colección; la respuesta 201 suele incluir la cabecera Location con la URI del nuevo recurso.",
+     "id": "s1-08"
+    },
+    {
+     "pregunta": "Un usuario autenticado con Cl@ve intenta consultar una solicitud que no es suya. La API debe responder:",
+     "opciones": [
+      "200 OK con los datos.",
+      "401 Unauthorized.",
+      "403 Forbidden.",
+      "500 Internal Server Error."
+     ],
+     "correcta": 2,
+     "explicacion": "Está autenticado, pero no autorizado para ese recurso. El 401 es para peticiones sin credenciales válidas. Dejar ver datos ajenos sería un fallo de control de acceso (el primero del OWASP Top 10).",
+     "id": "s1-09"
+    },
+    {
+     "pregunta": "Un desarrollador escribe: `String sql = \"SELECT * FROM SOLICITANTE WHERE nombre = '\" + nombre + \"'\";`. Este código:",
+     "opciones": [
+      "Es correcto y seguro.",
+      "Es vulnerable a inyección SQL; debe usarse una consulta parametrizada (PreparedStatement).",
+      "Es vulnerable a XSS; debe cifrarse con AES.",
+      "Solo falla si nombre está vacío."
+     ],
+     "correcta": 1,
+     "explicacion": "Una entrada como `' OR '1'='1` cambiaría la lógica de la consulta. Con parámetros (`?`) el valor nunca se interpreta como SQL.",
+     "id": "s1-10"
+    },
+    {
+     "pregunta": "¿Qué valor tiene total tras ejecutar este código?\n\n```java\nList<Integer> importes = List.of(1000, 2500, 500, 3000);\nint total = importes.stream()\n                    .filter(i -> i >= 1000)\n                    .mapToInt(Integer::intValue)\n                    .sum();\n```",
+     "opciones": [
+      "7000",
+      "6500",
+      "5500",
+      "3000"
+     ],
+     "correcta": 1,
+     "explicacion": "El filtro descarta 500 (no es ≥ 1000) y suma 1000 + 2500 + 3000 = 6500.",
+     "id": "s1-11"
+    },
+    {
+     "pregunta": "Un botón del formulario Angular solo muestra un icono de papelera, sin texto. Para cumplir las WCAG:",
+     "opciones": [
+      "Basta con que el icono sea rojo.",
+      "Hay que darle un nombre accesible, por ejemplo con `aria-label=\"Eliminar documento\"` o texto oculto visualmente.",
+      "Hay que sustituirlo por una imagen de fondo CSS.",
+      "No es necesario hacer nada porque es un botón."
+     ],
+     "correcta": 1,
+     "explicacion": "Los lectores de pantalla necesitan un nombre para el control. Transmitir la información solo con el color incumple las WCAG.",
+     "id": "s1-12"
+    },
+    {
+     "pregunta": "Para comprobar el método `calcularImporteMaximo()` aislado del resto del sistema, simulando la base de datos, se hace una prueba:",
+     "opciones": [
+      "De aceptación.",
+      "Unitaria, con JUnit y objetos simulados (mocks, por ejemplo con Mockito).",
+      "De carga con JMeter.",
+      "De regresión manual."
+     ],
+     "correcta": 1,
+     "explicacion": "La prueba unitaria verifica la unidad más pequeña de código y sustituye sus dependencias por dobles de prueba.",
+     "id": "s1-13"
+    },
+    {
+     "pregunta": "Para empezar una nueva funcionalidad en una rama propia a partir de develop, el desarrollador ejecuta:",
+     "opciones": [
+      "`git merge feature/notificaciones`",
+      "`git checkout -b feature/notificaciones` (o `git switch -c feature/notificaciones`)",
+      "`git push --force`",
+      "`git clone feature/notificaciones`"
+     ],
+     "correcta": 1,
+     "explicacion": "Crea la rama y se cambia a ella. Al terminar, se integra en develop mediante merge o *pull request*, como en GitFlow.",
+     "id": "s1-14"
+    },
+    {
+     "pregunta": "En el equipo Scrum, ¿quién ordena el Product Backlog según el valor para el negocio?",
+     "opciones": [
+      "El Scrum Master.",
+      "El Product Owner.",
+      "Los Developers.",
+      "El jefe de proyecto."
+     ],
+     "correcta": 1,
+     "explicacion": "El Product Owner es responsable de maximizar el valor del producto y de ordenar el backlog. El Scrum Master facilita el proceso.",
+     "id": "s1-15"
+    }
+   ]
+  },
+  {
+   "id": "supuesto-2",
+   "titulo": "Supuesto 2 · Bloque IV: red y sistemas de una Subdelegación del Gobierno",
+   "bloque": "sistemas",
+   "enunciado": "**Enunciado.** Se renueva la infraestructura de una Subdelegación del Gobierno. Se asigna la red 172.16.40.0/24, que debe dividirse con máscaras de longitud variable (VLSM) en cuatro VLAN:\n\n| VLAN | Uso | Hosts necesarios |\n| --- | --- | --- |\n| 10 | Puestos de usuario | 100 |\n| 20 | Atención al ciudadano y registro | 50 |\n| 30 | Servidores | 20 |\n| 40 | Gestión de red | 10 |\n\nLos servidores usarán un almacenamiento con 6 discos de 2 TB. Se hará una copia completa el domingo y diferenciales de lunes a sábado. La web de citas se publicará en Internet y el personal podrá teletrabajar. El sistema está categorizado como MEDIA en el ENS.\n\n**Asignación VLSM (de mayor a menor):**\n\n| VLAN | Subred | Máscara | Primer host | Último host | Broadcast |\n| --- | --- | --- | --- | --- | --- |\n| 10 | 172.16.40.0/25 | 255.255.255.128 | .1 | .126 | .127 |\n| 20 | 172.16.40.128/26 | 255.255.255.192 | .129 | .190 | .191 |\n| 30 | 172.16.40.192/27 | 255.255.255.224 | .193 | .222 | .223 |\n| 40 | 172.16.40.224/28 | 255.255.255.240 | .225 | .238 | .239 |",
+   "preguntas": [
+    {
+     "pregunta": "La máscara mínima que da cabida a los 100 puestos de la VLAN 10 es:",
+     "opciones": [
+      "255.255.255.0",
+      "255.255.255.128",
+      "255.255.255.192",
+      "255.255.255.224"
+     ],
+     "correcta": 1,
+     "explicacion": "/25 ofrece 2⁷ − 2 = 126 hosts. Una /26 (62 hosts) no llega y una /24 desperdicia direcciones.",
+     "id": "s2-01"
+    },
+    {
+     "pregunta": "La dirección de difusión (broadcast) de la VLAN 20 es:",
+     "opciones": [
+      "172.16.40.128",
+      "172.16.40.190",
+      "172.16.40.191",
+      "172.16.40.255"
+     ],
+     "correcta": 2,
+     "explicacion": "La subred 172.16.40.128/26 abarca de .128 a .191; la última dirección es la de difusión.",
+     "id": "s2-02"
+    },
+    {
+     "pregunta": "La primera dirección asignable a un servidor de la VLAN 30 es:",
+     "opciones": [
+      "172.16.40.192",
+      "172.16.40.193",
+      "172.16.40.200",
+      "172.16.40.224"
+     ],
+     "correcta": 1,
+     "explicacion": ".192 es la dirección de red de la subred /27. La .224 ya pertenece a la VLAN 40.",
+     "id": "s2-03"
+    },
+    {
+     "pregunta": "Para transportar varias VLAN por un único enlace entre dos switches se configura:",
+     "opciones": [
+      "Un enlace troncal con etiquetado IEEE 802.1Q.",
+      "Un enlace de acceso con IEEE 802.3af.",
+      "Spanning Tree en modo IEEE 802.1D.",
+      "Un enlace IEEE 802.11ax."
+     ],
+     "correcta": 0,
+     "explicacion": "802.1Q añade a cada trama una etiqueta con el identificador de VLAN. 802.3af es PoE y 802.11ax es Wi-Fi 6.",
+     "id": "s2-04"
+    },
+    {
+     "pregunta": "Para que los puestos de la VLAN 10 accedan a los servidores de la VLAN 30 se necesita:",
+     "opciones": [
+      "Un hub.",
+      "Un repetidor.",
+      "Un router o un switch de capa 3.",
+      "Nada: las VLAN se comunican solas."
+     ],
+     "correcta": 2,
+     "explicacion": "Cada VLAN es una red IP distinta y un dominio de difusión separado; comunicarlas requiere encaminamiento en la capa 3.",
+     "id": "s2-05"
+    },
+    {
+     "pregunta": "Con los 6 discos de 2 TB se quiere tolerar el fallo simultáneo de 2 discos. La opción y la capacidad útil son:",
+     "opciones": [
+      "RAID 5, 10 TB.",
+      "RAID 6, 8 TB.",
+      "RAID 1, 6 TB.",
+      "RAID 0, 12 TB."
+     ],
+     "correcta": 1,
+     "explicacion": "RAID 6 usa doble paridad: (6 − 2) × 2 TB = 8 TB. RAID 5 solo tolera un fallo y RAID 0 ninguno.",
+     "id": "s2-06"
+    },
+    {
+     "pregunta": "El servidor de ficheros falla el jueves por la mañana. Con la política de copias del enunciado, hay que restaurar:",
+     "opciones": [
+      "Solo la diferencial del miércoles.",
+      "La completa del domingo y la diferencial del miércoles.",
+      "La completa del domingo y las diferenciales de lunes, martes y miércoles.",
+      "Solo la completa del domingo."
+     ],
+     "correcta": 1,
+     "explicacion": "Cada diferencial contiene todo lo cambiado desde la última completa. Con copias incrementales sí habría que aplicar todas en orden (opción c).",
+     "id": "s2-07"
+    },
+    {
+     "pregunta": "El servidor web de citas, accesible desde Internet, debe ubicarse:",
+     "opciones": [
+      "En la VLAN de puestos de usuario.",
+      "En una DMZ, protegido por el cortafuegos perimetral y, preferiblemente, un WAF.",
+      "En la VLAN de gestión de red.",
+      "Directamente conectado al router de Internet sin filtrado."
+     ],
+     "correcta": 1,
+     "explicacion": "Si el servidor se ve comprometido, la DMZ impide que el atacante llegue directamente a la red interna. El cortafuegos solo debe permitir desde Internet el puerto 443 hacia ese servidor.",
+     "id": "s2-08"
+    },
+    {
+     "pregunta": "Para el teletrabajo, la solución más adecuada es:",
+     "opciones": [
+      "Abrir el puerto 3389 (RDP) de cada puesto a Internet.",
+      "Una VPN (IPsec o SSL) con autenticación de doble factor.",
+      "Compartir las carpetas por FTP.",
+      "Usar Telnet para acceder a los servidores."
+     ],
+     "correcta": 1,
+     "explicacion": "La VPN cifra el tráfico y el doble factor protege frente al robo de contraseñas. RDP expuesto, FTP y Telnet transmiten datos o credenciales sin la protección adecuada.",
+     "id": "s2-09"
+    },
+    {
+     "pregunta": "Los correos de la Subdelegación llegan como spam a algunos destinatarios. Para indicar qué servidores están autorizados a enviar correo del dominio se publica:",
+     "opciones": [
+      "Un registro MX.",
+      "Un registro TXT con la política SPF (complementado con DKIM y DMARC).",
+      "Un registro PTR en el servidor DHCP.",
+      "Un registro CNAME."
+     ],
+     "correcta": 1,
+     "explicacion": "SPF lista las IP autorizadas; DKIM firma los mensajes y DMARC indica qué hacer si fallan las comprobaciones. El MX solo dice dónde se reciben los correos.",
+     "id": "s2-10"
+    },
+    {
+     "pregunta": "Para supervisar el estado de switches y routers de forma segura se recomienda:",
+     "opciones": [
+      "SNMPv1 con la comunidad \"public\".",
+      "SNMPv3, con autenticación y cifrado.",
+      "Telnet periódico a cada equipo.",
+      "ICMP con paquetes de gran tamaño."
+     ],
+     "correcta": 1,
+     "explicacion": "SNMPv1 y v2c envían la comunidad en claro. SNMP usa UDP 161 para consultas y 162 para las alertas (*traps*).",
+     "id": "s2-11"
+    },
+    {
+     "pregunta": "Un puesto nuevo de la VLAN 10 obtiene la dirección 169.254.12.7. La causa más probable es:",
+     "opciones": [
+      "Un conflicto de IP con un servidor.",
+      "Que el equipo no recibe respuesta del servidor DHCP (dirección APIPA).",
+      "Que tiene una dirección IPv6 mal configurada.",
+      "Que el DNS no resuelve nombres."
+     ],
+     "correcta": 1,
+     "explicacion": "Windows se autoasigna una dirección 169.254.0.0/16 cuando falla DHCP. Hay que revisar el cable, la VLAN del puerto del switch y el relé DHCP (*ip helper*) si el servidor está en otra VLAN.",
+     "id": "s2-12"
+    },
+    {
+     "pregunta": "La copia de seguridad debe lanzarse en un servidor Linux todos los días a las 23:30. La línea de crontab correcta es:",
+     "opciones": [
+      "`23 30 * * * /opt/backup.sh`",
+      "`30 23 * * * /opt/backup.sh`",
+      "`* * 30 23 * /opt/backup.sh`",
+      "`30 23 1 * * /opt/backup.sh`"
+     ],
+     "correcta": 1,
+     "explicacion": "El orden de los campos es minuto, hora, día del mes, mes y día de la semana. La opción d) solo se ejecutaría el día 1 de cada mes.",
+     "id": "s2-13"
+    },
+    {
+     "pregunta": "Al ser un sistema de categoría MEDIA en el ENS, la Subdelegación debe:",
+     "opciones": [
+      "Hacer solo una autoevaluación anual.",
+      "Superar una auditoría de conformidad al menos cada 2 años.",
+      "No tiene obligaciones específicas.",
+      "Obtener la certificación ISO 27001 en sustitución del ENS."
+     ],
+     "correcta": 1,
+     "explicacion": "La autoevaluación solo vale para la categoría BÁSICA. ISO 27001 puede servir de apoyo, pero no sustituye la conformidad con el ENS.",
+     "id": "s2-14"
+    },
+    {
+     "pregunta": "Un puesto muestra una nota de rescate y sus ficheros están cifrados. La primera actuación correcta es:",
+     "opciones": [
+      "Pagar el rescate para recuperar los datos cuanto antes.",
+      "Aislar el equipo de la red, preservar las evidencias y notificar el incidente (en el sector público, al CCN-CERT).",
+      "Formatear el equipo inmediatamente sin avisar a nadie.",
+      "Reiniciar todos los servidores."
+     ],
+     "correcta": 1,
+     "explicacion": "Primero se contiene para evitar que el ransomware se propague, y después se notifica (herramienta LUCIA del CCN-CERT) y se recupera desde copias de seguridad limpias.",
+     "id": "s2-15"
+    }
+   ]
+  }
+ ]
+}

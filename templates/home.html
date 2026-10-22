@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% block title %}TAI Estudio · Tu web para aprobar TAI{% endblock %}
+{% block bodyclass %}is-home{% endblock %}
+{% block content %}
+<section class="hero">
+  <div class="hero-text">
+    <p class="eyebrow">Oposición TAI · Técnicos Auxiliares de Informática del Estado</p>
+    <h1><span data-greeting>Hola, Yaiza</span> <span class="wave" aria-hidden="true">✿</span></h1>
+    <p class="lead" data-quote>Cada tema que cierras es una plaza un poco más cerca.</p>
+    <div class="hero-cta">
+      <a class="btn btn-primary" href="{{ base }}flashcards/">Repasar flashcards</a>
+      <a class="btn" href="{{ base }}tests/">Hacer un test</a>
+    </div>
+  </div>
+  <div class="hero-art" aria-hidden="true">
+    <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+    <div class="hero-card">
+      <p class="hero-card-k">Examen</p>
+      <p class="hero-card-v">80 + 20</p>
+      <p class="hero-card-s">preguntas en 120 minutos</p>
+    </div>
+  </div>
+</section>
+
+<section class="stats" aria-label="Tu progreso">
+  <div class="stat">
+    <p class="stat-k">Racha de estudio</p>
+    <p class="stat-v" data-stat="streak">0 días</p>
+    <p class="stat-s" data-stat="streak-sub">Haz un test o repasa flashcards para empezarla</p>
+  </div>
+  <div class="stat">
+    <p class="stat-k">Flashcards para hoy</p>
+    <p class="stat-v" data-stat="due">–</p>
+    <p class="stat-s">de {{ n_cards }} tarjetas</p>
+  </div>
+  <div class="stat">
+    <p class="stat-k">Último test</p>
+    <p class="stat-v" data-stat="last-test">–</p>
+    <p class="stat-s" data-stat="last-test-sub">Aún no has hecho ninguno</p>
+  </div>
+  <div class="stat">
+    <p class="stat-k">Temario estudiado</p>
+    <p class="stat-v" data-stat="studied">0 %</p>
+    <div class="bar"><span data-stat="studied-bar" style="width:0%"></span></div>
+  </div>
+</section>
+
+<section class="section-grid" aria-label="Apartados">
+  <a class="tile tile-rose" href="{{ base }}temario/">
+    {{ icon('book', 'tile-icon')|safe }}
+    <h2>Temario</h2>
+    <p>Los 33 temas explicados por bloques, con ejemplos resueltos.</p>
+  </a>
+  <a class="tile tile-lilac" href="{{ base }}constitucion/">
+    {{ icon('landmark', 'tile-icon')|safe }}
+    <h2>Constitución</h2>
+    <p>Explicada artículo por artículo y el texto oficial del BOE.</p>
+  </a>
+  <a class="tile tile-peach" href="{{ base }}leyes/">
+    {{ icon('scale', 'tile-icon')|safe }}
+    <h2>Leyes</h2>
+    <p>Las normas del temario explicadas, con su texto consolidado.</p>
+  </a>
+  <a class="tile tile-mint" href="{{ base }}tests/">
+    {{ icon('check', 'tile-icon')|safe }}
+    <h2>Tests</h2>
+    <p>{{ n_tests }} preguntas con explicación, por bloques o en modo examen.</p>
+  </a>
+  <a class="tile tile-sky" href="{{ base }}supuestos/">
+    {{ icon('briefcase', 'tile-icon')|safe }}
+    <h2>Supuestos prácticos</h2>
+    <p>Casos de desarrollo y de sistemas, como en la segunda parte.</p>
+  </a>
+  <a class="tile tile-rose" href="{{ base }}examenes/">
+    {{ icon('file', 'tile-icon')|safe }}
+    <h2>Exámenes resueltos</h2>
+    <p>Exámenes oficiales del INAP con todas las respuestas explicadas.</p>
+  </a>
+  <a class="tile tile-lilac" href="{{ base }}flashcards/">
+    {{ icon('cards', 'tile-icon')|safe }}
+    <h2>Flashcards</h2>
+    <p>{{ n_cards }} tarjetas con repetición espaciada: las que fallas, vuelven antes.</p>
+  </a>
+  <a class="tile tile-peach" href="{{ base }}youtube/">
+    {{ icon('play', 'tile-icon')|safe }}
+    <h2>YouTube</h2>
+    <p>Vídeos y canales que explican la Constitución, las leyes y la parte técnica.</p>
+  </a>
+  <a class="tile tile-mint" href="{{ opositatest_url }}" target="_blank" rel="noopener">
+    {{ icon('external', 'tile-icon')|safe }}
+    <h2>OpositaTest TAI</h2>
+    <p>Entra directamente a sus tests de TAI (con tu cuenta de OpositaTest).</p>
+  </a>
+</section>
+
+<section class="card checklist" aria-labelledby="temario-check">
+  <h2 id="temario-check">Tu temario</h2>
+  <p class="muted">Marca cada página como estudiada desde su botón y verás aquí tu avance.</p>
+  <ul class="check-list">
+    {% for p in temario %}
+    <li data-studied-item="temario/{{ p.slug }}"><a href="{{ base }}{{ p.url }}">{{ p.title }}</a><span class="check-dot" aria-hidden="true"></span></li>
+    {% endfor %}
+    {% for p in ce_pages %}
+    <li data-studied-item="ce/{{ p.slug }}"><a href="{{ base }}{{ p.url }}">Constitución · {{ p.title }}</a><span class="check-dot" aria-hidden="true"></span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}static/js/home.js?v={{ build_id }}" defer></script>{% endblock %}

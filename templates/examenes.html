@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Exámenes resueltos · TAI Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Exámenes resueltos</span></nav>
+  <h1>Exámenes oficiales resueltos</h1>
+  <p class="lead">Exámenes reales de TAI (turno libre) publicados por el INAP. Abre el cuadernillo oficial, hazlo con tiempo, apunta tus respuestas en la web y te corrige con la penalización real. Después, cada pregunta tiene su respuesta explicada.</p>
+</header>
+
+<div class="exam-list">
+  {% for ex in exams %}
+  <a class="card exam-card" href="{{ base }}{{ ex.url }}">
+    <div>
+      <p class="law-short">{{ ex.convocatoria }}</p>
+      <h2>{{ ex.titulo }}</h2>
+      <p class="muted">{{ ex.descripcion }}</p>
+    </div>
+    <ul class="exam-meta">
+      <li><strong>{{ ex.fecha }}</strong></li>
+      {% for parte in ex.partes %}<li>{{ parte.titulo }}: {{ parte.preguntas|length }} preguntas</li>{% endfor %}
+    </ul>
+  </a>
+  {% endfor %}
+</div>
+
+<section class="card tips">
+  <h2>Cómo sacarles partido</h2>
+  <ol>
+    <li>Descarga el cuadernillo oficial desde el enlace del INAP de cada examen.</li>
+    <li>Ponte un temporizador con el tiempo real del examen y contesta sin mirar nada.</li>
+    <li>Marca tus respuestas en la cuadrícula de la web y pulsa «Corregir».</li>
+    <li>Repasa la explicación de cada pregunta fallada y apunta el tema para reforzarlo.</li>
+  </ol>
+  <p class="muted small">Las plantillas son las publicadas por el INAP; si una pregunta se anuló, se indica. La legislación puede haber cambiado desde la fecha del examen: en ese caso, la explicación lo avisa.</p>
+</section>
+{% endblock %}

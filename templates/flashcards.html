@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}Flashcards · TAI Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Flashcards</span></nav>
+  <h1>Flashcards</h1>
+  <p class="lead">{{ total }} tarjetas con repetición espaciada: si la sabes, vuelve dentro de unos días; si no, mañana. Tu progreso se guarda en este dispositivo.</p>
+</header>
+
+<div class="fc-app" id="fc-app">
+  <section data-fc-view="decks">
+    <div class="fc-today card card-accent">
+      <div>
+        <h2>Repaso de hoy</h2>
+        <p data-fc-today-text>Calculando…</p>
+      </div>
+      <button class="btn btn-primary" data-fc-study="__due__">Repasar pendientes</button>
+    </div>
+
+    <div class="deck-grid">
+      {% for d in mazos %}
+      <article class="deck" data-deck="{{ d.id }}">
+        <p class="law-short">{{ d.bloque }}</p>
+        <h3>{{ d.titulo }}</h3>
+        <p class="muted small"><span data-deck-count>{{ d.tarjetas|length }}</span> tarjetas · <span data-deck-due>0</span> para hoy · <span data-deck-known>0</span> dominadas</p>
+        <div class="bar"><span data-deck-bar style="width:0%"></span></div>
+        <div class="deck-actions">
+          <button class="chip-btn" data-fc-study="{{ d.id }}">Estudiar</button>
+          <button class="chip-btn ghost" data-fc-study="{{ d.id }}" data-fc-all="1">Todas</button>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <p class="muted small center"><button class="link-btn" data-fc-reset>Reiniciar mi progreso de flashcards</button></p>
+  </section>
+
+  <section data-fc-view="study" hidden>
+    <div class="fc-top">
+      <button class="link-btn" data-fc-back>← Volver a los mazos</button>
+      <p class="muted small" data-fc-progress></p>
+    </div>
+    <div class="flashcard" data-fc-card tabindex="0" role="button" aria-label="Tarjeta: pulsa para girar">
+      <div class="fc-inner">
+        <div class="fc-face fc-front"><p class="fc-label">Pregunta</p><div data-fc-front></div><p class="fc-hint">Toca o pulsa espacio para ver la respuesta</p></div>
+        <div class="fc-face fc-back"><p class="fc-label">Respuesta</p><div data-fc-back></div></div>
+      </div>
+    </div>
+    <div class="fc-buttons" data-fc-answer hidden>
+      <button class="btn btn-bad" data-fc-grade="0">No la sabía <kbd>1</kbd></button>
+      <button class="btn btn-mid" data-fc-grade="1">Dudé <kbd>2</kbd></button>
+      <button class="btn btn-good" data-fc-grade="2">La sabía <kbd>3</kbd></button>
+    </div>
+  </section>
+
+  <section data-fc-view="done" hidden>
+    <div class="card center done-card">
+      <p class="done-emoji" aria-hidden="true">✿</p>
+      <h2>¡Repaso terminado!</h2>
+      <p data-fc-done-text></p>
+      <button class="btn btn-primary" data-fc-back>Volver a los mazos</button>
+    </div>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}static/js/flashcards.js?v={{ build_id }}" defer></script>{% endblock %}

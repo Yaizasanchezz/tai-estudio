@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}YouTube · TAI Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>YouTube</span></nav>
+  <h1>Vídeos para estudiar</h1>
+  <p class="lead">Canales y listas que explican la Constitución, las leyes administrativas y la parte técnica. Úsalos para entender un tema antes de leerlo o para repasar escuchando.</p>
+</header>
+
+{% for cat in categorias %}
+<section class="yt-group">
+  <h2>{{ cat.titulo }}</h2>
+  {% if cat.descripcion %}<p class="muted">{{ cat.descripcion }}</p>{% endif %}
+  <div class="yt-grid">
+    {% for v in cat.items %}
+    <a class="yt-card" href="{{ v.url }}" target="_blank" rel="noopener">
+      <span class="yt-type">{{ v.tipo }}</span>
+      <h3>{{ v.titulo }}</h3>
+      <p class="yt-channel">{{ v.canal }}</p>
+      <p class="muted small">{{ v.descripcion }}</p>
+      <span class="yt-go">Abrir en YouTube ↗</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+<p class="muted small">Los vídeos son de sus autores; comprueba siempre que la normativa que explican sigue vigente (por ejemplo, la reforma del art. 49 de la Constitución es de 2024).</p>
+{% endblock %}

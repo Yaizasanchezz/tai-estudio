@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Leyes · TAI Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Leyes</span></nav>
+  <h1>Leyes del temario</h1>
+  <p class="lead">Cada norma tiene su explicación (para entenderla) y su texto oficial consolidado del BOE (para la letra exacta). Los textos oficiales se actualizan solos cada semana.</p>
+</header>
+
+{% for grupo, laws in groups.items() %}
+<section class="law-group">
+  <h2>{{ grupo }}</h2>
+  <div class="law-grid">
+    {% for law in laws %}
+    <article class="law-card">
+      <p class="law-short">{{ law.corto }}</p>
+      <h3>{{ law.nombre }}</h3>
+      {% if law.nota %}<p class="muted small">{{ law.nota }}</p>{% endif %}
+      <div class="law-links">
+        {% if law.exp_url %}<a class="chip-btn" href="{{ base }}{{ law.exp_url }}">Explicada</a>{% endif %}
+        {% if law.text_url %}<a class="chip-btn ghost" href="{{ base }}{{ law.text_url }}">Texto oficial</a>{% endif %}
+        {% if law.id %}<a class="chip-btn ghost" href="https://www.boe.es/buscar/act.php?id={{ law.id }}" target="_blank" rel="noopener">BOE ↗</a>{% elif law.url %}<a class="chip-btn ghost" href="{{ law.url }}" target="_blank" rel="noopener">Texto oficial ↗</a>{% endif %}
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+{% endblock %}

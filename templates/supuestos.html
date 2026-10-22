@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Supuestos prácticos · TAI Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Supuestos prácticos</span></nav>
+  <h1>Supuestos prácticos</h1>
+  <p class="lead">En el examen eliges uno de dos supuestos (bloque III o bloque IV) y respondes sus preguntas tipo test. Practica aquí con tiempo y corrección como en el examen.</p>
+</header>
+
+<div class="quiz-app" id="quiz-app" data-source="supuestos">
+  <section class="quiz-setup" data-view="setup">
+    <div class="sup-grid">
+      {% for s in supuestos %}
+      <article class="card sup-card">
+        <p class="law-short">{{ 'Bloque III · Desarrollo' if s.bloque == 'desarrollo' else 'Bloque IV · Sistemas' }}</p>
+        <h2>{{ s.titulo.split('·')[-1].strip().split(':')[-1].strip()|capitalize }}</h2>
+        <p class="muted">{{ s.preguntas|length }} preguntas · unos {{ (s.preguntas|length * 1.7)|round|int }} minutos</p>
+        <div class="setup-actions">
+          <button class="btn btn-primary" data-start-sup="{{ s.id }}" data-mode="examen">Hacer como examen</button>
+          <button class="btn" data-start-sup="{{ s.id }}" data-mode="practica">Modo práctica</button>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="card tips">
+      <h2>Cómo afrontar el supuesto</h2>
+      <ol>
+        <li>Lee los dos enunciados (2 minutos) y quédate con el que mejor domines. Con tu perfil, el de desarrollo suele ser la opción natural.</li>
+        <li>Lee todas las preguntas antes de empezar: muchas usan datos del enunciado (tablas, IP, discos).</li>
+        <li>Reserva unos 30–35 minutos para el supuesto y el resto para las 80 preguntas.</li>
+        <li>Haz los cálculos (subredes, RAID, SQL) en el margen y repásalos.</li>
+        <li>El mínimo es 25 sobre 50 en cada parte: no descuides ninguna.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="quiz-run" data-view="run" hidden></section>
+  <section class="quiz-result" data-view="result" hidden></section>
+  <section class="card history" data-view="history">
+    <h2>Tus últimos supuestos</h2>
+    <div data-history><p class="muted">Todavía no has hecho ningún supuesto.</p></div>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}static/js/quiz.js?v={{ build_id }}" defer></script>{% endblock %}

@@ -1,0 +1,862 @@
+{
+ "preguntas": [
+  {
+   "pregunta": "Según el artículo 1.1 de la Constitución, los valores superiores del ordenamiento jurídico son:",
+   "opciones": [
+    "La libertad, la justicia, la igualdad y el pluralismo político.",
+    "La libertad, la seguridad, la igualdad y el pluralismo político.",
+    "La justicia, la legalidad, la igualdad y la solidaridad.",
+    "La libertad, la igualdad, la fraternidad y el pluralismo político."
+   ],
+   "correcta": 0,
+   "explicacion": "Son cuatro: libertad, justicia, igualdad y pluralismo político. La seguridad jurídica y la legalidad son principios del art. 9.3, no valores superiores.",
+   "id": "t001",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "¿Cuántos magistrados del Tribunal Constitucional se nombran a propuesta del Gobierno?",
+   "opciones": [
+    "4",
+    "2",
+    "3",
+    "Ninguno"
+   ],
+   "correcta": 1,
+   "explicacion": "Reparto 4-4-2-2: 4 a propuesta del Congreso, 4 del Senado, 2 del Gobierno y 2 del CGPJ (art. 159).",
+   "id": "t002",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "La moción de censura debe ser propuesta, al menos, por:",
+   "opciones": [
+    "La décima parte de los diputados.",
+    "La quinta parte de los diputados.",
+    "50 diputados.",
+    "Un grupo parlamentario."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 113.2: al menos 1/10 de los diputados y con un candidato a la Presidencia del Gobierno. Los 50 diputados son para el recurso de inconstitucionalidad.",
+   "id": "t003",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "Durante la vigencia del estado de alarma:",
+   "opciones": [
+    "Pueden suspenderse los derechos del art. 55.1.",
+    "El art. 55.1 no prevé la suspensión de derechos fundamentales.",
+    "Solo puede suspenderse la libertad de circulación.",
+    "Lo declara el Congreso por mayoría absoluta."
+   ],
+   "correcta": 1,
+   "explicacion": "El art. 55.1 solo permite suspender derechos en los estados de excepción y sitio. El estado de alarma lo declara el Gobierno; en él se pueden limitar derechos, pero no suspenderlos (por eso la STC 148/2021 anuló parte del confinamiento de 2020, que consideró una suspensión).",
+   "id": "t004",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "La reforma de la Constitución por el procedimiento agravado del art. 168 se exige para modificar:",
+   "opciones": [
+    "El Título VIII.",
+    "El art. 135.",
+    "El Título II.",
+    "El Título III."
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 168 protege la revisión total, el Título Preliminar, la Sección 1ª del Capítulo II del Título I y el Título II (la Corona). El art. 135 se reformó en 2011 por el procedimiento ordinario.",
+   "id": "t005",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "La propuesta del candidato a Presidente del Gobierno que hace el Rey es refrendada por:",
+   "opciones": [
+    "El Presidente del Gobierno en funciones.",
+    "El Presidente del Congreso de los Diputados.",
+    "El Presidente del Senado.",
+    "No necesita refrendo."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 64.1: la propuesta y el nombramiento del Presidente del Gobierno y la disolución prevista en el art. 99.5 los refrenda el Presidente del Congreso.",
+   "id": "t006",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "Los decretos-leyes deben ser sometidos a debate y votación de totalidad:",
+   "opciones": [
+    "Del Senado en 30 días.",
+    "Del Congreso en los 30 días siguientes a su promulgación.",
+    "De las Cortes Generales en 2 meses.",
+    "Del Congreso en 15 días."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 86.2: el Congreso convalida o deroga el decreto-ley en 30 días. El Senado no interviene.",
+   "id": "t007",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "El Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo y:",
+   "opciones": [
+    "12 vocales.",
+    "20 vocales.",
+    "21 vocales.",
+    "15 vocales."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 122.3: el Presidente y 20 vocales nombrados por 5 años (12 jueces y magistrados, y 8 juristas: 4 a propuesta del Congreso y 4 del Senado).",
+   "id": "t008",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "La iniciativa legislativa popular exige:",
+   "opciones": [
+    "Al menos 500.000 firmas acreditadas y no cabe en materias propias de ley orgánica.",
+    "Al menos 500.000 firmas y cabe en materia tributaria.",
+    "Al menos 300.000 firmas.",
+    "Al menos 1.000.000 de firmas."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 87.3: 500.000 firmas; excluidas las materias de ley orgánica, tributarias, de carácter internacional y la prerrogativa de gracia.",
+   "id": "t009",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "NO está legitimado para interponer el recurso de inconstitucionalidad:",
+   "opciones": [
+    "El Defensor del Pueblo.",
+    "50 senadores.",
+    "El Fiscal General del Estado.",
+    "El Presidente del Gobierno."
+   ],
+   "correcta": 2,
+   "explicacion": "El art. 162.1.a) cita al Presidente del Gobierno, al Defensor del Pueblo, a 50 diputados, a 50 senadores y a los órganos ejecutivos y Asambleas autonómicas. El Ministerio Fiscal sí está legitimado para el recurso de amparo, no para el de inconstitucionalidad.",
+   "id": "t010",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "Los principios rectores de la política social y económica se regulan en:",
+   "opciones": [
+    "El Capítulo II, Sección 1ª, del Título I.",
+    "El Capítulo III del Título I.",
+    "El Capítulo IV del Título I.",
+    "El Título Preliminar."
+   ],
+   "correcta": 1,
+   "explicacion": "Capítulo III, arts. 39 a 52 (familia, salud, vivienda, medio ambiente…). Informan la legislación, pero no se protegen con amparo.",
+   "id": "t011",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "Para aplicar las medidas del art. 155 se requiere la aprobación:",
+   "opciones": [
+    "Por mayoría simple del Senado.",
+    "Por mayoría absoluta del Senado.",
+    "Por mayoría de 3/5 del Congreso.",
+    "Por mayoría de 2/3 de ambas Cámaras."
+   ],
+   "correcta": 1,
+   "explicacion": "El Gobierno requiere primero al Presidente de la Comunidad Autónoma y, si no atiende, necesita la mayoría absoluta del Senado.",
+   "id": "t012",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "El Tribunal de Cuentas depende directamente de:",
+   "opciones": [
+    "El Gobierno.",
+    "Las Cortes Generales.",
+    "El Ministerio de Hacienda.",
+    "El Consejo General del Poder Judicial."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 136.1: es el supremo órgano fiscalizador de las cuentas del Estado y depende directamente de las Cortes Generales.",
+   "id": "t013",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "Si en la primera votación de investidura el candidato no obtiene la mayoría absoluta:",
+   "opciones": [
+    "Se vota de nuevo 24 horas después y basta la mayoría simple.",
+    "Se vota de nuevo 48 horas después y basta la mayoría simple.",
+    "Se vota de nuevo 48 horas después y se exige la mayoría absoluta.",
+    "El Rey disuelve las Cortes inmediatamente."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 99.3. Si en 2 meses desde la primera votación nadie obtiene la confianza, se disuelven las Cámaras.",
+   "id": "t014",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "La Constitución Española entró en vigor:",
+   "opciones": [
+    "El 6 de diciembre de 1978.",
+    "El 27 de diciembre de 1978.",
+    "El 29 de diciembre de 1978.",
+    "El 31 de octubre de 1978."
+   ],
+   "correcta": 2,
+   "explicacion": "El día de su publicación en el BOE (disposición final). El 31/10 la aprobaron las Cortes, el 6/12 se votó en referéndum y el 27/12 la sancionó el Rey.",
+   "id": "t015",
+   "bloque": "constitucion"
+  },
+  {
+   "pregunta": "Es un órgano superior de la Administración General del Estado:",
+   "opciones": [
+    "El Subsecretario.",
+    "El Secretario de Estado.",
+    "El Director General.",
+    "El Secretario General Técnico."
+   ],
+   "correcta": 1,
+   "explicacion": "Ley 40/2015, art. 55: órganos superiores son los Ministros y los Secretarios de Estado. Los demás son órganos directivos.",
+   "id": "t016",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "El plazo para resolver una solicitud de acceso a la información pública (Ley 19/2013) es de:",
+   "opciones": [
+    "15 días hábiles.",
+    "1 mes, ampliable por otro mes.",
+    "3 meses.",
+    "20 días hábiles."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 20.1. Además, si no se resuelve en plazo, la solicitud se entiende desestimada (art. 20.4).",
+   "id": "t017",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "Contra la resolución de una solicitud de acceso a la información puede presentarse ante el Consejo de Transparencia y Buen Gobierno una reclamación que es:",
+   "opciones": [
+    "Obligatoria antes del recurso contencioso.",
+    "Potestativa, en el plazo de 1 mes.",
+    "Potestativa, en el plazo de 3 meses.",
+    "Un recurso de alzada impropio de 2 meses."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 24: tiene carácter potestativo y sustituye a los recursos administrativos; plazo de 1 mes y el CTBG resuelve en 3 meses.",
+   "id": "t018",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "Una notificación electrónica se entiende rechazada cuando:",
+   "opciones": [
+    "Pasan 10 días hábiles sin acceder a su contenido.",
+    "Pasan 10 días naturales desde su puesta a disposición sin acceder a su contenido.",
+    "Pasan 15 días naturales.",
+    "El interesado no contesta al aviso por correo electrónico."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 43.2 de la Ley 39/2015. El aviso por correo electrónico o SMS es informativo; su falta no impide que la notificación sea válida.",
+   "id": "t019",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "El plazo máximo para dictar y notificar la resolución del recurso de alzada es:",
+   "opciones": [
+    "1 mes.",
+    "2 meses.",
+    "3 meses.",
+    "6 meses."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 122.2. El recurso de reposición, en cambio, se resuelve en 1 mes.",
+   "id": "t020",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "Está obligada a relacionarse electrónicamente con las Administraciones Públicas:",
+   "opciones": [
+    "Toda persona física mayor de edad.",
+    "Una sociedad limitada.",
+    "Un pensionista que solicita una ayuda.",
+    "Solo quien lo elija voluntariamente."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 14.2 de la Ley 39/2015: las personas jurídicas están siempre obligadas. Las personas físicas pueden elegir, salvo que sean profesionales colegiados en trámites de su profesión o empleados públicos.",
+   "id": "t021",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "Una violación de seguridad de los datos personales debe notificarse a la autoridad de control:",
+   "opciones": [
+    "En 24 horas.",
+    "En 72 horas desde que se tenga constancia de ella.",
+    "En 1 mes.",
+    "Solo si afecta a categorías especiales de datos."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 33 del RGPD, salvo que sea improbable que suponga un riesgo para los derechos de las personas. Si el riesgo es alto, también se comunica a los afectados (art. 34).",
+   "id": "t022",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "En España, un menor puede consentir por sí mismo el tratamiento de sus datos personales a partir de:",
+   "opciones": [
+    "13 años.",
+    "14 años.",
+    "16 años.",
+    "18 años."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 7 de la LOPDGDD. El RGPD permite a cada Estado fijar la edad entre 13 y 16 años; España eligió 14.",
+   "id": "t023",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "NO es una dimensión de seguridad del Esquema Nacional de Seguridad:",
+   "opciones": [
+    "Trazabilidad.",
+    "Autenticidad.",
+    "Legalidad.",
+    "Disponibilidad."
+   ],
+   "correcta": 2,
+   "explicacion": "Las dimensiones son confidencialidad, integridad, trazabilidad, autenticidad y disponibilidad (\"CITAD\").",
+   "id": "t024",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "Según el ENS (RD 311/2022), los sistemas de categoría MEDIA o ALTA deben someterse a una auditoría ordinaria:",
+   "opciones": [
+    "Cada año.",
+    "Al menos cada 2 años.",
+    "Cada 3 años.",
+    "Solo cuando se produzca un incidente."
+   ],
+   "correcta": 1,
+   "explicacion": "Además, una auditoría extraordinaria tras modificaciones sustanciales. Los sistemas de categoría BÁSICA pueden usar una autoevaluación.",
+   "id": "t025",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "La firma electrónica que tiene un efecto jurídico equivalente al de la firma manuscrita en toda la Unión Europea es:",
+   "opciones": [
+    "La firma electrónica simple.",
+    "La firma electrónica avanzada.",
+    "La firma electrónica cualificada.",
+    "Cualquier firma con certificado digital."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 25.2 del Reglamento eIDAS: la firma cualificada es avanzada, basada en un certificado cualificado y creada con un dispositivo cualificado de creación de firma.",
+   "id": "t026",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "El punto único donde el ciudadano puede consultar todas las notificaciones electrónicas de las Administraciones es:",
+   "opciones": [
+    "La Carpeta Ciudadana.",
+    "La Dirección Electrónica Habilitada única (DEHú).",
+    "El Punto de Acceso General.",
+    "Cl@ve."
+   ],
+   "correcta": 1,
+   "explicacion": "La DEHú centraliza las notificaciones (art. 43.4 de la Ley 39/2015). La Carpeta Ciudadana permite acceder a ellas, pero el servicio que las gestiona es la DEHú, y Cl@ve es el sistema de identificación.",
+   "id": "t027",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "El servicio que permite el intercambio de asientos registrales en formato electrónico entre Administraciones es:",
+   "opciones": [
+    "FACe.",
+    "SIR (Sistema de Interconexión de Registros).",
+    "La Plataforma de Intermediación de Datos.",
+    "@firma."
+   ],
+   "correcta": 1,
+   "explicacion": "SIR conecta las oficinas de registro (con aplicaciones como ORVE o GEISER). FACe es para facturas, la PID para consultar datos y @firma para validar firmas.",
+   "id": "t028",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "Según el TREBEP, las faltas muy graves prescriben a:",
+   "opciones": [
+    "Los 6 meses.",
+    "Los 2 años.",
+    "Los 3 años.",
+    "Los 4 años."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 97: muy graves, 3 años; graves, 2 años; leves, 6 meses. Las sanciones prescriben a los 3 años, 2 años y 1 año, respectivamente.",
+   "id": "t029",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "La Agenda 2030 para el Desarrollo Sostenible, aprobada por la ONU en 2015, contiene:",
+   "opciones": [
+    "17 objetivos y 169 metas.",
+    "15 objetivos y 150 metas.",
+    "8 objetivos del milenio.",
+    "20 objetivos y 200 metas."
+   ],
+   "correcta": 0,
+   "explicacion": "Los 8 Objetivos de Desarrollo del Milenio (2000–2015) son el antecedente de los 17 ODS.",
+   "id": "t030",
+   "bloque": "leyes"
+  },
+  {
+   "pregunta": "El número hexadecimal A5 expresado en binario es:",
+   "opciones": [
+    "10100101",
+    "10100110",
+    "01011010",
+    "11000101"
+   ],
+   "correcta": 0,
+   "explicacion": "Cada dígito hexadecimal son 4 bits: A = 1010 y 5 = 0101. En decimal es 165.",
+   "id": "t031",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "Un kibibyte (KiB) equivale a:",
+   "opciones": [
+    "1.000 bytes.",
+    "1.024 bytes.",
+    "1.024 bits.",
+    "1.000 bits."
+   ],
+   "correcta": 1,
+   "explicacion": "Los prefijos binarios IEC (Ki, Mi, Gi) son potencias de 2. El kilobyte del Sistema Internacional (kB) son 1.000 bytes.",
+   "id": "t032",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "El rango de enteros representables en complemento a 2 con 8 bits es:",
+   "opciones": [
+    "De 0 a 255.",
+    "De −127 a 127.",
+    "De −128 a 127.",
+    "De −255 a 255."
+   ],
+   "correcta": 2,
+   "explicacion": "De −2⁷ a 2⁷ − 1. El rango −127 a 127 corresponde a signo-magnitud y complemento a 1, que tienen dos representaciones del cero.",
+   "id": "t033",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "La estructura de datos en la que el último elemento en entrar es el primero en salir es:",
+   "opciones": [
+    "La cola.",
+    "La pila.",
+    "El árbol binario.",
+    "La tabla hash."
+   ],
+   "correcta": 1,
+   "explicacion": "La pila es LIFO (*Last In, First Out*). La cola es FIFO.",
+   "id": "t034",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "El recorrido de un árbol binario de búsqueda que obtiene los elementos ordenados de menor a mayor es:",
+   "opciones": [
+    "Preorden.",
+    "Postorden.",
+    "Inorden.",
+    "En anchura."
+   ],
+   "correcta": 2,
+   "explicacion": "Inorden visita el subárbol izquierdo (menores), la raíz y el subárbol derecho (mayores).",
+   "id": "t035",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "La complejidad de la búsqueda binaria en un vector ordenado de n elementos es:",
+   "opciones": [
+    "O(1)",
+    "O(log n)",
+    "O(n)",
+    "O(n log n)"
+   ],
+   "correcta": 1,
+   "explicacion": "En cada paso se descarta la mitad. Con 1.000.000 de elementos bastan unas 20 comparaciones.",
+   "id": "t036",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "Tras ejecutar `chmod 640 informe.txt` en Linux, los permisos del fichero son:",
+   "opciones": [
+    "rw-r-----",
+    "rwxr-----",
+    "rw-rw----",
+    "r--rw----"
+   ],
+   "correcta": 0,
+   "explicacion": "6 = 4 + 2 (lectura y escritura) para el propietario; 4 (lectura) para el grupo; 0 para otros.",
+   "id": "t037",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "NO es una de las condiciones necesarias para que se produzca un interbloqueo:",
+   "opciones": [
+    "Exclusión mutua.",
+    "Retención y espera.",
+    "Expropiación de recursos.",
+    "Espera circular."
+   ],
+   "correcta": 2,
+   "explicacion": "La condición de Coffman es la contraria: **no** expropiación (los recursos no se pueden quitar a un proceso). Si se permite expropiar, se rompe el interbloqueo.",
+   "id": "t038",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "En las propiedades ACID de las transacciones, la \"I\" significa:",
+   "opciones": [
+    "Integridad.",
+    "Independencia.",
+    "Aislamiento (*Isolation*).",
+    "Inmediatez."
+   ],
+   "correcta": 2,
+   "explicacion": "Atomicidad, Consistencia, Aislamiento y Durabilidad. La integridad es un concepto distinto (restricciones de los datos).",
+   "id": "t039",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "MongoDB es un sistema gestor de bases de datos NoSQL de tipo:",
+   "opciones": [
+    "Clave-valor.",
+    "Documental.",
+    "Columnar.",
+    "Orientado a grafos."
+   ],
+   "correcta": 1,
+   "explicacion": "Almacena documentos BSON (JSON binario). Redis es clave-valor, Cassandra es columnar y Neo4j, de grafos.",
+   "id": "t040",
+   "bloque": "tecnologia"
+  },
+  {
+   "pregunta": "La segunda forma normal (2FN) elimina:",
+   "opciones": [
+    "Los grupos repetitivos.",
+    "Las dependencias funcionales parciales respecto de la clave.",
+    "Las dependencias transitivas.",
+    "Las dependencias multivaluadas."
+   ],
+   "correcta": 1,
+   "explicacion": "1FN elimina los grupos repetitivos, 2FN las dependencias parciales, 3FN las transitivas y 4FN las multivaluadas.",
+   "id": "t041",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "Al pasar al modelo relacional una relación de cardinalidad N:M entre dos entidades:",
+   "opciones": [
+    "Se añade la clave de una entidad en la otra.",
+    "Se fusionan las dos tablas.",
+    "Se crea una nueva tabla con las claves primarias de ambas entidades.",
+    "No puede representarse."
+   ],
+   "correcta": 2,
+   "explicacion": "Por ejemplo, ALUMNO y ASIGNATURA se relacionan mediante MATRICULA(id_alumno, id_asignatura, nota).",
+   "id": "t042",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "En SQL, la cláusula que permite filtrar los grupos formados por GROUP BY es:",
+   "opciones": [
+    "WHERE",
+    "HAVING",
+    "ORDER BY",
+    "DISTINCT"
+   ],
+   "correcta": 1,
+   "explicacion": "WHERE filtra filas antes de agrupar; HAVING filtra grupos y admite funciones de agregado como `HAVING COUNT(*) > 5`.",
+   "id": "t043",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "Una tabla tiene 10 filas y la columna email contiene 3 valores NULL. ¿Qué devuelve `SELECT COUNT(email) FROM tabla`?",
+   "opciones": [
+    "10",
+    "7",
+    "3",
+    "NULL"
+   ],
+   "correcta": 1,
+   "explicacion": "COUNT(columna) no cuenta los NULL. COUNT(*) devolvería 10.",
+   "id": "t044",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "Pertenece al lenguaje de control de datos (DCL):",
+   "opciones": [
+    "GRANT",
+    "COMMIT",
+    "TRUNCATE",
+    "MERGE"
+   ],
+   "correcta": 0,
+   "explicacion": "DCL incluye GRANT y REVOKE. COMMIT es de control de transacciones (TCL), TRUNCATE es DDL y MERGE es DML.",
+   "id": "t045",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "El patrón de diseño que garantiza que una clase tenga una única instancia con un punto de acceso global es:",
+   "opciones": [
+    "Factory Method.",
+    "Observer.",
+    "Singleton.",
+    "Decorator."
+   ],
+   "correcta": 2,
+   "explicacion": "Singleton es creacional. Observer notifica cambios a varios objetos y Decorator añade responsabilidades dinámicamente.",
+   "id": "t046",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "En un diagrama de clases UML, la composición se representa con:",
+   "opciones": [
+    "Un rombo vacío en el extremo del todo.",
+    "Un rombo relleno en el extremo del todo.",
+    "Una flecha con triángulo vacío.",
+    "Una línea discontinua con flecha."
+   ],
+   "correcta": 1,
+   "explicacion": "La composición (las partes desaparecen con el todo) usa el rombo relleno; la agregación, el rombo vacío; la herencia, el triángulo vacío; la dependencia, la línea discontinua.",
+   "id": "t047",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "¿Cuál de estos métodos HTTP NO es idempotente?",
+   "opciones": [
+    "GET",
+    "PUT",
+    "DELETE",
+    "POST"
+   ],
+   "correcta": 3,
+   "explicacion": "Repetir un POST puede crear varios recursos. Repetir GET, PUT o DELETE deja el servidor en el mismo estado.",
+   "id": "t048",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "Según el RD 1112/2018, los sitios web del sector público deben cumplir las pautas de accesibilidad WCAG en el nivel:",
+   "opciones": [
+    "A",
+    "AA",
+    "AAA",
+    "No es obligatorio"
+   ],
+   "correcta": 1,
+   "explicacion": "A través de la norma UNE-EN 301 549, que remite a WCAG 2.1 AA.",
+   "id": "t049",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "En Scrum, la duración máxima del Daily Scrum es de:",
+   "opciones": [
+    "5 minutos.",
+    "15 minutos.",
+    "30 minutos.",
+    "1 hora."
+   ],
+   "correcta": 1,
+   "explicacion": "Lo hacen los Developers cada día para revisar el avance hacia el objetivo del sprint.",
+   "id": "t050",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "En Métrica versión 3, el proceso de Análisis del Sistema de Información se denomina:",
+   "opciones": [
+    "EVS",
+    "ASI",
+    "DSI",
+    "IAS"
+   ],
+   "correcta": 1,
+   "explicacion": "EVS es el Estudio de Viabilidad; DSI, el Diseño; IAS, la Implantación y Aceptación.",
+   "id": "t051",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "El análisis de valores límite es una técnica de pruebas de:",
+   "opciones": [
+    "Caja blanca.",
+    "Caja negra.",
+    "Cobertura de caminos.",
+    "Revisión de código."
+   ],
+   "correcta": 1,
+   "explicacion": "Se basa en las entradas y salidas sin mirar el código. La cobertura de caminos es de caja blanca.",
+   "id": "t052",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "En Java, el código compilado (bytecode) se ejecuta en:",
+   "opciones": [
+    "El CLR.",
+    "La JVM.",
+    "Directamente sobre el procesador.",
+    "El navegador."
+   ],
+   "correcta": 1,
+   "explicacion": "La Máquina Virtual de Java lo interpreta y compila en tiempo de ejecución (JIT). El CLR es el equivalente en .NET.",
+   "id": "t053",
+   "bloque": "desarrollo"
+  },
+  {
+   "pregunta": "El puerto estándar de IMAP sobre TLS (IMAPS) es:",
+   "opciones": [
+    "143",
+    "993",
+    "995",
+    "587"
+   ],
+   "correcta": 1,
+   "explicacion": "143 es IMAP sin cifrar, 995 es POP3S y 587 es el envío SMTP con STARTTLS.",
+   "id": "t054",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "Un RAID 5 con 4 discos de 1 TB ofrece una capacidad útil de:",
+   "opciones": [
+    "4 TB",
+    "3 TB",
+    "2 TB",
+    "1 TB"
+   ],
+   "correcta": 1,
+   "explicacion": "(n − 1) × tamaño: el equivalente a un disco se dedica a la paridad. Tolera el fallo de un disco.",
+   "id": "t055",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "La copia de seguridad que guarda solo los datos modificados desde la última copia de cualquier tipo es la:",
+   "opciones": [
+    "Completa.",
+    "Diferencial.",
+    "Incremental.",
+    "Espejo."
+   ],
+   "correcta": 2,
+   "explicacion": "La diferencial copia lo cambiado desde la última completa.",
+   "id": "t056",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "Es un hipervisor de tipo 1 (nativo o *bare metal*):",
+   "opciones": [
+    "VirtualBox.",
+    "VMware Workstation.",
+    "VMware ESXi.",
+    "QEMU sobre Windows."
+   ],
+   "correcta": 2,
+   "explicacion": "ESXi se instala directamente sobre el hardware. VirtualBox y Workstation son de tipo 2, sobre un sistema operativo anfitrión.",
+   "id": "t057",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "El registro DNS que indica el servidor de correo de un dominio es:",
+   "opciones": [
+    "A",
+    "CNAME",
+    "MX",
+    "PTR"
+   ],
+   "correcta": 2,
+   "explicacion": "A da la IPv4, CNAME define un alias y PTR hace la resolución inversa.",
+   "id": "t058",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "En el protocolo DHCP, el primer mensaje que envía un cliente que acaba de conectarse es:",
+   "opciones": [
+    "DHCPREQUEST",
+    "DHCPOFFER",
+    "DHCPDISCOVER",
+    "DHCPACK"
+   ],
+   "correcta": 2,
+   "explicacion": "Secuencia DORA: Discover (cliente, en difusión), Offer (servidor), Request (cliente) y Acknowledge (servidor).",
+   "id": "t059",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "¿En qué capa del modelo OSI trabaja un router?",
+   "opciones": [
+    "Física.",
+    "Enlace.",
+    "Red.",
+    "Transporte."
+   ],
+   "correcta": 2,
+   "explicacion": "Encamina paquetes según la dirección IP. El switch trabaja en la capa de enlace (direcciones MAC).",
+   "id": "t060",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "¿Cuál de estas direcciones IPv4 es privada?",
+   "opciones": [
+    "172.32.5.1",
+    "172.20.5.1",
+    "192.169.1.1",
+    "11.0.0.1"
+   ],
+   "correcta": 1,
+   "explicacion": "El rango privado de clase B es 172.16.0.0 a 172.31.255.255. 172.32.x.x y 192.169.x.x quedan fuera.",
+   "id": "t061",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "¿Cuántos hosts útiles admite una subred con máscara /27?",
+   "opciones": [
+    "32",
+    "30",
+    "62",
+    "14"
+   ],
+   "correcta": 1,
+   "explicacion": "Quedan 5 bits de host: 2⁵ − 2 = 30 (se restan la dirección de red y la de difusión).",
+   "id": "t062",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "Para generar una firma digital, el emisor:",
+   "opciones": [
+    "Cifra el documento con la clave pública del receptor.",
+    "Cifra el resumen (hash) del documento con su clave privada.",
+    "Cifra el resumen con la clave pública del receptor.",
+    "Cifra el documento con una clave simétrica compartida."
+   ],
+   "correcta": 1,
+   "explicacion": "El receptor descifra con la clave pública del emisor y compara hashes. La opción a) da confidencialidad, no firma.",
+   "id": "t063",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "En IPsec, el protocolo que proporciona confidencialidad (cifrado) es:",
+   "opciones": [
+    "AH",
+    "ESP",
+    "IKE",
+    "GRE"
+   ],
+   "correcta": 1,
+   "explicacion": "AH solo da autenticación e integridad. IKE negocia las claves y GRE es un protocolo de túnel sin cifrado.",
+   "id": "t064",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "El código de estado HTTP 403 significa:",
+   "opciones": [
+    "No encontrado.",
+    "Prohibido: el servidor entiende la petición pero se niega a autorizarla.",
+    "No autenticado.",
+    "Error interno del servidor."
+   ],
+   "correcta": 1,
+   "explicacion": "404 es no encontrado, 401 no autenticado (faltan credenciales) y 500 error interno.",
+   "id": "t065",
+   "bloque": "sistemas"
+  },
+  {
+   "pregunta": "El método de acceso al medio CSMA/CA se utiliza en:",
+   "opciones": [
+    "Ethernet clásica en semidúplex.",
+    "Redes inalámbricas IEEE 802.11.",
+    "Token Ring.",
+    "Fibra óptica FDDI."
+   ],
+   "correcta": 1,
+   "explicacion": "En Wi-Fi no se pueden detectar colisiones mientras se transmite, así que se evitan (CA). Ethernet clásica usa CSMA/CD; Token Ring y FDDI, paso de testigo.",
+   "id": "t066",
+   "bloque": "sistemas"
+  }
+ ]
+}

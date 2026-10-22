@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Constitución Española · TAI Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Constitución</span></nav>
+  <h1>Constitución Española de 1978</h1>
+  <p class="lead">Aquí tienes la Constitución de dos formas: explicada artículo por artículo, para entenderla, y el texto oficial consolidado del BOE, para memorizar la letra exacta que preguntan en el test.</p>
+</header>
+
+<div class="two-col">
+  <section class="card">
+    <h2>Explicada, título a título</h2>
+    <p class="muted">Cada artículo explicado con palabras sencillas, ejemplos y lo que suele caer en el examen.</p>
+    <ol class="link-list">
+      {% for p in pages %}
+      <li data-studied-item="ce/{{ p.slug }}"><a href="{{ base }}{{ p.url }}"><strong>{{ p.title }}</strong>{% if p.meta.arts %}<small>{{ p.meta.arts }}</small>{% endif %}</a><span class="check-dot" aria-hidden="true"></span></li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  <section class="card card-accent">
+    <h2>Texto oficial</h2>
+    <p>El texto consolidado y vigente, descargado de la API de datos abiertos del BOE. Se actualiza solo cada semana.</p>
+    {% if data %}
+    <p class="muted small">Última actualización del BOE: {{ data.fecha_actualizacion_fmt or data.fecha_actualizacion }}</p>
+    {% endif %}
+    <a class="btn btn-primary" href="{{ base }}constitucion/texto/">Leer el texto oficial</a>
+    <a class="btn" href="https://www.boe.es/buscar/act.php?id={{ ce.id }}" target="_blank" rel="noopener">Abrir en el BOE</a>
+
+    <h3>Cómo estudiarla</h3>
+    <ol>
+      <li>Lee primero la explicación de un título para entender qué regula.</li>
+      <li>Después lee ese título en el texto oficial, fijándote en números, plazos y mayorías.</li>
+      <li>Repasa con las flashcards del mazo «Constitución» y haz el test del bloque.</li>
+    </ol>
+    <p class="muted small">Datos que más caen: valores superiores (art. 1.1), derechos de la Sección 1ª, mayorías del Título III, investidura y moción de censura, composición del TC y reforma constitucional.</p>
+  </section>
+</div>
+{% endblock %}

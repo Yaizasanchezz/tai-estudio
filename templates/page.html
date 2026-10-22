@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} · TAI Estudio{% endblock %}
+{% block description %}{{ page.meta.description or page.title }}{% endblock %}
+{% block mainclass %}main main-doc{% endblock %}
+{% block content %}
+<div class="doc-grid">
+  <article class="doc" data-studied-scope="{{ studied_key }}">
+    <nav class="crumbs" aria-label="Ruta">
+      <a href="{{ base }}">Inicio</a><span>›</span><a href="{{ base }}{{ section_url }}">{{ section }}</a>
+    </nav>
+    <header class="doc-head">
+      <h1>{{ page.title }}</h1>
+      {% if page.meta.description %}<p class="lead">{{ page.meta.description }}</p>{% endif %}
+      <div class="doc-actions">
+        <button class="chip-btn" data-studied-toggle="{{ studied_key }}" aria-pressed="false">
+          <span class="when-off">Marcar como estudiado</span><span class="when-on">Estudiado ✓</span>
+        </button>
+        {% if official_url %}<a class="chip-btn ghost" href="{{ base }}{{ official_url }}">Ver texto oficial</a>{% endif %}
+        {% if related %}
+          {% for law in related %}{% if law.text_url %}<a class="chip-btn ghost" href="{{ base }}{{ law.text_url }}">Texto oficial: {{ law.corto }}</a>{% endif %}{% endfor %}
+        {% endif %}
+      </div>
+    </header>
+
+    {% if siblings and siblings|length > 1 %}
+    <details class="sibling-nav">
+      <summary>Más páginas de {{ section }}</summary>
+      <ul>
+        {% for s in siblings %}<li><a href="{{ base }}{{ s.url }}"{% if s.url == page.url %} aria-current="page"{% endif %}>{{ s.title }}</a></li>{% endfor %}
+      </ul>
+    </details>
+    {% endif %}
+
+    <div class="prose">
+      {{ page.body|safe }}
+    </div>
+
+    {% if prev or next %}
+    <nav class="pager" aria-label="Paginación">
+      {% if prev %}<a class="pager-link" href="{{ base }}{{ prev.url }}"><small>Anterior</small><span>{{ prev.title }}</span></a>{% else %}<span></span>{% endif %}
+      {% if next %}<a class="pager-link next" href="{{ base }}{{ next.url }}"><small>Siguiente</small><span>{{ next.title }}</span></a>{% endif %}
+    </nav>
+    {% endif %}
+  </article>
+
+  {% if page.toc %}
+  <aside class="toc" aria-label="En esta página">
+    <p class="toc-title">En esta página</p>
+    <ul>
+      {% for h in page.toc %}
+      <li><a href="#{{ h.id }}">{{ h.name|safe }}</a>
+        {% if h.children %}
+        <ul>{% for c in h.children %}<li><a href="#{{ c.id }}">{{ c.name|safe }}</a></li>{% endfor %}</ul>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</div>
+{% endblock %}

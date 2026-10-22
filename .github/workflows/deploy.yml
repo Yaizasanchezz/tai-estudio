@@ -1,0 +1,66 @@
+name: Publicar web
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Cada lunes a primera hora: descarga las leyes actualizadas del BOE y vuelve a publicar
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Descargar textos oficiales del BOE
+        if: github.event_name != 'push' || hashFiles('data/boe/*.json') == ''
+        run: python scripts/fetch_boe.py
+        continue-on-error: true
+
+      - name: Guardar los textos actualizados en el repositorio
+        if: github.event_name != 'push' || hashFiles('data/boe/*.json') == ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/boe
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualiza textos oficiales del BOE"
+            git push
+          fi
+
+      - name: Generar la web
+        run: python build.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
