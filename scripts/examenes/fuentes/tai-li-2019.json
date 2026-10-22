@@ -1,0 +1,2375 @@
+{
+ "id": "tai-li-2019",
+ "title": "TAI · Ingreso libre · Convocatoria 2019 [INAP: «Convocatoria 2018», OEP 2018] (ejercicios 19/10/2019 y 25/01/2020)",
+ "exam_date": "2019-10-19",
+ "duration_minutes": 160,
+ "answer_key": "definitiva",
+ "documents": [
+  {
+   "kind": "cuadernillo",
+   "title": "Cuestionario primer ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/07TAIL_154AB89SD658.pdf/4c0b46eb-c8ff-1c9c-0749-06aab6f0a9e1"
+  },
+  {
+   "kind": "plantilla_definitiva",
+   "title": "Plantilla definitiva primer ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/Plantilla_defTAI-L1ejer_154AB89SD658.pdf/a546831b-fe61-6dd4-230b-5171c13b27df"
+  },
+  {
+   "kind": "plantilla_provisional",
+   "title": "Plantilla provisional primer ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/07-Plantilla_provisionalTAI-LPrimerejercicio2018_154AB89SD658.pdf/2cd08c6d-89b7-a0b5-3075-e11687c05f62"
+  },
+  {
+   "kind": "criterios",
+   "title": "Criterios de corrección primer ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/7OEP2018TAILI_154AB89SD658.pdf/cdc80da6-8e02-a640-65c4-faa5917c9a28"
+  },
+  {
+   "kind": "cuadernillo",
+   "title": "Cuestionario segundo ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/CUESTIONARIO__SEGUNDO_EJERCICIO_TAILI_%2520OEP_2018_154AB89SD658.pdf/a1909d6d-18d0-9b4b-d2ad-ebb02bd7ed8c"
+  },
+  {
+   "kind": "plantilla_definitiva",
+   "title": "Plantilla definitiva segundo ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/2jer_Plantilla_definitiva%2520TAILI_OEP2018__154AB89SD658.pdf/005c1328-6fb4-3a56-81db-acaa79c356d3"
+  },
+  {
+   "kind": "plantilla_provisional",
+   "title": "Plantilla provisional segundo ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/Plantilla_provisional_Segundo%2520ejercicio_TAILI_OEP_2018._154AB89SD658.pdf/a884f963-5445-bb1a-a4cb-02e9eb30bfd8"
+  },
+  {
+   "kind": "criterios",
+   "title": "Criterios de corrección segundo ejercicio",
+   "url": "https://www.inap.es/documents/59312/1790179/CRITERIOS_2_TAILI_154AB89SD658.pdf/c44b7573-d587-4a0a-3eef-8d4cd346b266"
+  },
+  {
+   "kind": "otro",
+   "title": "Lugar, día y hora de examen",
+   "url": "https://www.inap.es/documents/59312/1747284/LUGAR_DIA_HORA_EXAMEN.pdf/aabf689e-5098-67e3-bbbf-57aacbb817bc"
+  },
+  {
+   "kind": "otro",
+   "title": "Nota informativa para la celebración de los ejercicios del 25 de enero de 2020 (segundo ejercicio)",
+   "url": "https://www.inap.es/documents/59312/1790179/Nota_informativa_25_enero_154AB89SD658.pdf/d64ad80a-2501-6549-41ea-260992689e07"
+  }
+ ],
+ "sections": [
+  {
+   "id": "p1",
+   "part": 1,
+   "kind": "theory",
+   "title": "Primer ejercicio · Cuestionario",
+   "block": null,
+   "statement": null,
+   "media": [],
+   "questions": [
+    {
+     "number": 1,
+     "text": "¿Cuál de los siguientes es uno de los derechos fundamentales y libertades públicas de la Sección 1ª del Capítulo II del Título I de la Constitución?",
+     "options": [
+      "El derecho de reunión pacífica y sin armas.",
+      "El derecho de defender a España.",
+      "El derecho a la propiedad privada y a la herencia.",
+      "El derecho al trabajo."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 2,
+     "text": "En relación al artículo 64 de la Constitución, señale la correcta:",
+     "options": [
+      "Con carácter general los actos del Rey serán refrendados por el Presidente del Congreso y, en su caso, por los Ministros competentes.",
+      "El Presidente del Gobierno no puede refrendar los actos del Rey.",
+      "La propuesta y nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99 serán refrendados por el Presidente del Congreso.",
+      "El Rey será directamente responsable de los actos refrendados."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 3,
+     "text": "Señale la respuesta correcta según lo establecido en el artículo 161 de la Constitución:",
+     "options": [
+      "El Tribunal Constitucional es competente para conocer del recurso de amparo contra leyes y disposiciones normativas con rango de ley.",
+      "El Tribunal Supremo es competente para conocer del recurso de amparo contra leyes y disposiciones normativas con rango de ley.",
+      "El Tribunal Constitucional es competente para conocer del recurso de inconstitucionalidad contra leyes y disposiciones normativas con rango de ley.",
+      "El Tribunal Supremo es competente para conocer del recurso de inconstitucionalidad contra leyes y disposiciones normativas con rango de ley."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 4,
+     "text": "Según lo establecido en el artículo 98 de la Constitución:",
+     "options": [
+      "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los Secretarios de Estado y de los demás miembros que establezca la ley.",
+      "El Gobierno se compone del Presidente, de los Vicepresidentes, de los Ministros, de los Secretarios de Estado y de los demás miembros que establezca la ley.",
+      "El Gobierno se compone del Presidente, de los de los Ministros, de los Secretarios de Estado y de los demás miembros que establezca la ley.",
+      "El Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 5,
+     "text": "Señale cuál de las siguientes NO es una causa de cese del Gobierno conforme al artículo 101 de la Constitución:",
+     "options": [
+      "Tras la celebración de elecciones generales.",
+      "En los casos de pérdida de la confianza parlamentaria previstos en la Constitución.",
+      "Por presentación de una moción de censura.",
+      "Por dimisión o fallecimiento de su Presidente."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 6,
+     "text": "¿En qué año se aprobó la Agenda 2030 para el desarrollo sostenible?",
+     "options": [
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 7,
+     "text": "El cumplimiento por la Administración General del Estado de las obligaciones de publicidad activa contenidas en el capítulo II de la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, será objeto de control por parte de:",
+     "options": [
+      "El Ministerio de Política Territorial y Función Pública.",
+      "La Secretaría de Estado de Función Pública.",
+      "El Consejo de Transparencia y Buen Gobierno.",
+      "La Subdirección General de Transparencia y Atención al Ciudadano."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 8,
+     "text": "Según la Ley 40/2015, de Régimen Jurídico del Sector Público, ¿cuál de los siguientes NO tiene la condición de alto cargo?",
+     "options": [
+      "Un Ministro.",
+      "Un Subdirector general.",
+      "Un Subsecretario.",
+      "Un Secretario general técnico."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 9,
+     "text": "Conforme a lo establecido en el Texto refundido del Estatuto Básico del Empleado Público, los empleados públicos se clasifican en:",
+     "options": [
+      "Funcionarios de carrera, funcionarios interinos, personal laboral - ya sea fijo, por tiempo indefinido o temporal - y personal eventual.",
+      "Funcionarios de carrera, funcionarios interinos y personal laboral fijo o por tiempo indefinido.",
+      "Funcionarios de carrera y personal laboral fijo.",
+      "Funcionarios de carrera, funcionarios interinos y personal eventual."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 10,
+     "text": "La celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución:",
+     "options": [
+      "Es nula.",
+      "Exigirá la previa revisión constitucional.",
+      "Exigirá al Tribunal Supremo la previa declaración de la contradicción, que será solicitada por el Presidente del Gobierno.",
+      "Exigirá al Tribunal Constitucional la previa declaración de la contradicción, que será solicitada por el Presidente del Gobierno."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 11,
+     "text": "Conforme a lo establecido en el artículo 81 de la Constitución, la aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+     "options": [
+      "Mayoría absoluta del Congreso e igual mayoría del Senado, en una votación final sobre el conjunto de las enmiendas.",
+      "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+      "Mayoría absoluta del Congreso únicamente en los casos en que exista veto establecido por mayoría simple del Senado.",
+      "Mayoría simple del Congreso, en una votación final sobre el conjunto del proyecto."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 12,
+     "text": "A los efectos de lo dispuesto en la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se entenderá por composición equilibrada:",
+     "options": [
+      "La presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, haya un cincuenta por ciento de cada sexo.",
+      "La presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo no superen el ochenta por ciento ni sean menos del veinte por ciento.",
+      "La presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, ambos sexos estén suficientemente representados.",
+      "La presencia de mujeres y hombres de forma que, en el conjunto a que se refiera, las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 13,
+     "text": "En relación a la firma electrónica, indique el formato de firma que añade los certificados y la información de revocación de los mismos, para su validación a largo plazo:",
+     "options": [
+      "AdES -C",
+      "AdES -X",
+      "AdES -XL",
+      "AdES -A"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 14,
+     "text": "¿Cómo se llama el middleware que permite gestionar la conexión NFC entre dispositivos móviles Android y el DNIe?",
+     "options": [
+      "DNIeNFConnect.",
+      "DNIeApp.",
+      "MiddleDNIe.",
+      "DNIeDroid."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 15,
+     "text": "Según el Reglamento (UE) 2016/679, Reglamento General de Protección de Datos, el derecho a recibir los datos personales que incumban al interesado, que haya facilitado a un responsable del tratamiento, en un formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable del tratamiento, se denomina:",
+     "options": [
+      "Derecho de acceso.",
+      "Derecho a la portabilidad de los datos.",
+      "Derecho a la transferencia de los datos.",
+      "Derecho a la custodia de los datos."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 16,
+     "text": "De acuerdo con lo establecido en la Ley 40/2015, de Régimen Jurídico del Sector Público, podemos definir el Esquema Nacional de Interoperabilidad como:",
+     "options": [
+      "El conjunto de obligaciones aplicables a todas las Administraciones Públicas para la toma de decisiones tecnológicas que garanticen la reutilización de la información tratada.",
+      "El conjunto de principios básicos y requisitos mínimos que garanticen adecuadamente la seguridad de la información tratada y que tiene por objeto establecer la política de seguridad en la utilización de medios electrónicos.",
+      "El conjunto de criterios y recomendaciones en materia de seguridad, conservación y normalización de la información, de los formatos y de las aplicaciones que deberán ser tenidos en cuenta por las Administraciones Públicas para la toma de decisiones tecnológicas que garanticen la interoperabilidad.",
+      "El conjunto de criterios y recomendaciones que garanticen que las aplicaciones cuya propiedad intelectual pertenezca a una Administración Pública sean declaradas como de fuentes abiertas."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 17,
+     "text": "Conforme a la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas que no estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas:",
+     "options": [
+      "Podrán elegir al principio de un procedimiento si desean comunicarse con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, y dicha opción se mantendrá necesariamente hasta el final del procedimiento.",
+      "Deberán comunicarse en todo caso con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios no electrónicos.",
+      "Podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, y modificar el medio elegido en cualquier momento del procedimiento.",
+      "No podrán comunicarse con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos salvo que reglamentariamente se declare que pertenecen a un colectivo de personas físicas que por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 18,
+     "text": "Atendiendo a lo que establece el Esquema Nacional de Interoperabilidad en su Disposición Adicional Primera, señale cuál NO es una Norma Técnica de Interoperabilidad:",
+     "options": [
+      "Catálogo de estándares.",
+      "Política de Firma Electrónica y de certificados de la Administración.",
+      "Política de Reutilización de Formatos utilizados por Gestores Documentales.",
+      "Reutilización de recursos de información."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 19,
+     "text": "Indique cuál es la solución que proporciona un inventario unificado y común de las unidades orgánicas y oficinas asociadas de las Administraciones públicas:",
+     "options": [
+      "DIR3",
+      "ORVE",
+      "SICRES",
+      "Autentica"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 20,
+     "text": "Con respecto a la solución horizontal Port@firmas AGE, señale la INCORRECTA:",
+     "options": [
+      "Permite incorporar la firma electrónica en los flujos de trabajo de una organización.",
+      "Admite distintos formatos de firma, entre ellos CAdES, XAdES y PAdES.",
+      "Puede integrarse con los Sistemas de Información del Organismo a través de Servicios Web.",
+      "La versión para clientes o aplicaciones móviles estará disponible a principios de 2020."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 21,
+     "text": "En relación con las funciones lógicas básicas. Suponiendo que a=0 y b=1, ¿cuál de las siguientes sentencias es INCORRECTA?",
+     "options": [
+      "`a XOR b = 1`",
+      "`a XNOR b = 0`",
+      "`a NOR b = 1`",
+      "`a NAND b = 1`"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 22,
+     "text": "En cuanto a las características del formato de imagen JPEG original, señale la opción correcta:",
+     "options": [
+      "Realiza una compresión sin pérdidas.",
+      "Ofrece flexibilidad para ajustar el grado de compresión de la imagen.",
+      "No soporta millones de colores.",
+      "Soporta fondos transparentes."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 23,
+     "text": "Indique cuál de las siguientes unidades de medida de almacenamiento tiene mayor capacidad:",
+     "options": [
+      "Exabyte.",
+      "Zettabyte.",
+      "Petabyte.",
+      "Yottabyte."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 24,
+     "text": "De entre los siguientes, ¿cuál NO es un componentes de la placa base de un ordenador?",
+     "options": [
+      "Zócalo del procesador.",
+      "Chipset.",
+      "Reloj.",
+      "Chip EAC."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 25,
+     "text": "Indique cuál de las siguientes afirmaciones, respecto a los distintos tipos de conexión, es correcta:",
+     "options": [
+      "HDMI se trata de una entrada de video que permite conectar la pantalla del ordenador en analógico.",
+      "FireWire sirve tanto para conectar videocámaras digitales como para conectar discos duros externos.",
+      "eSata es una salida de audio digital.",
+      "P.Link se trata de una salida para conectar una televisión, de modo que sea posible ver una película en la pantalla de la televisión, en lugar de en la del PC."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 26,
+     "text": "En cuanto al proceso de digitalización de la información, señale la información correcta:",
+     "options": [
+      "El modo HSB clasifica los colores de acuerdo a tres características: tono, saturación y compresión.",
+      "El sistema de representación del color CRYK se refiere a cyan, rojo, amarillo y negro.",
+      "La resolución de una imagen es el número de bits utilizados para describir el color de cada pixel de la imagen.",
+      "En cuanto a la profundidad de color, si tenemos un 1 bit para describir el color de cada pixel podremos elegir 2 colores."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 27,
+     "text": "¿Cuál de las siguientes respuestas NO es una interfaz de conexión válida para discos SSD?",
+     "options": [
+      "SAS",
+      "SATA",
+      "DVI",
+      "PCIe"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 28,
+     "text": "La tecnología Thunderbolt 3 permite transferencias de datos de hasta:",
+     "options": [
+      "20 Gbps.",
+      "30 Gbps.",
+      "40 Gbps.",
+      "60 Gbps."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 29,
+     "text": "Dado un árbol binario no vacío, ¿cómo se denomina el recorrido que primero recorre el sub-árbol izquierdo, luego la raíz y, por último, el sub-árbol derecho?",
+     "options": [
+      "Recorrido INORDEN.",
+      "Recorrido PREORDEN.",
+      "Recorrido EXORDEN.",
+      "Recorrido POSORDEN."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 30,
+     "text": "¿Cuál es el grado de un árbol binario lleno de 15 nodos?",
+     "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 31,
+     "text": "En relación a las estructuras de datos, señale la INCORRECTA:",
+     "options": [
+      "Las cadenas son estructuras de datos contiguas.",
+      "Los vectores no son estructuras de datos contiguas.",
+      "Un array bidimensional es una matriz.",
+      "Una cola es una estructura FIFO (first in, first out)."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 32,
+     "text": "Con respecto a JSON, señale la correcta:",
+     "options": [
+      "Es un tipo de gramática XML.",
+      "Es una API de Java.",
+      "Es un conjunto de librerías de Javacript.",
+      "Es un formato de intercambio de datos."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 33,
+     "text": "En Linux, ¿cuál de los siguientes comandos se debe utilizar para listar los ficheros contenidos en el archivo \"fichero.tar\"?",
+     "options": [
+      "`tar tvf fichero.tar`",
+      "`tar xvf fichero.tar`",
+      "`tar cvf fichero.tar`",
+      "`tar avf fichero.tar`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 34,
+     "text": "Seleccione la respuesta adecuada respecto al uso de Bitlocker en Windows:",
+     "options": [
+      "Característica de protección de la información que ayuda a mitigar el acceso no autorizado a datos mejorando las protecciones de archivo y de sistema.",
+      "Permite a un usuario acceder a las aplicaciones y datos almacenados en otro ordenador mediante un acceso por red.",
+      "Desfragmenta el disco duro y las unidades para mejorar el rendimiento del sistema realizándolo bit a bit, bloqueando el sector que se encuentra en proceso de optimización.",
+      "Es una herramienta de organización de trabajo en equipo y colaboración on-line."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 35,
+     "text": "Indique cuál de las siguientes opciones NO corresponde con un identificador vinculado a información sobre un proceso en Linux:",
+     "options": [
+      "TPID: identificador del hilo (thread) del proceso.",
+      "UID: identificador del usuario propietario.",
+      "PPID: identificador del proceso padre.",
+      "PID: identificador único del proceso."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 36,
+     "text": "En un sistema operativo, indique el scheduler que decide qué proceso entra en el procesador para su ejecución:",
+     "options": [
+      "Short term scheduler.",
+      "Mid term scheduler.",
+      "Long term scheduler.",
+      "Main term scheduler."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 37,
+     "text": "La versión Pie de Android se corresponde con la versión:",
+     "options": [
+      "7.0",
+      "8.0",
+      "9.0",
+      "10.0"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 38,
+     "text": "¿Cuál de las siguientes opciones NO es una Base de Datos NoSQL?",
+     "options": [
+      "Riak.",
+      "DynamoDB.",
+      "Aurora.",
+      "Redis."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 39,
+     "text": "En relación al gestor de base de datos ORACLE, señale la correcta:",
+     "options": [
+      "Un tablespace es una unidad lógica de almacenamiento.",
+      "Un datafile (archivo de datos) puede pertenecer a varios tablespace.",
+      "Un segmento es la unidad mínima de almacenamiento físico.",
+      "Una extensión es una agrupación de índices multinivel."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 40,
+     "text": "Según Métrica v3, en el modelo Entidad/Relación extendido las relaciones se definen por:",
+     "options": [
+      "Categoría, nombre, tipo de correspondencia.",
+      "Atributo, cardinalidad, nombre.",
+      "Atributo, dominio, nombre.",
+      "Cardinalidad, nombre, tipo de correspondencia."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 41,
+     "text": "En un Diagrama de Flujo de Datos (DFD), indique cuál de las siguientes afirmaciones es FALSA:",
+     "options": [
+      "El proceso nunca es el origen ni el final de los datos.",
+      "El almacén no puede crear, transformar o destruir datos.",
+      "Un almacén no puede aparecer varias veces en el diagrama.",
+      "Un proceso siempre es necesario como intermediario entre una entidad externa y un almacén de datos."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 42,
+     "text": "Señale la INCORRECTA con respecto a la comprobación de la consistencia de un DFD resultado de una explosión:",
+     "options": [
+      "No deben faltar flujos de datos de entrada o salida que acompañaban al proceso del nivel superior.",
+      "No debe aparecer algún flujo de datos que no estuviese ya asociado al proceso de nivel superior.",
+      "Todos los elementos del DFD resultante deben estar conectados directa o indirectamente con los flujos del proceso origen.",
+      "Las entidades externas deben descomponerse en cada explosión del DFD al igual que el resto de los elementos."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 43,
+     "text": "En la teoría de normalización cuando una relación puede ser reconstruida sin pérdida de información a partir de una combinación de algunas de sus proyecciones se dice que tiene una:",
+     "options": [
+      "Dependencia de reunión.",
+      "Dependencia multivaluada.",
+      "Dependencia funcional de Boyce/Codd.",
+      "Dependencia funcional mutua."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 44,
+     "text": "En el contexto del modelo relacional, ¿qué regla de integridad determina que los atributos de la clave primaria de una relación no puedan tener valores nulos?",
+     "options": [
+      "Integridad referencial.",
+      "Integridad de propagación.",
+      "Integridad de entidad.",
+      "Integridad de negocio."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 45,
+     "text": "Señale cuál NO es una opción a la hora de desarrollar una aplicación móvil:",
+     "options": [
+      "Desarrollo de aplicaciones nativas.",
+      "Desarrollo de aplicaciones web progresivas.",
+      "Desarrollo de aplicaciones híbridas.",
+      "Desarrollo de aplicaciones web graduales."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 46,
+     "text": "¿Cuál de las siguientes opciones NO representa un tipo de datos primitivo de Java?",
+     "options": [
+      "short.",
+      "simple.",
+      "long.",
+      "double."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 47,
+     "text": "En PostgreSQL 9.2, una vez conectado al terminal interactivo de PostgreSQL mediante el comando psql, ¿qué opción se puede ejecutar para obtener las bases de datos disponibles?",
+     "options": [
+      "`Show databases;`",
+      "`\\list`",
+      "`select databases from dual;`",
+      "`psql_show_db`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 48,
+     "text": "Dada una tabla 'Personal' con una columna 'lugar', se quiere obtener el número de personas en cada lugar, cuando haya más de 10 personas en el mismo. Señale la sentencia SQL correcta:",
+     "options": [
+      "`SELECT lugar, Count(*) AS numPersonas FROM Personal GROUP BY lugar HAVING Count(*)>10`",
+      "`SELECT lugar, Count(*)>10 AS numPersonas FROM Personal GROUP BY lugar`",
+      "`SELECT lugar, Count(*) AS numPersonas FROM Personal WHERE Count(*)>10 GROUP BY lugar`",
+      "`SELECT lugar, Count(*) AS numPersonas FROM Personal WHERE Count(lugar)>10`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 49,
+     "text": "En relación a las sentencias utilizadas en SQL y su tipología, indique la afirmación INCORRECTA:",
+     "options": [
+      "Las sentencias de tipo DML se utilizan para manipulación de datos e incluyen instrucciones como SELECT, INSERT o DELETE.",
+      "Las sentencias de control de datos permiten la gestión de privilegios a los usuarios mediante GRANT o REVOKE.",
+      "Las sentencias de tipo DCL permiten la definición de estructuras de datos mediante CREATE TABLE o DROP TABLE.",
+      "Las sentencias de control de transacciones incluyen las instrucciones COMMIT y ROLLBACK."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 50,
+     "text": "Dado un procedimiento almacenado en SQL Server con la cabecera\n\n```sql\nCREATE PROCEDURE getEmployees @LastName varchar(50), @FirstName nvarchar(50)\n```\n\n¿Cuál NO sería una instrucción válida para ejecutar dicho procedimiento?",
+     "options": [
+      "`EXECUTE getEmployees @FirstName = N'Pilar', @LastName = N'Rojas';`",
+      "`EXEC getEmployees @LastName = N'Rojas', @FirstName = N'Pilar';`",
+      "`EXECUTE getEmployees N'Rojas', N'Pilar';`",
+      "`EXEC getEmployees @LastName = N'Rojas', N'Pilar';`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 51,
+     "text": "De entre las siguientes, señale cuál es una ventaja de las instantáneas de Base de Datos (snapshot) en SQLSERVER:",
+     "options": [
+      "Ofrecen una interfaz gráfica que facilita la normalización de las relaciones existentes en la Base de Datos.",
+      "Facilitan la automatización de catálogos compuestos por elementos repetitivos simples utilizando los datos de un archivo de texto separado por comas o tabuladores.",
+      "Permiten crear instantáneas de un momento temporal determinado permitiendo, entre otros, la generación de informes a partir de los datos contenidos en las mismas.",
+      "Optimizan la indexación para el manejo eficiente de consultas en tiempo real en archivos en formato XES (Extensible Event Stream)."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 52,
+     "text": "En UML 2.5, ¿cuál de los siguientes diagramas pertenece a la categoría de diagramas de estructura?",
+     "options": [
+      "Diagrama de paquetes.",
+      "Diagrama de flujo de información.",
+      "Diagrama de secuencia.",
+      "Diagrama de actividad."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 53,
+     "text": "¿Cuál de los siguientes NO es una de las características del modelo orientado a objetos?",
+     "options": [
+      "Modularidad",
+      "Abstracción",
+      "Durabilidad",
+      "Reusabilidad"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 54,
+     "text": "Indique cuál de los siguientes es un patrón de tipo creacional:",
+     "options": [
+      "Composite",
+      "Proxy",
+      "Iterator",
+      "Singleton"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 55,
+     "text": "En el contexto de Java EE (ahora Jakarta EE), ¿en qué paquete se encuentran las clases e interfaces de Enterprise JavaBeans?",
+     "options": [
+      "java.ejb2",
+      "javax.ejb",
+      "javax.persistence.ejb",
+      "java.transaction.ejb"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 56,
+     "text": "¿Cuál de las siguientes opciones sobre ADO.NET y los proveedores de datos del framework .NET es FALSA?",
+     "options": [
+      "ADO.NET permite acceder a datos alojados en XML.",
+      "El objeto Connection es el que proporciona conectividad con las distintas fuentes de datos.",
+      "El objeto Operation permite invocar peticiones para recuperación y/o modificación de información sobre la fuente de datos.",
+      "Los objetos de tipo DataSet están formados por una colección de objetos de tipo DataTable."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 57,
+     "text": "En Java, una variable definida con el modificador de acceso protected, es accesible:",
+     "options": [
+      "Desde cualquier clase.",
+      "Únicamente desde la clase en la que se ha definido.",
+      "Únicamente desde las clases que están dentro del mismo paquete.",
+      "Desde la clase en la que se ha definido, sus subclases, y desde las clases dentro del mismo paquete."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 58,
+     "text": "Spring Boot es:",
+     "options": [
+      "Un plataforma de desarrollo móvil basada en Javascript que permite desarrollo de apps multiplataforma.",
+      "Una plataforma que permite el desarrollo de aplicaciones web \"autocontenidas\" que llevan embebido el contenedor de servlets.",
+      "Una plataforma que permite, entre otras cosas, la conexión lógica entre bases de datos relacionales clásicas y bases de datos NOSQL.",
+      "Una plataforma que permite automatizar las pruebas de software para aplicaciones con lenguaje de programación JAVA."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 59,
+     "text": "En un documento WSDL, ¿cómo se denomina la operación que describe un servicio en el que se recibe un mensaje pero no se responde?",
+     "options": [
+      "One-way.",
+      "Notification.",
+      "Request-no response.",
+      "Petition-no response."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 60,
+     "text": "En cuanto a la tecnología REST utilizada para la construcción de sistemas con arquitectura orientada a servicios, indique la opción INCORRECTA:",
+     "options": [
+      "Realiza el transporte de datos con los métodos proporcionados por HTTP, como GET, POST, PUT, DELETE o PATCH.",
+      "Utiliza los códigos de respuesta nativos de HTTP como 200, 204, 404 ó 409.",
+      "En un sistema REST cada recurso es direccionable a través de su URI.",
+      "A pesar de la gran variedad de tipos de datos que podemos mandar con REST, no es posible utilizar el formato XML."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 61,
+     "text": "¿Cuál de los siguientes NO es un elemento en el esqueleto base de un mensaje SOAP 1.2?",
+     "options": [
+      "Envelope",
+      "Header",
+      "Body",
+      "Title"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 62,
+     "text": "En Python 3.7, indique qué resultado se obtiene al ejecutar `print(\"Java\"*4+\"Linux\")`",
+     "options": [
+      "Java4Linux",
+      "Devuelve un error de sintaxis.",
+      "Genera excepción, por tipo de operando no soportado.",
+      "JavaJavaJavaJavaLinux"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 63,
+     "text": "¿Cuál de las siguientes opciones representa una de las nuevas etiquetas introducidas por HTML5?",
+     "options": [
+      "`<progress>`",
+      "`<socialmedia>`",
+      "`<blog>`",
+      "`<navigation>`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 64,
+     "text": "Considerando como premisa la existencia del archivo foto.jpg en la misma ubicación que el archivo que contiene el código HTML indicado a continuación, ¿qué mostraría en pantalla el siguiente código?\n\n```html\n<a href=\"https://www.boe.es\"><img src=\"foto.jpg\" alt=\"Acceso al BOE\"/></a>\n```",
+     "options": [
+      "Mostraría la imagen foto.jpg siendo esta un hipervínculo a la página https://www.boe.es",
+      "Mostraría el texto \"Acceso al BOE\" siendo este un hipervínculo a la página https://www.boe.es",
+      "Mostraría la imagen foto.jpg y a continuación el texto \"Acceso al BOE\", siendo este un hipervínculo a la página https://www.boe.es",
+      "Mostraría el texto \"Acceso al BOE\" como hipervínculo a la página https://www.boe.es y a continuación la imagen foto.jpg"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 65,
+     "text": "Señale cual NO es una pauta del Principio Perceptible de WCAG 2.1:",
+     "options": [
+      "Alternativas textuales: Proporcione alternativas textuales para todo contenido no textual, de manera que pueda modificarse para ajustarse a las necesidades de las personas, como por ejemplo en una letra mayor, braille, voz, símbolos o un lenguaje más simple.",
+      "Distinguible: Haga más fácil para los usuarios ver y oír el contenido, incluyendo la separación entre primer plano y fondo.",
+      "Contenido multimedia dependiente del tiempo: Proporcione alternativas para contenidos multimedia sincronizados dependientes del tiempo.",
+      "Ataques epilépticos: No diseñar contenido que pueda causar ataques epilépticos."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 66,
+     "text": "Las pruebas cuya finalidad es verificar que los distintos componentes del sistema interactúan correctamente a través de sus interfaces se denominan:",
+     "options": [
+      "Pruebas de artefactos.",
+      "Pruebas de integración.",
+      "Pruebas de interacción.",
+      "Pruebas de implantación."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 67,
+     "text": "Dado un proyecto git, ¿con qué comando puedo listar las etiquetas?",
+     "options": [
+      "`git tag`",
+      "`git list-tag`",
+      "`git rebase`",
+      "`git -t`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 68,
+     "text": "La plataforma de control de versiones de Microsoft es:",
+     "options": [
+      "CVS",
+      "Trello",
+      "Team Foundation Server",
+      "ClearCase"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 69,
+     "text": "Con respecto a SonarQube, señale la INCORRECTA:",
+     "options": [
+      "Solución diseñada para realizar análisis dinámico del código fuente de manera automática.",
+      "Entre las verificaciones que puede realizar está la detección de código duplicado.",
+      "Obtiene diversas métricas sobre el código.",
+      "Permite definir \"Quality Gates\" con las condiciones mínimas que el proyecto debe cumplir para subir a producción."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 70,
+     "text": "Con respecto a las pruebas de regresión, señale la INCORRECTA:",
+     "options": [
+      "Ante cambios sobre un componente software, ayudan a garantizar que el resto de componentes no se ve afectado.",
+      "Son compatibles con las metodologías ágiles de desarrollo.",
+      "Normalmente, implican la repetición de las pruebas que ya se han realizado previamente.",
+      "No es posible automatizar las pruebas de regresión."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 71,
+     "text": "En Debian GNU/Linux, ¿cómo se puede obtener la versión de Linux instalada?",
+     "options": [
+      "`lsb_release -a`",
+      "`lsb_release -x`",
+      "`lsb_release -l`",
+      "`lsb_release -m`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 72,
+     "text": "En relación al framework PowerShell Core de administración y configuración de sistemas Windows, indique la afirmación correcta:",
+     "options": [
+      "Permite interactuar con el sistema operativo, pero no con otras herramientas como IIS o Exchange.",
+      "Es un intérprete de comandos que devuelve y recibe texto, no objetos.",
+      "No permite ciertas acciones como apagar o detener servicios o modificar registros del sistema.",
+      "Es un proyecto open source y se encuentra disponible para Linux y macOS."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 73,
+     "text": "Señale la respuesta que refleja, de forma ordenada, la estructura jerárquica del Directorio Activo de Microsoft.",
+     "options": [
+      "Dominio, bosque, árbol, unidad organizativa.",
+      "Bosque, árbol, dominio, unidad organizativa.",
+      "Unidad organizativa, dominio, bosque, árbol.",
+      "Unidad organizativa, bosque, árbol, dominio."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 74,
+     "text": "De las siguientes, ¿cuál es una solución de virtualización?",
+     "options": [
+      "RoundcubeVM",
+      "PowerVM",
+      "Mattermost",
+      "SlackVM"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 75,
+     "text": "Señale la respuesta INCORRECTA con respecto a los sistemas RAID:",
+     "options": [
+      "RAID 3 precisa al menos tres discos.",
+      "RAID 0 es tolerante a fallos.",
+      "RAID 1 duplica la información en discos espejo.",
+      "RAID 5 distribuye la información de paridad."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 76,
+     "text": "En relación a la virtualización de escritorio, ¿qué opción NO es correcta?:",
+     "options": [
+      "Implementa el escritorio como un servicio.",
+      "Permite el acceso a un escritorio alojado en un servicio remoto a través de una red.",
+      "Es una copia del escritorio que incluye el sistema operativo, aplicaciones y datos.",
+      "VDI en modo no persistente cada usuario tiene su propia imagen de escritorio, que mantiene su configuración una vez cerrada la sesión."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 77,
+     "text": "¿Cuál es el puerto por defecto usado por IMAP sobre TLS?",
+     "options": [
+      "990",
+      "991",
+      "995",
+      "993"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 78,
+     "text": "¿Cuál de las siguientes opciones sobre el protocolo Exchange ActiveSync es FALSA?",
+     "options": [
+      "Está basado en los protocolos HTTP y XML.",
+      "Consigue un mayor rendimiento gracias al empleo de JSON para la reducción del peso de los mensajes.",
+      "Permite configuración para usar SSL entre cliente y servidor.",
+      "Permite ejecutar una acción de Remote wipe (limpieza remota) para la eliminación del contenido relacionado con el servidor Exchange alojado en un dispositivo móvil."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 79,
+     "text": "En el protocolo de correo electrónico POP3, el comando que permite obtener información acerca del número de mensajes del servidor y lo que ocupan en total en bytes es:",
+     "options": [
+      "STAT",
+      "RGET",
+      "RETR",
+      "PASS"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 80,
+     "text": "¿Desde línea de comandos, en Windows 10, con los privilegios adecuados, cómo podemos cambiar la contraseña de un usuario llamado pepe?",
+     "options": [
+      "`net user --change pepe`",
+      "`net user --passwd pepe`",
+      "`net user pepe`",
+      "`net user pepe *`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 81,
+     "text": "Dentro del protocolo SNMP v3, ¿cómo se denomina a los mensajes no solicitados por el administrador SNMP que remiten los agentes cuando ocurre algún evento inesperado?",
+     "options": [
+      "SetNextRequest",
+      "InformationMessage",
+      "Trap",
+      "SetResponse"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 82,
+     "text": "Señale la correcta en cuanto a los medios de transmisión:",
+     "options": [
+      "Los medios de transmisión guiados hacen uso del interfaz radio para la transmisión de señales.",
+      "En los medios de transmisión no guiados la señal queda confinada en el interior de dicho medio.",
+      "En los medios de transmisión no guiados es necesario el uso de dispositivos que emitan o capten la señal.",
+      "Los medios de transmisión guiados utilizan siempre sistemas de secuencia directa para ampliar el espectro."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 83,
+     "text": "Indique el protocolo que permite conocer la dirección IP asociada a una dirección MAC:",
+     "options": [
+      "ARP",
+      "BOOTP",
+      "RARP",
+      "LSMAC"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 84,
+     "text": "La herramienta del CCN-CERT dedicada al análisis automatizado de ficheros que puedan tener un comportamiento malicioso se llama:",
+     "options": [
+      "ANA",
+      "MARTA",
+      "REYES",
+      "GLORIA"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 85,
+     "text": "¿Cómo se llama la causa potencial de un incidente que puede causar daños a un sistema de información o a una organización?",
+     "options": [
+      "Amenaza",
+      "Riesgo",
+      "Impacto",
+      "Vulnerabilidad"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 86,
+     "text": "En relación con el segundo dividendo digital, ¿qué banda es la que necesitará ser liberada?",
+     "options": [
+      "La banda de 700 MHz.",
+      "La banda de 900 MHz.",
+      "La banda de 1800 MHz.",
+      "La banda de 2100 MHz."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 87,
+     "text": "Indique cuál de las siguientes afirmaciones sobre RIPng es verdadera:",
+     "options": [
+      "Es un protocolo de enrutamiento para IPv6.",
+      "Está especificado en el RFC 2180.",
+      "Es un protocolo basado en TCP.",
+      "Usa el puerto 646."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 88,
+     "text": "En una transmisión se envían secuencialmente dos tramas (A:0111011 ; B:0011100). Para incorporar un mecanismo de detección de errores se va a añadir un bit de paridad impar a cada una. ¿Cuáles serían los bits de paridad impar en cada caso?",
+     "options": [
+      "A:0 ; B:0",
+      "A:1 ; B:0",
+      "A:0 ; B:1",
+      "A:1 ; B:1"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 89,
+     "text": "Seleccione cuál de las siguientes tecnologías Ethernet está basada exclusivamente en fibra óptica multimodo con una velocidad de transmisión de 1000 Mbps:",
+     "options": [
+      "1000BASE-ZX.",
+      "1000BASE-LX.",
+      "1000BASE-SX.",
+      "1000BASE-T."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 90,
+     "text": "En cuanto al modelo de interconexión de sistemas abiertos OSI, escoja la opción correcta:",
+     "options": [
+      "Las unidades de información de la capa de transporte se denominan paquetes.",
+      "Cada capa presta servicios a la capa inferior.",
+      "La capa de transporte trabaja siempre con protocolos no orientados a conexión.",
+      "La capa de presentación se encarga del formato de los datos que se van a intercambiar entre las aplicaciones."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 91,
+     "text": "Señale la opción INCORRECTA con respecto al protocolo IPv4:",
+     "options": [
+      "La transmisión de datos se realiza mediante datagramas (paquetes IP).",
+      "Es orientado a conexión, por lo que los paquetes son tratados de forma conjunta.",
+      "No es fiable, por lo que no garantiza la entrega de paquetes, ni la entrega en secuencia.",
+      "En su cabecera incluye el campo Checksum."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 92,
+     "text": "De entre las siguientes opciones de direcciones IPv4, ¿cuáles son dos direcciones asignables a dos host en distintas redes?",
+     "options": [
+      "190.11.255.255 y 190.10.30.40",
+      "19.24.48.35 y 19.132.250.35",
+      "246.2.8.44 y 246.2.240.3",
+      "213.45.128.8 y 213.45.126.74"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 93,
+     "text": "¿Cuál de las siguientes afirmaciones sobre HTTP/2 es correcta?",
+     "options": [
+      "Es un protocolo binario, a diferencia de HTTP 1.1",
+      "El identificador h2 se refiere a HTTP/2 sobre TCP en texto plano.",
+      "El identificador h2c se refiere a HTTP/2 sobre TLS.",
+      "Está definido en RFC 7543."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 94,
+     "text": "De acuerdo al RFC 8446, ¿cuál de las siguientes opciones NO representa uno de los tipos de mensajes mediante los que TLS v 1.3 negocia los parámetros de seguridad de la conexión?",
+     "options": [
+      "ServerHello",
+      "HelloRequest",
+      "HelloRetryRequest",
+      "ClientHello"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 95,
+     "text": "¿Cuál de los siguientes protocolos NO tiene relación directa con la telefonía IP?",
+     "options": [
+      "H.323",
+      "SIP",
+      "NETCDF",
+      "RTP"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 96,
+     "text": "Señale cuál de las siguientes descripciones se corresponde con la amenaza denominada \"Clickjacking\":",
+     "options": [
+      "Un usuario malicioso puede ejecutar comandos en el sistema operativo host.",
+      "Un usuario malicioso intenta acceder a partes del sistema de ficheros del servidor web a los que no debería tener acceso.",
+      "Un usuario malicioso secuestra las pulsaciones de ratón dirigidas a un sitio aparentemente inocente y las redirige a otro sitio, engañando a usuarios de Internet.",
+      "Inundación de peticiones no legítimas a un servidor de manera que se interrumpa el acceso a usuarios legítimos."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 97,
+     "text": "De entre las siguientes afirmaciones relacionadas con el uso de cortafuegos, seleccione la afirmación correcta:",
+     "options": [
+      "Los cortafuegos de tipo stateless guardan información de las sesiones a las que pertenecen los paquetes.",
+      "Un cortafuegos DPI permite una inspección profunda del contenido completo del paquete.",
+      "Los cortafuegos de tipo stateful no guardan información de las sesiones a las que pertenecen los paquetes.",
+      "Los cortafuegos de próxima generación no incorporan funciones de NAT ni VPN para aligerar su carga."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 98,
+     "text": "¿Cuál de las siguientes opciones es cierta con respecto a los protocolos IPSec, PPTP y OpenVPN?",
+     "options": [
+      "IPSec utiliza dos protocolos de seguridad (AH y ESK) y un protocolo de gestión de claves (IKE).",
+      "El protocolo OpenVPN no es compatible con IPSec, IKE, PPTP y L2TP.",
+      "El protocolo PPTP es el que ofrece un nivel de encriptación más fuerte, pero precisa de un esfuerzo elevado para su configuración.",
+      "Los tres protocolos protegen las comunicaciones a nivel 2 de la pila OSI."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 99,
+     "text": "De entre los siguientes, ¿qué dispositivo utiliza tablas de encaminamiento?",
+     "options": [
+      "Un router.",
+      "Un hub.",
+      "Un media converter.",
+      "Un switch."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 100,
+     "text": "¿Cuál de las siguientes opciones representa el nombre de los paquetes que utiliza el protocolo STP para determinar la topología de la red y evitar la aparición de bucles en redes de datos?",
+     "options": [
+      "BPDUs (Bridge Protocol Data Units)",
+      "SPDUs (Spanning Protocol Data Units)",
+      "TPDUs (Tree Protocol Data Units)",
+      "SPDUs (Switch Protocol Data Units)"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    }
+   ],
+   "reserve": [
+    {
+     "number": 1,
+     "text": "En Java, el operador == es:",
+     "options": [
+      "Un operador aritmético.",
+      "Un operador relacional.",
+      "Un operador de asignación.",
+      "Un operador a nivel de bit."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 2,
+     "text": "El estándar de accesibilidad para productos y servicios TIC que aplica a las Administraciones Públicas españolas es:",
+     "options": [
+      "UNE-EN 301549:2019",
+      "UNE-EN 301341:2019",
+      "UNE-EN 301876:2019",
+      "UNE-EN 301803:2019"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 3,
+     "text": "¿Cuál de las siguientes afirmaciones es correcta?",
+     "options": [
+      "L2TP se refiere a Layer 2 Tunneling Protocol.",
+      "IKEv2 se refiere a Internet Key Extended Protocol Version 2.",
+      "ESP se refiere a a Enhanced Security Payload.",
+      "SSTP se refiere a Secure System Transport Protocol."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 4,
+     "text": "El control de la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican, corresponde:",
+     "options": [
+      "Al Gobierno.",
+      "Al Ministro competente por razón de la materia.",
+      "A los Tribunales.",
+      "A las Cortes Generales."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 5,
+     "text": "De entre las siguientes, señale cuál NO es una regla de CODD del modelo relacional de Bases de Datos:",
+     "options": [
+      "Regla del acceso garantizado.",
+      "Regla del tratamiento sistemático de valores nulos.",
+      "Regla de la cardinalidad de las entidades.",
+      "Regla de la independencia de la distribución."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    }
+   ]
+  },
+  {
+   "id": "p2-s1",
+   "part": 2,
+   "kind": "case",
+   "title": "Segundo ejercicio · Supuesto del bloque III",
+   "block": "III",
+   "statement": "En la Agencia de Formación en la que usted acaba de entrar a trabajar, se quiere mejorar un sistema de información que permite realizar al menos las siguientes gestiones:\n\n- Gestión de acciones formativas.\n- Gestión de alumnos/as y profesores/as.\n- Gestión de aulas.\n- Gestión de la selección.\n\nPara ello, y aprovechando la experiencia del equipo existente en tecnologías de software libre, se optará por un desarrollo basado en PHP, utilizando el framework Laravel v.6, y como gestor de base de datos MySQL v.8. Adicionalmente se reaprovechará algún módulo existente .NET. y en Java.\n\nEl formulario que permite la inscripción a las acciones formativas está basado en HTML5, Javascript y jQuery. Se cuenta con el siguiente fragmento de código del mismo:\n\n```html\n<form action=\"\" method=\"get\">\n    <label for=\"nif\">NIF </label><input id=\"nif\" type=\"text\" size=\"25\" maxlength=\"9\" placeholder=\"123456789-Letra\"><br>\n    <label for=\"nombre\">Nombre </label><input id=\"nombre\" type=\"text\" size=\"40\" maxlength=\"40\" placeholder=\"Introduzca su nombre\"><br>\n    <label for=\"apellidos\">Apellidos </label><input id=\"apellidos\" type=\"text\" size=\"73\" maxlength=\"80\" placeholder=\"Introduzca sus apellidos\"><br>\n    <label for=\"email\">Correo Electrónico </label><input type=\"email\" size=\"65\" maxlength=\"10\" placeholder=\"hola@dominio.com\"><br>\n    <label for=\"password\">Contraseña </label><input type=\"password\" size=\"30\" maxlength=\"10\" placeholder=\"Contraseña\"><br>\n<input type=\"submit\" value=\"Validar Datos\">\n</form>\n```\n\nA continuación se muestra un modelo Entidad Relación extendido inacabado de una parte del sistema:\n\n![Reconstrucción de OpoTAI: Modelo Entidad-Relación extendido inacabado: Ciudadano (NIF) relacionado con AccionFormativa (idAccionFormativa, denominacion, numAlumnos), que se relaciona con Aula (idAula, nomAula, numplazas) y se especializa en Curso (horasTeoricas, horasPracticas) y Taller (especialidad, material).](assets/tai-li-2019/p2-s1-statement-1-redibujo.svg)\n\n*Original escaneado del cuadernillo:*\n\n![Modelo Entidad-Relación extendido inacabado: Ciudadano (NIF) relacionado con AccionFormativa (idAccionFormativa, denominacion, numAlumnos), que se relaciona con Aula (idAula, nomAula, numplazas) y se especializa en Curso (horasTeoricas, horasPracticas) y Taller (especialidad, material).](assets/tai-li-2019/p2-s1-statement-1.png)\n\n*Transcripción del modelo (los atributos identificadores aparecen con el círculo relleno):*\n\n| Entidad | Atributos |\n|---|---|\n| Ciudadano | NIF (identificador) |\n| AccionFormativa | idAccionFormativa (identificador) · denominacion · numAlumnos |\n| Aula | idAula (identificador) · nomAula · numplazas |\n| Curso | horasTeoricas · horasPracticas |\n| Taller | especialidad · material |\n\nRelaciones, sin nombre ni cardinalidades (el modelo está inacabado): Ciudadano – AccionFormativa y AccionFormativa – Aula. AccionFormativa es la entidad general de una jerarquía (triángulo unido a ella con doble línea) cuyos subtipos son Curso y Taller.\n\nComo técnico se le va a solicitar que colabore en el proyecto para ofrecer las mejoras que le soliciten.\n\nSalvo que el enunciado diga lo contrario se va a suponer que aquellas preguntas que tengan un fragmento de código tendrán declaradas correctamente todas las clases, librerías, variables.. que no aparezcan directamente. Como metodología de base el organismo aplica Métrica v3.",
+   "media": [],
+   "questions": [
+    {
+     "number": 1,
+     "text": "En el formulario de inscripción a las acciones formativas se pretende que al cargar la página, el foco del ratón se posicione automáticamente en el campo NIF. En HTML5 indique con cuál de las siguientes expresiones lograría dicho comportamiento:",
+     "options": [
+      "`<label for=\"value\">NIF </label><input id=\"nif\" type=\"text\" placeholder=\"123456789-Letra\" focus=\"on\"><br>`",
+      "`<label for=\"value\">NIF </label><input id=\"nif\" type=\"text\" placeholder=\"123456789-Letra\" autofocus><br>`",
+      "`<label for=\"value\">NIF </label><input id=\"nif\" type=\"text\" placeholder=\"123456789-Letra\" onLoad()=\"focus\"><br>`",
+      "Automáticamente, el foco pasa al primer elemento del formulario, por lo que no es necesario establecerlo explícitamente"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 2,
+     "text": "Se le pide la personalización del área privada de cada persona inscrita, ¿qué control de HTML5 permite mostrar un selector de color?",
+     "options": [
+      "`<input type=\"color\" name=\"favcolor\">`",
+      "`<input type=\"uipicker\" name=\"favcolor\">`",
+      "`<input type=\"range\" name=\"favcolor\">`",
+      "`<input type=\"selector\" name=\"favcolor\">`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 3,
+     "text": "Se plantea la necesidad de incluir un campo de tipo select de tal manera que, si se elige la opción “SI” se habilite la entrada de datos en un campo tipo fecha, estando deshabilitado en caso contrario. ¿Qué evento del campo de tipo select utilizaría para recoger este comportamiento?",
+     "options": [
+      "El evento onClick",
+      "El evento onSelection",
+      "El evento onChange",
+      "El evento onValue"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 4,
+     "text": "Le piden que al cargar el formulario se inicie automáticamente un audio, y que se posibilite al usuario controlar la reproducción del mismo. ¿Qué etiqueta utilizaría para ello?",
+     "options": [
+      "`<audio controls autoplay> <source src=\"audio.mp3\" type=\"audio/mpeg\"></audio>`",
+      "`<audio controls=\"on\" autorun=\"on\"> <source src=\"audio.mp3\" type=\"audio/mpeg\"></audio>`",
+      "`<audio controls autorun> <source src=\"audio.mp3\" type=\"audio/mpeg\"></audio>`",
+      "`<audio controls=\"yes\" played> <source src=\"audio.mp3\" type=\"audio/mpeg\"></audio>`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 5,
+     "text": "Dentro de la hoja de estilos del organismo está incluida la siguiente declaración\n\n```css\nul { list-style-type: lower-alpha; }\n```\n\nIndique el objetivo de la declaración",
+     "options": [
+      "Aplica a las listas un tipo de viñeta basado en números romanos en minúscula.",
+      "Aplica a las listas un tipo de viñeta basado en letras ascii en minúscula.",
+      "Aplica a las listas un tipo de viñeta basado en letras arábigas en minúscula.",
+      "Aplica a las listas un tipo de viñeta basado en letras griegas en minúscula."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 6,
+     "text": "¿Cuál es una de las novedades que introduce HTML5 respecto a las versiones anteriores?",
+     "options": [
+      "Permite su ejecución en todos los navegadores, independientemente de la antigüedad de los mismos.",
+      "Posibilidad de añadir etiquetas HTML para diferenciar semánticamente el contenido de la página Web.",
+      "Mayor soporte a contenido Flash en páginas web.",
+      "Ofrece soporte de los atributos title y lang en todos los elementos."
+     ],
+     "answer": null,
+     "annulled": true,
+     "media": []
+    },
+    {
+     "number": 7,
+     "text": "Al transformar la jerarquía existente en la entidad AccionFormativa al modelo físico, ¿cuál de las de las siguientes opciones es correcta? (PK es Primary Key y FK es Foreign Key).",
+     "options": [
+      "```\nAccionFormativa (idAccionFormativa (PK), denominacion, numAlumnos)\nCurso (horasTeoricas, horasPracticas)\nTaller (especialidad, material)\n```",
+      "```\nAccionFormativa (idAccionFormativa (PK), denominacion, numAlumnos, horasTeoricas, horasPracticas, especialidad, material)\n```",
+      "```\nAccionFormativa (idAccionFormativa (PK), idCurso (FK), idTaller (FK), denominacion, numAlumnos)\nCurso (horasTeoricas, horasPracticas)\nTaller (especialidad, material)\n```",
+      "```\nAccionFormativa (idAccionFormativa (PK), denominacion, numAlumnos)\nCurso (idAccionFormativa (FK), horasTeoricas, horasPracticas)\nTaller (idAccionFormativa (FK), especialidad, material)\n```"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 8,
+     "text": "El sistema cuenta con una tabla de inscripciones antiguas, Inscripcion, que contiene datos de ciudadanos que ya han realizado acciones formativas anteriormente. Teniendo en cuenta que el campo NIF es PK de Ciudadano y FK de Inscripcion, se desea saber qué ciudadanos no han realizado ninguna inscripción en anteriores convocatorias. ¿Qué sentencia SQL utilizaría para obtener dichos datos?",
+     "options": [
+      "`SELECT Ciudadano.NIF FROM Ciudadano LEFT JOIN Inscripcion ON ciudadano.NIF = Inscripcion.NIF WHERE Inscripcion.NIF IS null`",
+      "`SELECT Ciudadano.NIF FROM Ciudadano INNER JOIN Inscripcion ON Ciudadano.NIF = Inscripcion.NIF WHERE Inscripcion.NIF IS null`",
+      "`SELECT Ciudadano.NIF FROM Ciudadano LEFT JOIN Inscripcion ON Ciudadano.NIF = Inscripcion.NIF`",
+      "`SELECT DISTINCT (Ciudadano.NIF) FROM Ciudadano LEFT JOIN Inscripcion ON Ciudadano.NIF = Inscripcion.NIF GROUP BY Ciudadano.NIF`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 9,
+     "text": "Antes de poner en marcha el sistema, se ha decidido categorizar las aulas por edificios. Para ello se crea una nueva tabla llamada Edificio (idEdificio (PK), nomEdificio, localizacion) y se debe añadir un nuevo campo, idEdificio, en la tabla Aula. Teniendo en cuenta que un aula pertenece a un único edificio y un edificio podrá contener múltiples aulas, ¿cuál sería la sentencia SQL adecuada para crear la tabla Aula según las premisas indicadas?",
+     "options": [
+      "`CREATE TABLE Aula (idAula INT NOT NULL, nomAula VARCHAR(100) NOT NULL, numPlazas INT NOT NULL, idEdificio INT NOT NULL, FOREIGN KEY (idEdificio) REFERENCES Edificio (idEdificio))`",
+      "`CREATE TABLE Aula (idAula INT NOT NULL, nomAula VARCHAR(100) NOT NULL, numPlazas INT NOT NULL, idEdificio INT NOT NULL, PRIMARY KEY (idAula), FOREIGN KEY (idEdificio) REFERENCES Edificio (idEdificio))`",
+      "`CREATE TABLE Aula (idAula INT NOT NULL, nomAula VARCHAR(100) NOT NULL, numPlazas INT NOT NULL, idEdificio INT NOT NULL, PRIMARY KEY (idAula))`",
+      "`CREATE TABLE Aula (idAula INT NOT NULL, nomAula VARCHAR(100) NOT NULL, numPlazas INT NOT NULL, idEdificio INT NOT NULL)`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 10,
+     "text": "Una vez creada la tabla Aula le piden obtener el número de aulas existentes por edificio. ¿Qué sentencia SQL ejecutaría?",
+     "options": [
+      "`SELECT COUNT(*) FROM Aula WHERE idEdificio IS NOT NULL`",
+      "`SELECT idEdificio, COUNT(*) FROM Aula INNER JOIN Edificio ON Aula.idEdificio = Edificio.idEdificio`",
+      "`SELECT idEdificio, COUNT(*) FROM Aula WHERE COUNT(*)>0`",
+      "`SELECT idEdificio, COUNT(*) FROM Aula GROUP BY idEdificio`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 11,
+     "text": "Se tiene un fichero CSV ubicado en el puesto cliente (inscripciones.csv), con los valores separados por ';' y se quiere importar en la tabla Inscripcion. Teniendo en cuenta que el fichero incluye un encabezado con nombres de campo en la primera fila, ¿qué comando realizaría la importación correcta?",
+     "options": [
+      "`LOAD DATA LOCAL INFILE 'inscripciones.csv' INTO TABLE Inscripcion FIELDS TERMINATED BY ';' LINES TERMINATED BY '\\n' IGNORE 1 ROWS`",
+      "`LOAD DATA LOCAL INFILE 'inscripciones.csv' INTO TABLE Inscripcion FIELDS TERMINATED BY ',' LINES TERMINATED BY '\\n' IGNORE 1 ROWS`",
+      "`LOAD FROM LOCAL INFILE 'inscripciones.csv' INTO TABLE Inscripcion`",
+      "`LOAD FROM DATA LOCAL INFILE 'inscripciones.csv' INTO TABLE Inscripcion FIELDS TERMINATED BY ';' LINES TERMINATED BY '\\n'`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 12,
+     "text": "En el ámbito del Lenguaje Control de Transacciones, ¿en qué consiste un savepoint?",
+     "options": [
+      "Permite insertar un punto de parada en la ejecución de la transacción para monitorizar su ejecución.",
+      "Permite hacer una copia de seguridad de la base de datos a partir de un punto concreto de la transacción.",
+      "Permite escribir en ficheros de log a partir de un punto definido en la transacción.",
+      "Permite marcar un punto de recuperación en una transacción para poder revertirla hasta dicho punto mediante ROLLBACK."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 13,
+     "text": "El núcleo del desarrollo se pretende realizar en PHP, mediante el framework Laravel, ¿qué motor de persistencia de datos utiliza dicho framework?",
+     "options": [
+      "Eloquent",
+      "SQLAlchemy",
+      "iBATIS",
+      "Web2py"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 14,
+     "text": "Indique qué realiza el siguiente fragmento de código PHP\n\n```php\n<?php\n$psswd = substr(str_shuffle(\"0123abcd\"), 0, $length=5);\necho $psswd;\n?>\n```",
+     "options": [
+      "Genera y muestra una contraseña aleatoria formada por 8 caracteres donde los caracteres pueden repetirse.",
+      "Genera y muestra una contraseña aleatoria formada por 8 caracteres donde los caracteres no pueden repetirse.",
+      "Genera y muestra una contraseña aleatoria formada por 5 caracteres donde los caracteres pueden repetirse.",
+      "Genera y muestra una contraseña aleatoria formada por 5 caracteres donde los caracteres no pueden repetirse."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 15,
+     "text": "Durante el diseño del código PHP se encuentra declarado un array con valores. Se precisa almacenar la longitud del mismo. ¿Cómo lo haría?",
+     "options": [
+      "`$longitud = long($array);`",
+      "`$longitud = calculate($array);`",
+      "`$longitud = count($array);`",
+      "`$longitud = range($array);`"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 16,
+     "text": "Si además está recorriendo un array y quiere mostrar los valores, ¿cuál sería la instrucción correcta?",
+     "options": [
+      "`echo \"Posición \" + $i + \": \" + $array[$i] . \"\\n\";`",
+      "`echo \"Posición \" & $i & \": \" & $array[$i] & \"\\n\";`",
+      "`echo \"Posición \" . $i . \": \" . $array[$i] . \"\\n\";`",
+      "`echo \"Posición \".concat($i).concat(\": \").concat($array[$i]).concat(\"\\n\");`"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 17,
+     "text": "Se le pide incorporar el tratamiento de Sr/Sra, pero en el formulario de inscripción a actividades formativas no está incluido el sexo del ciudadano. ¿Qué clase de PHP utilizaría para determinar automáticamente el género a partir del nombre del ciudadano?",
+     "options": [
+      "Mediante un algoritmo que ofrece el framework Laravel que permite ir aprendiendo y así crear una base de datos de nombres propios asociados a su género.",
+      "Utilizando la clase Gender.",
+      "Utilizando la clase Person.",
+      "Utilizando la clase Genre."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 18,
+     "text": "Se está planteando sustituir el framework de desarrollo. ¿Qué otro framework de PHP se podría utilizar?",
+     "options": [
+      "Flask",
+      "Symfony",
+      "Django",
+      "Vaadin"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 19,
+     "text": "En los módulos desarrollados en JAVA, se plantea como nuevo requisito realizar el registro de trazas a un fichero de logs. Indique qué librería podría utilizar en Java para ello:",
+     "options": [
+      "log4j",
+      "logTrack",
+      "track4j",
+      "Nlog"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 20,
+     "text": "La gestión de errores y excepciones se considera una tarea fundamental. De entre las siguientes, ¿cuál es la clase de la que heredan todas las excepciones Java?",
+     "options": [
+      "Error",
+      "Exception",
+      "Throwable",
+      "RuntimeException"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 21,
+     "text": "Indique qué número hay que pasar como parámetro a la siguiente función Java para que produzca como salida el número 8\n\n```java\nint secuencia(int n){\nif(n==1 || n==2) return 1;\nelse return secuencia(n-1)+secuencia(n-2);\n}\n```",
+     "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 22,
+     "text": "En su organismo se está planteando el uso de servicios web y arquitecturas REST. En este último tipo de arquitecturas, si recibimos una respuesta HTTP con un código de estado 200, ¿qué significa?",
+     "options": [
+      "Que la petición ha sido completada correctamente.",
+      "Que el recurso de la petición no ha sido encontrado.",
+      "Que la petición contiene una sintaxis incorrecta o no puede procesarse.",
+      "Que el servidor ha fallado."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 23,
+     "text": "Considerando el siguiente fragmento de código en el lenguaje C# en .Net y, asumiendo que la cadena de conexión (cadena) está declarada y es correcta y que se han importado las clases necesarias, ¿cuál sería la instrucción en el código que le permitirá posteriormente ejecutar la consulta almacenada en la variable query?\n\n```csharp\nMySqlConnection conn = new MySqlConnection(cadena);\nstring query = “Select * from Inscripcion”;\nconn.Open();\n```",
+     "options": [
+      "`$resultado = mysqli_query( $conn, $query);`",
+      "`MySqlCommand resultado = new MySqlCommand (query, conn);`",
+      "`resultado = stm.executeQuery(query);`",
+      "`resultado = conn.query(query);`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 24,
+     "text": "Le preguntan que indique la utilidad de los namespaces (espacios de nombres) en .Net:",
+     "options": [
+      "Es un mecanismo para proteger las clases, garantizando el encapsulamiento de las mismas.",
+      "Es un mecanismo para reflejar las propiedades de acceso de cada clase.",
+      "No existe tal concepto.",
+      "Es un mecanismo para organizar clases."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 25,
+     "text": "Le piden convertir un valor de tipo string a tipo fecha. Indique con qué método de C# lo realizaría:",
+     "options": [
+      "Parse",
+      "To_date",
+      "String2Date",
+      "ToDate"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 26,
+     "text": "Le preguntan acerca de cómo mejorar el diseño del código. La programación orientada a aspectos (POA), entre otros, intenta solventar el problema de código disperso (scattered code). ¿En qué consiste este problema?",
+     "options": [
+      "Código mal diseñado y difícil de mantener.",
+      "Código de un módulo que implementa varios comportamientos o aspectos del sistema de forma simultánea.",
+      "Código distribuido y duplicado por toda o gran parte de la aplicación para definir un comportamiento o aspecto transversal.",
+      "Código que apunta a direcciones de memoria diferentes mediante punteros."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 27,
+     "text": "Le piden que indique un framework para aplicar programación orientada a aspectos (POA) en .Net. ¿Cuál de los siguientes sería una opción?",
+     "options": [
+      "Spring Framework",
+      "Aspyct",
+      "PostSharp",
+      "AspectJ"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 28,
+     "text": "En su Unidad se realizan diagramas UML. ¿Qué diagrama muestra las interacciones entre los participantes, haciendo especial énfasis en la secuencia de mensajes?",
+     "options": [
+      "Diagrama de secuencia.",
+      "Diagrama de comunicación.",
+      "Diagrama de estado.",
+      "Diagrama de tiempo."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 29,
+     "text": "Tiene ya el sistema preparado. Según la metodología Métrica v3, ¿qué tipo de pruebas son las que permiten verificar el correcto funcionamiento integrado de hardware y software en el entorno de operación y permitir al usuario que, desde el punto de vista de operación, realice la aceptación del sistema una vez instalado en su entorno real?",
+     "options": [
+      "Pruebas de integración.",
+      "Pruebas de implantación.",
+      "Pruebas de aceptación.",
+      "Pruebas de regresión."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 30,
+     "text": "El sistema de información se ha puesto en producción pero tiene una brecha de seguridad de la que no somos conscientes, ni nosotros, ni las empresas de antivirus. Se trata de una:",
+     "options": [
+      "Vulnerabilidad por debilidad acrónima.",
+      "Deficiencia corruptiva.",
+      "Vulnerabilidad de día cero.",
+      "Debilidad de desarrollo temprano."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    }
+   ],
+   "reserve": [
+    {
+     "number": 1,
+     "text": "En el lenguaje Java, la clase raíz de toda la jerarquía de clases es:",
+     "options": [
+      "Main",
+      "Bundle",
+      "Object",
+      "Super"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 2,
+     "text": "Indique cuál es el IDE (Integrated Development Environment) de Microsoft para el desarrollo basado en su tecnología:",
+     "options": [
+      "Microsoft Sublime Text.",
+      "Microsoft Visual Studio.",
+      "Microsoft NetBeans.",
+      "Microsoft CodeLite."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 3,
+     "text": "Si quisiera utilizar un lenguaje multiparadigma en .Net, ¿cuál de los siguientes utilizaría?",
+     "options": [
+      "C#",
+      "G#",
+      "Cloos",
+      "F#"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 4,
+     "text": "Como requisito de seguridad, se desea que el campo contraseña esté formado por 6 o más caracteres y tenga al menos un número, una letra en minúscula y una letra en mayúscula, sin tener un orden establecido. ¿Qué tipo de validación implementaría para soportarlo?",
+     "options": [
+      "`pattern=\"([0-9]+[a-z]+[A-Z]).{6,}\"`",
+      "`pattern=\"([0-9][a-z][A-Z]).{6}\"`",
+      "`pattern=\"(0-9a-zA-Z).{6}”`",
+      "`pattern=\"(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{6,}\"`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 5,
+     "text": "¿Qué comando utilizaría para crear un proyecto llamado ‘agencia’ con el framework Laravel?",
+     "options": [
+      "`new project agencia`",
+      "`php-composer create-project agencia`",
+      "`composer create-project --prefer-dist laravel/laravel agencia`",
+      "`php archetype:create project agencia`"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    }
+   ]
+  },
+  {
+   "id": "p2-s2",
+   "part": 2,
+   "kind": "case",
+   "title": "Segundo ejercicio · Supuesto del bloque IV",
+   "block": "IV",
+   "statement": "La Dirección General en la que usted presta servicios tiene adscritas cuatro Direcciones Territoriales, de las cuales, dispone de un CPD en el que año tras año se han ido realizando tareas de modernización, de cara a dar un servicio mejor al ciudadano.\n\nSe le pide que defina y ejecute una serie de tareas que deberá acometer para seguir mejorando el CPD de la Dirección Territorial mencionada anteriormente.\n\nEn lo que respecta a la red de servidores, está completamente virtualizada.\n\nSe ha asignado la red 172.30.23.0/20 (con el nombre interno “RED001”) para las máquinas virtuales que forman parte del sistema de virtualización. Lamentablemente, no existe documentación alguna acerca de la configuración de red, por lo que se deberá recabar toda la información posible tanto de los sistemas como del conocimiento teórico en redes del que dispone.\n\nLos servidores virtuales Linux, \"server\", \"s1\", \"s2\", a los que hace referencia el supuesto, cuentan con una distribución Debian GNU/Linux, versión 10, y kernel Linux: \"4.19.0-5-amd64\".\n\nSu Dirección General le pide configurar y administrar los mismos usando para ello Salt (Saltstack), APT y Docker.\n\nLos funcionarios de la Dirección Territorial, para el trabajo que realizan fuera de las oficinas, disponen de un portátil con Windows 10 Home, versión 1803 y un portátil con sistema macOS Mojave, versión 10.14.6.\n\nSalvo que el enunciado de la propia pregunta diga lo contrario, se debe suponer que las preguntas referidas a entorno Linux serán referente a uno de los servidores Debian GNU/Linux del CPD descrito, que además dispone de los permisos adecuados, tanto a nivel de sistema operativo como de conexión de red. En el caso de los portátiles con Windows y macOS, también se debe suponer que dispone de los permisos correspondientes.",
+   "media": [],
+   "questions": [
+    {
+     "number": 1,
+     "text": "En lo que respecta a la red \"RED001\", 172.30.23.0/20, ¿a qué clase de red pertenece?",
+     "options": [
+      "Clase A",
+      "Clase B",
+      "Clase C",
+      "Clase D"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 2,
+     "text": "Le piden saber cuántos host están disponibles para su uso en la red \"RED001\", 172.30.23.0/20",
+     "options": [
+      "1022",
+      "2048",
+      "2046",
+      "4094"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 3,
+     "text": "¿Cuál es la dirección de broadcast de la red \"RED001\", 172.30.23.0/20?",
+     "options": [
+      "172.30.31.255",
+      "172.30.255.255",
+      "172.30.23.255",
+      "172.30.14.255"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 4,
+     "text": "Le han pedido como técnico realizar un cableado Ethernet en los nuevos despachos. Debe ser de una velocidad de hasta 10 Gbps, a una distancia máxima de 100 metros y frecuencia de hasta 500 MHz. Según el estándar ANSI/EIA/TIA-568-C, ¿qué categoría de cable UTP recomendaría?",
+     "options": [
+      "Cat 5",
+      "Cat 5e",
+      "Cat 6",
+      "Cat 6a"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 5,
+     "text": "Debe comprobar si se está ejecutando \"systemd\", para ello decide obtener su ID de proceso en ejecución. Desde la línea de comandos en el servidor Debian GNU/Linux, ¿qué comando usaría?",
+     "options": [
+      "`pidof systemd`",
+      "`pid systemd`",
+      "`getpid systemd`",
+      "`apt --get-pid systemd`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 6,
+     "text": "Le piden el nombre de la máquina Linux a la que está conectado, ¿cuál sería el comando para obtenerlo?",
+     "options": [
+      "`servername`",
+      "`hostname`",
+      "`sysname`",
+      "`giveservername`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 7,
+     "text": "Le piden obtener de forma remota la información de los usuarios conectados a la máquina llamada s1, siendo \"u\" un usuario válido en el sistema y con permisos de acceso remoto. ¿Cómo lo haría?",
+     "options": [
+      "`ssh u@s1 'who'`",
+      "`ssh u:s1 'who'`",
+      "`ssh s1 --login u 'who'`",
+      "`ssh --user=u --command='who' s1`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 8,
+     "text": "Necesita conocer la ip del servidor en el que está conectado, pero descubre que el comando ifconfig ya no viene instalado por defecto y en su lugar debe usar otra opción. ¿Qué debe ejecutar para obtener la ip del servidor?",
+     "options": [
+      "`if`",
+      "`systemctl interfaces`",
+      "`interfaces`",
+      "`ip address`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 9,
+     "text": "Si quisiera usar en Debian el comando ifconfig, debería instalar el paquete net-tools, actualmente no instalado. Con los permisos adecuados, ¿cómo lo haría?",
+     "options": [
+      "`apt-get update net-tools`",
+      "`apt install net-tools`",
+      "`apt-cache install net-tools`",
+      "`dpkg -install net-tools`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 10,
+     "text": "En Linux, indique como buscar los paquetes disponibles de salt:",
+     "options": [
+      "`apt-cache search salt`",
+      "`apt find salt`",
+      "`dpkg-give salt`",
+      "`apt-mark find salt`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 11,
+     "text": "En el servidor que hace de rol de master de Salt está la instalación de los paquetes, salt-master, salt-ssh y salt-doc y en los servidores que hacen los roles de minion está instalado el paquete salt-minion. Desde el servidor con rol master, y mediante el uso de comandos de Salt, ¿cómo podría copiar un archivo que está en la ruta actual llamado \"fichero.txt\", a la carpeta \"/tmp\" de todos los minions del sistema?",
+     "options": [
+      "`salt-cp '*' fichero.txt /tmp`",
+      "`salt-copy fichero.txt tmp`",
+      "`salt --disk.copy fichero.txt all:/tmp`",
+      "`salt --all disk.copy fichero.txt /tmp`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 12,
+     "text": "Mediante el uso de comandos de Salt, ¿cómo podría obtener el uso de disco de todos los minions del sistema?",
+     "options": [
+      "`salt '*' disk.usage`",
+      "`salt --all disk.usage`",
+      "`salt --disk.usage all`",
+      "`salt-query '*' disk.info`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 13,
+     "text": "Ha detectado que uno de los servidores no tiene instalado salt-minion, desde el propio servidor debe comprobar de forma manual cuál es la versión del paquete nginx instalado. ¿Cuál sería la orden a ejecutar para obtener dicha versión?",
+     "options": [
+      "`dpkg --show nginx`",
+      "`apt-cache show nginx | grep Version`",
+      "`dpkg --get-selections | grep nginx`",
+      "`apt show nginx -v`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 14,
+     "text": "En la instalación de Docker se ha creado un grupo llamado \"docker\", con usuarios que necesiten ejecutar comandos de Docker. Siendo \"udocker\" un usuario ya creado, ¿cómo añadiría este usuario a dicho grupo?",
+     "options": [
+      "`usermod -a -G docker udocker`",
+      "`useradd -G docker udocker`",
+      "Editando el fichero /var/group y añadiendo \":udocker\" al final de la línea donde está el grupo \"docker\".",
+      "Editando el fichero /etc/passwd y añadiendo \":udocker\" al final de la línea donde está el grupo \"docker\"."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 15,
+     "text": "Le piden chequear el funcionamiento de Docker, para ello debe listar todos los contenedores en ejecución. ¿Qué debe ejecutar?",
+     "options": [
+      "`docker --list`",
+      "`docker list`",
+      "`docker containers ls`",
+      "`docker ps`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 16,
+     "text": "Dado el identificador de contenedor \"4d78338ee766\" y que está en ejecución, ¿qué orden de Docker necesita ejecutar para detenerlo?",
+     "options": [
+      "`docker stop 4d78338ee766`",
+      "`docker shutdown 4d78338ee766`",
+      "`docker rm 4d78338ee766`",
+      "`docker undeploy 4d78338ee766`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 17,
+     "text": "Desde Docker se le pide buscar una imagen de Jenkins contenida en \"Docker Hub\". ¿Qué comando usaría?",
+     "options": [
+      "`docker find jenkins`",
+      "`docker show jenkins`",
+      "`docker search jenkins`",
+      "`docker --find jenkins`"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 18,
+     "text": "En la web de CCN-CERT hay un aviso de vulnerabilidad que afecta a algunas distribuciones Debian, y necesita saber si está afectado o no. De entre las siguientes opciones elija la afirmación verdadera:",
+     "options": [
+      "La distribución estable es Debian 10 \"etch\" y la antigua estable es Debian 9 \"lenny\".",
+      "La distribución estable es Debian 10 \"woody\", y la antigua estable es Debian 9 \"sarge\".",
+      "La distribución estable es Debian 10 \"jessie\" y la antigua estable es Debian 9 \"potato\".",
+      "La distribución estable es Debian 10 \"buster\" y la antigua estable es Debian 9 \"stretch\"."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 19,
+     "text": "También ha habido una notificación de una amenaza llamada Defacement o Deface (Desfiguración/Desfigurar), ¿a qué hace referencia?",
+     "options": [
+      "Ataque que busca modificar cuentas de una red social.",
+      "Ataque que busca obtener información personal o confidencial de los usuarios para poder cambiarla.",
+      "Ataque sobre un servidor web como consecuencia del cual se cambia su apariencia.",
+      "Ataque sobre el archivo del servidor de nombres de dominio cambiando la dirección IP legítima."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 20,
+     "text": "Se van a necesitar redes privadas virtuales y uno de los factores claves debido a la sensibilidad de los datos es la confidencialidad. ¿Cómo puede garantizarla?",
+     "options": [
+      "Mediante una correcta gestión de usuarios.",
+      "Mediante funciones HASH.",
+      "No se puede garantizar.",
+      "Mediante un algoritmo de cifrado como AES."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 21,
+     "text": "Le piden configurar la recepción de los correos electrónicos. De entre los siguientes, escoja el tipo de registro DNS necesario para ello:",
+     "options": [
+      "A",
+      "MX",
+      "CNAME",
+      "TXT"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 22,
+     "text": "El departamento de seguridad necesita conocer los puertos por defecto que usan diferentes gestores de base de datos. Indique cuál es una afirmación correcta.",
+     "options": [
+      "El puerto por defecto que usa Postgresql es 1521.",
+      "El puerto por defecto que usa Sql Server es 1433.",
+      "El puerto por defecto que usa MongoDB es 9042",
+      "El puerto por defecto que usa Oracle es el 5432."
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 23,
+     "text": "Se está definiendo un plan de continuidad, y en la estrategia para la recuperación ante desastres y sus mecanismos de respaldo, se le pregunta qué es el \"RTO\":",
+     "options": [
+      "Establece un tiempo máximo de pérdida de información.",
+      "Establece un tiempo mínimo de pérdida de información.",
+      "Establece el nivel de servicio que un cliente espera de su proveedor.",
+      "Establece el tiempo máximo que un servicio puede permanecer interrumpido."
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 24,
+     "text": "Referente a la plataforma VMWARE, ¿qué solución le permite realizar backups de las máquinas virtuales?",
+     "options": [
+      "Veeam Backup & Replication.",
+      "Oracle Acronis Director.",
+      "Hadoop Recover.",
+      "ReactiveX."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 25,
+     "text": "Se está estudiando la posibilidad de implantar una solución MDM (Mobile Device Management) que permita la administración de dispositivos móviles. Indique cuál de las siguientes es una posible solución a evaluar:",
+     "options": [
+      "Panda Security Rollback.",
+      "NBSecurity",
+      "MobileIron",
+      "Symantec Endpoint Mobile."
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 26,
+     "text": "En el puesto cliente Windows 10 mediante Windows PowerShell, ¿cuál es el comando (cmdlet) para obtener información acerca de los procesos del equipo local?",
+     "options": [
+      "`Get-List-Process`",
+      "`Get-Process`",
+      "`Get-Item`",
+      "`Get-Commands`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 27,
+     "text": "También mediante Windows PowerShell, es necesario copiar una carpeta y su contenido, llamada \"carpeta\", a un directorio vacío y existente, llamado \"destino\". Considerando que ambas carpetas están en la ruta actual, ¿cuál sería el comando que ejecutaría?",
+     "options": [
+      "`Copy-Item \"carpeta\" -Destination \"destino\" -Recurse`",
+      "`Copy-Directory \"carpeta\" -Destination \"destino\"`",
+      "`Copy-Contents \"carpeta\" -Destination \"destino\"`",
+      "`Copy “carpeta” “destino” -Recursive`"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 28,
+     "text": "En la carpeta actual, en el mismo equipo Windows 10, se ha encontrado con ficheros con extensión incorrecta. Desde el símbolo del sistema (cmd) debe renombrar todo fichero con extensión \"gz\" a extensión \"rar\". ¿Cuál opción de las siguientes sería la correcta?",
+     "options": [
+      "`change *.gz *.rar`",
+      "`move *.gz *.rar`",
+      "`convert *.gz *.rar`",
+      "`ren *.gz *.rar`"
+     ],
+     "answer": "D",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 29,
+     "text": "Respecto a la seguridad en el puesto cliente macOS, ¿qué tecnología proporciona capacidades de cifrado para la totalidad del sistema de almacenamiento principal o disco duro del equipo?",
+     "options": [
+      "FileVault",
+      "Trello",
+      "Finder",
+      "Gatekeeper"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 30,
+     "text": "De entre los siguientes, ¿qué protocolo permite realizar la validación de certificados digitales?",
+     "options": [
+      "Online Certificate Status Protocol (OCSP).",
+      "Certificate Reject List Protocol (CRLP).",
+      "Domain Name System Security Certificate Protocol (DNSSECP).",
+      "Hash-based Message Authentication Certificate Protocol (HMACP)."
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    }
+   ],
+   "reserve": [
+    {
+     "number": 1,
+     "text": "¿Qué red es un conjunto de infraestructuras de comunicaciones y servicios básicos que conecta las redes de las Administraciones Públicas Españolas e Instituciones Europeas facilitando el intercambio de información y el acceso a los servicios?",
+     "options": [
+      "STORK",
+      "DIR3",
+      "SARA",
+      "ORVE"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 2,
+     "text": "¿Cuál sería la primera IP disponible para asignar a un host en la red \"RED001\", 172.30.23.0/20 ?",
+     "options": [
+      "172.30.8.0",
+      "172.30.14.1",
+      "172.30.16.1",
+      "172.30.23.1"
+     ],
+     "answer": "C",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 3,
+     "text": "¿Cómo podría ver en \"Docker Hub\" las imágenes disponibles?",
+     "options": [
+      "`docker show images`",
+      "`docker images`",
+      "`docker list`",
+      "`docker list-images`"
+     ],
+     "answer": "B",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 4,
+     "text": "En un equipo con Windows 10, y mediante el uso del símbolo del sistema (cmd), ¿cómo obtendría la lista de procesos que se están ejecutando en un equipo local o remoto?",
+     "options": [
+      "tasklist",
+      "Sólo es posible obtener la información de procesos en ejecución para equipos remotos mediante PowerShell.",
+      "pslist",
+      "tree"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    },
+    {
+     "number": 5,
+     "text": "En el contexto de los servidores SMTP de una organización. ¿Qué medida, de entre las siguientes, sería la más adecuada para protegerse frente a ciberataques?",
+     "options": [
+      "SPF",
+      "Grafana",
+      "XiaoBa",
+      "Emotet"
+     ],
+     "answer": "A",
+     "annulled": false,
+     "media": []
+    }
+   ]
+  }
+ ]
+}

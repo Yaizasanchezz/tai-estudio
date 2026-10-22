@@ -298,9 +298,13 @@ def build_examenes() -> None:
     exams = []
     for f in sorted(folder.glob("*.json")):
         ex = read_json(f)
+        ex["notas_html"] = inline_md(ex.get("notas", "")) if ex.get("notas") else ""
         for parte in ex.get("partes", []):
+            parte["descripcion_html"] = wrap_tables(inline_md(parte.get("descripcion", ""))) if parte.get("descripcion") else ""
             for q in parte.get("preguntas", []):
-                q["explicacion_html"] = inline_md(q.get("explicacion", ""))
+                q["explicacion_html"] = wrap_tables(inline_md(q.get("explicacion", "")))
+                q["pregunta_html"] = wrap_tables(inline_md(q.get("pregunta", "")))
+                q["opciones"] = [inline_md(o) for o in q.get("opciones", [])]
         exams.append(ex)
     exams.sort(key=lambda e: e.get("orden", 99))
     for ex in exams:
@@ -309,7 +313,7 @@ def build_examenes() -> None:
         render("examen.html", url, ex=ex)
         for parte in ex.get("partes", []):
             for q in parte.get("preguntas", []):
-                SEARCH.append({"t": ex["titulo"], "s": f"{parte['titulo']} · pregunta {q['n']}: {q.get('tema', '')}",
+                SEARCH.append({"t": ex["titulo"], "s": f"{parte['titulo']} · pregunta {q['n']}: {q.get('tema', '')} · {q.get('pregunta', '')}",
                                "u": f"{BASE}{url}#{parte['id']}-{q['n']}", "k": "Exámenes",
                                "x": squash(strip_tags(q["explicacion_html"]))[:300]})
     render("examenes.html", "examenes/", exams=exams)

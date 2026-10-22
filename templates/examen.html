@@ -9,60 +9,67 @@
 
 <div class="two-col exam-top">
   <section class="card">
-    <h2>Documentos oficiales</h2>
-    <ul class="doc-links">
-      {% for e in ex.enlaces %}<li><a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.texto }} ↗</a></li>{% endfor %}
-    </ul>
-    {% if ex.notas %}<div class="notice small">{{ ex.notas }}</div>{% endif %}
+    <h2>Cómo hacerlo</h2>
+    <ol class="exam-how">
+      <li>Pon un temporizador de <strong>{{ ex.duracion or '120 minutos' }}</strong>.</li>
+      <li>Haz la <strong>primera parte</strong> y <strong>uno de los dos supuestos</strong>, como en el examen real. Las reservas solo cuentan si se anula alguna pregunta.</li>
+      <li>Pulsa la letra que elijas en cada pregunta (se guarda en este dispositivo). Si dudas mucho, déjala en blanco: los errores restan.</li>
+      <li>Al terminar cada parte pulsa <strong>«Corregir»</strong>: verás tu nota y las explicaciones.</li>
+    </ol>
+    {% if ex.notas %}<div class="notice small">{{ ex.notas_html|safe }}</div>{% endif %}
   </section>
   <section class="card card-accent">
     <h2>Datos del examen</h2>
     <ul class="plain">
       <li><strong>Fecha:</strong> {{ ex.fecha }}</li>
       {% if ex.duracion %}<li><strong>Duración:</strong> {{ ex.duracion }}</li>{% endif %}
-      {% for parte in ex.partes %}<li><strong>{{ parte.titulo }}:</strong> {{ parte.preguntas|length }} preguntas</li>{% endfor %}
+      {% for parte in ex.partes %}<li><a href="#{{ parte.id }}">{{ parte.titulo }}</a>: {{ parte.preguntas|length }} preguntas</li>{% endfor %}
       <li><strong>Penalización:</strong> {{ ex.penalizacion or 'cada error resta 1/3 de un acierto' }}</li>
+    </ul>
+    <h3 class="small-h">Documentos oficiales</h3>
+    <ul class="doc-links">
+      {% for e in ex.enlaces %}<li><a href="{{ e.url }}" target="_blank" rel="noopener">{{ e.texto }} ↗</a></li>{% endfor %}
     </ul>
   </section>
 </div>
 
 {% for parte in ex.partes %}
 <section class="card exam-part" id="{{ parte.id }}" data-exam-part="{{ ex.slug }}-{{ parte.id }}" data-penalty="{{ ex.penalizacion_factor or 0.3333333 }}">
-  <h2>{{ parte.titulo }}</h2>
-  {% if parte.descripcion %}<p class="muted">{{ parte.descripcion }}</p>{% endif %}
+  <div class="xp-head">
+    <h2>{{ parte.titulo }}</h2>
+    <p class="xp-progress" data-progress>0 / {{ parte.preguntas|length }} contestadas</p>
+  </div>
+  {% if parte.descripcion_html %}<div class="exam-scenario">{{ parte.descripcion_html|safe }}</div>{% endif %}
 
-  <details class="grader">
-    <summary>Corrige tus respuestas de esta parte</summary>
-    <p class="muted small">Marca la letra que elegiste en cada pregunta (deja en blanco las que no contestaste) y pulsa «Corregir». Se guarda en este dispositivo.</p>
-    <div class="grader-grid">
-      {% for q in parte.preguntas %}
-      <div class="g-row" data-n="{{ q.n }}" data-key="{{ q.respuesta }}">
-        <span class="g-n">{{ q.n }}</span>
-        {% for l in ['a','b','c','d'] %}<button type="button" class="g-opt" data-l="{{ l }}">{{ l }}</button>{% endfor %}
-      </div>
-      {% endfor %}
-    </div>
-    <div class="grader-actions">
-      <button class="btn btn-primary" data-grade>Corregir</button>
-      <button class="btn" data-grade-clear>Borrar respuestas</button>
-      <p class="grade-out" data-grade-out></p>
-    </div>
-  </details>
-
-  <div class="table-wrap">
-    <table class="answers">
-      <thead><tr><th>Nº</th><th>Tema</th><th>Respuesta</th><th>Explicación</th></tr></thead>
-      <tbody>
-        {% for q in parte.preguntas %}
-        <tr id="{{ parte.id }}-{{ q.n }}"{% if q.respuesta == 'anulada' %} class="is-void"{% endif %}>
-          <td class="n">{{ q.n }}</td>
-          <td class="topic">{{ q.tema }}</td>
-          <td class="ans">{% if q.respuesta == 'anulada' %}<span class="pill pill-void">Anulada</span>{% else %}<span class="pill">{{ q.respuesta|upper }}</span>{% endif %}</td>
-          <td class="exp">{{ q.explicacion_html|safe }}</td>
-        </tr>
+  <div class="xq-list">
+    {% for q in parte.preguntas %}
+    <article class="xq{% if q.respuesta == 'anulada' %} is-void{% endif %}" id="{{ parte.id }}-{{ q.n }}" data-n="{{ q.n }}" data-key="{{ q.respuesta }}">
+      <header class="xq-head">
+        <span class="xq-n">{{ q.n }}</span>
+        <span class="xq-topic">{{ q.tema }}</span>
+        {% if q.respuesta == 'anulada' %}<span class="pill pill-void">Anulada</span>{% endif %}
+      </header>
+      <div class="xq-text">{{ q.pregunta_html|safe }}</div>
+      {% if q.opciones %}
+      <ol class="xq-opts" type="a">
+        {% for o in q.opciones %}
+        <li><button type="button" class="xq-opt" data-l="{{ 'abcd'[loop.index0] }}"><span class="xq-l">{{ 'abcd'[loop.index0] }}</span><span class="xq-o">{{ o|safe }}</span></button></li>
         {% endfor %}
-      </tbody>
-    </table>
+      </ol>
+      {% endif %}
+      <details class="xq-sol">
+        <summary>Ver respuesta y explicación</summary>
+        <p class="xq-key">{% if q.respuesta == 'anulada' %}Pregunta <strong>anulada</strong> por el tribunal.{% else %}Respuesta correcta: <span class="pill">{{ q.respuesta|upper }}</span>{% endif %}</p>
+        <div class="xq-exp">{{ q.explicacion_html|safe }}</div>
+      </details>
+    </article>
+    {% endfor %}
+  </div>
+
+  <div class="grader-actions">
+    <button class="btn btn-primary" data-grade>Corregir esta parte</button>
+    <button class="btn" data-grade-clear>Borrar mis respuestas</button>
+    <p class="grade-out" data-grade-out></p>
   </div>
 </section>
 {% endfor %}

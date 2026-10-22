@@ -519,23 +519,48 @@ tbody tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transpa
 .exam-meta { list-style: none; padding: 0; margin: 0; font-size: .9rem; color: var(--text-soft); min-width: 200px; }
 .exam-top { margin-bottom: 22px; }
 .doc-links { padding-left: 1.2em; }
-.answers td.n { font-weight: 800; white-space: nowrap; }
-.answers td.topic { min-width: 160px; color: var(--text-soft); font-weight: 700; }
-.answers td.ans { white-space: nowrap; }
-.answers td.exp { min-width: 280px; }
-.answers tr.is-void td { opacity: .75; }
-.answers tr:target td { background: var(--primary-soft); }
-.grader { background: var(--surface-2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 10px 16px; margin: 0 0 18px; }
-.grader summary { cursor: pointer; font-weight: 800; color: var(--primary-strong); }
-[data-theme="dark"] .grader summary { color: var(--primary); }
-.grader-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(178px, 1fr)); gap: 6px 14px; margin: 12px 0; }
-.g-row { display: flex; align-items: center; gap: 4px; }
-.g-n { width: 28px; font-weight: 800; font-size: .85rem; color: var(--muted); text-align: right; margin-right: 4px; }
-.g-opt { width: 30px; height: 30px; border-radius: 8px; border: 1.5px solid var(--border-strong); background: var(--surface); font: inherit; font-weight: 800; font-size: .82rem; cursor: pointer; color: var(--text-soft); text-transform: lowercase; }
-.g-opt.is-on { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
-.g-row.is-ok .g-opt.is-on { background: var(--good); border-color: var(--good); color: #fff; }
-.g-row.is-ko .g-opt.is-on { background: var(--bad); border-color: var(--bad); color: #fff; }
-.g-row.show-key .g-opt.is-key { border-color: var(--good); box-shadow: inset 0 0 0 2px var(--good); }
+.exam-how { padding-left: 1.3em; margin: 0 0 12px; }
+.exam-how li { margin-bottom: 4px; }
+.small-h { font-size: 1rem; margin: 16px 0 6px; font-family: var(--font-body); font-weight: 800; }
+.xp-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 16px; }
+.xp-head h2 { margin-bottom: .3em; }
+.xp-progress { margin: 0; font-size: .88rem; font-weight: 800; color: var(--muted); }
+.exam-scenario { background: var(--surface-2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 14px 18px; margin: 6px 0 18px; line-height: 1.6; font-size: .97rem; }
+.exam-scenario img { display: block; max-width: 100%; height: auto; margin: 10px auto; border-radius: 8px; background: #fff; border: 1px solid var(--border); }
+.exam-scenario table { font-size: .88rem; }
+.exam-scenario p:last-child { margin-bottom: 0; }
+.xq-list { display: flex; flex-direction: column; gap: 12px; margin-bottom: 18px; }
+.xq { border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 14px 16px; background: var(--surface); scroll-margin-top: 80px; }
+.xq:target { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-soft); }
+.xq-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 6px; }
+.xq-n { min-width: 28px; height: 28px; padding: 0 6px; border-radius: 8px; background: var(--primary-soft); color: var(--primary-strong); font-weight: 800; font-size: .85rem; display: inline-flex; align-items: center; justify-content: center; }
+[data-theme="dark"] .xq-n { color: var(--primary); }
+.xq-topic { font-size: .8rem; font-weight: 800; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.xq-text { font-weight: 600; margin-bottom: 8px; overflow-wrap: anywhere; }
+.xq-text p { margin: 0 0 .5em; }
+.xq-text pre, .xq-o pre, .xq-exp pre { font-size: .82rem; overflow-x: auto; }
+.xq-opts { list-style: none; padding: 0; margin: 0 0 8px; display: flex; flex-direction: column; gap: 6px; }
+.xq-opt { width: 100%; display: flex; align-items: flex-start; gap: 10px; text-align: left; padding: 8px 12px; border-radius: 10px; border: 1.5px solid var(--border); background: var(--surface-2); font: inherit; font-size: .95rem; color: var(--text); cursor: pointer; transition: border-color .12s, background .12s; }
+.xq-opt:hover { border-color: var(--primary); }
+.xq-l { flex: none; width: 24px; height: 24px; border-radius: 7px; border: 1.5px solid var(--border-strong); display: inline-flex; align-items: center; justify-content: center; font-weight: 800; font-size: .8rem; color: var(--text-soft); background: var(--surface); }
+.xq-o { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.xq-o p { margin: 0; }
+.xq-o code, .xq-text code { font-size: .86em; }
+.xq-opt.is-on { border-color: var(--primary); background: var(--primary-soft); }
+.xq-opt.is-on .xq-l { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
+.is-graded .xq-opt.is-key { border-color: var(--good); background: color-mix(in srgb, var(--good) 14%, var(--surface)); }
+.is-graded .xq-opt.is-key .xq-l { background: var(--good); border-color: var(--good); color: #fff; }
+.is-graded .xq-opt.is-wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--surface)); }
+.is-graded .xq-opt.is-wrong .xq-l { background: var(--bad); border-color: var(--bad); color: #fff; }
+.xq.is-ok { border-color: color-mix(in srgb, var(--good) 55%, var(--border)); }
+.xq.is-ko { border-color: color-mix(in srgb, var(--bad) 55%, var(--border)); }
+.xq.is-void { opacity: .8; }
+.xq-sol summary { cursor: pointer; font-weight: 800; font-size: .9rem; color: var(--primary-strong); }
+[data-theme="dark"] .xq-sol summary { color: var(--primary); }
+.xq-sol[open] { background: var(--surface-2); border-radius: 10px; padding: 8px 12px; margin-top: 4px; }
+.xq-key { margin: 8px 0 4px; }
+.xq-exp { font-size: .95rem; line-height: 1.6; overflow-wrap: anywhere; }
+.xq-exp p { margin: 0 0 .5em; }
 .grader-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
 .grade-out { margin: 0; font-weight: 800; }
 
@@ -575,3 +600,5 @@ tbody tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transpa
   body { background: #fff; color: #000; font-size: 12pt; }
   .card, .q-card { box-shadow: none; }
 }
+.answers .q-text { margin: 0 0 .35em; font-weight: 600; color: var(--text); }
+.exam-scenario { line-height: 1.6; }
