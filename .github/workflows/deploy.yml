@@ -30,13 +30,22 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
+      - name: ¿Hay que descargar el BOE?
+        id: decide
+        run: |
+          if [ "${{ github.event_name }}" != "push" ] || ! ls data/boe/*.json >/dev/null 2>&1; then
+            echo "fetch=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "fetch=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Descargar textos oficiales del BOE
-        if: github.event_name != 'push' || hashFiles('data/boe/*.json') == ''
+        if: steps.decide.outputs.fetch == 'true'
         run: python scripts/fetch_boe.py
         continue-on-error: true
 
       - name: Guardar los textos actualizados en el repositorio
-        if: github.event_name != 'push' || hashFiles('data/boe/*.json') == ''
+        if: steps.decide.outputs.fetch == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
