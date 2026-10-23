@@ -15,12 +15,15 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent.parent / "data" / "examenes"
+OUT_AUX = HERE.parent.parent / "data" / "aux" / "examenes"
 FUENTES = HERE / "fuentes"
 
 # id de parte del módulo -> (sección de la fuente, lista)
 MAP = {"p1": ("p1", "questions"), "r1": ("p1", "reserve"),
        "s1": ("p2-s1", "questions"), "rs1": ("p2-s1", "reserve"),
-       "s2": ("p2-s2", "questions"), "rs2": ("p2-s2", "reserve")}
+       "s2": ("p2-s2", "questions"), "rs2": ("p2-s2", "reserve"),
+       # Auxiliar Administrativo: dos partes sin supuestos
+       "p2": ("p2", "questions"), "r2": ("p2", "reserve")}
 
 
 def load(path: Path):
@@ -49,7 +52,8 @@ def clean_statement(text: str, fid: str) -> str:
 
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
-    for path in sorted(HERE.glob("tai_*.py")):
+    OUT_AUX.mkdir(parents=True, exist_ok=True)
+    for path in sorted(HERE.glob("tai_*.py")) + sorted(HERE.glob("aux_*.py")):
         mod = load(path)
         src = json.loads((FUENTES / f"{mod.FUENTE}.json").read_text(encoding="utf-8"))
         secs = {s["id"]: s for s in src["sections"]}
@@ -79,7 +83,7 @@ def main() -> None:
             if desc is None:
                 desc = clean_statement(sec.get("statement") or "", mod.FUENTE) if kind == "questions" else ""
             ex["partes"].append({"id": parte["id"], "titulo": parte["titulo"], "descripcion": desc, "preguntas": qs})
-        (OUT / f"{ex['slug']}.json").write_text(json.dumps(ex, ensure_ascii=False, indent=1), encoding="utf-8")
+        (OUT_AUX if path.name.startswith("aux_") else OUT).joinpath(f"{ex['slug']}.json").write_text(json.dumps(ex, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{ex['slug']}: {total} preguntas")
 
 

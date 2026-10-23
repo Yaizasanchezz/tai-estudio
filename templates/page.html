@@ -1,12 +1,12 @@
 {% extends "base.html" %}
-{% block title %}{{ page.title }} · TAI Estudio{% endblock %}
+{% block title %}{{ page.title }} · {{ brand }} Estudio{% endblock %}
 {% block description %}{{ page.meta.description or page.title }}{% endblock %}
 {% block mainclass %}main main-doc{% endblock %}
 {% block content %}
 <div class="doc-grid">
   <article class="doc" data-studied-scope="{{ studied_key }}">
     <nav class="crumbs" aria-label="Ruta">
-      <a href="{{ base }}">Inicio</a><span>›</span><a href="{{ base }}{{ section_url }}">{{ section }}</a>
+      <a href="{{ base }}{{ home_url|default("") }}" data-brand-link>Inicio</a><span>›</span><a href="{{ base }}{{ section_url }}">{{ section }}</a>
     </nav>
     <header class="doc-head">
       <h1>{{ page.title }}</h1>

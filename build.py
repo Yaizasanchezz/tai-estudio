@@ -158,6 +158,8 @@ ICONS = {
     "cards": '<rect x="6" y="3" width="14" height="16" rx="3"/><path d="M4 7v12a2 2 0 0 0 2 2h10"/>',
     "play": '<rect x="2.5" y="5" width="19" height="14" rx="4"/><path d="m10 9 5 3-5 3Z"/>',
     "external": '<path d="M14 4h6v6"/><path d="M20 4 10 14"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/>',
+    "brain": '<path d="M9 4a3 3 0 0 0-3 3 3 3 0 0 0-2 5 3 3 0 0 0 2 5 3 3 0 0 0 3 3h1V4Z"/><path d="M15 4a3 3 0 0 1 3 3 3 3 0 0 1 2 5 3 3 0 0 1-2 5 3 3 0 0 1-3 3h-1V4Z"/>',
+    "grid": '<rect x="3" y="3" width="18" height="18" rx="3"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/>',
 }
 
 NAV = [
@@ -171,7 +173,23 @@ NAV = [
     {"label": "Flashcards", "url": "flashcards/", "icon": "cards"},
     {"label": "YouTube", "url": "youtube/", "icon": "play"},
 ]
+NAV_AUX = [
+    {"label": "Inicio", "url": "auxiliar/", "icon": "home"},
+    {"label": "Temario", "url": "auxiliar/temario/", "icon": "book"},
+    {"label": "Constitución", "url": "constitucion/", "icon": "landmark"},
+    {"label": "Leyes", "url": "leyes/", "icon": "scale"},
+    {"label": "Tests", "url": "auxiliar/tests/", "icon": "check"},
+    {"label": "Psicotécnicos", "url": "auxiliar/psicotecnicos/", "icon": "brain"},
+    {"label": "Ofimática práctica", "url": "auxiliar/ofimatica/", "icon": "grid"},
+    {"label": "Exámenes resueltos", "url": "auxiliar/examenes/", "icon": "file"},
+    {"label": "Flashcards", "url": "auxiliar/flashcards/", "icon": "cards"},
+    {"label": "YouTube", "url": "auxiliar/youtube/", "icon": "play"},
+]
 OPOSITATEST_URL = "https://www.opositatest.com/oposiciones/cuerpo-de-tecnicos-auxiliares-de-informatica-de-la-administracion-del-estado/test"
+OPOSITATEST_AUX_URL = "https://www.opositatest.com/oposiciones/auxiliares-administrativos/test"
+
+# Rutas compartidas por las dos oposiciones (el menú lateral depende de la elegida).
+SHARED_PREFIXES = ("constitucion/", "leyes/")
 
 
 def icon(name: str, cls: str = "icon") -> str:
@@ -179,20 +197,34 @@ def icon(name: str, cls: str = "icon") -> str:
             f'stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{ICONS[name]}</svg>')
 
 
-env.globals.update(base=BASE, nav=NAV, icon=icon, build_id=BUILD_ID,
-                   opositatest_url=OPOSITATEST_URL, year=TODAY.year)
+env.globals.update(base=BASE, nav=NAV, nav_aux=NAV_AUX, icon=icon, build_id=BUILD_ID,
+                   opositatest_url=OPOSITATEST_URL, opositatest_aux_url=OPOSITATEST_AUX_URL, year=TODAY.year)
+
+
+def opo_of(rel_url: str) -> str:
+    if rel_url.startswith("auxiliar/"):
+        return "aux"
+    if rel_url.startswith(SHARED_PREFIXES):
+        return "shared"
+    return "tai"
+
+
+def active_in(nav: list[dict], rel_url: str) -> str:
+    active = ""
+    for item in nav:
+        if item["url"] and rel_url.startswith(item["url"]) and len(item["url"]) > len(active):
+            active = item["url"]
+    return active
 
 
 def render(template: str, rel_url: str, **ctx) -> None:
     """rel_url: ruta relativa sin base, terminada en / (o '' para la portada)."""
     tpl = env.get_template(template)
-    active = ""
-    for item in NAV:
-        if item["url"] and rel_url.startswith(item["url"]):
-            active = item["url"]
-    if rel_url == "":
-        active = ""
-    html_out = tpl.render(rel_url=rel_url, active=active, **ctx)
+    active = "" if rel_url == "" else active_in(NAV, rel_url)
+    active_aux = active_in(NAV_AUX, rel_url)
+    opo = opo_of(rel_url)
+    ctx.setdefault("brand", {"aux": "Auxiliar", "shared": "Opo"}.get(opo, "TAI"))
+    html_out = tpl.render(rel_url=rel_url, active=active, active_aux=active_aux, opo=opo, **ctx)
     target = rel_url + "index.html" if rel_url.endswith("/") or rel_url == "" else rel_url
     write(target, html_out)
 
@@ -280,10 +312,13 @@ def build_leyes(leyes: list[dict]) -> None:
         if law["slug"] == "constitucion":
             continue
         groups.setdefault(law.get("grupo", "Otras"), []).append(law)
-        exp = explained.get(law.get("explicada", law["slug"]))
+        exp = explained.get(law.get("explicada", law["slug"])) if law.get("explicada", law["slug"]) else None
         law["has_explained"] = exp is not None
         law["has_text"] = bool(law.get("id")) and boe_law(law["id"]) is not None
         law["exp_url"] = f"leyes/{law.get('explicada', law['slug'])}/" if exp else None
+        if law.get("explicada_url"):  # explicada en el temario de Auxiliar
+            law["has_explained"] = True
+            law["exp_url"] = law["explicada_url"]
         law["text_url"] = f"leyes/{law['slug']}/texto/" if law.get("id") else None
     # páginas explicadas (una explicación puede cubrir varias normas)
     for slug, p in explained.items():
@@ -365,6 +400,100 @@ def build_data_pages() -> None:
     return len(tests["preguntas"]), total_cards
 
 
+# ---------------------------------------------------------------- Auxiliar Administrativo del Estado
+
+AUX = DATA / "aux"
+AUX_HOME = "auxiliar/"
+
+
+def prep_quiz(data: dict) -> dict:
+    for q in data["preguntas"]:
+        q["pregunta"] = inline_md(q["pregunta"])
+        q["opciones"] = [inline_md(o) for o in q["opciones"]]
+        q["explicacion"] = inline_md(q["explicacion"])
+    return data
+
+
+def build_aux() -> dict:
+    ctx = {"home_url": AUX_HOME}
+    # temario
+    pages = load_collection(CONTENT / "auxiliar" / "temario")
+    for p in pages:
+        p["url"] = f"{AUX_HOME}temario/" if p["slug"] == "index" else f"{AUX_HOME}temario/{p['slug']}/"
+    for i, p in enumerate(pages):
+        render("page.html", p["url"], page=p, section="Temario de Auxiliar", section_url=f"{AUX_HOME}temario/",
+               siblings=pages, prev=pages[i - 1] if i else None, next=pages[i + 1] if i + 1 < len(pages) else None,
+               studied_key=f"aux/temario/{p['slug']}", **ctx)
+        index_html_sections(f"Auxiliar · {p['title']}", BASE + p["url"], p["body"], "Temario Auxiliar")
+
+    # tests y ofimática (mismo motor que TAI)
+    n_tests = 0
+    for src, url, h1, lead_tpl, labels in (
+        ("tests", "tests/", "Tests", "{n} preguntas con explicación de los dos bloques. La nota se calcula como en el examen: aciertos − errores/3.",
+         {"b1": "Bloque I · Organización pública", "b2": "Bloque II · Actividad administrativa", "info": "Informática básica e Internet"}),
+        ("ofimatica", "ofimatica/", "Ofimática práctica", "{n} preguntas de Windows 11, Word, Excel, Access y Outlook 365, tal y como las preguntan en la segunda parte del examen.",
+         {"windows": "Windows 11", "word": "Word 365", "excel": "Excel 365", "access": "Access 365", "outlook": "Outlook 365"}),
+    ):
+        data = read_json(AUX / f"{src}.json", {"preguntas": []})
+        prep_quiz(data)
+        write(f"data/aux-{src}.json", json.dumps(data, ensure_ascii=False))
+        counts = {k: sum(1 for q in data["preguntas"] if q["bloque"] == k) for k in labels}
+        render("tests.html", AUX_HOME + url, bloques=labels, counts=counts, total=len(data["preguntas"]),
+               source=f"aux-{src}", ns="aux-", h1=h1, lead=lead_tpl.format(n=len(data["preguntas"])),
+               extra=read_json(AUX / f"{src}-extra.json"), **ctx)
+        if src == "tests":
+            n_tests = len(data["preguntas"])
+        else:
+            n_ofi = len(data["preguntas"])
+
+    # flashcards
+    fc = read_json(AUX / "flashcards.json", {"mazos": []})
+    n_cards = 0
+    for deck in fc["mazos"]:
+        for c in deck["tarjetas"]:
+            c["f"] = inline_md(c["f"])
+            c["b"] = inline_md(c["b"])
+        n_cards += len(deck["tarjetas"])
+    write("data/aux-flashcards.json", json.dumps(fc, ensure_ascii=False))
+    render("flashcards.html", AUX_HOME + "flashcards/", mazos=fc["mazos"], total=n_cards, src="aux-flashcards", ns="aux-", **ctx)
+
+    # psicotécnicos
+    render("psicotecnicos.html", AUX_HOME + "psicotecnicos/", **ctx)
+
+    # exámenes
+    exams = []
+    for f in sorted((AUX / "examenes").glob("*.json")):
+        ex = read_json(f)
+        ex["notas_html"] = inline_md(ex.get("notas", "")) if ex.get("notas") else ""
+        for parte in ex.get("partes", []):
+            parte["descripcion_html"] = wrap_tables(inline_md(parte.get("descripcion", ""))) if parte.get("descripcion") else ""
+            for q in parte.get("preguntas", []):
+                q["explicacion_html"] = wrap_tables(inline_md(q.get("explicacion", "")))
+                q["pregunta_html"] = wrap_tables(inline_md(q.get("pregunta", "")))
+                q["opciones"] = [inline_md(o) for o in q.get("opciones", [])]
+        exams.append(ex)
+    exams.sort(key=lambda e: e.get("orden", 99))
+    for ex in exams:
+        ex["url"] = f"{AUX_HOME}examenes/{ex['slug']}/"
+        render("examen.html", ex["url"], ex=ex, **ctx)
+        for parte in ex.get("partes", []):
+            for q in parte.get("preguntas", []):
+                SEARCH.append({"t": ex["titulo"], "s": f"{parte['titulo']} · pregunta {q['n']}: {q.get('tema', '')} · {q.get('pregunta', '')}",
+                               "u": f"{BASE}{ex['url']}#{parte['id']}-{q['n']}", "k": "Exámenes Auxiliar",
+                               "x": squash(strip_tags(q["explicacion_html"]))[:300]})
+    render("examenes.html", AUX_HOME + "examenes/", exams=exams, opo_name="Auxiliar Administrativo del Estado",
+           tip1="Ponte un temporizador de 90 minutos y haz las dos partes seguidas, como en el examen real.", **ctx)
+
+    # YouTube
+    yt = read_json(AUX / "youtube.json", {"categorias": []})
+    render("youtube.html", AUX_HOME + "youtube/", categorias=yt["categorias"],
+           lead="Canales y vídeos para Auxiliar: Constitución y leyes, ofimática (Word, Excel, Access, Outlook) y psicotécnicos.", **ctx)
+
+    render("aux_home.html", AUX_HOME, temario=pages, n_tests=n_tests, n_ofi=n_ofi, n_cards=n_cards,
+           n_exams=len(exams), **ctx)
+    return {"pages": pages}
+
+
 # ---------------------------------------------------------------- estáticos y PWA
 
 
@@ -413,6 +542,7 @@ def main() -> None:
     build_leyes(leyes)
     build_examenes()
     n_tests, n_cards = build_data_pages()
+    build_aux()
 
     render("home.html", "", temario=temario, ce_pages=ce_pages, n_tests=n_tests, n_cards=n_cards)
     render("404.html", "404.html")

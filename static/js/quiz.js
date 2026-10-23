@@ -4,7 +4,8 @@
   const app = document.getElementById("quiz-app");
   if (!app) return;
   const T = window.TAI;
-  const SOURCE = app.getAttribute("data-source"); // "tests" | "supuestos"
+  const SOURCE = app.getAttribute("data-source"); // "tests" | "supuestos" | "aux-tests"
+  const NS = app.getAttribute("data-ns") || ""; // prefijo de almacenamiento por oposición
   const LETTERS = ["a", "b", "c", "d"];
   const views = {
     setup: app.querySelector('[data-view="setup"]'),
@@ -48,7 +49,7 @@
     const msg = app.querySelector("[data-setup-msg]");
     let pool = DATA.preguntas.filter((q) => blocks.includes(q.bloque));
     if (mode === "falladas") {
-      const failed = T.store.get("failed", {});
+      const failed = T.store.get(NS + "failed", {});
       pool = DATA.preguntas.filter((q) => failed[q.id]);
       if (!pool.length) { msg.textContent = "No tienes preguntas falladas guardadas. ¡Bien!"; return; }
     }
@@ -218,14 +219,14 @@
     S.finished = true;
     const n = S.questions.length;
     let ok = 0, ko = 0;
-    const failed = T.store.get("failed", {});
+    const failed = T.store.get(NS + "failed", {});
     S.questions.forEach((q) => {
       const a = S.answers[q.id];
       if (a === undefined) return;
       if (a === q.correcta) { ok++; delete failed[q.id]; }
       else { ko++; failed[q.id] = T.todayStr(); }
     });
-    if (S.kind === "test") T.store.set("failed", failed);
+    if (S.kind === "test") T.store.set(NS + "failed", failed);
     const blank = n - ok - ko;
     const net = ok - ko / 3;
     const nota10 = Math.max(0, (net / n) * 10);
@@ -234,7 +235,7 @@
     const hist = T.store.get("history-" + SOURCE, []);
     hist.unshift({ d: new Date().toISOString(), title: S.title, n: n, ok: ok, ko: ko, bl: blank, net: net, n10: nota10, secs: secs, mode: S.mode });
     T.store.set("history-" + SOURCE, hist.slice(0, 30));
-    T.store.set("last-test", { d: new Date().toISOString(), n10: nota10, title: S.title, n: n });
+    T.store.set(NS + "last-test", { d: new Date().toISOString(), n10: nota10, title: S.title, n: n });
     T.markStudyDay();
 
     const verdict = nota10 >= 5 ? "¡Aprobado! Sigue así." : nota10 >= 3.5 ? "Cerca: repasa las falladas y vuelve a intentarlo." : "Toca repasar este bloque con calma. ¡Tú puedes!";

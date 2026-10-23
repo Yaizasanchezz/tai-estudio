@@ -2,6 +2,9 @@
 (function () {
   "use strict";
   const T = window.TAI;
+  const HOME = document.querySelector("[data-home]");
+  const NS = (HOME && HOME.getAttribute("data-ns")) || "";
+  const FC = (HOME && HOME.getAttribute("data-fc")) || "flashcards";
   const set = (k, v) => { const el = document.querySelector('[data-stat="' + k + '"]'); if (el) el.textContent = v; };
 
   const QUOTES = [
@@ -27,7 +30,7 @@
   set("streak-sub", s.n === 0 ? "Haz un test o repasa flashcards para empezarla" : s.today ? "Hoy ya has estudiado ✿" : "¡Estudia hoy para no perderla!");
 
   // último test
-  const last = T.store.get("last-test", null);
+  const last = T.store.get(NS + "last-test", null);
   if (last) {
     set("last-test", (Math.round(last.n10 * 10) / 10).toLocaleString("es-ES") + " / 10");
     set("last-test-sub", last.title + " · " + last.n + " preguntas · " + new Date(last.d).toLocaleDateString("es-ES"));
@@ -44,15 +47,15 @@
   if (bar) bar.style.width = pct + "%";
 
   // flashcards pendientes
-  fetch(T.BASE + "data/flashcards.json").then((r) => r.json()).then((d) => {
-    const st = T.store.get("fc", {});
+  fetch(T.BASE + "data/" + FC + ".json").then((r) => r.json()).then((d) => {
+    const st = T.store.get(NS + "fc", {});
     const today = T.todayStr();
     let due = 0, fresh = 0;
     d.mazos.forEach((m) => m.tarjetas.forEach((c) => {
       if (!st[c.id]) fresh++;
       else if (st[c.id].due <= today) due++;
     }));
-    const log = T.store.get("fc-new", {});
+    const log = T.store.get(NS + "fc-new", {});
     const newLeft = Math.max(0, Math.min(20 - (log[today] || 0), fresh));
     set("due", String(due + newLeft));
   }).catch(() => null);

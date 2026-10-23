@@ -114,7 +114,7 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 - Prohibido cobrar **participación en tributos, multas** u otros ingresos como contraprestación (art. 22.5).
 
 !!! tip "En la AGE"
-    El **complemento de destino** corresponde al **nivel del puesto** (del 1 al 30). Para los C1 el intervalo va del **nivel 11 al 22**. Esto lo regula la normativa estatal, no el TREBEP, pero es útil para situarte.
+    El **complemento de destino** corresponde al **nivel del puesto** (del 1 al 30). Desde el **RD-ley 6/2023** (disposición transitoria 6.ª), los intervalos son: **A1** 24–30, **A2** 20–26, **B** 18–24, **C1** 16–22 y **C2** 14–18. Esto lo regula la normativa estatal, no el TREBEP, pero es útil para situarte.
 
 ### Negociación colectiva, representación y reunión (arts. 31 a 46)
 

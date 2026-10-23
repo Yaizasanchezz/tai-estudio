@@ -157,7 +157,7 @@ Solicitud ──► (concretar en 10 días si es imprecisa) ──► (alegacion
 | **Colaboración** | Se crea valor público con ciudadanos, empresas y otras Administraciones | Hackatones, laboratorios de innovación |
 | **Rendición de cuentas** | Los responsables explican y responden de su gestión | Evaluación de planes, memorias públicas |
 
-- **Alianza para el Gobierno Abierto (Open Government Partnership, OGP):** iniciativa internacional creada en **2011**. **España se adhirió en 2011** y elabora **Planes de Acción de Gobierno Abierto** (el IV Plan cubrió 2020–2024).
+- **Alianza para el Gobierno Abierto (Open Government Partnership, OGP):** iniciativa internacional creada en **2011**. **España se adhirió en 2011** y elabora **Planes de Acción de Gobierno Abierto**: I (2012–2014), II (2014–2016), III (2017–2019), IV (2020–2024) y el **V Plan (2025–2029)**, aprobado por el Foro de Gobierno Abierto el **6 de octubre de 2025**, con **10 compromisos** y **218 iniciativas** (nuevo portal de transparencia, integridad pública, Estrategia Nacional Antifraude…).
 - **Foro de Gobierno Abierto:** órgano de participación en el que se diseñan esos planes con la sociedad civil.
 - **Datos abiertos y reutilización:** **Ley 37/2007** sobre reutilización de la información del sector público; el catálogo nacional es **datos.gob.es**.
 

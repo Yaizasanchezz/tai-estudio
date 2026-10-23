@@ -602,3 +602,41 @@ tbody tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transpa
 }
 .answers .q-text { margin: 0 0 .35em; font-weight: 600; color: var(--text); }
 .exam-scenario { line-height: 1.6; }
+
+/* ---------------------------------------------------------- dos oposiciones */
+html[data-opo="tai"] .only-aux, html[data-opo="aux"] .only-tai { display: none !important; }
+.opo-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; padding: 4px; margin: 4px 0 14px;
+  background: var(--surface-2); border-radius: 14px; }
+.opo-btn { text-align: center; padding: 7px 6px; border-radius: 10px; font-weight: 800; font-size: .9rem;
+  color: var(--muted); text-decoration: none; transition: background .15s, color .15s; }
+.opo-btn small { font-weight: 700; opacity: .7; font-size: .72rem; }
+.opo-btn:hover { color: var(--primary); }
+html[data-opo="tai"] .opo-btn[data-opo-switch="tai"], html[data-opo="aux"] .opo-btn[data-opo-switch="aux"] {
+  background: var(--surface); color: var(--primary); box-shadow: 0 1px 4px rgba(120, 30, 70, .12); }
+
+/* ---------------------------------------------------------- psicotécnicos */
+.psy-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.psy-timer { font-weight: 800; color: var(--primary); }
+.psy-q { margin: 6px 0 14px; font-size: 1.05rem; }
+.psy-q table { min-width: 0; }
+.psy-seq { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: 1.35rem; letter-spacing: .02em; margin: 12px 0; }
+.psy-opts { list-style: none; padding: 0; margin: 0 0 12px; }
+.psy-feedback { padding: 12px 14px; border-radius: 12px; background: var(--surface-2); margin-bottom: 12px; }
+.psy-feedback.is-ok { background: var(--good-soft); }
+.psy-feedback.is-ko { background: var(--bad-soft, #fde3e8); }
+.psy-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.psy-score { font-size: 1.1rem; }
+.psy-rev { border: 1px solid var(--border); border-radius: 12px; padding: 10px 14px; margin: 8px 0; background: var(--surface); }
+.psy-rev summary { cursor: pointer; font-weight: 700; }
+.psy-rev.is-ok summary { color: var(--good); }
+.psy-rev.is-ko summary { color: var(--bad); }
+.psy-codes td { font-family: "JetBrains Mono", ui-monospace, monospace; }
+
+/* ---------------------------------------------------------- chuleta de ofimática */
+.cheat { margin-bottom: 18px; }
+.cheat-grid { display: grid; gap: 10px; }
+.cheat-sec { border: 1px solid var(--border); border-radius: 12px; padding: 8px 14px; background: var(--surface); }
+.cheat-sec summary { cursor: pointer; font-weight: 800; padding: 4px 0; }
+.cheat-sec td:first-child { white-space: nowrap; font-family: "JetBrains Mono", ui-monospace, monospace; font-size: .9rem; }
+.psy-opts .xq-opt.is-key { border-color: var(--good); background: color-mix(in srgb, var(--good) 14%, var(--surface)); }
+.psy-opts .xq-opt.is-wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--surface)); }

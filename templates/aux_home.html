@@ -1,0 +1,113 @@
+{% extends "base.html" %}
+{% block title %}Auxiliar Estudio · Auxiliar Administrativo del Estado{% endblock %}
+{% block description %}Temario explicado, tests, psicotécnicos, ofimática y exámenes para Auxiliar Administrativo del Estado (C2).{% endblock %}
+{% block bodyclass %}is-home{% endblock %}
+{% block content %}
+<div data-home data-ns="aux-" data-fc="aux-flashcards" hidden></div>
+<section class="hero">
+  <div class="hero-text">
+    <p class="eyebrow">Oposición Auxiliar Administrativo del Estado · C2</p>
+    <h1><span data-greeting>Hola, Yaiza</span> <span class="wave" aria-hidden="true">✿</span></h1>
+    <p class="lead" data-quote>Cada tema que cierras es una plaza un poco más cerca.</p>
+    <div class="hero-cta">
+      <a class="btn btn-primary" href="{{ base }}auxiliar/temario/">Empezar el temario</a>
+      <a class="btn" href="{{ base }}auxiliar/psicotecnicos/">Practicar psicotécnicos</a>
+    </div>
+  </div>
+  <div class="hero-art" aria-hidden="true">
+    <div class="blob b1"></div><div class="blob b2"></div><div class="blob b3"></div>
+    <div class="hero-card">
+      <p class="hero-card-k">Examen</p>
+      <p class="hero-card-v">60 + 50</p>
+      <p class="hero-card-s">preguntas en 90 minutos</p>
+    </div>
+  </div>
+</section>
+
+<section class="stats" aria-label="Tu progreso">
+  <div class="stat">
+    <p class="stat-k">Racha de estudio</p>
+    <p class="stat-v" data-stat="streak">0 días</p>
+    <p class="stat-s" data-stat="streak-sub">Haz un test o repasa flashcards para empezarla</p>
+  </div>
+  <div class="stat">
+    <p class="stat-k">Flashcards para hoy</p>
+    <p class="stat-v" data-stat="due">–</p>
+    <p class="stat-s">de {{ n_cards }} tarjetas</p>
+  </div>
+  <div class="stat">
+    <p class="stat-k">Último test</p>
+    <p class="stat-v" data-stat="last-test">–</p>
+    <p class="stat-s" data-stat="last-test-sub">Aún no has hecho ninguno</p>
+  </div>
+  <div class="stat">
+    <p class="stat-k">Temario estudiado</p>
+    <p class="stat-v" data-stat="studied">0 %</p>
+    <div class="bar"><span data-stat="studied-bar" style="width:0%"></span></div>
+  </div>
+</section>
+
+<section class="section-grid" aria-label="Apartados">
+  <a class="tile tile-rose" href="{{ base }}auxiliar/temario/">
+    {{ icon('book', 'tile-icon')|safe }}
+    <h2>Temario</h2>
+    <p>Los 28 temas del programa oficial, explicados uno a uno.</p>
+  </a>
+  <a class="tile tile-lilac" href="{{ base }}constitucion/">
+    {{ icon('landmark', 'tile-icon')|safe }}
+    <h2>Constitución</h2>
+    <p>Explicada título a título y el texto oficial del BOE (común con TAI).</p>
+  </a>
+  <a class="tile tile-peach" href="{{ base }}leyes/">
+    {{ icon('scale', 'tile-icon')|safe }}
+    <h2>Leyes</h2>
+    <p>Las leyes del bloque I explicadas, con su texto consolidado (común con TAI).</p>
+  </a>
+  <a class="tile tile-mint" href="{{ base }}auxiliar/tests/">
+    {{ icon('check', 'tile-icon')|safe }}
+    <h2>Tests</h2>
+    <p>{{ n_tests }} preguntas con explicación, por bloques o en modo examen.</p>
+  </a>
+  <a class="tile tile-sky" href="{{ base }}auxiliar/psicotecnicos/">
+    {{ icon('brain', 'tile-icon')|safe }}
+    <h2>Psicotécnicos</h2>
+    <p>Ejercicios infinitos de series, cálculo, ortografía y aptitud administrativa.</p>
+  </a>
+  <a class="tile tile-rose" href="{{ base }}auxiliar/ofimatica/">
+    {{ icon('grid', 'tile-icon')|safe }}
+    <h2>Ofimática práctica</h2>
+    <p>{{ n_ofi }} preguntas de Windows 11, Word, Excel, Access y Outlook, y chuleta de atajos.</p>
+  </a>
+  <a class="tile tile-lilac" href="{{ base }}auxiliar/examenes/">
+    {{ icon('file', 'tile-icon')|safe }}
+    <h2>Exámenes resueltos</h2>
+    <p>{% if n_exams %}Exámenes oficiales del INAP con todas las respuestas explicadas.{% else %}Exámenes oficiales del INAP resueltos y explicados (en preparación).{% endif %}</p>
+  </a>
+  <a class="tile tile-peach" href="{{ base }}auxiliar/flashcards/">
+    {{ icon('cards', 'tile-icon')|safe }}
+    <h2>Flashcards</h2>
+    <p>{{ n_cards }} tarjetas con repetición espaciada: las que fallas, vuelven antes.</p>
+  </a>
+  <a class="tile tile-mint" href="{{ base }}auxiliar/youtube/">
+    {{ icon('play', 'tile-icon')|safe }}
+    <h2>YouTube</h2>
+    <p>Vídeos de leyes, ofimática y psicotécnicos.</p>
+  </a>
+  <a class="tile tile-sky" href="{{ opositatest_aux_url }}" target="_blank" rel="noopener">
+    {{ icon('external', 'tile-icon')|safe }}
+    <h2>OpositaTest Auxiliar</h2>
+    <p>Sus tests de Auxiliares Administrativos del Estado, turno libre.</p>
+  </a>
+</section>
+
+<section class="card checklist" aria-labelledby="temario-check">
+  <h2 id="temario-check">Tu temario</h2>
+  <p class="muted">Marca cada tema como estudiado desde su botón y verás aquí tu avance.</p>
+  <ul class="check-list">
+    {% for p in temario if p.slug != 'index' %}
+    <li data-studied-item="aux/temario/{{ p.slug }}"><a href="{{ base }}{{ p.url }}">{{ p.title }}</a><span class="check-dot" aria-hidden="true"></span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}static/js/home.js?v={{ build_id }}" defer></script>{% endblock %}

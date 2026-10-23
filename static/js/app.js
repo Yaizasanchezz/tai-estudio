@@ -51,6 +51,25 @@
     }
   }
 
+  // ------------------------------------------------------------ oposición (TAI / Auxiliar)
+  function setupOpo() {
+    const root = document.documentElement;
+    const homeFor = (o) => BASE + (o === "aux" ? "auxiliar/" : "");
+    document.querySelectorAll("[data-brand-link]").forEach((a) => { a.href = homeFor(root.getAttribute("data-opo")); });
+    document.querySelectorAll("[data-opo-switch]").forEach((a) => {
+      a.addEventListener("click", (e) => {
+        const o = a.getAttribute("data-opo-switch");
+        store.set("opo", o);
+        if (root.getAttribute("data-opo-page") === "shared") {
+          // En Constitución y Leyes solo cambia el menú, sin salir de la página.
+          e.preventDefault();
+          root.setAttribute("data-opo", o);
+          document.querySelectorAll("[data-brand-link]").forEach((b) => { b.href = homeFor(o); });
+        }
+      });
+    });
+  }
+
   // ------------------------------------------------------------ tema claro / oscuro
   function setupTheme() {
     const btn = document.querySelector("[data-theme-toggle]");
@@ -257,6 +276,7 @@
   window.TAI = { store: store, markStudyDay: markStudyDay, streak: streak, todayStr: todayStr, BASE: BASE };
 
   document.addEventListener("DOMContentLoaded", () => {
+    setupOpo();
     setupTheme();
     setupSidebar();
     setupStudied();

@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}Exámenes resueltos · TAI Estudio{% endblock %}
+{% block title %}Exámenes resueltos · {{ brand }} Estudio{% endblock %}
 {% block content %}
 <header class="page-head">
-  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Exámenes resueltos</span></nav>
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}{{ home_url|default("") }}">Inicio</a><span>›</span><span>Exámenes resueltos</span></nav>
   <h1>Exámenes oficiales resueltos</h1>
-  <p class="lead">Exámenes reales de TAI (turno libre) publicados por el INAP, con el enunciado completo de cada pregunta. Contesta en la propia web, pulsa «Corregir» y te da la nota con la penalización real. Cada pregunta tiene su respuesta explicada.</p>
+  <p class="lead">Exámenes reales de {{ opo_name or "TAI" }} (turno libre) publicados por el INAP, con el enunciado completo de cada pregunta. Contesta en la propia web, pulsa «Corregir» y te da la nota con la penalización real. Cada pregunta tiene su respuesta explicada.</p>
 </header>
 
 <div class="exam-list">
@@ -26,7 +26,7 @@
 <section class="card tips">
   <h2>Cómo sacarles partido</h2>
   <ol>
-    <li>Ponte un temporizador de 120 minutos y haz la primera parte y uno de los dos supuestos, como en el examen real.</li>
+    <li>{{ tip1 or "Ponte un temporizador de 120 minutos y haz la primera parte y uno de los dos supuestos, como en el examen real." }}</li>
     <li>Pulsa la letra de cada respuesta (se guarda en tu navegador, así que puedes dejarlo a medias).</li>
     <li>Pulsa «Corregir» en cada parte: verás aciertos, errores, nota neta y la explicación de las falladas.</li>
     <li>Apunta los temas de las que falles y repásalos en Temario o en Leyes. Hay preguntas que se repiten de un año a otro.</li>

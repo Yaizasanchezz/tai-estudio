@@ -33,7 +33,8 @@ jobs:
       - name: ¿Hay que descargar el BOE?
         id: decide
         run: |
-          if [ "${{ github.event_name }}" != "push" ] || ! ls data/boe/*.json >/dev/null 2>&1; then
+          missing=$(python -c "import json,os; print(sum(1 for l in json.load(open('data/leyes.json'))['leyes'] if l.get('id') and not os.path.exists('data/boe/'+l['id']+'.json')))")
+          if [ "${{ github.event_name }}" != "push" ] || [ "$missing" != "0" ]; then
             echo "fetch=true" >> "$GITHUB_OUTPUT"
           else
             echo "fetch=false" >> "$GITHUB_OUTPUT"

@@ -1,13 +1,13 @@
 {% extends "base.html" %}
-{% block title %}Flashcards · TAI Estudio{% endblock %}
+{% block title %}Flashcards · {{ brand }} Estudio{% endblock %}
 {% block content %}
 <header class="page-head">
-  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Flashcards</span></nav>
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}{{ home_url|default("") }}">Inicio</a><span>›</span><span>Flashcards</span></nav>
   <h1>Flashcards</h1>
   <p class="lead">{{ total }} tarjetas con repetición espaciada: si la sabes, vuelve dentro de unos días; si no, mañana. Tu progreso se guarda en este dispositivo.</p>
 </header>
 
-<div class="fc-app" id="fc-app">
+<div class="fc-app" id="fc-app" data-src="{{ src or 'flashcards' }}" data-ns="{{ ns or '' }}">
   <section data-fc-view="decks">
     <div class="fc-today card card-accent">
       <div>

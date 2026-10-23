@@ -1,35 +1,297 @@
 {
  "leyes": [
-  {"slug": "constitucion", "id": "BOE-A-1978-31229", "corto": "Constitución", "nombre": "Constitución Española de 1978", "grupo": "Constitución"},
-
-  {"slug": "ley-39-2015", "id": "BOE-A-2015-10565", "corto": "Ley 39/2015", "nombre": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas", "grupo": "Procedimiento y régimen jurídico", "explicada": "ley-39-2015"},
-  {"slug": "ley-40-2015", "id": "BOE-A-2015-10566", "corto": "Ley 40/2015", "nombre": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público", "grupo": "Procedimiento y régimen jurídico", "explicada": "ley-40-2015"},
-  {"slug": "ley-29-1998", "id": "BOE-A-1998-16718", "corto": "Ley 29/1998", "nombre": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa", "grupo": "Procedimiento y régimen jurídico", "explicada": "contencioso"},
-
-  {"slug": "ley-50-1997", "id": "BOE-A-1997-25336", "corto": "Ley 50/1997", "nombre": "Ley 50/1997, de 27 de noviembre, del Gobierno", "grupo": "Organización del Estado", "explicada": "gobierno"},
-  {"slug": "ley-7-1985", "id": "BOE-A-1985-5392", "corto": "Ley 7/1985 (LBRL)", "nombre": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local", "grupo": "Organización del Estado", "explicada": "administracion-local"},
-  {"slug": "lo-2-1979", "id": "BOE-A-1979-23709", "corto": "LO 2/1979 (LOTC)", "nombre": "Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional", "grupo": "Organización del Estado", "explicada": "organos-constitucionales"},
-  {"slug": "lo-3-1981", "id": "BOE-A-1981-10325", "corto": "LO 3/1981", "nombre": "Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo", "grupo": "Organización del Estado", "explicada": "organos-constitucionales"},
-  {"slug": "lo-4-1981", "id": "BOE-A-1981-12774", "corto": "LO 4/1981", "nombre": "Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio", "grupo": "Organización del Estado", "explicada": "organos-constitucionales"},
-
-  {"slug": "ley-19-2013", "id": "BOE-A-2013-12887", "corto": "Ley 19/2013", "nombre": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno", "grupo": "Transparencia y empleo público", "explicada": "transparencia"},
-  {"slug": "trebep", "id": "BOE-A-2015-11719", "corto": "TREBEP", "nombre": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido de la Ley del Estatuto Básico del Empleado Público", "grupo": "Transparencia y empleo público", "explicada": "trebep"},
-
-  {"slug": "lo-3-2007", "id": "BOE-A-2007-6115", "corto": "LO 3/2007", "nombre": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres", "grupo": "Igualdad, discapacidad y dependencia", "explicada": "igualdad"},
-  {"slug": "lo-1-2004", "id": "BOE-A-2004-21760", "corto": "LO 1/2004", "nombre": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género", "grupo": "Igualdad, discapacidad y dependencia", "explicada": "igualdad"},
-  {"slug": "ley-15-2022", "id": "BOE-A-2022-11589", "corto": "Ley 15/2022", "nombre": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación", "grupo": "Igualdad, discapacidad y dependencia", "explicada": "igualdad"},
-  {"slug": "ley-4-2023", "id": "BOE-A-2023-5366", "corto": "Ley 4/2023", "nombre": "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI", "grupo": "Igualdad, discapacidad y dependencia", "explicada": "igualdad"},
-  {"slug": "rdl-1-2013", "id": "BOE-A-2013-12632", "corto": "RDL 1/2013", "nombre": "Real Decreto Legislativo 1/2013, de 29 de noviembre, texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social", "grupo": "Igualdad, discapacidad y dependencia", "explicada": "discapacidad-dependencia"},
-  {"slug": "ley-39-2006", "id": "BOE-A-2006-21990", "corto": "Ley 39/2006", "nombre": "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia", "grupo": "Igualdad, discapacidad y dependencia", "explicada": "discapacidad-dependencia"},
-
-  {"slug": "rgpd", "id": "", "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679", "corto": "RGPD", "nombre": "Reglamento (UE) 2016/679, General de Protección de Datos", "grupo": "Protección de datos", "explicada": "proteccion-datos", "nota": "Norma europea: el texto oficial está en EUR-Lex."},
-  {"slug": "lopdgdd", "id": "BOE-A-2018-16673", "corto": "LOPDGDD", "nombre": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales", "grupo": "Protección de datos", "explicada": "proteccion-datos"},
-
-  {"slug": "rd-203-2021", "id": "BOE-A-2021-5032", "corto": "RD 203/2021", "nombre": "Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos", "grupo": "Administración electrónica y seguridad", "explicada": "administracion-electronica"},
-  {"slug": "ens", "id": "BOE-A-2022-7191", "corto": "ENS (RD 311/2022)", "nombre": "Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad", "grupo": "Administración electrónica y seguridad", "explicada": "ens"},
-  {"slug": "eni", "id": "BOE-A-2010-1331", "corto": "ENI (RD 4/2010)", "nombre": "Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad", "grupo": "Administración electrónica y seguridad", "explicada": "administracion-electronica"},
-  {"slug": "ley-6-2020", "id": "BOE-A-2020-14046", "corto": "Ley 6/2020", "nombre": "Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza", "grupo": "Administración electrónica y seguridad", "explicada": "firma-electronica"},
-  {"slug": "eidas", "id": "", "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32014R0910", "corto": "Reglamento eIDAS", "nombre": "Reglamento (UE) 910/2014 (eIDAS), modificado por el Reglamento (UE) 2024/1183", "grupo": "Administración electrónica y seguridad", "explicada": "firma-electronica", "nota": "Norma europea: el texto oficial está en EUR-Lex."},
-  {"slug": "rd-1112-2018", "id": "BOE-A-2018-12699", "corto": "RD 1112/2018", "nombre": "Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público", "grupo": "Administración electrónica y seguridad", "explicada": "administracion-electronica"}
+  {
+   "slug": "constitucion",
+   "id": "BOE-A-1978-31229",
+   "corto": "Constitución",
+   "nombre": "Constitución Española de 1978",
+   "grupo": "Constitución"
+  },
+  {
+   "slug": "ley-39-2015",
+   "id": "BOE-A-2015-10565",
+   "corto": "Ley 39/2015",
+   "nombre": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+   "grupo": "Procedimiento y régimen jurídico",
+   "explicada": "ley-39-2015"
+  },
+  {
+   "slug": "ley-40-2015",
+   "id": "BOE-A-2015-10566",
+   "corto": "Ley 40/2015",
+   "nombre": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+   "grupo": "Procedimiento y régimen jurídico",
+   "explicada": "ley-40-2015"
+  },
+  {
+   "slug": "ley-29-1998",
+   "id": "BOE-A-1998-16718",
+   "corto": "Ley 29/1998",
+   "nombre": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+   "grupo": "Procedimiento y régimen jurídico",
+   "explicada": "contencioso"
+  },
+  {
+   "slug": "ley-50-1997",
+   "id": "BOE-A-1997-25336",
+   "corto": "Ley 50/1997",
+   "nombre": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+   "grupo": "Organización del Estado",
+   "explicada": "gobierno"
+  },
+  {
+   "slug": "ley-7-1985",
+   "id": "BOE-A-1985-5392",
+   "corto": "Ley 7/1985 (LBRL)",
+   "nombre": "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+   "grupo": "Organización del Estado",
+   "explicada": "administracion-local"
+  },
+  {
+   "slug": "lo-2-1979",
+   "id": "BOE-A-1979-23709",
+   "corto": "LO 2/1979 (LOTC)",
+   "nombre": "Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional",
+   "grupo": "Organización del Estado",
+   "explicada": "organos-constitucionales"
+  },
+  {
+   "slug": "lo-3-1981",
+   "id": "BOE-A-1981-10325",
+   "corto": "LO 3/1981",
+   "nombre": "Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo",
+   "grupo": "Organización del Estado",
+   "explicada": "organos-constitucionales"
+  },
+  {
+   "slug": "lo-4-1981",
+   "id": "BOE-A-1981-12774",
+   "corto": "LO 4/1981",
+   "nombre": "Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio",
+   "grupo": "Organización del Estado",
+   "explicada": "organos-constitucionales"
+  },
+  {
+   "slug": "ley-19-2013",
+   "id": "BOE-A-2013-12887",
+   "corto": "Ley 19/2013",
+   "nombre": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+   "grupo": "Transparencia y empleo público",
+   "explicada": "transparencia"
+  },
+  {
+   "slug": "trebep",
+   "id": "BOE-A-2015-11719",
+   "corto": "TREBEP",
+   "nombre": "Real Decreto Legislativo 5/2015, de 30 de octubre, texto refundido de la Ley del Estatuto Básico del Empleado Público",
+   "grupo": "Transparencia y empleo público",
+   "explicada": "trebep"
+  },
+  {
+   "slug": "lo-3-2007",
+   "id": "BOE-A-2007-6115",
+   "corto": "LO 3/2007",
+   "nombre": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+   "grupo": "Igualdad, discapacidad y dependencia",
+   "explicada": "igualdad"
+  },
+  {
+   "slug": "lo-1-2004",
+   "id": "BOE-A-2004-21760",
+   "corto": "LO 1/2004",
+   "nombre": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género",
+   "grupo": "Igualdad, discapacidad y dependencia",
+   "explicada": "igualdad"
+  },
+  {
+   "slug": "ley-15-2022",
+   "id": "BOE-A-2022-11589",
+   "corto": "Ley 15/2022",
+   "nombre": "Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+   "grupo": "Igualdad, discapacidad y dependencia",
+   "explicada": "igualdad"
+  },
+  {
+   "slug": "ley-4-2023",
+   "id": "BOE-A-2023-5366",
+   "corto": "Ley 4/2023",
+   "nombre": "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI",
+   "grupo": "Igualdad, discapacidad y dependencia",
+   "explicada": "igualdad"
+  },
+  {
+   "slug": "rdl-1-2013",
+   "id": "BOE-A-2013-12632",
+   "corto": "RDL 1/2013",
+   "nombre": "Real Decreto Legislativo 1/2013, de 29 de noviembre, texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social",
+   "grupo": "Igualdad, discapacidad y dependencia",
+   "explicada": "discapacidad-dependencia"
+  },
+  {
+   "slug": "ley-39-2006",
+   "id": "BOE-A-2006-21990",
+   "corto": "Ley 39/2006",
+   "nombre": "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia",
+   "grupo": "Igualdad, discapacidad y dependencia",
+   "explicada": "discapacidad-dependencia"
+  },
+  {
+   "slug": "rgpd",
+   "id": "",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679",
+   "corto": "RGPD",
+   "nombre": "Reglamento (UE) 2016/679, General de Protección de Datos",
+   "grupo": "Protección de datos",
+   "explicada": "proteccion-datos",
+   "nota": "Norma europea: el texto oficial está en EUR-Lex."
+  },
+  {
+   "slug": "lopdgdd",
+   "id": "BOE-A-2018-16673",
+   "corto": "LOPDGDD",
+   "nombre": "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+   "grupo": "Protección de datos",
+   "explicada": "proteccion-datos"
+  },
+  {
+   "slug": "rd-203-2021",
+   "id": "BOE-A-2021-5032",
+   "corto": "RD 203/2021",
+   "nombre": "Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos",
+   "grupo": "Administración electrónica y seguridad",
+   "explicada": "administracion-electronica"
+  },
+  {
+   "slug": "ens",
+   "id": "BOE-A-2022-7191",
+   "corto": "ENS (RD 311/2022)",
+   "nombre": "Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad",
+   "grupo": "Administración electrónica y seguridad",
+   "explicada": "ens"
+  },
+  {
+   "slug": "eni",
+   "id": "BOE-A-2010-1331",
+   "corto": "ENI (RD 4/2010)",
+   "nombre": "Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad",
+   "grupo": "Administración electrónica y seguridad",
+   "explicada": "administracion-electronica"
+  },
+  {
+   "slug": "ley-6-2020",
+   "id": "BOE-A-2020-14046",
+   "corto": "Ley 6/2020",
+   "nombre": "Ley 6/2020, de 11 de noviembre, reguladora de determinados aspectos de los servicios electrónicos de confianza",
+   "grupo": "Administración electrónica y seguridad",
+   "explicada": "firma-electronica"
+  },
+  {
+   "slug": "eidas",
+   "id": "",
+   "url": "https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32014R0910",
+   "corto": "Reglamento eIDAS",
+   "nombre": "Reglamento (UE) 910/2014 (eIDAS), modificado por el Reglamento (UE) 2024/1183",
+   "grupo": "Administración electrónica y seguridad",
+   "explicada": "firma-electronica",
+   "nota": "Norma europea: el texto oficial está en EUR-Lex."
+  },
+  {
+   "slug": "rd-1112-2018",
+   "id": "BOE-A-2018-12699",
+   "corto": "RD 1112/2018",
+   "nombre": "Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público",
+   "grupo": "Administración electrónica y seguridad",
+   "explicada": "administracion-electronica"
+  },
+  {
+   "slug": "lopj",
+   "id": "BOE-A-1985-12666",
+   "corto": "LOPJ",
+   "nombre": "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b1-04-poder-judicial/"
+  },
+  {
+   "slug": "ley-30-1984",
+   "id": "BOE-A-1984-17387",
+   "corto": "Ley 30/1984",
+   "nombre": "Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b1-13-funcionarios/"
+  },
+  {
+   "slug": "rd-364-1995",
+   "id": "BOE-A-1995-8729",
+   "corto": "RD 364/1995",
+   "nombre": "Real Decreto 364/1995, de 10 de marzo, Reglamento General de Ingreso del Personal al servicio de la AGE y de Provisión de Puestos de Trabajo y Promoción Profesional",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b1-13-funcionarios/"
+  },
+  {
+   "slug": "rd-365-1995",
+   "id": "BOE-A-1995-8730",
+   "corto": "RD 365/1995",
+   "nombre": "Real Decreto 365/1995, de 10 de marzo, Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la AGE",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b1-13-funcionarios/"
+  },
+  {
+   "slug": "rd-33-1986",
+   "id": "BOE-A-1986-1216",
+   "corto": "RD 33/1986",
+   "nombre": "Real Decreto 33/1986, de 10 de enero, Reglamento de Régimen Disciplinario de los Funcionarios de la AGE",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b1-14-derechos-retribuciones/"
+  },
+  {
+   "slug": "ley-47-2003",
+   "id": "BOE-A-2003-21614",
+   "corto": "Ley 47/2003",
+   "nombre": "Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b1-15-presupuesto/"
+  },
+  {
+   "slug": "rd-208-1996",
+   "id": "BOE-A-1996-4997",
+   "corto": "RD 208/1996",
+   "nombre": "Real Decreto 208/1996, de 9 de febrero, por el que se regulan los servicios de información administrativa y atención al ciudadano",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b2-02-informacion-quejas/"
+  },
+  {
+   "slug": "rd-951-2005",
+   "id": "BOE-A-2005-14836",
+   "corto": "RD 951/2005",
+   "nombre": "Real Decreto 951/2005, de 29 de julio, marco general para la mejora de la calidad en la AGE",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b2-02-informacion-quejas/"
+  },
+  {
+   "slug": "lo-4-2001",
+   "id": "BOE-A-2001-21090",
+   "corto": "LO 4/2001",
+   "nombre": "Ley Orgánica 4/2001, de 12 de noviembre, reguladora del Derecho de Petición",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b2-02-informacion-quejas/"
+  },
+  {
+   "slug": "rd-1708-2011",
+   "id": "BOE-A-2011-18541",
+   "corto": "RD 1708/2011",
+   "nombre": "Real Decreto 1708/2011, de 18 de noviembre, Sistema Español de Archivos y Sistema de Archivos de la AGE",
+   "grupo": "Auxiliar Administrativo: Justicia, función pública y atención al ciudadano",
+   "explicada": "",
+   "explicada_url": "auxiliar/temario/b2-03-documento-registro-archivo/"
+  }
  ]
 }

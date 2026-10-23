@@ -1,11 +1,11 @@
 {% extends "base.html" %}
-{% block title %}{{ law.corto }} · Texto oficial · TAI Estudio{% endblock %}
+{% block title %}{{ law.corto }} · Texto oficial · {{ brand }} Estudio{% endblock %}
 {% block mainclass %}main main-doc{% endblock %}
 {% block content %}
 <div class="doc-grid">
   <article class="doc legal">
     <nav class="crumbs" aria-label="Ruta">
-      <a href="{{ base }}">Inicio</a><span>›</span>
+      <a href="{{ base }}" data-brand-link>Inicio</a><span>›</span>
       {% if law.slug == 'constitucion' %}<a href="{{ base }}constitucion/">Constitución</a>{% else %}<a href="{{ base }}leyes/">Leyes</a>{% endif %}
       <span>›</span><span>Texto oficial</span>
     </nav>

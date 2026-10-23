@@ -1,8 +1,8 @@
 {% extends "base.html" %}
-{% block title %}{{ ex.titulo }} · Exámenes resueltos · TAI Estudio{% endblock %}
+{% block title %}{{ ex.titulo }} · Exámenes resueltos · {{ brand }} Estudio{% endblock %}
 {% block content %}
 <header class="page-head">
-  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><a href="{{ base }}examenes/">Exámenes resueltos</a><span>›</span><span>{{ ex.convocatoria }}</span></nav>
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}{{ home_url|default("") }}">Inicio</a><span>›</span><a href="{{ base }}{{ home_url|default("") }}examenes/">Exámenes resueltos</a><span>›</span><span>{{ ex.convocatoria }}</span></nav>
   <h1>{{ ex.titulo }}</h1>
   <p class="lead">{{ ex.descripcion }}</p>
 </header>
@@ -12,7 +12,7 @@
     <h2>Cómo hacerlo</h2>
     <ol class="exam-how">
       <li>Pon un temporizador de <strong>{{ ex.duracion or '120 minutos' }}</strong>.</li>
-      <li>Haz la <strong>primera parte</strong> y <strong>uno de los dos supuestos</strong>, como en el examen real. Las reservas solo cuentan si se anula alguna pregunta.</li>
+      <li>{{ (ex.como_hacerlo or 'Haz la <strong>primera parte</strong> y <strong>uno de los dos supuestos</strong>, como en el examen real. Las reservas solo cuentan si se anula alguna pregunta.')|safe }}</li>
       <li>Pulsa la letra que elijas en cada pregunta (se guarda en este dispositivo). Si dudas mucho, déjala en blanco: los errores restan.</li>
       <li>Al terminar cada parte pulsa <strong>«Corregir»</strong>: verás tu nota y las explicaciones.</li>
     </ol>

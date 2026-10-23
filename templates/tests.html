@@ -1,13 +1,31 @@
 {% extends "base.html" %}
-{% block title %}Tests · TAI Estudio{% endblock %}
+{% block title %}Tests · {{ brand }} Estudio{% endblock %}
 {% block content %}
 <header class="page-head">
-  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>Tests</span></nav>
-  <h1>Tests</h1>
-  <p class="lead">{{ total }} preguntas con explicación. Elige bloques, número de preguntas y modo. La nota se calcula como en el examen: aciertos − errores/3.</p>
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}{{ home_url|default("") }}">Inicio</a><span>›</span><span>{{ h1 or "Tests" }}</span></nav>
+  <h1>{{ h1 or "Tests" }}</h1>
+  <p class="lead">{{ lead or (total ~ " preguntas con explicación. Elige bloques, número de preguntas y modo. La nota se calcula como en el examen: aciertos − errores/3.") }}</p>
 </header>
 
-<div class="quiz-app" id="quiz-app" data-source="tests">
+{% if extra %}
+<section class="card cheat" aria-labelledby="cheat-h">
+  <h2 id="cheat-h">{{ extra.titulo }}</h2>
+  {% if extra.intro %}<p class="muted">{{ extra.intro }}</p>{% endif %}
+  <div class="cheat-grid">
+    {% for sec in extra.secciones %}
+    <details class="cheat-sec"{% if loop.first %} open{% endif %}>
+      <summary>{{ sec.titulo }}</summary>
+      <div class="table-wrap"><table>
+        <thead><tr>{% for c in sec.columnas %}<th>{{ c }}</th>{% endfor %}</tr></thead>
+        <tbody>{% for fila in sec.filas %}<tr>{% for c in fila %}<td>{{ c|safe }}</td>{% endfor %}</tr>{% endfor %}</tbody>
+      </table></div>
+    </details>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<div class="quiz-app" id="quiz-app" data-source="{{ source or 'tests' }}" data-ns="{{ ns or '' }}">
   <section class="card quiz-setup" data-view="setup">
     <h2>Configura tu test</h2>
 

@@ -4,6 +4,8 @@
   const root = document.getElementById("fc-app");
   if (!root) return;
   const T = window.TAI;
+  const NS = root.getAttribute("data-ns") || "";
+  const SRC = root.getAttribute("data-src") || "flashcards";
   const INTERVALS = [1, 3, 7, 14, 30, 60]; // días según la caja
   const NEW_PER_DAY = 20;
   const $ = (sel) => root.querySelector(sel);
@@ -14,7 +16,7 @@
   };
 
   let DATA = null;
-  let state = T.store.get("fc", {}); // id -> {box, due, seen}
+  let state = T.store.get(NS + "fc", {}); // id -> {box, due, seen}
   let queue = [];
   let current = null;
   let sessionStats = { total: 0, ok: 0, mid: 0, ko: 0 };
@@ -53,13 +55,13 @@
   }
 
   function newSeenToday() {
-    const log = T.store.get("fc-new", {});
+    const log = T.store.get(NS + "fc-new", {});
     return log[today()] || 0;
   }
   function countNewSeen() {
-    const log = T.store.get("fc-new", {});
+    const log = T.store.get(NS + "fc-new", {});
     log[today()] = (log[today()] || 0) + 1;
-    T.store.set("fc-new", log);
+    T.store.set(NS + "fc-new", log);
   }
 
   function start(deckId, all) {
@@ -122,7 +124,7 @@
       sessionStats.ok++;
     }
     state[current.id] = s;
-    T.store.set("fc", state);
+    T.store.set(NS + "fc", state);
     T.markStudyDay();
     next();
   }
@@ -142,7 +144,7 @@
     else if (t.hasAttribute("data-fc-grade")) grade(parseInt(t.getAttribute("data-fc-grade"), 10));
     else if (t.hasAttribute("data-fc-card")) flip();
     else if (t.hasAttribute("data-fc-reset")) {
-      if (confirm("¿Seguro que quieres borrar todo tu progreso de flashcards?")) { state = {}; T.store.set("fc", state); T.store.set("fc-new", {}); refreshDecks(); }
+      if (confirm("¿Seguro que quieres borrar todo tu progreso de flashcards?")) { state = {}; T.store.set(NS + "fc", state); T.store.set(NS + "fc-new", {}); refreshDecks(); }
     }
   });
 
@@ -152,7 +154,7 @@
     else if (!$("[data-fc-answer]").hidden && ["1", "2", "3"].includes(e.key)) grade(parseInt(e.key, 10) - 1);
   });
 
-  fetch(T.BASE + "data/flashcards.json").then((r) => r.json()).then((d) => {
+  fetch(T.BASE + "data/" + SRC + ".json").then((r) => r.json()).then((d) => {
     DATA = d;
     // limpiar estados de tarjetas que ya no existen
     const ids = new Set(allCards().map((c) => c.id));

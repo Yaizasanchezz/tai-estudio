@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}YouTube · TAI Estudio{% endblock %}
+{% block title %}YouTube · {{ brand }} Estudio{% endblock %}
 {% block content %}
 <header class="page-head">
-  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}">Inicio</a><span>›</span><span>YouTube</span></nav>
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}{{ home_url|default("") }}">Inicio</a><span>›</span><span>YouTube</span></nav>
   <h1>Vídeos para estudiar</h1>
-  <p class="lead">Canales y listas que explican la Constitución, las leyes administrativas y la parte técnica. Úsalos para entender un tema antes de leerlo o para repasar escuchando.</p>
+  <p class="lead">{{ lead or "Canales y listas que explican la Constitución, las leyes administrativas y la parte técnica. Úsalos para entender un tema antes de leerlo o para repasar escuchando." }}</p>
 </header>
 
 {% for cat in categorias %}

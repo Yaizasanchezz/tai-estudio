@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block title %}Psicotécnicos · Auxiliar Estudio{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}auxiliar/">Inicio</a><span>›</span><span>Psicotécnicos</span></nav>
+  <h1>Psicotécnicos</h1>
+  <p class="lead">En el examen son 30 de las 60 preguntas de la primera parte. Aquí los ejercicios se generan al azar, así que nunca se acaban. Cada respuesta trae la explicación y se corrige con la misma penalización: aciertos − errores/3.</p>
+</header>
+
+<div class="psy-app" id="psy-app">
+  <section class="card quiz-setup" data-psy-view="setup">
+    <h2>Elige qué practicar</h2>
+    <fieldset class="field">
+      <legend>Tipos de ejercicio</legend>
+      <div class="chips" data-psy-types>
+        <label class="chip"><input type="checkbox" value="numseries" checked> <span>Series numéricas</span></label>
+        <label class="chip"><input type="checkbox" value="letterseries" checked> <span>Series de letras</span></label>
+        <label class="chip"><input type="checkbox" value="calc" checked> <span>Cálculo y problemas</span></label>
+        <label class="chip"><input type="checkbox" value="table" checked> <span>Interpretación de tablas</span></label>
+        <label class="chip"><input type="checkbox" value="alpha" checked> <span>Ordenación alfabética</span></label>
+        <label class="chip"><input type="checkbox" value="compare" checked> <span>Comprobación de datos</span></label>
+        <label class="chip"><input type="checkbox" value="spelling" checked> <span>Ortografía</span></label>
+        <label class="chip"><input type="checkbox" value="verbal" checked> <span>Sinónimos y antónimos</span></label>
+      </div>
+    </fieldset>
+    <fieldset class="field">
+      <legend>Número de ejercicios</legend>
+      <div class="chips">
+        <label class="chip"><input type="radio" name="psy-count" value="10" checked> <span>10</span></label>
+        <label class="chip"><input type="radio" name="psy-count" value="20"> <span>20</span></label>
+        <label class="chip"><input type="radio" name="psy-count" value="30"> <span>30 <small>· como en el examen</small></span></label>
+      </div>
+    </fieldset>
+    <fieldset class="field">
+      <legend>Modo</legend>
+      <div class="chips">
+        <label class="chip"><input type="radio" name="psy-mode" value="practica" checked> <span>Práctica <small>· corrección al momento</small></span></label>
+        <label class="chip"><input type="radio" name="psy-mode" value="examen"> <span>Examen <small>· cronometrado, nota al final</small></span></label>
+      </div>
+    </fieldset>
+    <div class="setup-actions">
+      <button class="btn btn-primary" data-psy-start>Empezar</button>
+      <p class="muted small" data-psy-msg></p>
+    </div>
+  </section>
+
+  <section class="card psy-run" data-psy-view="run" hidden>
+    <div class="psy-top">
+      <p class="muted small" data-psy-progress></p>
+      <p class="psy-timer" data-psy-timer hidden></p>
+    </div>
+    <p class="law-short" data-psy-kind></p>
+    <div class="psy-q" data-psy-q></div>
+    <ol class="xq-opts psy-opts" type="a" data-psy-opts></ol>
+    <div class="psy-feedback" data-psy-feedback hidden></div>
+    <div class="psy-actions">
+      <button class="btn" data-psy-skip>Dejar en blanco</button>
+      <button class="btn btn-primary" data-psy-next hidden>Siguiente</button>
+      <button class="link-btn" data-psy-quit>Terminar</button>
+    </div>
+  </section>
+
+  <section class="card psy-result" data-psy-view="result" hidden>
+    <h2>Resultado</h2>
+    <p class="psy-score" data-psy-score></p>
+    <div data-psy-review></div>
+    <div class="setup-actions"><button class="btn btn-primary" data-psy-again>Otra ronda</button></div>
+  </section>
+
+  <section class="card tips">
+    <h2>Trucos para esta parte</h2>
+    <ul>
+      <li><strong>Series:</strong> mira primero las diferencias entre términos; si no salen, prueba con multiplicaciones o con dos series intercaladas (posiciones pares e impares).</li>
+      <li><strong>Letras:</strong> usamos el abecedario español de 27 letras, con la Ñ (A=1 … N=14, Ñ=15, O=16 … Z=27). Apúntate el abecedario numerado en cuanto empiece el examen.</li>
+      <li><strong>Tablas y cálculo:</strong> redondea para descartar opciones antes de hacer la cuenta exacta.</li>
+      <li><strong>Tiempo:</strong> en el examen tienes 90 minutos para 110 preguntas. Si una serie se te atasca más de un minuto, déjala y vuelve al final.</li>
+    </ul>
+  </section>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ base }}static/js/psico.js?v={{ build_id }}" defer></script>{% endblock %}
