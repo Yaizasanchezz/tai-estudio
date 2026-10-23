@@ -1,0 +1,441 @@
+{
+"id": "BOE-A-1986-1216",
+"titulo": "Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado.",
+"fecha_actualizacion": "20251217T115611Z",
+"fecha_actualizacion_fmt": "17/12/2025",
+"descargado": "23/10/2026",
+"bloques": [
+{
+"id": "preambulo",
+"tipo": "preambulo",
+"titulo": null,
+"html": "<p class=\"parrafo\">El artículo 31 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, vino a modificar el número y la tipificación de las faltas consideradas como muy graves cometidas por los funcionarios en el ejercicio de sus cargos, derogando así, en este punto, la regulación del Régimen Disciplinario de los Funcionarios, contenida en la Ley articulada de 7 de febrero de 1964.</p><p class=\"parrafo\">Tal modificación, impuesta por la relevancia y creciente complejidad de las tareas desempeñadas por los servidores del Estado, hace necesaria una correlativa modificación de las faltas consideradas como graves y leves y una mayor precisión de las sanciones a imponer.</p><p class=\"parrafo\">Asimismo, se ha de dotar al procedimiento disciplinario de la máxima agilidad y eficacia posibles, de modo que no se entorpezca la buena marcha de los servicios y se garantice, al tiempo el respeto debido a los derechos del funcionario, para lo cual se introduce, como novedad sustancial, el trámite de audiencia y vista del expediente.</p><p class=\"parrafo\">Debe reseñarse, por último, la modificación que se lleva a cabo, de acuerdo con los nuevos criterios que inspiran la legislación general, al declarar que la cancelación de las faltas impide apreciar reincidencia en las mismas.</p><p class=\"parrafo\">En su virtud, a propuesta del Ministro de la Presidencia, previo informe de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de enero de 1986,</p><p class=\"centro_redonda\">D I S P O N G O :</p>"
+},
+{
+"id": "aunico",
+"tipo": "precepto",
+"titulo": "Artículo único",
+"html": "<p class=\"articulo\">Artículo único.</p><p class=\"parrafo\">Se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado, en desarrollo y ejecución de la Ley 30/1984, de 2 de agosto, cuyo texto se inserta a continuación.</p>"
+},
+{
+"id": "firma",
+"tipo": "firma",
+"titulo": null,
+"html": "<p class=\"parrafo_2\">Dado en Madrid a 10 de enero de 1986.</p><p class=\"firma_rey\">JUAN CARLOS R.</p><p class=\"firma_ministro\">El Ministro de la Presidencia,</p><p class=\"firma_ministro\">JAVIER MOSCOSO DEL PRADO Y MUÑOZ</p><p class=\"anexo\">REGLAMENTO DE REGIMEN DISCIPLINARIO DE LOS FUNCIONARIOS DE LA ADMINISTRACION DEL ESTADO</p>"
+},
+{
+"id": "ti",
+"tipo": "encabezado",
+"titulo": "TITULO I",
+"html": "<p class=\"titulo_num\">TITULO I</p><p class=\"titulo_tit\">Régimen Disciplinario</p>"
+},
+{
+"id": "ci",
+"tipo": "encabezado",
+"titulo": "CAPITULO I",
+"html": "<p class=\"capitulo_num\">CAPITULO I</p><p class=\"capitulo_tit\">Disposiciones generales</p>"
+},
+{
+"id": "a1",
+"tipo": "precepto",
+"titulo": "Artículo 1",
+"html": "<p class=\"articulo\">Artículo 1.</p><p class=\"parrafo\">El presente Reglamento será de aplicación al personal funcionario comprendido en el artículo 1, 1, de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública.</p>"
+},
+{
+"id": "a2",
+"tipo": "precepto",
+"titulo": "Artículo 2",
+"html": "<p class=\"articulo\">Artículo 2.</p><p class=\"parrafo\">Los funcionarios en prácticas estarán sometidos a lo dispuesto en el presente Reglamento, en la medida que les sea de aplicación, sin perjuicio de las normas especiales que regulen su procedimiento de selección.</p>"
+},
+{
+"id": "a3",
+"tipo": "precepto",
+"titulo": "Artículo 3",
+"html": "<p class=\"articulo\">Artículo 3.</p><p class=\"parrafo\">Las disposiciones del presente Reglamento tendrán carácter supletorio para los demás funcionarios al servicio del Estado y de las Administraciones Públicas no incluidos en su ámbito de aplicación.</p>"
+},
+{
+"id": "a4",
+"tipo": "precepto",
+"titulo": "Artículo 4",
+"html": "<p class=\"articulo\">Artículo 4.</p><p class=\"parrafo\">El Régimen Disciplinario establecido en este Reglamento se entiende sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los funcionarios, la cual se hará efectiva en la forma que determine de Ley.</p>"
+},
+{
+"id": "cii",
+"tipo": "encabezado",
+"titulo": "CAPITULO II",
+"html": "<p class=\"capitulo_num\">CAPITULO II</p><p class=\"capitulo_tit\">Faltas disciplinarias</p>"
+},
+{
+"id": "a5",
+"tipo": "precepto",
+"titulo": "Artículo 5",
+"html": "<p class=\"articulo\">Artículo 5.</p><p class=\"parrafo\">Las faltas cometidas por los funcionarios en el ejercicio de sus cargos podrán ser muy graves, graves y leves.</p>"
+},
+{
+"id": "a6",
+"tipo": "precepto",
+"titulo": "Artículo 6",
+"html": "<p class=\"articulo\">Artículo 6.</p><p class=\"parrafo\">Son faltas muy graves:</p><p class=\"parrafo_2\">a) El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de la Función Pública.</p><p class=\"parrafo\">b) Toda actuación que suponga discriminación por razón de raza, sexo, religión, lengua, opinión, lugar de nacimiento, vecindad, o cualquier otra condición o circunstancia personal o social.</p><p class=\"parrafo\">c) El abandono de servicio.</p><p class=\"parrafo\">d) La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos.</p><p class=\"parrafo\">e) La publicación o utilización indebida de secretos oficiales así declarados por Ley o clasificados como tales.</p><p class=\"parrafo\">f) La notoria falta de rendimiento que comporte inhibición en el cumplimiento de las tareas encomendadas.</p><p class=\"parrafo\">g) La violación de la neutralidad o independencia políticas, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.</p><p class=\"parrafo\">h) El incumplimiento de las normas sobre incompatibilidades.</p><p class=\"parrafo\">i) La obstaculización al ejercicio de las libertades públicas y derechos sindicales.</p><p class=\"parrafo\">j) La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.</p><p class=\"parrafo\">k) La participación en huelgas, a los que la tengan expresamente prohibida por la ley.</p><p class=\"parrafo\">l) El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.</p><p class=\"parrafo\">m) Los actos limitativos de la libre expresión de pensamiento, ideas y opiniones.</p><p class=\"parrafo\">n) Haber sido sancionado por la comisión de tres faltas graves en un período de un año.</p>"
+},
+{
+"id": "a7",
+"tipo": "precepto",
+"titulo": "Artículo 7",
+"html": "<p class=\"articulo\">Artículo 7.</p><p class=\"parrafo\">1. Son faltas graves:</p><p class=\"parrafo_2\">a) La falta de obediencia debida a los superiores y autoridades.</p><p class=\"parrafo\">b) El abuso de autoridad en el ejercicio del cargo.</p><p class=\"parrafo\">c) Las conductas constitutivas de delito doloso relacionadas con el servicio o que causen daño a la Administración o a los administrados.</p><p class=\"parrafo\">d) La tolerancia de los superiores respecto de la comisión de faltas muy graves o graves de sus subordinados.</p><p class=\"parrafo\">e) La grave desconsideración con los superiores, compañeros o subordinados.</p><p class=\"parrafo\">f) Causar daños graves en los locales, material o documentos de los servicios.</p><p class=\"parrafo\">g) Intervenir en un procedimiento administrativo cuando se dé alguna de las causas de abstención legalmente señaladas.</p><p class=\"parrafo\">h) La emisión de informes y la adopción de acuerdos manifiestamente ilegales cuando causen perjuicio, a la Administración o a los ciudadanos y no constituyan falta muy grave.</p><p class=\"parrafo\">i) La falta de rendimiento que afecte al normal funcionamiento de los servicios y no constituya falta muy grave.</p><p class=\"parrafo\">j) No guardar el debido sigilo respecto a los asuntos que se conozcan por razón del cargo, cuando causen perjuicio a la Administración o se utilice en provecho propio.</p><p class=\"parrafo\">k) El incumplimiento de los plazos u otras disposiciones de procedimiento en materia de incompatibilidades, cuando no suponga mantenimiento de una situación de incompatibilidad.</p><p class=\"parrafo\">l) El incumplimiento injustificado de la jornada de trabajo que acumulado suponga un mínimo de diez horas al mes.</p><p class=\"parrafo\">m) La tercera falta injustificada de asistencia en un período de tres meses, cuando las dos anteriores hubieren sido objeto de sanción por falta leve.</p><p class=\"parrafo\">n) La grave perturbación del servicio.</p><p class=\"parrafo\">ñ) El atentado grave a la dignidad de los funcionarios o de la Administración.</p><p class=\"parrafo\">o) La grave falta de consideración con los administrados.</p><p class=\"parrafo\">p) Las acciones u omisiones dirigidas a evadir los sistemas de control de horarios o a impedir que sean detectados los incumplimientos injustificados de la jornada de trabajo.</p><p class=\"parrafo_2\">2. A efectos de lo dispuesto en el presente artículo, se entenderá por mes el período comprendido desde el día primero al último de cada uno de los doce que componen el año.</p>"
+},
+{
+"id": "a8",
+"tipo": "precepto",
+"titulo": "Artículo 8",
+"html": "<p class=\"articulo\">Artículo 8.</p><p class=\"parrafo\">Son faltas leves:</p><p class=\"parrafo_2\">a) El incumplimiento injustificado del horario de trabajo, cuando no suponga falta grave.</p><p class=\"parrafo\">b) La falta de asistencia injustificada de un día.</p><p class=\"parrafo\">c) La incorrección con el público, superiores, compañeros o subordinados.</p><p class=\"parrafo\">d) El descuido o negligencia en el ejercicio de sus funciones.</p><p class=\"parrafo\">e) El incumplimiento de los deberes y obligaciones del funcionario, siempre que no deban ser calificados como falta muy grave o grave.</p>"
+},
+{
+"id": "ciii",
+"tipo": "encabezado",
+"titulo": "CAPITULO III",
+"html": "<p class=\"capitulo_num\">CAPITULO III</p><p class=\"capitulo_tit\">Personas responsables</p>"
+},
+{
+"id": "a9",
+"tipo": "precepto",
+"titulo": "Artículo 9",
+"html": "<p class=\"articulo\">Artículo 9.</p><p class=\"parrafo\">Los funcionarios incurrirán en responsabilidad disciplinaria en los supuestos y circunstancias establecidos por este Reglamento.</p>"
+},
+{
+"id": "a10",
+"tipo": "precepto",
+"titulo": "Artículo 10",
+"html": "<p class=\"articulo\">Artículo 10.</p><p class=\"parrafo\">Los funcionarios que se encuentren en situación distinta de la de servicio activo, podrán incurrir en responsabilidad disciplinaria por las faltas previstas en este Reglamento que puedan cometer dentro de sus peculiares situaciones administrativas. De no ser posible el cumplimiento de la sanción en el momento en que se dicte la resolución, por hallarse el funcionario en situación administrativa que lo impida, ésta se hará efectiva cuando su cambio de situación lo permita, salvo que haya transcurrido el plazo de prescripción.</p>"
+},
+{
+"id": "a11",
+"tipo": "precepto",
+"titulo": "Artículo 11",
+"html": "<p class=\"articulo\">Artículo 11.</p><p class=\"parrafo\">1. No podrá exigirse responsabilidad disciplinaria por actos posteriores a la pérdida de la condición de funcionario.</p><p class=\"parrafo\">2. La pérdida de la condición de funcionario no libera de la responsabilidad civil o penal contraída por faltas cometidas durante el tiempo en que se ostentó aquélla.</p>"
+},
+{
+"id": "a12",
+"tipo": "precepto",
+"titulo": "Artículo 12",
+"html": "<p class=\"articulo\">Artículo 12.</p><p class=\"parrafo\">Los funcionarios que indujeren a otros a la realización de actos o conducta constitutivos de falta disciplinaria, incurrirán en la misma responsabilidad que éstos. De no haberse consumado la falta, incurrirán en responsabilidad, de acuerdo con los criterios establecidos en el artículo 89 de la Ley de Funcionarios Civiles del Estado de 7 de febrero de 1964.</p>"
+},
+{
+"id": "a13",
+"tipo": "precepto",
+"titulo": "Artículo 13",
+"html": "<p class=\"articulo\">Artículo 13.</p><p class=\"parrafo\">Igualmente incurrirán en responsabilidad los funcionarios que encubrieren las faltas consumadas muy graves y graves cuando de dicho acto se deriven graves daños para la Administración o los ciudadanos y serán sancionados de acuerdo con los criterios previstos en el artículo anterior.</p>"
+},
+{
+"id": "civ",
+"tipo": "encabezado",
+"titulo": "CAPITULO IV",
+"html": "<p class=\"capitulo_num\">CAPITULO IV</p><p class=\"capitulo_tit\">Sanciones disciplinarias</p>"
+},
+{
+"id": "a14",
+"tipo": "precepto",
+"titulo": "Artículo 14",
+"html": "<p class=\"articulo\">Artículo 14.</p><p class=\"parrafo\">Por razón de las faltas a que se refiere este Reglamento, podrán imponerse las siguientes sanciones:</p><p class=\"parrafo_2\">a) Separación del servicio.</p><p class=\"parrafo\">b) Suspensión de funciones.</p><p class=\"parrafo\">c) Traslado con cambio de residencia.</p><p class=\"parrafo\">d) <strong>(Derogada)</strong></p><p class=\"parrafo\">e) Apercibimiento.</p><blockquote>\n            <p class=\"nota_pie\">Se deroga la letra d) por el art. 36 de la Ley 31/1991, de 30 de diciembre. <a class=\"refPost\">Ref. BOE-A-1991-30903</a></p>\n          </blockquote>"
+},
+{
+"id": "a15",
+"tipo": "precepto",
+"titulo": "Artículo 15",
+"html": "<p class=\"articulo\">Artículo 15.</p><p class=\"parrafo\">La sanción de separación de servicio, únicamente podrá imponerse por faltas muy graves.</p>"
+},
+{
+"id": "a16",
+"tipo": "precepto",
+"titulo": "Artículo 16",
+"html": "<p class=\"articulo\">Artículo 16.</p><p class=\"parrafo\">Las sanciones de los apartados b) o c) del artículo 14 podrán imponerse por la comisión de faltas graves o muy graves.</p><p class=\"parrafo\">La sanción de suspensión de funciones impuesta por comisión de falta muy grave, no podrá ser superior a seis años ni inferior a tres. Si se impone por falta grave, no excederá de tres años.</p><p class=\"parrafo\">Si la suspensión firme no excede del período en el que el funcionario permaneció en suspensión provisional, la sanción no comportará necesariamente pérdida del puesto de trabajo.</p><p class=\"parrafo\">Los funcionarios sancionados con traslado con cambio de residencia, no podrán obtener nuevo destino por ningún procedimiento en la localidad desde la que fueron trasladados, durante tres años, cuando hubiere sido impuesta por falta muy grave, y durante uno cuando hubiere correspondido a la comisión de una falta grave. Dicho plazo se computará desde el momento en que se efectuó el traslado.</p>"
+},
+{
+"id": "a17",
+"tipo": "precepto",
+"titulo": "Artículo 17",
+"html": "<p class=\"articulo\">Artículo 17.</p><p class=\"parrafo\">Las faltas leves solamente podrán ser corregidas con las sanciones que se señalan en los apartados d) o e) del artículo 14.</p><blockquote>\n            <p class=\"nota_pie\">Se deroga el párrafo segundo por el art. 36 de la Ley 31/1991, de 30 de diciembre. <a class=\"refPost\">Ref. BOE-A-1991-30903</a></p>\n          </blockquote>"
+},
+{
+"id": "a18",
+"tipo": "precepto",
+"titulo": "Artículo 18",
+"html": "<p class=\"articulo\">Artículo 18.</p><p class=\"parrafo\">1. No se podrán imponer sanciones por faltas graves o muy graves, sino en virtud de expediente instruido al efecto, con arreglo al procedimiento regulado en el título II del presente Reglamento.</p><p class=\"parrafo\">2. Para la imposición de sanciones por faltas leves no será preceptiva la previa instrucción del expediente al que se refiere el apartado anterior, salvo el trámite de audiencia al inculpado que deberá evacuarse en todo caso.</p>"
+},
+{
+"id": "cv",
+"tipo": "encabezado",
+"titulo": "CAPITULO V",
+"html": "<p class=\"capitulo_num\">CAPITULO V</p><p class=\"capitulo_tit\">Extinción de la responsabilidad disciplinaria</p>"
+},
+{
+"id": "a19",
+"tipo": "precepto",
+"titulo": "Artículo 19",
+"html": "<p class=\"articulo\">Artículo 19.</p><p class=\"parrafo\">1. La responsabilidad disciplinaria se extingue con el cumplimiento de la sanción, muerte, prescripción de la falta o de la sanción, indulto y amnistía.</p><p class=\"parrafo\">2. Si durante la sustanciación del procedimiento sancionador se produjere la pérdida de la condición de funcionario del inculpado, se dictará resolución en la que, con invocación de la causa, se declarará extinguido el procedimiento sancionador, sin perjuicio de la responsabilidad civil o penal que le pueda ser exigida y se ordenará el archivo de las actuaciones, salvo que por parte interesada se inste la continuación del expediente. Al mismo tiempo, se dejarán sin efecto cuantas medidas de carácter provisional se hubieren adoptado con respecto al funcionario inculpado.</p>"
+},
+{
+"id": "a20",
+"tipo": "precepto",
+"titulo": "Artículo 20",
+"html": "<p class=\"articulo\">Artículo 20.</p><p class=\"parrafo\">1. Las faltas muy graves prescribirán a los seis años, las graves a los dos años y las leves al mes. El plazo de prescripción comenzará a contarse desde que la falta se hubiere cometido.</p><p class=\"parrafo\">2. La prescripción se interrumpirá por la iniciación del procedimiento, a cuyo efecto la resolución de incoación del expediente disciplinario deberá ser debidamente registrada, volviendo a correr el plazo si el expediente permaneciere paralizado durante más de seis meses por causa no imputable al funcionario sujeto al procedimiento.</p>"
+},
+{
+"id": "a21",
+"tipo": "precepto",
+"titulo": "Artículo 21",
+"html": "<p class=\"articulo\">Artículo 21.</p><p class=\"parrafo\">1. Las sanciones impuestas por faltas muy graves prescribirán a los seis años, las impuestas por faltas graves, a los dos años, y las impuestas por faltas leves al mes.</p><p class=\"parrafo\">2. El plazo de prescripción comenzará a contarse desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción o desde que se quebrantase el cumplimiento de la sanción si hubiere comenzado.</p>"
+},
+{
+"id": "a22",
+"tipo": "precepto",
+"titulo": "Artículo 22",
+"html": "<p class=\"articulo\">Artículo 22.</p><p class=\"parrafo\">La amplitud y efectos de los indultos de sanciones disciplinarias se regularán por las disposiciones que los concedan.</p>"
+},
+{
+"id": "tii",
+"tipo": "encabezado",
+"titulo": "TITULO II",
+"html": "<p class=\"titulo_num\">TITULO II</p><p class=\"titulo_tit\">Tramitación</p>"
+},
+{
+"id": "ci-2",
+"tipo": "encabezado",
+"titulo": "CAPITULO I",
+"html": "<p class=\"capitulo_num\">CAPITULO I</p><p class=\"capitulo_tit\">Disposiciones generales</p>"
+},
+{
+"id": "a23",
+"tipo": "precepto",
+"titulo": "Artículo 23",
+"html": "<p class=\"articulo\">Artículo 23.</p><p class=\"parrafo\">En cualquier momento del procedimiento en que el instructor aprecie que la presunta falta puede ser constitutiva de delito o falta penal, lo pondrá en conocimiento de la autoridad que hubiere ordenado la incoación del expediente para su oportuna comunicación al Ministerio Fiscal. Ello no será obstáculo para que continúe la tramitación del expediente disciplinario hasta su resolución e imposición de la sanción si procediera.</p><p class=\"parrafo\">No obstante, cuándo se trate de hechos que pudieran ser constitutivos de algunos de los delitos cometidos por los funcionarios públicos, contra el ejercicio de los derechos de la persona reconocidos por las Leyes y de los delitos de los funcionarios públicos, en el ejercicio de sus cargos, tipificados en los títulos II y VII del Libro segundo del Código Penal, deberá suspenderse la tramitación del expediente disciplinario hasta tanto recaiga resolución judicial.</p>"
+},
+{
+"id": "a24",
+"tipo": "precepto",
+"titulo": "Artículo 24",
+"html": "<p class=\"articulo\">Artículo 24.</p><p class=\"parrafo\">El Subsecretario del Departamento podrá acordar como medida preventiva la suspensión provisional de los funcionarios sometidos a procesamiento, cualquiera que sea la causa del mismo, si esta medida no ha sido adoptada por la autoridad judicial que dictó el auto de procesamiento.</p><p class=\"parrafo\">Esta suspensión cuando sea declarada por la autoridad administrativa, se regulará por lo dispuesto en los artículos 47, 48 y 49 de la Ley de Funcionarios Civiles del Estado, y podrá prolongarse durante todo el procesamiento.</p>"
+},
+{
+"id": "cil",
+"tipo": "encabezado",
+"titulo": "CAPITULO II",
+"html": "<p class=\"capitulo_num\">CAPITULO II</p><p class=\"capitulo_tit\">Ordenación</p>"
+},
+{
+"id": "a25",
+"tipo": "precepto",
+"titulo": "Artículo 25",
+"html": "<p class=\"articulo\">Artículo 25.</p><p class=\"parrafo\">El procedimiento para la sanción de faltas disciplinarias se impulsará de oficio en todos sus trámites.</p>"
+},
+{
+"id": "a26",
+"tipo": "precepto",
+"titulo": "Artículo 26",
+"html": "<p class=\"articulo\">Artículo 26.</p><p class=\"parrafo\">La tramitación, comunicaciones y notificaciones se ajustarán en todo a lo dispuesto en el título IV, capítulo II, secciones primera y segunda de la Ley de Procedimiento Administrativo.</p>"
+},
+{
+"id": "ciii-2",
+"tipo": "encabezado",
+"titulo": "CAPITULO III",
+"html": "<p class=\"capitulo_num\">CAPITULO III</p><p class=\"capitulo_tit\">Iniciación</p>"
+},
+{
+"id": "a27",
+"tipo": "precepto",
+"titulo": "Artículo 27",
+"html": "<p class=\"articulo\">Artículo 27.</p><p class=\"parrafo\">El procedimiento se iniciará siempre de oficio, por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, moción razonada de los subordinados o denuncia.</p><p class=\"parrafo\">De iniciarse el procedimiento como consecuencia de denuncia, deberá comunicarse dicho acuerdo al firmante de la misma.</p>"
+},
+{
+"id": "a28",
+"tipo": "precepto",
+"titulo": "Artículo 28",
+"html": "<p class=\"articulo\">Artículo 28.</p><p class=\"parrafo\">El órgano competente para incoar el procedimiento podrá acordar previamente la realización de una información reservada.</p>"
+},
+{
+"id": "a29",
+"tipo": "precepto",
+"titulo": "Artículo 29",
+"html": "<p class=\"articulo\">Artículo 29.</p><p class=\"parrafo\">1. Será competente para ordenar la incoación del expediente disciplinario, el Subsecretario del Departamento en que esté destinado el funcionario, en todo caso. Asimismo, podrán acordar dicha incoación los Directores generales respecto del personal dependiente de su Dirección General y los Delegados del Gobierno o Gobernadores Civiles, respecto de los funcionarios destinados en su correspondiente ámbito territorial.</p><p class=\"parrafo\">2. La incoación del expediente disciplinario podrá acordarse de oficio o a propuesta del Jefe del centro o dependencia en que preste servicio el funcionario.</p>"
+},
+{
+"id": "a30",
+"tipo": "precepto",
+"titulo": "Artículo 30",
+"html": "<p class=\"articulo\">Artículo 30.</p><p class=\"parrafo\">En la resolución por la que se incoe el procedimiento se nombrará Instructor, que deberá ser un funcionario público perteneciente a un cuerpo o escala de igual o superior grupo al del inculpado, de los establecidos en el artículo 25 de la Ley 30/1984, de 2 de agosto. En el caso de que dependa de otro Departamento, se requerirá la previa autorización del Subsecretario de éste.</p><p class=\"parrafo\">Cuando la complejidad o trascendencia de los hechos a investigar así lo exija, se procederá al nombramiento de Secretario, que en todo caso deberá tener la condición de funcionario.</p>"
+},
+{
+"id": "a31",
+"tipo": "precepto",
+"titulo": "Artículo 31",
+"html": "<p class=\"articulo\">Artículo 31.</p><p class=\"parrafo\">La incoación del procedimiento con el nombramiento del Instructor y Secretario, se notificará al funcionario sujeto a expediente, así como a los designados para ostentar dichos cargos.</p>"
+},
+{
+"id": "a32",
+"tipo": "precepto",
+"titulo": "Artículo 32",
+"html": "<p class=\"articulo\">Artículo 32.</p><p class=\"parrafo\">1. Serán de aplicación al Instructor y al Secretario las normas relativas a la abstención y recusación establecidas en los artículos 20 y 21 de la Ley de Procedimiento Administrativo.</p><p class=\"parrafo\">2. El derecho de recusación podrá ejercitarse desde el momento en que el interesado tenga conocimiento de quiénes son el Instructor y el Secretario.</p><p class=\"parrafo\">3. La abstención y la recusación se plantearán ante la Autoridad que acordó el nombramiento, quien deberá resolver en el término de tres días.</p>"
+},
+{
+"id": "a33",
+"tipo": "precepto",
+"titulo": "Artículo 33",
+"html": "<p class=\"articulo\">Artículo 33.</p><p class=\"parrafo\">1. Iniciado el procedimiento, la Autoridad que acordó la incoación podrá adoptar las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer.</p><p class=\"parrafo\">2. La suspensión provisional podrá acordarse preventivamente en la resolución de incoación del expediente y durante la tramitación del procedimiento disciplinario, en los términos y con los efectos señalados en los artículos 47, 48 y 49 de la Ley de Funcionarios Civiles del Estado.</p><p class=\"parrafo\">3. No se podrán dictar medidas provisionales que puedan causar perjuicios irreparables o impliquen violación de derechos amparados por las Leyes.</p>"
+},
+{
+"id": "civ-2",
+"tipo": "encabezado",
+"titulo": "CAPITULO IV",
+"html": "<p class=\"capitulo_num\">CAPITULO IV</p><p class=\"capitulo_tit\">Desarrollo</p>"
+},
+{
+"id": "a34",
+"tipo": "precepto",
+"titulo": "Artículo 34",
+"html": "<p class=\"articulo\">Artículo 34.</p><p class=\"parrafo\">1. El Instructor ordenará la práctica de cuantas diligencias sean adecuadas para la determinación y comprobación de los hechos y en particular de cuantas pruebas puedan conducir a su esclarecimiento y a la determinación de las responsabilidades susceptibles de sanción.</p><p class=\"parrafo\">2. El Instructor como primeras actuaciones, procederá a recibir declaración al presunto inculpado y a evacuar cuantas diligencias se deduzcan de la comunicación o denuncia que motivó la incoación del expediente y de lo que aquél hubiera alegado en su declaración.</p><p class=\"parrafo\">Todos los Organismos y dependencias de la Administración están obligados a facilitar al Instructor los antecedentes e informes necesarios, así como los medios personales y materiales que precise para el desarrollo de sus actuaciones.</p>"
+},
+{
+"id": "a35",
+"tipo": "precepto",
+"titulo": "Artículo 35",
+"html": "<p class=\"articulo\">Artículo 35.</p><p class=\"parrafo\">1. A la vista de las actuaciones practicadas y en un plazo no superior a un mes, contados a partir de la incoación del procedimiento, el Instructor formulará el correspondiente pliego de cargos, comprendiendo en el mismo los hechos imputados, con expresión, en su caso, de la falta presuntamente cometida, y de las sanciones que puedan ser de aplicación, de acuerdo con lo previsto en el artículo 14 del presente Reglamento. El Instructor podrá por causas justificadas, solicitar la ampliación del plazo referido en el párrafo anterior.</p><p class=\"parrafo\">2. El pliego de cargos deberá redactarse de modo claro y preciso en párrafos separados y numerados por cada uno de los hechos imputados al funcionario.</p><p class=\"parrafo\">El Instructor deberá proponer en el momento de elaborar el pliego de cargos, a la vista del resultado de las actuaciones practicadas, el mantenimiento o levantamiento de la medida de suspensión provisional que, en su caso, se hubiera adoptado.</p>"
+},
+{
+"id": "a36",
+"tipo": "precepto",
+"titulo": "Artículo 36",
+"html": "<p class=\"articulo\">Artículo 36.</p><p class=\"parrafo\">El pliego de cargos se notificará al inculpado concediéndosele un plazo de diez días para que pueda contestarlo con las alegaciones que considere convenientes a su defensa y con la aportación de cuantos documentos considere de interés. En este trámite deberá solicitar, si lo estima conveniente, la práctica de las pruebas que para su defensa crea necesarias.</p>"
+},
+{
+"id": "a37",
+"tipo": "precepto",
+"titulo": "Artículo 37",
+"html": "<p class=\"articulo\">Artículo 37.</p><p class=\"parrafo\">1. Contestado el pliego o transcurrido el plazo sin hacerlo, el Instructor podrá acordar la práctica de las pruebas solicitadas que juzgue oportunas, así como la de todas aquellas que considere pertinentes. Para la práctica de las pruebas se dispondrá del plazo de un mes.</p><p class=\"parrafo\">2. El Instructor podrá denegar la admisión y práctica de las pruebas para averiguar cuestiones que considere innecesarias, debiendo motivar la denegación, sin que contra esta resolución queda recurso del inculpado.</p>"
+},
+{
+"id": "a38",
+"tipo": "precepto",
+"titulo": "Artículo 38",
+"html": "<p class=\"articulo\">Artículo 38.</p><p class=\"parrafo\">Los hechos relevantes para la decisión del procedimiento podrán acreditarse por cualquier medio de prueba admisible en derecho.</p>"
+},
+{
+"id": "a39",
+"tipo": "precepto",
+"titulo": "Artículo 39",
+"html": "<p class=\"articulo\">Artículo 39.</p><p class=\"parrafo\">Para la práctica de las pruebas propuestas, así como para la de las de oficio cuando se estime oportuno, se notificará al funcionario el lugar, fecha y hora en que deberán realizarse, debiendo incorporarse al expediente la constancia de la recepción de la notificación.</p>"
+},
+{
+"id": "a40",
+"tipo": "precepto",
+"titulo": "Artículo 40",
+"html": "<p class=\"articulo\">Artículo 40.</p><p class=\"parrafo\">La intervención del Instructor en todas y cada una de las pruebas practicadas es esencial y no puede ser suplida por la del Secretario, sin perjuicio de que el Instructor pueda interesar la práctica de otras diligencias de cualquier órgano de la Administración.</p>"
+},
+{
+"id": "a41",
+"tipo": "precepto",
+"titulo": "Artículo 41",
+"html": "<p class=\"articulo\">Artículo 41.</p><p class=\"parrafo\">Cumplimentadas las diligencias previstas en el presente título se dará vista del expediente al inculpado con carácter inmediato para que en el plazo de diez días alegue lo que estime pertinente a su defensa y aporte cuantos documentos considere de interés. Se facilitará copia completa del expediente al inculpado cuando éste así lo solicite.</p>"
+},
+{
+"id": "a42",
+"tipo": "precepto",
+"titulo": "Artículo 42",
+"html": "<p class=\"articulo\">Artículo 42.</p><p class=\"parrafo\">El Instructor formulará dentro de los diez días siguientes la propuesta de resolución en la que fijará con precisión los hechos, motivando, en su caso, la denegación de las pruebas propuestas por el inculpado, hará la valoración jurídica de los mismos para determinar la falta que se estime cometida, señalándose la responsabilidad del funcionario así como la sanción a imponer.</p>"
+},
+{
+"id": "a43",
+"tipo": "precepto",
+"titulo": "Artículo 43",
+"html": "<p class=\"articulo\">Artículo 43.</p><p class=\"parrafo\">La propuesta de resolución se notificará por el Instructor al interesado para que, en el plazo de diez días, pueda alegar ante el Instructor cuanto considere conveniente en su defensa.</p>"
+},
+{
+"id": "a44",
+"tipo": "precepto",
+"titulo": "Artículo 44",
+"html": "<p class=\"articulo\">Artículo 44.</p><p class=\"parrafo\">Oído el inculpado o transcurrido el plazo sin alegación alguna, se remitirá con carácter inmediato el expediente completo al órgano que haya acordado la incoación del procedimiento, el cual lo remitirá al órgano competente para que proceda a dictar la decisión que corresponda o, en su caso, ordenará al Instructor la práctica de las diligencias que considere necesarias.</p>"
+},
+{
+"id": "cv-2",
+"tipo": "encabezado",
+"titulo": "CAPITULO V",
+"html": "<p class=\"capitulo_num\">CAPITULO V</p><p class=\"capitulo_tit\">Terminación</p>"
+},
+{
+"id": "a45",
+"tipo": "precepto",
+"titulo": "Artículo 45",
+"html": "<p class=\"articulo\">Artículo 45.</p><p class=\"parrafo\">1. La resolución, que pone fin al procedimiento disciplinario, deberá adoptarse en el plazo de diez días, salvo en caso de separación del servicio, y resolverá todas las cuestiones planteadas en el expediente.</p><p class=\"parrafo\">2. La resolución habrá de ser motivada y en ella no se podrán aceptar hechos distintos de los que sirvieron de base al pliego de cargos y a la propuesta de resolución, sin perjuicio de su distinta valoración jurídica.</p>"
+},
+{
+"id": "a46",
+"tipo": "precepto",
+"titulo": "Artículo 46",
+"html": "<p class=\"articulo\">Artículo 46.</p><p class=\"parrafo\">El órgano competente para imponer la sanción podrá devolver el expediente al Instructor para la práctica de las diligencias que resulten imprescindibles para la resolución. En tal caso antes de remitir de nuevo el expediente al órgano competente para imponer la sanción, se dará vista de lo actuado al funcionario inculpado, a fin de que el plazo de diez días alegue cuanto estime conveniente.</p>"
+},
+{
+"id": "a47",
+"tipo": "precepto",
+"titulo": "Artículo 47",
+"html": "<p class=\"articulo\">Artículo 47.</p><p class=\"parrafo\">Serán órganos competentes para la imposición de las sanciones disciplinarias:</p><p class=\"parrafo_2\">1. El Consejo de Ministros, a propuesta del Ministro de la Presidencia, quien con carácter previo oirá a la Comisión Superior de Personal, para imponer la separación del servicio.</p><p class=\"parrafo\">2. Los Ministros y Secretarios de Estado del Departamento en el que esté destinado el funcionario, o los Subsecretarios por delegación de éstos, para imponer las sanciones de los apartados b) y c) del artículo 14.</p><p class=\"parrafo\">Si la sanción se impone por la comisión de las faltas en materia de incompatibilidades previstas en el artículo 6, apartado h) y artículo 7, apartado k), en relación con las actividades desarrolladas en diferentes Ministerios la competencia corresponderá al Ministro de la Presidencia.</p><p class=\"parrafo\">3. El Subsecretario del Departamento, en todo caso, los Directores generales respecto del personal dependiente de su Dirección General y los Delegados del Gobierno y los Gobernadores civiles respecto a los funcionarios destinados en su correspondiente ámbito territorial, para la imposición de las sanciones de los apartados d) y e) del artículo 14.</p>"
+},
+{
+"id": "a48",
+"tipo": "precepto",
+"titulo": "Artículo 48",
+"html": "<p class=\"articulo\">Artículo 48.</p><p class=\"parrafo\">1. En la resolución que ponga fin al procedimiento disciplinario deberá determinarse con toda precisión la falta que se estime cometida señalando los preceptos en que aparezca recogida la clase de falta, el funcionario responsable y la sanción que se impone, haciendo expresa declaración en orden a las medidas provisionales adoptadas durante la tramitación del procedimiento.</p><p class=\"parrafo\">2. Si la resolución estimare la inexistencia de falta disciplinaria o la de responsabilidad para el funcionario inculpado hará las declaraciones pertinentes en orden a las medidas provisionales.</p><p class=\"parrafo\">3. La resolución deberá ser notificada al inculpado, con expresión del recurso o recursos que quepan contra la misma, el órgano ante el que han de presentarse y plazos para interponerlos.</p><p class=\"parrafo\">Si el procedimiento se inició como consecuencia de denuncia, la resolución deberá ser notificada al firmante de la misma.</p>"
+},
+{
+"id": "a49",
+"tipo": "precepto",
+"titulo": "Artículo 49",
+"html": "<p class=\"articulo\">Artículo 49.</p><p class=\"parrafo\">Las sanciones disciplinarias se ejecutarán según los términos de la resolución en que se imponga, y en el plazo máximo de un mes, salvo que, cuando por causas justificadas, se establezca otro distinto en dicha resolución.</p>"
+},
+{
+"id": "a50",
+"tipo": "precepto",
+"titulo": "Artículo 50",
+"html": "<p class=\"articulo\">Artículo 50.</p><p class=\"parrafo\">El Ministro de la Presidencia podrá acordar la inejecución de la sanción, y el órgano competente para resolver podrá acordar su suspensión temporal por tiempo inferior al de su prescripción.</p><p class=\"parrafo\">Si la sanción fuera de separación del servicio, el acuerdo de su inejecución o suspensión corresponderá al Consejo de Ministros.</p><p class=\"parrafo\">Ambos acuerdos deberán adoptarse de oficio, o a instancia del interesado, siempre que mediare causa fundada para ello.</p><blockquote>\n            <p class=\"nota_pie\">Se deroga el párrafo cuarto por la disposición derogatoria.2 del Real Decreto 1085/1990, de 31 de agosto. <a class=\"refPost\">Ref. BOE-A-1990-22199</a></p>\n          </blockquote>"
+},
+{
+"id": "a51",
+"tipo": "precepto",
+"titulo": "Artículo 51",
+"html": "<p class=\"articulo\">Artículo 51.</p><p class=\"parrafo\">Las sanciones disciplinarías que se impongan a los funcionarios se anotarán en el Registro Central de Personal, con indicación de las faltas que los motivaron.</p><p class=\"parrafo\">La cancelación de estas anotaciones se producirá de oficio o a instancia del interesado en la forma prevista en el número 2 del artículo 93 de la Ley de Funcionarios, de 7 de febrero de 1964. En ningún caso se computarán a efectos de reincidencia las sanciones canceladas o que hubieran podido serlo.</p>"
+},
+{
+"id": "primera",
+"tipo": "precepto",
+"titulo": "Disposición adicional primera",
+"html": "<p class=\"articulo\">Disposición adicional primera.</p><p class=\"parrafo\">Cuando se incoe un expediente disciplinario a un funcionario que ostente la condición de Delegado sindical, Delegado de personal o cargo electivo a nivel provincial, autonómico o estatal en las Organizaciones Sindicales más representativas, deberá notificarse dicha incoación a la correspondiente Sección Sindical, Junta de Personal o Central Sindical, según proceda, a fin de que puedan ser oídos durante la tramitación del procedimiento.</p><p class=\"parrafo\">Dicha notificación deberá, asimismo, realizarse cuando la incoación del expediente se practique dentro del año siguiente al cese del inculpado en alguna de las condiciones enumeradas en el párrafo anterior. También deberá efectuarse si el inculpado es candidato durante el período electoral.</p>"
+},
+{
+"id": "segunda",
+"tipo": "precepto",
+"titulo": "Disposición adicional segunda",
+"html": "<p class=\"articulo\">Disposición adicional segunda.</p><p class=\"parrafo\">De acuerdo con lo dispuesto en los artículos 44 y 49 de la Ley 11/1984, de 25 de agosto, de Reforma Universitaria, la competencia para la incoación y resolución de expedientes disciplinarios al profesorado y personal de Administración y Servicios de las Universidades corresponderá a los Rectores, con excepción de la separación del servicio, que será acordada por el Consejo de Ministros.</p>"
+},
+{
+"id": "tercera",
+"tipo": "precepto",
+"titulo": "Disposición adicional tercera",
+"html": "<p class=\"articulo\">Disposición adicional tercera.</p><p class=\"parrafo\">Los funcionarios de las Fuerzas y Cuerpos de la Seguridad del Estado se regirán en materia disciplinaria por lo dispuesto en la Ley orgánica a que se refiere el artículo 104.2 de la Constitución y las normas que se dicten en su desarrollo.</p>"
+},
+{
+"id": "primera-2",
+"tipo": "precepto",
+"titulo": "Disposición transitoria primera",
+"html": "<p class=\"articulo\">Disposición transitoria primera.</p><p class=\"parrafo\">Los expedientes disciplinarios que se encuentren en tramitación en el momento de la publicación de este Reglamento seguirán regulados por las disposiciones anteriores, salvo que las de éste le sean más favorables. En todo caso, de no haberse efectuado la propuesta de resolución, deberá darse el trámite previsto en el artículo 41.</p>"
+},
+{
+"id": "segunda-2",
+"tipo": "precepto",
+"titulo": "Disposición transitoria segunda",
+"html": "<p class=\"articulo\">Disposición transitoria segunda.</p><p class=\"parrafo\">Sin perjuicio del cumplimiento de lo dispuesto en la disposición adicional cuarta de la Ley 30/1984, de 2 de agosto, el presente Reglamento será de aplicación al personal que hubiera sido contratado en régimen de colaboración temporal al amparo de lo dispuesto en el artículo 6 de la Ley Articulada de Funcionarios Civiles del Estado, de 7 de febrero de 1964, y al personal con contrato eventual de la Administración de la Seguridad Social que continúe prestando servicios bajo dicha condición.</p>"
+},
+{
+"id": "dd",
+"tipo": "precepto",
+"titulo": "Disposición derogatoria",
+"html": "<p class=\"articulo\">Disposición derogatoria.</p><p class=\"parrafo\">Quedan derogados los Decretos de 23 de diciembre de 1957 sobre situación de los funcionarios públicos procesados y 2088/1969, del 16 de agosto, por el que se aprueba el Reglamento de Régimen Disciplinario de los funcionarios de la Administración Civil del Estado, así como cuantas disposiciones de igual o inferior rango se hubieren dictado para regular el Régimen Disciplinario del personal incluido en el ámbito de aplicación del presente Real Decreto, con exclusión del Real Decreto 898/1985, de 30 de abril, sobre Régimen del Profesorado Universitario.</p>"
+}
+]
+}
