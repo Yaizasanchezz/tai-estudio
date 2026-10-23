@@ -29,11 +29,15 @@ Se aprobó en un momento muy concreto: la Transición. Tras la muerte de Franco 
 - **Normativa:** obliga directamente a ciudadanos y poderes públicos (art. 9.1); no es solo una declaración de intenciones.
 - **Derivada:** se inspira en otras constituciones (la alemana de 1949, la italiana de 1947, la francesa de 1958) y en la española de 1931.
 
-**Reformas:** solo tres, todas por el procedimiento ordinario del art. 167:
+**Reformas:** cuatro, todas por el procedimiento ordinario del art. 167 y sin referéndum:
 
 1. **1992**, art. 13.2: añade «y pasivo» para que los ciudadanos de la UE puedan ser elegidos en las elecciones municipales (lo exigía el Tratado de Maastricht).
 2. **2011**, art. 135: estabilidad presupuestaria y prioridad absoluta del pago de la deuda pública.
-3. **2024**, art. 49: sustituye el término «disminuidos» por «personas con discapacidad» y refuerza sus derechos.
+3. **2024** (17 de febrero), art. 49: sustituye el término «disminuidos» por «personas con discapacidad» y refuerza sus derechos.
+4. **2026** (19 de mayo, BOE del 20), art. 69.3: **Formentera elige su propio senador**, separada de Ibiza. Se aplicará a partir de las primeras elecciones al Senado posteriores a la reforma.
+
+!!! warning "Novedad que puede caer"
+    La cuarta reforma es muy reciente (mayo de 2026) y ya ha salido en el examen extraordinario de julio de 2026. Si un test antiguo dice «tres reformas», está desfasado.
 
 ## Preámbulo
 

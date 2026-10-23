@@ -1,1 +1,38 @@
-{"categorias": []}
+{"categorias": [
+ {"titulo": "Constitución Española", "descripcion": "Para entender cada título antes de leer el texto oficial. Son anteriores a la reforma de 2026 (art. 69.3, senador de Formentera): eso míralo en la sección Constitución.", "items": [
+  {"tipo": "Lista · 28 vídeos", "titulo": "Constitución española EXPLICADA para OPOSICIONES", "canal": "Opo Esquemas", "descripcion": "Va título a título con esquemas en pantalla. Muy útil para el bloque I.", "url": "https://www.youtube.com/playlist?list=PLrVzK1lvLJOWlw1qK-UUOrnbeLgjUtOGH"},
+  {"tipo": "Lista · 23 vídeos", "titulo": "Constitución Española - Curso para Oposiciones", "canal": "Paco Barbié", "descripcion": "Explicación más pausada y con ejemplos, ideal para escuchar mientras repasas.", "url": "https://www.youtube.com/playlist?list=PLM96U4ATrC6yDa4_sxp-gi6kCRDVbbuwY"},
+  {"tipo": "Lista · 62 vídeos", "titulo": "Esquemas Constitución Española de 1978 para oposiciones", "canal": "LANDL Formación", "descripcion": "Vídeos cortos por artículos o grupos de artículos. Para repasar justo lo que fallas en los tests.", "url": "https://www.youtube.com/playlist?list=PLj0QQ3oDWPhYQ1FOjxvD48uFMjwxcfbe3"}
+ ]},
+ {"titulo": "Leyes administrativas", "descripcion": "Procedimiento, sector público, empleo público, protección de datos y seguridad.", "items": [
+  {"tipo": "Lista · 19 vídeos", "titulo": "Ley 39/2015 EXPLICADA para OPOSICIONES", "canal": "Opo Esquemas", "descripcion": "El procedimiento administrativo común por títulos: interesados, actos, plazos, recursos…", "url": "https://www.youtube.com/playlist?list=PLrVzK1lvLJOXwuTxLeXtLl1ir03RRhNrw"},
+  {"tipo": "Vídeo · 50 min", "titulo": "Ley 39/2015 COMPLETA en 50 minutos", "canal": "Estudia administrativo conmigo", "descripcion": "Repaso de toda la ley de una vez. Bueno para la semana antes del examen.", "url": "https://www.youtube.com/watch?v=uIfMppbZY0w"},
+  {"tipo": "Vídeo", "titulo": "Ley 40/2015 explicada fácil (5/6): Sector Público Institucional", "canal": "Estudia administrativo conmigo", "descripcion": "Organismos autónomos, entidades públicas empresariales, agencias… la parte más liosa de la 40/2015.", "url": "https://www.youtube.com/watch?v=MecTiahGO9U"},
+  {"tipo": "Lista · 15 vídeos", "titulo": "TREBEP: resumen. Curso completo para opositores", "canal": "Derecho Virtual", "descripcion": "El Estatuto Básico del Empleado Público: clases de personal, derechos, deberes y situaciones.", "url": "https://www.youtube.com/playlist?list=PLFPDaK5cuTEIB_Gg81u4RZ80sQU0ccM12"},
+  {"tipo": "Vídeo · 16 min", "titulo": "LOPD LO 3/2018 y RGPD para oposiciones", "canal": "Repasando Sin Papeles", "descripcion": "Resumen rápido de la LOPDGDD y del RGPD.", "url": "https://www.youtube.com/watch?v=uXrVaNlbvJQ"},
+  {"tipo": "Vídeo", "titulo": "RGPD: principios de protección de datos para oposiciones", "canal": "Quiero Una Plaza", "descripcion": "Los principios del art. 5 RGPD (licitud, minimización, exactitud…), que caen mucho.", "url": "https://www.youtube.com/watch?v=laltrxwUaWM"},
+  {"tipo": "Vídeo · 40 min", "titulo": "ENS (RD 311/2022) explicado en 40 minutos", "canal": "Forlopd", "descripcion": "Categorías, dimensiones y medidas del Esquema Nacional de Seguridad.", "url": "https://www.youtube.com/watch?v=sTHiTXOkI14"},
+  {"tipo": "Webinar", "titulo": "Introducción al Esquema Nacional de Seguridad", "canal": "COIT_AEIT", "descripcion": "Visión más técnica del ENS, contada por profesionales del sector.", "url": "https://www.youtube.com/watch?v=-e1Hw7ENSO4"}
+ ]},
+ {"titulo": "TAI: examen y supuestos", "descripcion": "Vídeos de canales de oposiciones sobre el propio TAI.", "items": [
+  {"tipo": "Webinar", "titulo": "TAI del Estado: webinar gratuito", "canal": "OPOSITAS", "descripcion": "Cómo es la oposición, el examen y la forma de prepararla.", "url": "https://www.youtube.com/watch?v=H_PMQ1H5sls"},
+  {"tipo": "Vídeo", "titulo": "Resolución EXAMEN TAI 2021 OPE 2019", "canal": "", "descripcion": "Corrección comentada del examen de 2021, que también tienes resuelto en la sección Exámenes.", "url": "https://www.youtube.com/watch?v=vbEX_9KblFo"},
+  {"tipo": "Vídeo", "titulo": "Solucionando SUPUESTOS PRÁCTICOS · Oposiciones TAI Bloque 3", "canal": "", "descripcion": "Resolución en directo de preguntas de supuesto de desarrollo.", "url": "https://www.youtube.com/watch?v=ujFd4yq-v8o"},
+  {"tipo": "Vídeo", "titulo": "SIMULACRO DE EXAMEN TAI · Oposiciones Técnico Auxiliar de Informática", "canal": "", "descripcion": "Simulacro tipo test para hacer a la vez que el vídeo.", "url": "https://www.youtube.com/watch?v=6Yx3_95k1mc"}
+ ]},
+ {"titulo": "Bases de datos y SQL", "descripcion": "No son de oposiciones, pero explican muy bien lo que entra en el bloque III.", "items": [
+  {"tipo": "Vídeo · 8 h", "titulo": "CURSO COMPLETO de SQL y BASES DE DATOS desde cero", "canal": "TodoCode", "descripcion": "Modelo relacional, DDL, DML, JOIN, GROUP BY, subconsultas… Haz los ejemplos a la vez.", "url": "https://www.youtube.com/watch?v=8N4M994IDt8"},
+  {"tipo": "Vídeo", "titulo": "Normalización 1FN, 2FN y 3FN fácil y sencillo", "canal": "Sin Rueda Tecnológica", "descripcion": "Las formas normales con un ejemplo. Cae casi todos los años.", "url": "https://www.youtube.com/watch?v=k9b9aMfEr8o"}
+ ]},
+ {"titulo": "Redes", "descripcion": "El subnetting entra en casi todos los supuestos de sistemas.", "items": [
+  {"tipo": "Vídeo", "titulo": "Subnetting desde cero: guía definitiva de CIDR, máscaras y VLSM", "canal": "ASIRFacil", "descripcion": "Máscaras, prefijos, red, broadcast y VLSM, explicado para ASIR. Justo el nivel del TAI.", "url": "https://www.youtube.com/watch?v=BvyLZX9tSvA"},
+  {"tipo": "Vídeo", "titulo": "Modelos de referencia OSI y TCP/IP · Curso de redes", "canal": "Edutin Academy", "descripcion": "Las capas, qué hace cada una y qué protocolos van en cada nivel.", "url": "https://www.youtube.com/watch?v=aLcUJjL765A"}
+ ]},
+ {"titulo": "Sistemas y Linux", "descripcion": "Para los comandos que preguntan en el supuesto II.", "items": [
+  {"tipo": "Lista · 29 vídeos", "titulo": "Curso COMPLETO de LINUX desde cero para principiantes", "canal": "ProfeSantiago", "descripcion": "Directorios, permisos, usuarios, procesos y servicios paso a paso.", "url": "https://www.youtube.com/playlist?list=PLbcS-eIZbbxUqcd3Kr74fo46HzfnYpMqc"},
+  {"tipo": "Vídeo", "titulo": "Curso completo de Bash en Linux", "canal": "Tomás GD", "descripcion": "Terminal y scripts de Bash de cero a avanzado en un solo vídeo.", "url": "https://www.youtube.com/watch?v=mBmM0ZqZm0w"}
+ ]},
+ {"titulo": "Programación", "descripcion": "Java es el lenguaje que más sale en el supuesto de desarrollo.", "items": [
+  {"tipo": "Vídeo", "titulo": "Java desde cero: curso completo para principiantes (POO incluida)", "canal": "MoureDev by Brais Moure", "descripcion": "Sintaxis, colecciones y programación orientada a objetos. Muy claro.", "url": "https://www.youtube.com/watch?v=JOAqpdM36wI"}
+ ]}
+]}

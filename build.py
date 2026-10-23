@@ -226,7 +226,13 @@ def build_temario() -> list[dict]:
 
 
 def boe_law(boe_id: str) -> dict | None:
-    return read_json(DATA / "boe" / f"{boe_id}.json")
+    data = read_json(DATA / "boe" / f"{boe_id}.json")
+    if data:
+        # Las imágenes del BOE vienen con rutas relativas a boe.es.
+        for b in data.get("bloques", data.get("blocks", [])) if isinstance(data, dict) else []:
+            if isinstance(b, dict) and "html" in b:
+                b["html"] = b["html"].replace('src="/datos/', 'src="https://www.boe.es/datos/')
+    return data
 
 
 def law_toc(law: dict) -> list[dict]:

@@ -124,7 +124,7 @@ Es el artículo modificado en la **reforma de 17 de febrero de 2024**. Antes hab
 2. Los poderes públicos impulsarán las políticas que garanticen la **plena autonomía personal y la inclusión social** de las personas con discapacidad, en entornos universalmente accesibles. Fomentarán la participación de sus organizaciones. Se atenderán particularmente las necesidades específicas de las **mujeres y los menores con discapacidad**.
 
 !!! tip "Ojo en el examen"
-    Es la reforma más reciente (2024) y por eso cae mucho. Recuerda: es la **tercera** reforma, se hizo por el procedimiento del **art. 167** y cambió el lenguaje a «personas con discapacidad».
+    Cae mucho. Recuerda: es la **tercera** reforma (la cuarta, de 2026, cambió el art. 69.3 para dar un senador a Formentera), se hizo por el procedimiento del **art. 167** y cambió el lenguaje a «personas con discapacidad».
 
 ### Artículo 50 · Tercera edad
 

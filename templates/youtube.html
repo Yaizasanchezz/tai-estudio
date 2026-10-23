@@ -12,11 +12,11 @@
   <h2>{{ cat.titulo }}</h2>
   {% if cat.descripcion %}<p class="muted">{{ cat.descripcion }}</p>{% endif %}
   <div class="yt-grid">
-    {% for v in cat.items %}
+    {% for v in cat['items'] %}
     <a class="yt-card" href="{{ v.url }}" target="_blank" rel="noopener">
       <span class="yt-type">{{ v.tipo }}</span>
       <h3>{{ v.titulo }}</h3>
-      <p class="yt-channel">{{ v.canal }}</p>
+      {% if v.canal %}<p class="yt-channel">{{ v.canal }}</p>{% endif %}
       <p class="muted small">{{ v.descripcion }}</p>
       <span class="yt-go">Abrir en YouTube ↗</span>
     </a>
@@ -24,5 +24,5 @@
   </div>
 </section>
 {% endfor %}
-<p class="muted small">Los vídeos son de sus autores; comprueba siempre que la normativa que explican sigue vigente (por ejemplo, la reforma del art. 49 de la Constitución es de 2024).</p>
+<p class="muted small">Los vídeos son de sus autores; comprueba siempre que la normativa que explican sigue vigente (por ejemplo, la Constitución se reformó en 2024 —art. 49— y en 2026 —art. 69.3—, así que los vídeos anteriores no lo incluyen).</p>
 {% endblock %}

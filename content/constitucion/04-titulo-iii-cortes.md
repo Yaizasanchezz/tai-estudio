@@ -46,7 +46,10 @@ Ojo: un diputado autonómico **sí** puede ser senador (de hecho, los senadores 
 
 1. El Senado es la **Cámara de representación territorial**.
 2. En cada provincia se elegirán **cuatro Senadores** por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas.
-3. En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción: corresponden **tres Senadores a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife)** y **uno** a cada una de las siguientes islas o agrupaciones: Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro, Lanzarote y La Palma.
+3. En las provincias insulares, **cada isla con Cabildo o Consejo Insular** constituirá una circunscripción: corresponden **tres Senadores a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife)** y **uno** a cada una de las siguientes islas: **Ibiza, Formentera**, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma.
+
+!!! warning "Reforma de 19 de mayo de 2026"
+    Hasta 2026 Ibiza y Formentera formaban **una sola circunscripción** («Ibiza-Formentera») con un senador. La **cuarta reforma constitucional** (art. 69.3, BOE de 20 de mayo de 2026, por la vía del art. 167 y sin referéndum) las separa, y cada isla elige uno. La separación se aplicará en las **primeras elecciones al Senado** que se convoquen tras la reforma.
 4. Las poblaciones de **Ceuta y Melilla** elegirán cada una de ellas **dos Senadores**.
 5. Las **Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes** de su respectivo territorio. La designación corresponde a la Asamblea legislativa de la Comunidad.
 6. El Senado es elegido por **cuatro años**.
@@ -54,7 +57,7 @@ Ojo: un diputado autonómico **sí** puede ser senador (de hecho, los senadores 
 | Cámara | Circunscripción | Número | Sistema |
 | --- | --- | --- | --- |
 | Congreso | Provincia (Ceuta y Melilla: 1 cada una) | 300–400 (350 por ley) | Proporcional |
-| Senado | Provincia: 4; islas mayores: 3; resto de islas: 1; Ceuta y Melilla: 2 | Variable (más de 260) | Mayoritario (voto limitado) + designación autonómica |
+| Senado | Provincia: 4; islas mayores: 3; resto de islas (Formentera incluida desde 2026): 1; Ceuta y Melilla: 2 | Variable (más de 260) | Mayoritario (voto limitado) + designación autonómica |
 
 ### Artículo 70 · Inelegibilidad e incompatibilidad
 

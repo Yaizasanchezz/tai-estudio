@@ -99,7 +99,7 @@ Una **ley orgánica** regulará el funcionamiento del Tribunal Constitucional, e
 | Mayoría | 3/5 de cada Cámara (o 2/3 del Congreso + absoluta del Senado) | 2/3 de cada Cámara, dos veces |
 | Disolución de las Cortes | No | Sí, tras aprobar el principio |
 | Referéndum | Solo si lo pide 1/10 de una Cámara en 15 días | Siempre |
-| Ejemplos | 1992, 2011 y 2024 | Nunca se ha usado |
+| Ejemplos | 1992, 2011, 2024 y 2026 | Nunca se ha usado |
 
 Truco: «Preliminar, Derechos fundamentales y Corona» (las tres partes protegidas, más la revisión total).
 

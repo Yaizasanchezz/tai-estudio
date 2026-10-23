@@ -15,7 +15,7 @@ META = {
     "fecha": "23 de mayo de 2026",
     "duracion": "120 minutos para las dos partes",
     "penalizacion": "cada error resta 1/3 de un acierto; las preguntas en blanco no puntúan",
-    "descripcion": "El examen más reciente: 80 preguntas de la primera parte y dos supuestos a elegir (desarrollo con EDUCA-DATA 2030 o sistemas y redes de una SGTIC), resueltos y explicados.",
+    "descripcion": "El examen ordinario de la última convocatoria: 80 preguntas de la primera parte y dos supuestos a elegir (desarrollo con EDUCA-DATA 2030 o sistemas y redes de una SGTIC), resueltos y explicados.",
     "notas": "Respuestas según la **plantilla provisional actualizada** del modelo A publicada por el INAP (a la fecha no hay plantilla definitiva, así que alguna respuesta podría cambiar). La primera versión de la plantilla marcaba mal las preguntas 10 de la primera parte y 9 del supuesto I; la versión actualizada las corrigió. Enunciados transcritos del cuadernillo oficial (contrastados con el proyecto libre [OpoTAI](https://github.com/AcidClawX41/OpoTAI-Entrenador-Oposicion-TAI)); las explicaciones son de TAI Estudio.",
     "enlaces": [
         {"texto": "Página oficial de la convocatoria (INAP)", "url": "https://sede.inap.gob.es/es/procedimientos-y-servicios/seleccion/procesos-selectivos-de-cuerpos-y-escalas-generales/cuerpo-de-tecnicos-auxiliares-de-informatica-de-la-administracion-del-estado-ingreso-libre-convocatoria-2025"},

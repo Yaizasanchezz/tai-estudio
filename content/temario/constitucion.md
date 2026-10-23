@@ -13,7 +13,7 @@ La Constitución tiene 169 artículos en un Título Preliminar y 10 títulos, y 
 | Aprobación | Cortes 31/10/1978 · Referéndum 6/12/1978 · Sanción por el Rey 27/12/1978 · BOE y entrada en vigor 29/12/1978 |
 | Partes | Preámbulo, 169 artículos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria, 1 final |
 | Características | Escrita, extensa, rígida (reforma con mayorías reforzadas), de consenso, normativa (vincula directamente), democrática |
-| Reformas | 1992 (art. 13.2: sufragio pasivo de extranjeros en elecciones municipales) · 2011 (art. 135: estabilidad presupuestaria) · 2024 (art. 49: "personas con discapacidad") |
+| Reformas | 1992 (art. 13.2: sufragio pasivo de extranjeros en elecciones municipales) · 2011 (art. 135: estabilidad presupuestaria) · 2024 (art. 49: "personas con discapacidad") · 2026 (art. 69.3: senador propio para Formentera) |
 
 | Título | Artículos | Materia |
 | --- | --- | --- |
