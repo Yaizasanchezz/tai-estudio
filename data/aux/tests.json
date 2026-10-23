@@ -1,1 +1,901 @@
-{"preguntas": []}
+{
+ "preguntas": [
+  {
+   "id": "a001",
+   "bloque": "b1",
+   "pregunta": "Según el art. 1.3 de la Constitución, la forma política del Estado español es:",
+   "opciones": [
+    "La Monarquía parlamentaria.",
+    "La Monarquía hereditaria.",
+    "El Estado social y democrático de Derecho.",
+    "La Monarquía constitucional."
+   ],
+   "correcta": 0,
+   "explicacion": "El art. 1.3 dice que la forma política del Estado es la **Monarquía parlamentaria**. «Estado social y democrático de Derecho» es la definición del art. 1.1, no la forma política."
+  },
+  {
+   "id": "a002",
+   "bloque": "b1",
+   "pregunta": "La reforma del Título II de la Constitución (De la Corona) sigue el procedimiento:",
+   "opciones": [
+    "Agravado del art. 168: dos tercios de cada Cámara, disolución, ratificación por las nuevas Cámaras y referéndum obligatorio.",
+    "Ordinario del art. 167, por mayoría de tres quintos de cada Cámara.",
+    "Agravado del art. 168, sin referéndum.",
+    "Ordinario del art. 167, con referéndum solo si lo pide una décima parte de una Cámara."
+   ],
+   "correcta": 0,
+   "explicacion": "El art. 168 se aplica a la revisión total y a la parcial que afecte al **Título preliminar**, a la **Sección 1.ª del Capítulo II del Título I** o al **Título II**. Exige dos tercios, disolución inmediata, ratificación por las nuevas Cámaras (también por dos tercios) y **referéndum obligatorio**."
+  },
+  {
+   "id": "a003",
+   "bloque": "b1",
+   "pregunta": "¿Cuántos magistrados del Tribunal Constitucional se nombran a propuesta del Consejo General del Poder Judicial?",
+   "opciones": [
+    "Dos.",
+    "Ninguno.",
+    "Cuatro.",
+    "Tres."
+   ],
+   "correcta": 0,
+   "explicacion": "El TC tiene **12 miembros** (art. 159 CE): 4 a propuesta del Congreso y 4 del Senado (por 3/5), **2 del Gobierno** y **2 del CGPJ**. Su mandato es de 9 años y se renuevan por terceras partes cada tres."
+  },
+  {
+   "id": "a004",
+   "bloque": "b1",
+   "pregunta": "La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el art. 99.5 CE, se refrendan por:",
+   "opciones": [
+    "El Presidente del Gobierno en funciones.",
+    "El Presidente del Congreso de los Diputados.",
+    "El Ministro de la Presidencia.",
+    "El Presidente del Senado."
+   ],
+   "correcta": 1,
+   "explicacion": "Por regla general, los actos del Rey los refrenda el Presidente del Gobierno y, en su caso, los ministros competentes; pero en estos casos refrenda el **Presidente del Congreso** (art. 64.1 CE)."
+  },
+  {
+   "id": "a005",
+   "bloque": "b1",
+   "pregunta": "El Congreso de los Diputados se compone, según la Constitución, de:",
+   "opciones": [
+    "Un mínimo de 250 y un máximo de 350 diputados.",
+    "Un mínimo de 300 y un máximo de 400 diputados.",
+    "Exactamente 350 diputados.",
+    "Un mínimo de 350 y un máximo de 400 diputados."
+   ],
+   "correcta": 1,
+   "explicacion": "El art. 68.1 CE fija la horquilla de **300 a 400**. Los **350** actuales los fija la Ley Orgánica del Régimen Electoral General, no la Constitución."
+  },
+  {
+   "id": "a006",
+   "bloque": "b1",
+   "pregunta": "El Defensor del Pueblo es elegido por las Cortes Generales para un periodo de:",
+   "opciones": [
+    "Nueve años.",
+    "Seis años.",
+    "Cuatro años.",
+    "Cinco años."
+   ],
+   "correcta": 3,
+   "explicacion": "Según la LO 3/1981 (art. 2), el Defensor del Pueblo, **alto comisionado de las Cortes Generales**, se elige por **cinco años**, con mayorías reforzadas (tres quintos) en las Cámaras."
+  },
+  {
+   "id": "a007",
+   "bloque": "b1",
+   "pregunta": "El Consejo General del Poder Judicial está integrado por:",
+   "opciones": [
+    "Veinte vocales elegidos por los jueces por cuatro años.",
+    "El Ministro de Justicia y veinte vocales nombrados por las Cortes por nueve años.",
+    "El Presidente del Tribunal Supremo, que lo preside, y veinte vocales nombrados por el Rey por cinco años.",
+    "Doce vocales nombrados por el Gobierno por cinco años."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 122.3 CE: el CGPJ lo forman su **Presidente** (que es el del Tribunal Supremo) y **20 vocales** nombrados por el Rey por un periodo de **cinco años**: 12 entre jueces y magistrados y 8 entre abogados y juristas (4 a propuesta del Congreso y 4 del Senado)."
+  },
+  {
+   "id": "a008",
+   "bloque": "b1",
+   "pregunta": "Con la Ley Orgánica 1/2025, de medidas en materia de eficiencia del Servicio Público de Justicia, los juzgados unipersonales:",
+   "opciones": [
+    "Se mantienen, pero se crean oficinas de asistencia.",
+    "Se transforman en Salas de los Tribunales Superiores de Justicia.",
+    "Se integran en las Audiencias Provinciales.",
+    "Se transforman en Tribunales de Instancia, organizados en secciones."
+   ],
+   "correcta": 3,
+   "explicacion": "La LO 1/2025 sustituye los juzgados por **Tribunales de Instancia** (con secciones civil, penal, etc.). Se implantó en tres fases entre el 1-7-2025 y el 31-12-2025."
+  },
+  {
+   "id": "a009",
+   "bloque": "b1",
+   "pregunta": "Según la Ley 50/1997, del Gobierno, el Gobierno se compone de:",
+   "opciones": [
+    "El Presidente, los Ministros y los Subsecretarios.",
+    "El Presidente, el Vicepresidente o Vicepresidentes, en su caso, y los Ministros.",
+    "El Presidente y los Ministros, únicamente.",
+    "El Presidente, los Vicepresidentes, los Ministros y los Secretarios de Estado."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 1.2 de la Ley 50/1997 (y art. 98.1 CE). Los **Secretarios de Estado no son miembros del Gobierno**, aunque son órganos superiores de la AGE."
+  },
+  {
+   "id": "a010",
+   "bloque": "b1",
+   "pregunta": "La creación, modificación y supresión de las Comisiones Delegadas del Gobierno se acuerda:",
+   "opciones": [
+    "Por el Presidente del Gobierno mediante Real Decreto.",
+    "Por ley de las Cortes Generales.",
+    "Por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno.",
+    "Por Orden del Ministro de la Presidencia."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 6.1 de la Ley 50/1997."
+  },
+  {
+   "id": "a011",
+   "bloque": "b1",
+   "pregunta": "El Gobierno cesa, según el art. 101 CE:",
+   "opciones": [
+    "Tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria, o por dimisión o fallecimiento de su Presidente.",
+    "Tras la celebración de cualquier proceso electoral, incluidas las elecciones autonómicas.",
+    "Cuando lo decide el Rey, oído el Consejo de Estado.",
+    "Solo por la aprobación de una moción de censura."
+   ],
+   "correcta": 0,
+   "explicacion": "Son las causas del art. 101.1 CE. El Gobierno cesante **sigue en funciones** hasta la toma de posesión del nuevo."
+  },
+  {
+   "id": "a012",
+   "bloque": "b1",
+   "pregunta": "El plazo máximo para resolver y notificar una solicitud de acceso a la información pública (Ley 19/2013) es:",
+   "opciones": [
+    "Quince días hábiles.",
+    "Seis meses.",
+    "Tres meses desde la presentación.",
+    "Un mes desde la recepción por el órgano competente, ampliable por otro mes."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 20.1 de la Ley 19/2013. Si no se resuelve en plazo, la solicitud se entiende **desestimada** (silencio negativo, art. 20.4)."
+  },
+  {
+   "id": "a013",
+   "bloque": "b1",
+   "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno contra una resolución expresa de acceso se interpone en el plazo de:",
+   "opciones": [
+    "Un mes desde el día siguiente al de la notificación.",
+    "Tres meses.",
+    "Diez días hábiles.",
+    "Dos meses."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 24.2 de la Ley 19/2013. La reclamación es **potestativa** y previa al recurso contencioso-administrativo."
+  },
+  {
+   "id": "a014",
+   "bloque": "b1",
+   "pregunta": "El V Plan de Gobierno Abierto de España, aprobado en octubre de 2025, abarca el periodo:",
+   "opciones": [
+    "2025-2029.",
+    "2025-2027.",
+    "2026-2030.",
+    "2024-2027."
+   ],
+   "correcta": 0,
+   "explicacion": "España ha aprobado cinco planes de Gobierno Abierto en el marco de la **Alianza para el Gobierno Abierto** (*Open Government Partnership*). El V Plan es para **2025-2029**."
+  },
+  {
+   "id": "a015",
+   "bloque": "b1",
+   "pregunta": "Según la Ley 40/2015, son órganos superiores de la Administración General del Estado:",
+   "opciones": [
+    "Los Subsecretarios y los Secretarios generales.",
+    "Los Ministros y los Secretarios de Estado.",
+    "Los Ministros, los Secretarios de Estado y los Subsecretarios.",
+    "El Presidente del Gobierno y los Ministros."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 55.3 de la Ley 40/2015. Los **Subsecretarios**, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales son **órganos directivos**."
+  },
+  {
+   "id": "a016",
+   "bloque": "b1",
+   "pregunta": "Los Delegados del Gobierno en las Comunidades Autónomas son nombrados y separados:",
+   "opciones": [
+    "Por Real Decreto del Consejo de Ministros, a propuesta del Ministro del Interior.",
+    "Por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+    "Por el Ministro de Política Territorial.",
+    "Por el Presidente de la Comunidad Autónoma, oído el Gobierno."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 72.4 de la Ley 40/2015."
+  },
+  {
+   "id": "a017",
+   "bloque": "b1",
+   "pregunta": "Los Subdelegados del Gobierno en las provincias son nombrados:",
+   "opciones": [
+    "Por el Consejo de Ministros, a propuesta del Delegado del Gobierno.",
+    "Por el Ministro de Hacienda, entre funcionarios del Subgrupo A2.",
+    "Por el Delegado del Gobierno, por libre designación, entre funcionarios de carrera del Subgrupo A1.",
+    "Por el Presidente de la Diputación Provincial."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 75 de la Ley 40/2015. Tienen nivel de **Subdirector General**."
+  },
+  {
+   "id": "a018",
+   "bloque": "b1",
+   "pregunta": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
+   "opciones": [
+    "Municipios, provincias y Comunidades Autónomas.",
+    "Provincias, regiones y nacionalidades.",
+    "Municipios, islas y Comunidades Autónomas.",
+    "Municipios, comarcas, provincias y Comunidades Autónomas."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 137 CE: **municipios, provincias y Comunidades Autónomas**, que gozan de autonomía para la gestión de sus intereses. Las comarcas o las islas existen, pero no aparecen en este artículo."
+  },
+  {
+   "id": "a019",
+   "bloque": "b1",
+   "pregunta": "Los Estatutos de Autonomía se aprueban mediante:",
+   "opciones": [
+    "Ley del Parlamento autonómico.",
+    "Ley orgánica.",
+    "Ley ordinaria de las Cortes.",
+    "Real Decreto legislativo."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 81.1 y art. 147 CE. Son la **norma institucional básica** de cada Comunidad Autónoma."
+  },
+  {
+   "id": "a020",
+   "bloque": "b1",
+   "pregunta": "El gobierno y la administración de la provincia corresponden, con carácter general, a:",
+   "opciones": [
+    "El Ayuntamiento de la capital.",
+    "La Subdelegación del Gobierno.",
+    "La Diputación Provincial.",
+    "El Gobernador civil."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 141.2 CE. En las islas, los **Cabildos** o **Consejos insulares**; la Subdelegación representa a la AGE, no gobierna la provincia."
+  },
+  {
+   "id": "a021",
+   "bloque": "b1",
+   "pregunta": "En la legislatura 2024-2029, el Parlamento Europeo tiene 720 diputados. ¿Cuántos se eligen en España?",
+   "opciones": [
+    "61.",
+    "59.",
+    "65.",
+    "54."
+   ],
+   "correcta": 0,
+   "explicacion": "Tras las elecciones de junio de 2024, España elige **61 eurodiputados** de un total de 720."
+  },
+  {
+   "id": "a022",
+   "bloque": "b1",
+   "pregunta": "¿Quién preside el Consejo Europeo desde el 1 de diciembre de 2024?",
+   "opciones": [
+    "Ursula von der Leyen.",
+    "Roberta Metsola.",
+    "António Costa.",
+    "Charles Michel."
+   ],
+   "correcta": 2,
+   "explicacion": "**António Costa** preside el Consejo Europeo (mandato de dos años y medio, renovable una vez). **Von der Leyen** preside la Comisión y **Metsola**, el Parlamento Europeo. Michel fue su predecesor."
+  },
+  {
+   "id": "a023",
+   "bloque": "b1",
+   "pregunta": "Si las normas reguladoras de un procedimiento no fijan el plazo máximo para resolver, este será de:",
+   "opciones": [
+    "Un mes.",
+    "Dos meses.",
+    "Tres meses.",
+    "Seis meses."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 21.3 de la Ley 39/2015. El plazo fijado por las normas **no puede exceder de seis meses**, salvo que una ley o el Derecho de la UE prevean uno mayor (art. 21.2)."
+  },
+  {
+   "id": "a024",
+   "bloque": "b1",
+   "pregunta": "Cuando la Ley 39/2015 señala un plazo por días sin decir otra cosa, se entiende que son:",
+   "opciones": [
+    "Naturales.",
+    "Hábiles, excluyendo los sábados del mes de agosto.",
+    "Hábiles, excluyendo sábados, domingos y festivos.",
+    "Hábiles, excluyendo solo domingos y festivos."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 30.2 de la Ley 39/2015: los **sábados** son inhábiles desde esta ley."
+  },
+  {
+   "id": "a025",
+   "bloque": "b1",
+   "pregunta": "El plazo para interponer un recurso de alzada contra un acto expreso es de:",
+   "opciones": [
+    "Dos meses.",
+    "Quince días.",
+    "Un mes.",
+    "Tres meses."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 122.1 de la Ley 39/2015. El plazo máximo para **resolver y notificar** la alzada es de **tres meses**; transcurrido, se entiende desestimado."
+  },
+  {
+   "id": "a026",
+   "bloque": "b1",
+   "pregunta": "Un acto administrativo dictado por un órgano manifiestamente incompetente por razón de la materia o del territorio es:",
+   "opciones": [
+    "Anulable.",
+    "Irregular no invalidante.",
+    "Nulo de pleno derecho.",
+    "Válido, pero ineficaz."
+   ],
+   "correcta": 2,
+   "explicacion": "Es una de las causas de **nulidad de pleno derecho** del art. 47.1.b) de la Ley 39/2015. La incompetencia **jerárquica** solo produce anulabilidad."
+  },
+  {
+   "id": "a027",
+   "bloque": "b1",
+   "pregunta": "Según el art. 14.2 de la Ley 39/2015, NO está obligado con carácter general a relacionarse electrónicamente con las Administraciones:",
+   "opciones": [
+    "Una comunidad de bienes, por ser entidad sin personalidad jurídica.",
+    "Una persona física que no ejerce una profesión colegiada.",
+    "Un empleado público, en los trámites que realice por su condición de empleado público.",
+    "Una sociedad limitada."
+   ],
+   "correcta": 1,
+   "explicacion": "Las **personas físicas** pueden elegir cómo relacionarse (art. 14.1), salvo los casos del art. 14.2 (colegiados en su actividad profesional, representantes de obligados, empleados públicos en lo suyo) o los que fije un reglamento (art. 14.3)."
+  },
+  {
+   "id": "a028",
+   "bloque": "b1",
+   "pregunta": "En España, el tratamiento de los datos de un menor puede basarse en su propio consentimiento cuando sea mayor de:",
+   "opciones": [
+    "Dieciocho años.",
+    "Trece años.",
+    "Dieciséis años.",
+    "Catorce años."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 7.1 de la LOPDGDD (LO 3/2018). El RGPD permite a los Estados fijar entre 13 y 16 años; España eligió **14**."
+  },
+  {
+   "id": "a029",
+   "bloque": "b1",
+   "pregunta": "¿Cuál de las siguientes NO es una clase de empleado público según el art. 8 del TREBEP?",
+   "opciones": [
+    "El funcionario interino.",
+    "El personal eventual.",
+    "El personal directivo profesional.",
+    "El personal laboral fijo."
+   ],
+   "correcta": 2,
+   "explicacion": "Son clases: funcionarios de carrera, funcionarios interinos, personal laboral (fijo, por tiempo indefinido o temporal) y personal eventual. El **personal directivo** se regula en el art. 13, pero no es una clase del art. 8."
+  },
+  {
+   "id": "a030",
+   "bloque": "b1",
+   "pregunta": "Para acceder a los cuerpos del Subgrupo C2 se exige el título de:",
+   "opciones": [
+    "Bachiller o Técnico.",
+    "Graduado en Educación Secundaria Obligatoria.",
+    "Certificado de escolaridad.",
+    "Técnico Superior."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 76 del TREBEP. El **Bachiller o Técnico** es para el C1. El Cuerpo General Auxiliar de la AGE es del **C2**."
+  },
+  {
+   "id": "a031",
+   "bloque": "b1",
+   "pregunta": "Según el TREBEP, la suspensión firme por sanción disciplinaria no podrá exceder de:",
+   "opciones": [
+    "Seis años.",
+    "Tres años.",
+    "Cuatro años.",
+    "Un año."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 90.2 del TREBEP."
+  },
+  {
+   "id": "a032",
+   "bloque": "b1",
+   "pregunta": "Según el art. 97 del TREBEP, las faltas graves prescriben:",
+   "opciones": [
+    "A los tres años.",
+    "A los dos años.",
+    "A los seis meses.",
+    "Al año."
+   ],
+   "correcta": 1,
+   "explicacion": "Infracciones: muy graves **3 años**, graves **2 años**, leves **6 meses**. Sanciones: muy graves 3 años, graves 2 años, leves **1 año**."
+  },
+  {
+   "id": "a033",
+   "bloque": "b1",
+   "pregunta": "Son retribuciones básicas de los funcionarios:",
+   "opciones": [
+    "El sueldo, los trienios y la productividad.",
+    "El sueldo y los trienios, incluidos en las pagas extraordinarias.",
+    "Los trienios y el complemento específico.",
+    "El sueldo y el complemento de destino."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 23 del TREBEP. El complemento de **destino**, el **específico**, la **productividad** y las gratificaciones son **complementarias** (art. 24 TREBEP y art. 23 Ley 30/1984)."
+  },
+  {
+   "id": "a034",
+   "bloque": "b1",
+   "pregunta": "El permiso por matrimonio o constitución formalizada de pareja de hecho es de:",
+   "opciones": [
+    "Diez días.",
+    "Quince días.",
+    "Veinte días.",
+    "Un mes."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 48.l) del TREBEP."
+  },
+  {
+   "id": "a035",
+   "bloque": "b1",
+   "pregunta": "Según el art. 134 CE, el Gobierno debe presentar los Presupuestos Generales del Estado ante el Congreso:",
+   "opciones": [
+    "Al menos un mes antes de la expiración de los del año anterior.",
+    "Antes del 30 de septiembre de cada año.",
+    "Al menos tres meses antes de la expiración de los del año anterior.",
+    "Antes del 1 de diciembre."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 134.3 CE. Si no se aprueban antes del primer día del ejercicio, se **prorrogan automáticamente** los del año anterior (art. 134.4). Los de 2023 siguen prorrogados en 2026."
+  },
+  {
+   "id": "a036",
+   "bloque": "b1",
+   "pregunta": "Según la LO 3/2007, de igualdad, hay composición equilibrada cuando las personas de cada sexo:",
+   "opciones": [
+    "No superan el 70 % ni son menos del 30 %.",
+    "No superan el 60 % ni son menos del 40 %.",
+    "Son exactamente el 50 %.",
+    "Son al menos el 33 %."
+   ],
+   "correcta": 1,
+   "explicacion": "Disposición adicional primera de la LO 3/2007."
+  },
+  {
+   "id": "a037",
+   "bloque": "b1",
+   "pregunta": "A efectos del Real Decreto Legislativo 1/2013, tienen la consideración de personas con discapacidad, además de las del apartado 1, aquellas con un grado reconocido igual o superior al:",
+   "opciones": [
+    "25 %.",
+    "45 %.",
+    "65 %.",
+    "33 %."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 4.2 del Texto Refundido de la Ley General de derechos de las personas con discapacidad. En las oposiciones de la AGE se reserva un cupo para personas con discapacidad de al menos el 33 %."
+  },
+  {
+   "id": "a038",
+   "bloque": "b2",
+   "pregunta": "Según el RD 208/1996, la información sobre el estado de tramitación de un procedimiento concreto:",
+   "opciones": [
+    "Es información particular, y solo puede facilitarse a los interesados o a sus representantes.",
+    "Es información general, y puede darse a cualquier persona.",
+    "Es información administrativa reservada, que no puede facilitarse.",
+    "Solo puede darse por escrito y previa solicitud motivada."
+   ],
+   "correcta": 0,
+   "explicacion": "El RD 208/1996 distingue la **información general** (sobre fines, competencias, servicios, requisitos de los trámites: a cualquiera) de la **particular** (estado de los procedimientos y datos de los interesados: solo a ellos)."
+  },
+  {
+   "id": "a039",
+   "bloque": "b2",
+   "pregunta": "Según el RD 951/2005, la unidad responsable de una queja o sugerencia debe informar al interesado de las actuaciones realizadas en el plazo de:",
+   "opciones": [
+    "Un mes.",
+    "Diez días hábiles.",
+    "Veinte días hábiles.",
+    "Tres meses."
+   ],
+   "correcta": 2,
+   "explicacion": "RD 951/2005. El plazo se suspende si hay que pedir aclaraciones al interesado (que tiene 10 días para darlas)."
+  },
+  {
+   "id": "a040",
+   "bloque": "b2",
+   "pregunta": "En la AGE, las cartas de servicios se aprueban:",
+   "opciones": [
+    "Mediante resolución del Subsecretario del departamento, y se publican en el BOE.",
+    "Por el Director General de Gobernanza Pública, sin publicación.",
+    "Mediante Real Decreto del Consejo de Ministros.",
+    "Mediante Orden del Ministro de Hacienda."
+   ],
+   "correcta": 0,
+   "explicacion": "RD 951/2005. Las cartas deben **actualizarse periódicamente** (al menos cada tres años)."
+  },
+  {
+   "id": "a041",
+   "bloque": "b2",
+   "pregunta": "Los documentos dirigidos a las Administraciones pueden presentarse, según el art. 16.4 de la Ley 39/2015:",
+   "opciones": [
+    "En el registro electrónico de cualquier Administración, en las oficinas de Correos, en las representaciones diplomáticas u oficinas consulares en el extranjero y en las oficinas de asistencia en materia de registros.",
+    "En cualquier registro, salvo en las oficinas de Correos.",
+    "Únicamente en el registro del órgano al que se dirigen.",
+    "Solo en el registro electrónico de la Administración destinataria."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 16.4 de la Ley 39/2015. Cada Administración tiene un **Registro Electrónico General**."
+  },
+  {
+   "id": "a042",
+   "bloque": "b2",
+   "pregunta": "Un documento presentado en el registro electrónico en un día inhábil se entiende presentado, a efectos del cómputo de plazos del interesado:",
+   "opciones": [
+    "En el mismo día inhábil.",
+    "Al final del primer día hábil siguiente.",
+    "En la primera hora del primer día hábil siguiente, salvo que una norma permita la recepción en día inhábil.",
+    "A las 00:00 del día inhábil."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 31.2.b) de la Ley 39/2015."
+  },
+  {
+   "id": "a043",
+   "bloque": "b2",
+   "pregunta": "Una notificación electrónica obligatoria se entiende rechazada cuando, desde su puesta a disposición, transcurren sin acceder a su contenido:",
+   "opciones": [
+    "Cinco días hábiles.",
+    "Quince días naturales.",
+    "Diez días naturales.",
+    "Diez días hábiles."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 43.2 de la Ley 39/2015. Ojo: son **naturales**, no hábiles."
+  },
+  {
+   "id": "a044",
+   "bloque": "b2",
+   "pregunta": "La DEHú es:",
+   "opciones": [
+    "La Delegación Electrónica de Hacienda.",
+    "El documento electrónico de habilitación de representantes.",
+    "La Dirección Electrónica Habilitada única, punto donde el ciudadano puede consultar sus notificaciones de las Administraciones.",
+    "El Directorio Electrónico de Habilitación universal de funcionarios."
+   ],
+   "correcta": 2,
+   "explicacion": "La **DEHú** permite consultar y comparecer a las notificaciones y comunicaciones de las Administraciones adheridas (art. 43 de la Ley 39/2015 y RD 203/2021)."
+  },
+  {
+   "id": "a045",
+   "bloque": "b2",
+   "pregunta": "El código seguro de verificación (CSV) de un documento electrónico permite:",
+   "opciones": [
+    "Cifrar el documento para que solo lo lea el interesado.",
+    "Firmar el documento con certificado cualificado.",
+    "Comprobar su autenticidad e integridad accediendo a la sede electrónica correspondiente.",
+    "Acceder a la carpeta ciudadana sin identificarse."
+   ],
+   "correcta": 2,
+   "explicacion": "El CSV es un sistema de firma para la **actuación administrativa automatizada** (art. 42 de la Ley 40/2015): con él cualquiera puede **cotejar** el documento en la sede."
+  },
+  {
+   "id": "a046",
+   "bloque": "b2",
+   "pregunta": "Según el art. 9.2 de la Ley 39/2015, NO es un sistema de identificación de los interesados admitido con carácter general:",
+   "opciones": [
+    "Los certificados electrónicos cualificados de sello electrónico.",
+    "Los certificados electrónicos cualificados de firma.",
+    "Los sistemas de clave concertada, como Cl@ve.",
+    "La firma manuscrita escaneada."
+   ],
+   "correcta": 3,
+   "explicacion": "El art. 9.2 admite certificados cualificados de **firma**, de **sello** y sistemas de **clave concertada** u otros que las Administraciones consideren válidos con registro previo."
+  },
+  {
+   "id": "a047",
+   "bloque": "b2",
+   "pregunta": "En el ciclo vital de los documentos, el archivo en el que se reúnen los documentos en tramitación o de uso frecuente por la unidad es:",
+   "opciones": [
+    "El archivo central.",
+    "El archivo de oficina o de gestión.",
+    "El archivo histórico.",
+    "El archivo intermedio."
+   ],
+   "correcta": 1,
+   "explicacion": "El orden es: archivo de **oficina o gestión** → **central** (del ministerio) → **intermedio** → **histórico** (conservación permanente)."
+  },
+  {
+   "id": "a048",
+   "bloque": "b2",
+   "pregunta": "Según la Ley 39/2015, el interesado tiene derecho a no aportar documentos:",
+   "opciones": [
+    "Solo si el procedimiento se inicia de oficio.",
+    "Solo si los presenta en papel.",
+    "Que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier Administración.",
+    "En ningún caso: siempre debe aportarlos."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 28.2 y art. 53.1.d) de la Ley 39/2015. La Administración los consulta a través de sus redes o de la **Plataforma de Intermediación de Datos**."
+  },
+  {
+   "id": "a049",
+   "bloque": "b2",
+   "pregunta": "Según la LO 4/2001, reguladora del derecho de petición, la petición admitida debe contestarse en el plazo máximo de:",
+   "opciones": [
+    "Un mes.",
+    "Cuarenta y cinco días hábiles.",
+    "Tres meses desde la fecha de su presentación.",
+    "Seis meses."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 11.1 de la LO 4/2001. Antes, hay que acusar recibo (10 días) y decidir sobre la admisión (45 días hábiles)."
+  },
+  {
+   "id": "a050",
+   "bloque": "b2",
+   "pregunta": "El expediente administrativo electrónico, según el art. 70 de la Ley 39/2015, se remite:",
+   "opciones": [
+    "Con un índice firmado solo por el interesado.",
+    "Sin índice, porque los documentos ya están firmados.",
+    "En papel, siempre que lo pida el interesado.",
+    "Completo, foliado, autentificado y acompañado de un índice, también autentificado, de los documentos que contenga."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 70.3 de la Ley 39/2015. El **foliado** se hace mediante un **índice electrónico** firmado."
+  },
+  {
+   "id": "a051",
+   "bloque": "b2",
+   "pregunta": "La sede electrónica, según el art. 38 de la Ley 40/2015, es:",
+   "opciones": [
+    "Cualquier página web de un organismo público.",
+    "El correo electrónico oficial de cada ministerio.",
+    "La dirección electrónica, disponible a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública en el ejercicio de sus competencias.",
+    "El registro electrónico de apoderamientos."
+   ],
+   "correcta": 2,
+   "explicacion": "La titularidad de la sede implica la **responsabilidad** sobre la integridad, veracidad y actualización de la información y los servicios."
+  },
+  {
+   "id": "a052",
+   "bloque": "b2",
+   "pregunta": "En el Registro Electrónico de Apoderamientos (REA) se inscriben:",
+   "opciones": [
+    "Los funcionarios habilitados para expedir copias auténticas.",
+    "Las representaciones (poderes) que los interesados otorgan a otra persona para actuar en su nombre ante las Administraciones.",
+    "Las sedes electrónicas de cada ministerio.",
+    "Los documentos presentados por los interesados."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 6 de la Ley 39/2015. Los funcionarios habilitados se inscriben en otro registro (de funcionarios habilitados, art. 12)."
+  },
+  {
+   "id": "a053",
+   "bloque": "b2",
+   "pregunta": "La Carpeta Ciudadana del Sector Público Estatal permite al ciudadano:",
+   "opciones": [
+    "Obtener un certificado electrónico cualificado.",
+    "Votar en las elecciones generales.",
+    "Presentar recursos contencioso-administrativos.",
+    "Consultar en un único punto sus expedientes, notificaciones, registros y datos que tienen las Administraciones."
+   ],
+   "correcta": 3,
+   "explicacion": "Es el **área personalizada** de cada ciudadano en el Punto de Acceso General (art. 8 del RD 203/2021)."
+  },
+  {
+   "id": "a054",
+   "bloque": "info",
+   "pregunta": "Un byte equivale a:",
+   "opciones": [
+    "8 bits.",
+    "1.024 bits.",
+    "4 bits.",
+    "16 bits."
+   ],
+   "correcta": 0,
+   "explicacion": "El **bit** es la unidad mínima (0 o 1). 1 **byte** = 8 bits. 1 KB = 1.024 bytes (en la notación binaria tradicional)."
+  },
+  {
+   "id": "a055",
+   "bloque": "info",
+   "pregunta": "La memoria RAM se caracteriza por ser:",
+   "opciones": [
+    "De solo lectura y permanente.",
+    "De lectura y escritura, y volátil: pierde su contenido al apagar el equipo.",
+    "No volátil, como un disco SSD.",
+    "Un dispositivo de almacenamiento secundario."
+   ],
+   "correcta": 1,
+   "explicacion": "La **RAM** guarda los programas y datos **en uso**. La **ROM** (y la memoria de la UEFI/BIOS) es no volátil."
+  },
+  {
+   "id": "a056",
+   "bloque": "info",
+   "pregunta": "UTF-8 es:",
+   "opciones": [
+    "Una codificación que usa siempre 8 bytes por carácter.",
+    "Un formato de compresión de imágenes.",
+    "Una codificación de caracteres Unicode de longitud variable, de 1 a 4 bytes por carácter, compatible con ASCII.",
+    "Un protocolo de transferencia de archivos."
+   ],
+   "correcta": 2,
+   "explicacion": "Es la codificación más usada en la Web. Los caracteres ASCII ocupan **1 byte** y otros, como la **ñ** o las tildes, **2**."
+  },
+  {
+   "id": "a057",
+   "bloque": "info",
+   "pregunta": "Se denomina malvertising a:",
+   "opciones": [
+    "Un antivirus para la publicidad.",
+    "La suplantación de una web bancaria.",
+    "El envío masivo de correo no deseado.",
+    "El uso de anuncios publicitarios en línea para distribuir software malicioso."
+   ],
+   "correcta": 3,
+   "explicacion": "*Malicious advertising*: los anuncios, incluso en webs legítimas, llevan a malware o a páginas fraudulentas."
+  },
+  {
+   "id": "a058",
+   "bloque": "info",
+   "pregunta": "El ransomware es un tipo de malware que:",
+   "opciones": [
+    "Se replica por la red sin intervención del usuario.",
+    "Registra las pulsaciones del teclado.",
+    "Cifra o bloquea los archivos del usuario y exige un rescate para recuperarlos.",
+    "Muestra publicidad no deseada."
+   ],
+   "correcta": 2,
+   "explicacion": "Lo que muestra publicidad es el **adware**; lo que registra el teclado, un **keylogger**; el que se replica solo por la red, un **gusano**."
+  },
+  {
+   "id": "a059",
+   "bloque": "info",
+   "pregunta": "El phishing consiste en:",
+   "opciones": [
+    "Interceptar una red wifi abierta.",
+    "Saturar un servidor con peticiones.",
+    "Suplantar a una entidad de confianza (banco, Administración) para engañar al usuario y obtener sus credenciales o datos.",
+    "Esconder malware dentro de un programa legítimo."
+   ],
+   "correcta": 2,
+   "explicacion": "Se hace por correo, SMS (**smishing**) o llamada (**vishing**). Saturar un servidor es un ataque de **denegación de servicio (DoS/DDoS)**; esconder malware en un programa legítimo, un **troyano**."
+  },
+  {
+   "id": "a060",
+   "bloque": "info",
+   "pregunta": "Un SGSI (sistema de gestión de la seguridad de la información) se certifica conforme a la norma:",
+   "opciones": [
+    "ISO/IEC 20000.",
+    "ISO/IEC 27001.",
+    "ISO 9001.",
+    "ISO 14001."
+   ],
+   "correcta": 1,
+   "explicacion": "La **27001** es la de seguridad de la información; la 9001, de calidad; la 14001, ambiental; la 20000, de gestión de servicios TI. En el sector público español se aplica además el **ENS** (RD 311/2022)."
+  },
+  {
+   "id": "a061",
+   "bloque": "info",
+   "pregunta": "En Internet, el protocolo que traduce los nombres de dominio en direcciones IP es:",
+   "opciones": [
+    "FTP.",
+    "DNS.",
+    "SMTP.",
+    "DHCP."
+   ],
+   "correcta": 1,
+   "explicacion": "El **DNS** (*Domain Name System*). El **DHCP** asigna direcciones IP automáticamente; el **FTP** transfiere archivos; el **SMTP** envía correo."
+  },
+  {
+   "id": "a062",
+   "bloque": "info",
+   "pregunta": "El protocolo que asigna automáticamente una dirección IP a un equipo cuando se conecta a la red es:",
+   "opciones": [
+    "SSH.",
+    "HTTP.",
+    "DNS.",
+    "DHCP."
+   ],
+   "correcta": 3,
+   "explicacion": "*Dynamic Host Configuration Protocol*. Además de la IP, da la máscara, la puerta de enlace y los servidores DNS."
+  },
+  {
+   "id": "a063",
+   "bloque": "info",
+   "pregunta": "Una VPN (red privada virtual):",
+   "opciones": [
+    "Acelera la conexión a Internet eliminando el cifrado.",
+    "Crea un túnel cifrado a través de Internet para conectarse a una red privada como si se estuviera dentro de ella.",
+    "Es una red local sin cables.",
+    "Es un programa antivirus."
+   ],
+   "correcta": 1,
+   "explicacion": "Se usa, por ejemplo, para **teletrabajar** con acceso a los sistemas internos."
+  },
+  {
+   "id": "a064",
+   "bloque": "info",
+   "pregunta": "El puerto habitual del protocolo HTTPS es:",
+   "opciones": [
+    "80.",
+    "25.",
+    "21.",
+    "443."
+   ],
+   "correcta": 3,
+   "explicacion": "**80** es HTTP; **21**, FTP; **25**, SMTP. HTTPS cifra la comunicación con **TLS**."
+  },
+  {
+   "id": "a065",
+   "bloque": "info",
+   "pregunta": "Las direcciones IPv6 tienen una longitud de:",
+   "opciones": [
+    "64 bits.",
+    "128 bits.",
+    "48 bits.",
+    "32 bits."
+   ],
+   "correcta": 1,
+   "explicacion": "**IPv4**: 32 bits (unos 4.300 millones de direcciones, agotadas). **IPv6**: 128 bits, escritas en hexadecimal."
+  },
+  {
+   "id": "a066",
+   "bloque": "info",
+   "pregunta": "La World Wide Web fue creada por:",
+   "opciones": [
+    "Vinton Cerf y Robert Kahn, en ARPA.",
+    "Bill Gates, en Microsoft.",
+    "Ray Tomlinson, en BBN.",
+    "Tim Berners-Lee, en el CERN."
+   ],
+   "correcta": 3,
+   "explicacion": "Berners-Lee la creó entre 1989 y 1991 (HTML, HTTP y URL). **Cerf y Kahn** diseñaron TCP/IP; **Tomlinson** envió el primer correo en red."
+  },
+  {
+   "id": "a067",
+   "bloque": "info",
+   "pregunta": "Se denomina plug and play a:",
+   "opciones": [
+    "La capacidad del sistema de reconocer y configurar automáticamente un dispositivo al conectarlo, sin intervención del usuario.",
+    "Un modo de ahorro de energía.",
+    "La reproducción automática de vídeos en el navegador.",
+    "Un tipo de puerto exclusivo para impresoras."
+   ],
+   "correcta": 0,
+   "explicacion": "Al conectar, por ejemplo, un ratón USB, Windows detecta el dispositivo e instala el **controlador** automáticamente."
+  },
+  {
+   "id": "a068",
+   "bloque": "info",
+   "pregunta": "En la navegación InPrivate de Microsoft Edge:",
+   "opciones": [
+    "Se guardan las contraseñas cifradas en la nube.",
+    "Al cerrar la ventana no se guardan el historial, las cookies ni los datos de formularios, pero la navegación no es anónima.",
+    "Se bloquean todas las webs que no sean HTTPS.",
+    "La navegación es completamente anónima, incluso para el proveedor de Internet."
+   ],
+   "correcta": 1,
+   "explicacion": "Se abre con **Ctrl + Mayús + N**. La web, la red de la empresa o el proveedor pueden seguir viendo la actividad."
+  },
+  {
+   "id": "a069",
+   "bloque": "info",
+   "pregunta": "Internet Explorer dejó de tener soporte en 2022. Para abrir webs antiguas que solo funcionan con él, Microsoft Edge ofrece:",
+   "opciones": [
+    "El modo de compatibilidad de Chrome.",
+    "El Modo Internet Explorer (modo IE).",
+    "La vista de lectura.",
+    "El modo InPrivate."
+   ],
+   "correcta": 1,
+   "explicacion": "El **modo IE** usa el motor de Internet Explorer dentro de Edge."
+  }
+ ]
+}

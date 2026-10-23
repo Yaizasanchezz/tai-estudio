@@ -1,1 +1,654 @@
-{"preguntas": []}
+{
+ "preguntas": [
+  {
+   "id": "o001",
+   "bloque": "windows",
+   "pregunta": "En Windows 11, ¿qué combinación abre el Explorador de archivos?",
+   "opciones": [
+    "Windows + E.",
+    "Windows + X.",
+    "Windows + F.",
+    "Ctrl + E."
+   ],
+   "correcta": 0,
+   "explicacion": "**Windows + E**. Windows + X abre el menú de vínculo rápido."
+  },
+  {
+   "id": "o002",
+   "bloque": "windows",
+   "pregunta": "Para eliminar un archivo del disco local sin que pase por la Papelera de reciclaje se pulsa:",
+   "opciones": [
+    "Supr dos veces.",
+    "Mayús + Supr.",
+    "Ctrl + Supr.",
+    "Alt + Supr."
+   ],
+   "correcta": 1,
+   "explicacion": "Con **Supr** va a la Papelera (se puede restaurar); con **Mayús + Supr** se borra definitivamente, previa confirmación."
+  },
+  {
+   "id": "o003",
+   "bloque": "windows",
+   "pregunta": "Al arrastrar con el ratón un archivo desde el disco C: a una memoria USB, sin pulsar ninguna tecla, el archivo:",
+   "opciones": [
+    "Se copia.",
+    "Se mueve.",
+    "Se crea un acceso directo.",
+    "Se comprime."
+   ],
+   "correcta": 0,
+   "explicacion": "Entre **unidades distintas**, arrastrar **copia**; dentro de la **misma unidad**, **mueve**. Con Ctrl se fuerza copiar; con Mayús, mover; con Alt, acceso directo."
+  },
+  {
+   "id": "o004",
+   "bloque": "windows",
+   "pregunta": "La combinación Windows + V:",
+   "opciones": [
+    "Abre la Vista de tareas.",
+    "Abre el historial del portapapeles.",
+    "Pega sin formato.",
+    "Cambia el volumen."
+   ],
+   "correcta": 1,
+   "explicacion": "**Windows + V** muestra los últimos elementos copiados (hay que activarlo la primera vez). La Vista de tareas es Windows + Tab."
+  },
+  {
+   "id": "o005",
+   "bloque": "windows",
+   "pregunta": "Para capturar una parte de la pantalla con la herramienta Recortes se pulsa:",
+   "opciones": [
+    "Windows + Mayús + S.",
+    "Alt + R.",
+    "Windows + Mayús + C.",
+    "Ctrl + Impr Pant."
+   ],
+   "correcta": 0,
+   "explicacion": "**Windows + Mayús + S** (o la tecla Impr Pant, que en Windows 11 abre también Recortes)."
+  },
+  {
+   "id": "o006",
+   "bloque": "windows",
+   "pregunta": "Para finalizar un programa que no responde se puede abrir directamente el Administrador de tareas con:",
+   "opciones": [
+    "Ctrl + Alt + Esc.",
+    "Alt + F4 dos veces.",
+    "Windows + T.",
+    "Ctrl + Mayús + Esc."
+   ],
+   "correcta": 3,
+   "explicacion": "**Ctrl + Mayús + Esc** lo abre directamente; Ctrl + Alt + Supr lleva a una pantalla desde la que también se abre."
+  },
+  {
+   "id": "o007",
+   "bloque": "windows",
+   "pregunta": "Para crear un espacio de trabajo independiente (un escritorio virtual nuevo) se pulsa:",
+   "opciones": [
+    "Windows + Ctrl + N.",
+    "Windows + Alt + D.",
+    "Windows + D.",
+    "Windows + Ctrl + D."
+   ],
+   "correcta": 3,
+   "explicacion": "**Windows + Ctrl + D** crea un escritorio virtual; **Windows + D** solo muestra u oculta el escritorio."
+  },
+  {
+   "id": "o008",
+   "bloque": "windows",
+   "pregunta": "En el Explorador de archivos, la sección que muestra las unidades del equipo (disco C:, USB…) y su espacio libre es:",
+   "opciones": [
+    "Galería.",
+    "Acceso rápido.",
+    "Red.",
+    "Este equipo."
+   ],
+   "correcta": 3,
+   "explicacion": "**Este equipo** muestra las unidades y las carpetas del usuario; **Acceso rápido**, las carpetas **ancladas**."
+  },
+  {
+   "id": "o009",
+   "bloque": "windows",
+   "pregunta": "En el cuadro de búsqueda del Explorador, el criterio `*.pdf` encuentra:",
+   "opciones": [
+    "Todos los archivos con extensión .pdf.",
+    "Los PDF creados hoy.",
+    "Solo el archivo llamado «.pdf».",
+    "Los archivos PDF de un solo carácter."
+   ],
+   "correcta": 0,
+   "explicacion": "El asterisco **\\*** sustituye a cualquier número de caracteres; **?**, a uno solo."
+  },
+  {
+   "id": "o010",
+   "bloque": "windows",
+   "pregunta": "La combinación Windows + L:",
+   "opciones": [
+    "Cambia el idioma del teclado.",
+    "Bloquea el equipo.",
+    "Abre la lupa.",
+    "Cierra la sesión y apaga."
+   ],
+   "correcta": 1,
+   "explicacion": "**Windows + L** (de *lock*) bloquea la sesión sin cerrar los programas."
+  },
+  {
+   "id": "o011",
+   "bloque": "word",
+   "pregunta": "En Word 365 en español, la combinación Ctrl + N:",
+   "opciones": [
+    "Crea un documento nuevo.",
+    "Abre la ventana Imprimir.",
+    "Aplica negrita.",
+    "Inserta un salto de página."
+   ],
+   "correcta": 2,
+   "explicacion": "En la versión en español: **Ctrl + N** negrita, **Ctrl + K** cursiva, **Ctrl + S** subrayado. El documento nuevo es **Ctrl + U**."
+  },
+  {
+   "id": "o012",
+   "bloque": "word",
+   "pregunta": "En Word en español, Ctrl + E sirve para:",
+   "opciones": [
+    "Centrar el párrafo.",
+    "Guardar.",
+    "Buscar.",
+    "Seleccionar todo el documento."
+   ],
+   "correcta": 3,
+   "explicacion": "**Ctrl + E** selecciona todo; centrar es **Ctrl + T**; buscar, **Ctrl + B**; guardar, **Ctrl + G**."
+  },
+  {
+   "id": "o013",
+   "bloque": "word",
+   "pregunta": "Si en un párrafo vacío de Word se escribe `=rand()` y se pulsa Intro:",
+   "opciones": [
+    "Se insertan párrafos de texto de ejemplo.",
+    "Aparece un error de fórmula.",
+    "Se inserta un número aleatorio.",
+    "Se inserta una tabla aleatoria."
+   ],
+   "correcta": 0,
+   "explicacion": "**=rand()** inserta texto de ejemplo en español; **=lorem()**, texto en latín. Se usan para probar formatos."
+  },
+  {
+   "id": "o014",
+   "bloque": "word",
+   "pregunta": "Para que en una carta de combinar correspondencia aparezca un texto solo cuando se cumple una condición, se usa la regla:",
+   "opciones": [
+    "Preguntar.",
+    "Si… Entonces… Sino.",
+    "Saltar registro si.",
+    "Siguiente registro."
+   ],
+   "correcta": 1,
+   "explicacion": "**Si… Entonces… Sino** inserta un texto u otro según una condición. **Saltar registro si** no genera el documento de los registros que la cumplen."
+  },
+  {
+   "id": "o015",
+   "bloque": "word",
+   "pregunta": "La tabla de contenido automática de Word se genera a partir de:",
+   "opciones": [
+    "Los marcadores.",
+    "Las notas al pie.",
+    "Las palabras en negrita.",
+    "Los estilos de título aplicados en el documento."
+   ],
+   "correcta": 3,
+   "explicacion": "**Referencias > Tabla de contenido**. Hay que **actualizarla** (F9) cuando cambia el documento."
+  },
+  {
+   "id": "o016",
+   "bloque": "word",
+   "pregunta": "Para que una parte del documento tenga una orientación de página diferente (por ejemplo, horizontal) hay que insertar:",
+   "opciones": [
+    "Saltos de columna.",
+    "Saltos de página.",
+    "Saltos de sección.",
+    "Saltos de línea."
+   ],
+   "correcta": 2,
+   "explicacion": "Cada **sección** puede tener su propia orientación, márgenes, columnas y encabezados (Disposición > Saltos > Saltos de sección)."
+  },
+  {
+   "id": "o017",
+   "bloque": "word",
+   "pregunta": "La función de Word que registra todas las modificaciones de un documento para aceptarlas o rechazarlas después es:",
+   "opciones": [
+    "Control de cambios (ficha Revisar).",
+    "Historial de versiones (ficha Insertar).",
+    "Autocorrección (ficha Inicio).",
+    "Comparar documentos (ficha Archivo)."
+   ],
+   "correcta": 0,
+   "explicacion": "**Revisar > Control de cambios**. Comparar sirve para ver las diferencias entre **dos** documentos."
+  },
+  {
+   "id": "o018",
+   "bloque": "word",
+   "pregunta": "La extensión de una plantilla de Word sin macros es:",
+   "opciones": [
+    ".docx",
+    ".docm",
+    ".dotx",
+    ".xltx"
+   ],
+   "correcta": 2,
+   "explicacion": "**.docx** documento; **.dotx** plantilla; **.docm** documento con macros; **.xltx** es plantilla de Excel."
+  },
+  {
+   "id": "o019",
+   "bloque": "word",
+   "pregunta": "En Word, Mayús + Intro inserta:",
+   "opciones": [
+    "Un salto de página.",
+    "Un párrafo nuevo con el mismo estilo.",
+    "Un salto de línea sin cambiar de párrafo.",
+    "Un salto de sección continuo."
+   ],
+   "correcta": 2,
+   "explicacion": "**Intro** = párrafo nuevo; **Mayús + Intro** = salto de línea; **Ctrl + Intro** = salto de página."
+  },
+  {
+   "id": "o020",
+   "bloque": "word",
+   "pregunta": "En Word en español, Ctrl + L abre:",
+   "opciones": [
+    "Buscar y reemplazar.",
+    "La lista de estilos.",
+    "Alinear a la izquierda.",
+    "Insertar hipervínculo."
+   ],
+   "correcta": 0,
+   "explicacion": "**Ctrl + L** reemplazar; **Ctrl + B** buscar; alinear a la izquierda es **Ctrl + Q**."
+  },
+  {
+   "id": "o021",
+   "bloque": "excel",
+   "pregunta": "En Excel, una celda muestra `#####`. Lo más probable es que:",
+   "opciones": [
+    "El nombre de la función esté mal escrito.",
+    "La columna sea demasiado estrecha para mostrar el número o la fecha.",
+    "La fórmula divida por cero.",
+    "Se haga referencia a una celda eliminada."
+   ],
+   "correcta": 1,
+   "explicacion": "**#####** no es un error de fórmula: falta **ancho de columna** (o hay una fecha u hora negativa). Dividir por cero da **#¡DIV/0!**; una referencia eliminada, **#¡REF!**; un nombre mal escrito, **#¿NOMBRE?**."
+  },
+  {
+   "id": "o022",
+   "bloque": "excel",
+   "pregunta": "¿Qué fórmula suma los importes de C2:C6 cuyo concepto en B2:B6 es «Nómina»?",
+   "opciones": [
+    "`=SUMAR.SI.CONJUNTO(C2:C6;B2:B6;\"Nómina\")`",
+    "`=SUMAR.SI.CONJUNTO(B2:B6;\"Nómina\";C2:C6)`",
+    "`=SUMA.SI(B2:B6;\"Nómina\")`",
+    "`=SUMAR.SI(C2:C6;\"Nómina\";B2:B6)`"
+   ],
+   "correcta": 0,
+   "explicacion": "En **SUMAR.SI.CONJUNTO** el **primer argumento** es el rango que se suma y luego van pares rango-criterio. En **SUMAR.SI** es al revés: rango del criterio, criterio y, al final, el rango de suma: `=SUMAR.SI(B2:B6;\"Nómina\";C2:C6)`."
+  },
+  {
+   "id": "o023",
+   "bloque": "excel",
+   "pregunta": "Si en D2 se escribe `=B2*$E$1` y se copia a D3, la fórmula de D3 será:",
+   "opciones": [
+    "`=C3*$E$1`",
+    "`=B3*$E$1`",
+    "`=B3*$E$2`",
+    "`=B2*$E$1`"
+   ],
+   "correcta": 1,
+   "explicacion": "**B2** es relativa (cambia al copiar hacia abajo); **$E$1** es absoluta (no cambia). **F4** alterna los tipos de referencia."
+  },
+  {
+   "id": "o024",
+   "bloque": "excel",
+   "pregunta": "La función BUSCARX, por defecto:",
+   "opciones": [
+    "Busca una coincidencia aproximada y solo devuelve columnas a la derecha.",
+    "Solo busca en horizontal.",
+    "Busca una coincidencia exacta y puede devolver valores de una columna situada a la izquierda de la de búsqueda.",
+    "Solo funciona con datos ordenados."
+   ],
+   "correcta": 2,
+   "explicacion": "Sintaxis: `=BUSCARX(valor; matriz_buscada; matriz_devuelta; [si_no_se_encuentra]; …)`. Supera a **BUSCARV**, que solo devuelve columnas a la derecha y por defecto busca coincidencias aproximadas."
+  },
+  {
+   "id": "o025",
+   "bloque": "excel",
+   "pregunta": "La función CONTARA cuenta:",
+   "opciones": [
+    "Las celdas vacías.",
+    "Las celdas no vacías de un rango.",
+    "Las celdas que cumplen una condición.",
+    "Solo las celdas con números."
+   ],
+   "correcta": 1,
+   "explicacion": "**CONTAR** cuenta números; **CONTARA**, celdas no vacías; **CONTAR.BLANCO**, vacías; **CONTAR.SI**, las que cumplen un criterio."
+  },
+  {
+   "id": "o026",
+   "bloque": "excel",
+   "pregunta": "¿Cuántas filas tiene una hoja de cálculo de Excel 365?",
+   "opciones": [
+    "16.384",
+    "1.048.576",
+    "65.536",
+    "1.000.000"
+   ],
+   "correcta": 1,
+   "explicacion": "**1.048.576 filas** y **16.384 columnas** (la última es **XFD**). 65.536 era el límite de Excel 2003."
+  },
+  {
+   "id": "o027",
+   "bloque": "excel",
+   "pregunta": "En Excel, Alt + F1:",
+   "opciones": [
+    "Inserta una función.",
+    "Crea un gráfico en una hoja de gráfico nueva.",
+    "Abre la ayuda.",
+    "Crea un gráfico incrustado en la hoja actual con los datos seleccionados."
+   ],
+   "correcta": 3,
+   "explicacion": "**Alt + F1**: gráfico **incrustado**; **F11**: gráfico en una **hoja nueva**."
+  },
+  {
+   "id": "o028",
+   "bloque": "excel",
+   "pregunta": "Si una celda contiene 0,758 y se le aplica el formato Porcentaje sin decimales, mostrará:",
+   "opciones": [
+    "75,8 %",
+    "0,76 %",
+    "76 %",
+    "758 %"
+   ],
+   "correcta": 2,
+   "explicacion": "El formato porcentaje **multiplica por 100** al mostrar el valor y redondea a los decimales indicados: 75,8 % → **76 %**. El valor de la celda sigue siendo 0,758."
+  },
+  {
+   "id": "o029",
+   "bloque": "excel",
+   "pregunta": "Excel guarda internamente las fechas como:",
+   "opciones": [
+    "Números de serie, donde el 0 es el 1 de enero de 2000.",
+    "Números de serie, donde el 1 corresponde al 1 de enero de 1900.",
+    "Texto con formato dd/mm/aaaa.",
+    "Fracciones de año."
+   ],
+   "correcta": 1,
+   "explicacion": "Por eso se puede **restar** una fecha de otra para obtener los días entre ellas. Las **horas** son fracciones del día (12:00 = 0,5)."
+  },
+  {
+   "id": "o030",
+   "bloque": "excel",
+   "pregunta": "Para que las filas de títulos permanezcan visibles al desplazarse por una hoja larga se usa:",
+   "opciones": [
+    "Diseño de página > Imprimir títulos.",
+    "Vista > Inmovilizar paneles.",
+    "Inicio > Ajustar texto.",
+    "Datos > Agrupar."
+   ],
+   "correcta": 1,
+   "explicacion": "**Inmovilizar paneles** fija las filas superiores o columnas izquierdas en pantalla. **Imprimir títulos** las repite al **imprimir**."
+  },
+  {
+   "id": "o031",
+   "bloque": "excel",
+   "pregunta": "La fórmula `=SI(B2>=5;\"Apto\";\"No apto\")` devuelve, si B2 vale 5:",
+   "opciones": [
+    "VERDADERO",
+    "Apto",
+    "No apto",
+    "#¡VALOR!"
+   ],
+   "correcta": 1,
+   "explicacion": "La condición **B2>=5** es verdadera (5 es mayor **o igual** que 5), así que devuelve el segundo argumento."
+  },
+  {
+   "id": "o032",
+   "bloque": "excel",
+   "pregunta": "La función REGEXPRUEBA de Excel 365:",
+   "opciones": [
+    "Extrae la parte de un texto que coincide con un patrón.",
+    "Comprueba si un texto coincide con un patrón de expresión regular y devuelve VERDADERO o FALSO.",
+    "Reemplaza las coincidencias de un patrón.",
+    "Comprueba si una fórmula tiene errores."
+   ],
+   "correcta": 1,
+   "explicacion": "Es una de las funciones de **expresiones regulares** recientes de Excel 365: **REGEXPRUEBA** (comprobar), **REGEXEXTRAER** (extraer) y **REGEXREEMPLAZAR** (reemplazar)."
+  },
+  {
+   "id": "o033",
+   "bloque": "access",
+   "pregunta": "En Access, el tipo de datos Texto corto admite como máximo:",
+   "opciones": [
+    "64.000 caracteres.",
+    "512 caracteres.",
+    "255 caracteres.",
+    "128 caracteres."
+   ],
+   "correcta": 2,
+   "explicacion": "Para textos más largos se usa **Texto largo** (antes llamado Memo)."
+  },
+  {
+   "id": "o034",
+   "bloque": "access",
+   "pregunta": "La propiedad de campo que define el mensaje que aparece cuando un dato no cumple la regla de validación es:",
+   "opciones": [
+    "Máscara de entrada.",
+    "Título.",
+    "Texto de validación.",
+    "Formato."
+   ],
+   "correcta": 2,
+   "explicacion": "**Regla de validación** = la condición (por ejemplo, `>=0`); **Texto de validación** = el mensaje de aviso."
+  },
+  {
+   "id": "o035",
+   "bloque": "access",
+   "pregunta": "¿Qué vista de un formulario de Access se usa para introducir, consultar y modificar los datos?",
+   "opciones": [
+    "Vista Formulario.",
+    "Vista preliminar.",
+    "Vista Diseño.",
+    "Vista Presentación."
+   ],
+   "correcta": 0,
+   "explicacion": "Los formularios tienen tres vistas: **Formulario** (trabajar con los datos), **Presentación** (cambiar el diseño viendo los datos) y **Diseño** (estructura detallada). La Vista preliminar es de los **informes**."
+  },
+  {
+   "id": "o036",
+   "bloque": "access",
+   "pregunta": "En la cuadrícula de diseño de una consulta, si se escriben dos criterios en la misma fila (en campos distintos):",
+   "opciones": [
+    "Se produce un error.",
+    "Solo se aplica el primero.",
+    "Se deben cumplir los dos a la vez (Y).",
+    "Basta con que se cumpla uno (O)."
+   ],
+   "correcta": 2,
+   "explicacion": "**Misma fila = Y**; **filas distintas** (la fila «o») = **O**."
+  },
+  {
+   "id": "o037",
+   "bloque": "access",
+   "pregunta": "Para importar a Access los datos de una tabla HTML se usa:",
+   "opciones": [
+    "Archivo > Abrir > Página web.",
+    "Datos externos > Nuevo origen de datos > De un archivo > Archivo HTML.",
+    "Crear > Tabla > Importar web.",
+    "Datos externos > Nuevo origen de datos > De servicios en línea."
+   ],
+   "correcta": 1,
+   "explicacion": "**De un archivo** agrupa Excel, HTML, XML y archivo de texto."
+  },
+  {
+   "id": "o038",
+   "bloque": "access",
+   "pregunta": "La diferencia entre importar y vincular una tabla externa en Access es que:",
+   "opciones": [
+    "Al vincular se copian los datos y al importar no.",
+    "No hay diferencia, solo cambia el icono.",
+    "Solo se pueden vincular tablas de Excel.",
+    "Al importar se copian los datos en Access; al vincular, los datos siguen en el origen y se ven actualizados."
+   ],
+   "correcta": 3,
+   "explicacion": "Una tabla **vinculada** se muestra con una **flecha** en su icono."
+  },
+  {
+   "id": "o039",
+   "bloque": "access",
+   "pregunta": "En Access, si se elimina un registro de una tabla:",
+   "opciones": [
+    "Va a la Papelera de reciclaje de Windows.",
+    "Se puede recuperar con Ctrl + Z.",
+    "Queda oculto hasta compactar la base de datos.",
+    "No se puede recuperar con Deshacer; por eso Access pide confirmación."
+   ],
+   "correcta": 3,
+   "explicacion": "El borrado de registros es **definitivo**."
+  },
+  {
+   "id": "o040",
+   "bloque": "access",
+   "pregunta": "El tipo de consulta que modifica de forma masiva los datos de los registros que cumplen un criterio es la de:",
+   "opciones": [
+    "Selección.",
+    "Datos anexados.",
+    "Referencias cruzadas.",
+    "Actualización."
+   ],
+   "correcta": 3,
+   "explicacion": "Son **de acción**: creación de tabla, **datos anexados** (añadir registros), **actualización** (modificar) y **eliminación**. La de **selección** solo muestra."
+  },
+  {
+   "id": "o041",
+   "bloque": "access",
+   "pregunta": "Para que no se pueda borrar un cliente que tiene pedidos relacionados en otra tabla, hay que exigir en la relación:",
+   "opciones": [
+    "La propiedad Indexado: Sí (con duplicados).",
+    "El tipo de combinación externa.",
+    "La integridad referencial.",
+    "La clave principal."
+   ],
+   "correcta": 2,
+   "explicacion": "La **integridad referencial** evita registros huérfanos. Si además se marca **Eliminar en cascada**, al borrar el cliente se borran sus pedidos."
+  },
+  {
+   "id": "o042",
+   "bloque": "outlook",
+   "pregunta": "Para que un mensaje redactado ahora no se envíe hasta el día siguiente a las 9:00, en Outlook se usa:",
+   "opciones": [
+    "Insertar > Firma.",
+    "Opciones > Retrasar entrega > «No entregar antes de».",
+    "Inicio > Reglas > Crear regla.",
+    "Archivo > Respuestas automáticas."
+   ],
+   "correcta": 1,
+   "explicacion": "Es la forma de **programar** un envío en Outlook clásico."
+  },
+  {
+   "id": "o043",
+   "bloque": "outlook",
+   "pregunta": "Para que los demás destinatarios no vean a quién más se envía un mensaje, esos destinatarios se ponen en:",
+   "opciones": [
+    "CC.",
+    "CCO.",
+    "Responder a.",
+    "Para."
+   ],
+   "correcta": 1,
+   "explicacion": "**CCO** = copia de carbón oculta. Los destinatarios de **CC** sí se ven."
+  },
+  {
+   "id": "o044",
+   "bloque": "outlook",
+   "pregunta": "La función Recuperar este mensaje solo funciona si:",
+   "opciones": [
+    "Remitente y destinatario usan cuentas de Microsoft 365 o Exchange de la misma organización y el mensaje no se ha abierto.",
+    "El mensaje tiene archivos adjuntos.",
+    "Se usa una cuenta POP3.",
+    "Han pasado menos de 24 horas, en cualquier tipo de cuenta."
+   ],
+   "correcta": 0,
+   "explicacion": "Se hace desde el mensaje en Elementos enviados > **Archivo > Información > Volver a enviar o recuperar**."
+  },
+  {
+   "id": "o045",
+   "bloque": "outlook",
+   "pregunta": "La opción de cifrado de Outlook que impide al destinatario reenviar, imprimir o copiar el mensaje es:",
+   "opciones": [
+    "Confidencial (en la marca de importancia).",
+    "No reenviar.",
+    "Cifrar solo.",
+    "Confirmación de lectura."
+   ],
+   "correcta": 1,
+   "explicacion": "**Cifrar > No reenviar**. **Cifrar solo** cifra el mensaje, pero el destinatario puede reenviarlo."
+  },
+  {
+   "id": "o046",
+   "bloque": "outlook",
+   "pregunta": "Al escribir @ seguido del nombre de un compañero en el cuerpo de un mensaje de Outlook:",
+   "opciones": [
+    "Se le envía una convocatoria de reunión.",
+    "Se crea un grupo de contactos.",
+    "Se le añade en CCO.",
+    "Su nombre se resalta y se añade automáticamente al campo Para."
+   ],
+   "correcta": 3,
+   "explicacion": "Son las **@menciones**: sirven para llamar la atención de alguien en el mensaje."
+  },
+  {
+   "id": "o047",
+   "bloque": "outlook",
+   "pregunta": "En el calendario de Outlook, la herramienta que muestra la disponibilidad de los asistentes para elegir la hora de una reunión es:",
+   "opciones": [
+    "La vista Semana laboral.",
+    "El Programador de tareas.",
+    "El Asistente para programación.",
+    "Microsoft To Do."
+   ],
+   "correcta": 2,
+   "explicacion": "El **Asistente para programación** aparece al crear una **reunión** (cita con asistentes)."
+  },
+  {
+   "id": "o048",
+   "bloque": "outlook",
+   "pregunta": "En Outlook, Ctrl + Mayús + R:",
+   "opciones": [
+    "Reenvía el mensaje.",
+    "Responde solo al remitente.",
+    "Marca el mensaje como leído.",
+    "Responde a todos (remitente y destinatarios de Para y CC)."
+   ],
+   "correcta": 3,
+   "explicacion": "**Ctrl + R** responde al remitente; **Ctrl + Mayús + R**, a todos (nunca a los CCO); **Ctrl + F** reenvía."
+  },
+  {
+   "id": "o049",
+   "bloque": "outlook",
+   "pregunta": "Para mover automáticamente a una carpeta todos los mensajes que llegan de un remitente concreto se crea:",
+   "opciones": [
+    "Una regla (Inicio > Reglas).",
+    "Una categoría.",
+    "Una respuesta automática.",
+    "Un paso rápido."
+   ],
+   "correcta": 0,
+   "explicacion": "Las **reglas** actúan solas al llegar los mensajes; un **paso rápido** hay que ejecutarlo con un clic."
+  },
+  {
+   "id": "o050",
+   "bloque": "outlook",
+   "pregunta": "El archivo de datos de Outlook (.pst) se utiliza principalmente para:",
+   "opciones": [
+    "Sincronizar sin conexión un buzón de Exchange.",
+    "Guardar una copia local de correo, contactos y calendario, por ejemplo, para archivar o en cuentas POP.",
+    "Almacenar la firma del correo.",
+    "Guardar un único mensaje."
+   ],
+   "correcta": 1,
+   "explicacion": "Un mensaje suelto es un **.msg**; la copia sin conexión de un buzón de Exchange es un **.ost**."
+  }
+ ]
+}

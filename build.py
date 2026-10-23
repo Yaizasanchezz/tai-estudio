@@ -67,6 +67,8 @@ def front_matter(text: str) -> tuple[dict, str]:
             if ":" in line:
                 k, v = line.split(":", 1)
                 v = v.strip()
+                if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
+                    v = v[1:-1]
                 if v.isdigit():
                     v = int(v)
                 meta[k.strip()] = v

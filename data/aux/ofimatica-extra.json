@@ -1,0 +1,313 @@
+{
+ "titulo": "Chuleta de atajos (Microsoft 365 en español)",
+ "intro": "Los atajos de Word y Excel en español cambian respecto a la versión inglesa. Los de Windows, el Explorador y los navegadores son iguales en cualquier idioma.",
+ "secciones": [
+  {
+   "titulo": "Windows 11",
+   "columnas": [
+    "Atajo",
+    "Acción"
+   ],
+   "filas": [
+    [
+     "Windows + E",
+     "Explorador de archivos"
+    ],
+    [
+     "Windows + I",
+     "Configuración"
+    ],
+    [
+     "Windows + D",
+     "Mostrar el escritorio"
+    ],
+    [
+     "Windows + L",
+     "Bloquear"
+    ],
+    [
+     "Windows + Tab",
+     "Vista de tareas"
+    ],
+    [
+     "Windows + Ctrl + D",
+     "Nuevo escritorio virtual"
+    ],
+    [
+     "Windows + V",
+     "Historial del portapapeles"
+    ],
+    [
+     "Windows + Mayús + S",
+     "Recortes"
+    ],
+    [
+     "Windows + .",
+     "Emojis y símbolos"
+    ],
+    [
+     "Windows + X",
+     "Menú de vínculo rápido"
+    ],
+    [
+     "Ctrl + Mayús + Esc",
+     "Administrador de tareas"
+    ],
+    [
+     "Alt + Tab / Alt + F4",
+     "Cambiar de ventana / cerrarla"
+    ]
+   ]
+  },
+  {
+   "titulo": "Explorador de archivos",
+   "columnas": [
+    "Atajo",
+    "Acción"
+   ],
+   "filas": [
+    [
+     "Ctrl + Mayús + N",
+     "Nueva carpeta"
+    ],
+    [
+     "F2",
+     "Cambiar nombre"
+    ],
+    [
+     "Ctrl + A",
+     "Seleccionar todo"
+    ],
+    [
+     "Supr / Mayús + Supr",
+     "A la Papelera / borrar definitivamente"
+    ],
+    [
+     "Alt + Intro",
+     "Propiedades"
+    ],
+    [
+     "Ctrl + T",
+     "Nueva pestaña"
+    ],
+    [
+     "Arrastrar (misma unidad / otra)",
+     "Mueve / copia"
+    ]
+   ]
+  },
+  {
+   "titulo": "Word",
+   "columnas": [
+    "Atajo",
+    "Acción"
+   ],
+   "filas": [
+    [
+     "Ctrl + N / K / S",
+     "Negrita / cursiva / subrayado"
+    ],
+    [
+     "Ctrl + T / Q / D / J",
+     "Centrar / izquierda / derecha / justificar"
+    ],
+    [
+     "Ctrl + U / A / G",
+     "Nuevo / abrir / guardar"
+    ],
+    [
+     "F12",
+     "Guardar como"
+    ],
+    [
+     "Ctrl + E",
+     "Seleccionar todo"
+    ],
+    [
+     "Ctrl + B / L / I",
+     "Buscar / reemplazar / ir a"
+    ],
+    [
+     "Ctrl + Intro",
+     "Salto de página"
+    ],
+    [
+     "Mayús + Intro",
+     "Salto de línea"
+    ],
+    [
+     "Mayús + F3",
+     "Mayúsculas y minúsculas"
+    ],
+    [
+     "F7",
+     "Ortografía y gramática"
+    ],
+    [
+     "=rand() / =lorem()",
+     "Texto de ejemplo"
+    ]
+   ]
+  },
+  {
+   "titulo": "Excel",
+   "columnas": [
+    "Atajo",
+    "Acción"
+   ],
+   "filas": [
+    [
+     "F2",
+     "Editar la celda"
+    ],
+    [
+     "F4",
+     "Cambiar tipo de referencia ($A$1…)"
+    ],
+    [
+     "Ctrl + 1",
+     "Formato de celdas"
+    ],
+    [
+     "Alt + Intro",
+     "Salto de línea dentro de la celda"
+    ],
+    [
+     "Ctrl + Inicio / Ctrl + Fin",
+     "Ir a A1 / última celda con datos"
+    ],
+    [
+     "Ctrl + Mayús + L",
+     "Filtros"
+    ],
+    [
+     "Alt + F1 / F11",
+     "Gráfico incrustado / en hoja nueva"
+    ],
+    [
+     "Mayús + F11",
+     "Hoja nueva"
+    ],
+    [
+     "Ctrl + Av Pág / Re Pág",
+     "Hoja siguiente / anterior"
+    ],
+    [
+     "Ctrl + Alt + V",
+     "Pegado especial"
+    ]
+   ]
+  },
+  {
+   "titulo": "Excel: errores",
+   "columnas": [
+    "Error",
+    "Causa"
+   ],
+   "filas": [
+    [
+     "#####",
+     "Columna estrecha (o fecha negativa)"
+    ],
+    [
+     "#¡DIV/0!",
+     "División por cero"
+    ],
+    [
+     "#N/D",
+     "Valor no encontrado (búsquedas)"
+    ],
+    [
+     "#¿NOMBRE?",
+     "Nombre de función o rango mal escrito"
+    ],
+    [
+     "#¡REF!",
+     "Referencia a una celda que no existe"
+    ],
+    [
+     "#¡VALOR!",
+     "Tipo de dato incorrecto (texto en una operación)"
+    ],
+    [
+     "#¡NUM!",
+     "Número no válido"
+    ],
+    [
+     "#¡DESBORDAMIENTO!",
+     "El resultado matricial no cabe"
+    ]
+   ]
+  },
+  {
+   "titulo": "Access",
+   "columnas": [
+    "Concepto",
+    "Clave"
+   ],
+   "filas": [
+    [
+     "Texto corto",
+     "Máximo 255 caracteres"
+    ],
+    [
+     "Texto de validación",
+     "Mensaje si no se cumple la regla"
+    ],
+    [
+     "Vistas de formulario",
+     "Formulario, Presentación y Diseño"
+    ],
+    [
+     "Criterios",
+     "\"texto\", #fecha#, Como \"A*\", Entre … Y …"
+    ],
+    [
+     "Misma fila / otra fila",
+     "Y / O"
+    ],
+    [
+     "Importar / vincular",
+     "Copia los datos / se conecta al origen"
+    ]
+   ]
+  },
+  {
+   "titulo": "Outlook",
+   "columnas": [
+    "Atajo u opción",
+    "Acción"
+   ],
+   "filas": [
+    [
+     "Ctrl + R / Ctrl + Mayús + R",
+     "Responder / responder a todos"
+    ],
+    [
+     "Ctrl + F",
+     "Reenviar"
+    ],
+    [
+     "F9",
+     "Enviar y recibir"
+    ],
+    [
+     "Ctrl + 1 / 2 / 3 / 4",
+     "Correo / Calendario / Contactos / Tareas"
+    ],
+    [
+     "Ctrl + Mayús + B",
+     "Libreta de direcciones"
+    ],
+    [
+     "Opciones > Retrasar entrega",
+     "Programar el envío"
+    ],
+    [
+     "Cifrar > No reenviar",
+     "Impide reenviar, imprimir y copiar"
+    ]
+   ]
+  }
+ ]
+}

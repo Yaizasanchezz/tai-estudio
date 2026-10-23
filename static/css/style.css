@@ -634,9 +634,11 @@ html[data-opo="tai"] .opo-btn[data-opo-switch="tai"], html[data-opo="aux"] .opo-
 
 /* ---------------------------------------------------------- chuleta de ofimática */
 .cheat { margin-bottom: 18px; }
-.cheat-grid { display: grid; gap: 10px; }
+.cheat-grid { display: grid; gap: 10px; grid-template-columns: minmax(0, 1fr); }
+.cheat-sec { min-width: 0; }
 .cheat-sec { border: 1px solid var(--border); border-radius: 12px; padding: 8px 14px; background: var(--surface); }
 .cheat-sec summary { cursor: pointer; font-weight: 800; padding: 4px 0; }
-.cheat-sec td:first-child { white-space: nowrap; font-family: "JetBrains Mono", ui-monospace, monospace; font-size: .9rem; }
+.cheat-sec td:first-child { font-family: "JetBrains Mono", ui-monospace, monospace; font-size: .9rem; }
+@media (min-width: 640px) { .cheat-sec td:first-child { white-space: nowrap; } }
 .psy-opts .xq-opt.is-key { border-color: var(--good); background: color-mix(in srgb, var(--good) 14%, var(--surface)); }
 .psy-opts .xq-opt.is-wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--surface)); }

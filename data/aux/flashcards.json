@@ -1,1 +1,399 @@
-{"mazos": []}
+{
+ "mazos": [
+  {
+   "id": "aux-org",
+   "titulo": "Constitución y órganos del Estado",
+   "bloque": "Bloque I",
+   "tarjetas": [
+    {
+     "id": "aux-org-001",
+     "f": "Forma política del Estado (art. 1.3 CE)",
+     "b": "**Monarquía parlamentaria**."
+    },
+    {
+     "id": "aux-org-002",
+     "f": "Valores superiores del ordenamiento (art. 1.1 CE)",
+     "b": "**Libertad, justicia, igualdad y pluralismo político**."
+    },
+    {
+     "id": "aux-org-003",
+     "f": "¿Qué partes de la CE exigen la reforma agravada del art. 168?",
+     "b": "Revisión **total**, **Título preliminar**, **Sección 1.ª del Cap. II del Título I** (arts. 15-29) y **Título II** (Corona)."
+    },
+    {
+     "id": "aux-org-004",
+     "f": "Composición del Tribunal Constitucional",
+     "b": "**12 magistrados**: 4 Congreso, 4 Senado (3/5), 2 Gobierno, 2 CGPJ. Mandato de **9 años**, renovación por terceras partes cada 3."
+    },
+    {
+     "id": "aux-org-005",
+     "f": "¿Quién refrenda el nombramiento del Presidente del Gobierno?",
+     "b": "El **Presidente del Congreso** (art. 64.1 CE)."
+    },
+    {
+     "id": "aux-org-006",
+     "f": "Número de diputados según la CE",
+     "b": "Entre **300 y 400** (art. 68.1). Los 350 actuales los fija la LOREG."
+    },
+    {
+     "id": "aux-org-007",
+     "f": "Defensor del Pueblo: mandato",
+     "b": "**5 años**, alto comisionado de las Cortes Generales (LO 3/1981)."
+    },
+    {
+     "id": "aux-org-008",
+     "f": "CGPJ: composición y mandato",
+     "b": "**Presidente** (el del TS) + **20 vocales**, **5 años** (art. 122.3 CE)."
+    },
+    {
+     "id": "aux-org-009",
+     "f": "¿Qué crea la LO 1/2025 en lugar de los juzgados unipersonales?",
+     "b": "Los **Tribunales de Instancia**, organizados en secciones."
+    },
+    {
+     "id": "aux-org-010",
+     "f": "Composición del Gobierno (Ley 50/1997)",
+     "b": "**Presidente**, **Vicepresidentes** (en su caso) y **Ministros**. Los Secretarios de Estado **no** son miembros."
+    },
+    {
+     "id": "aux-org-011",
+     "f": "Causas de cese del Gobierno (art. 101 CE)",
+     "b": "Elecciones generales, pérdida de la confianza parlamentaria, dimisión o fallecimiento del Presidente."
+    },
+    {
+     "id": "aux-org-012",
+     "f": "Organización territorial (art. 137 CE)",
+     "b": "**Municipios, provincias y Comunidades Autónomas**."
+    },
+    {
+     "id": "aux-org-013",
+     "f": "¿Con qué norma se aprueban los Estatutos de Autonomía?",
+     "b": "**Ley orgánica**."
+    },
+    {
+     "id": "aux-org-014",
+     "f": "Eurodiputados: total y España (2024-2029)",
+     "b": "**720** en total; España, **61**."
+    },
+    {
+     "id": "aux-org-015",
+     "f": "Presidencias de la UE",
+     "b": "Consejo Europeo: **António Costa**. Comisión: **Ursula von der Leyen**. Parlamento: **Roberta Metsola**."
+    }
+   ]
+  },
+  {
+   "id": "aux-adm",
+   "titulo": "AGE, transparencia y procedimiento",
+   "bloque": "Bloque I",
+   "tarjetas": [
+    {
+     "id": "aux-adm-001",
+     "f": "Órganos superiores de la AGE (art. 55 Ley 40/2015)",
+     "b": "**Ministros** y **Secretarios de Estado**."
+    },
+    {
+     "id": "aux-adm-002",
+     "f": "Órganos directivos de la AGE",
+     "b": "Subsecretarios y Secretarios generales; Secretarios generales técnicos y Directores generales; Subdirectores generales."
+    },
+    {
+     "id": "aux-adm-003",
+     "f": "¿Quién nombra a los Delegados del Gobierno?",
+     "b": "El **Consejo de Ministros** por Real Decreto, a propuesta del **Presidente del Gobierno**."
+    },
+    {
+     "id": "aux-adm-004",
+     "f": "¿Quién nombra a los Subdelegados del Gobierno?",
+     "b": "El **Delegado del Gobierno**, por libre designación entre funcionarios de carrera **A1**."
+    },
+    {
+     "id": "aux-adm-005",
+     "f": "Plazo para resolver una solicitud de acceso a la información (Ley 19/2013)",
+     "b": "**1 mes**, ampliable otro mes. Silencio **desestimatorio**."
+    },
+    {
+     "id": "aux-adm-006",
+     "f": "Plazo de la reclamación ante el Consejo de Transparencia",
+     "b": "**1 mes**."
+    },
+    {
+     "id": "aux-adm-007",
+     "f": "V Plan de Gobierno Abierto",
+     "b": "**2025-2029**, aprobado en octubre de 2025."
+    },
+    {
+     "id": "aux-adm-008",
+     "f": "Plazo máximo para resolver si la norma no dice nada (art. 21.3 Ley 39/2015)",
+     "b": "**3 meses**. El fijado por norma no puede pasar de **6 meses** salvo ley o Derecho UE."
+    },
+    {
+     "id": "aux-adm-009",
+     "f": "Días hábiles en la Ley 39/2015",
+     "b": "Se excluyen **sábados, domingos y festivos**."
+    },
+    {
+     "id": "aux-adm-010",
+     "f": "Recurso de alzada: plazos",
+     "b": "Interponer: **1 mes** (acto expreso). Resolver: **3 meses**."
+    },
+    {
+     "id": "aux-adm-011",
+     "f": "Recurso de reposición: plazos",
+     "b": "Interponer: **1 mes**. Resolver: **1 mes**. Es **potestativo**."
+    },
+    {
+     "id": "aux-adm-012",
+     "f": "¿Nulo o anulable? Órgano manifiestamente incompetente por materia o territorio",
+     "b": "**Nulo de pleno derecho** (art. 47.1.b). Por jerarquía: anulable."
+    },
+    {
+     "id": "aux-adm-013",
+     "f": "Obligados a relacionarse electrónicamente (art. 14.2)",
+     "b": "Personas **jurídicas**, entidades **sin personalidad**, profesionales **colegiados**, **representantes** de obligados y **empleados públicos** en lo suyo."
+    },
+    {
+     "id": "aux-adm-014",
+     "f": "Edad para consentir el tratamiento de datos (LOPDGDD)",
+     "b": "**14 años**."
+    }
+   ]
+  },
+  {
+   "id": "aux-fp",
+   "titulo": "Función pública, presupuesto e igualdad",
+   "bloque": "Bloque I",
+   "tarjetas": [
+    {
+     "id": "aux-fp-001",
+     "f": "Clases de empleados públicos (art. 8 TREBEP)",
+     "b": "Funcionarios de **carrera**, **interinos**, personal **laboral** (fijo, indefinido, temporal) y personal **eventual**."
+    },
+    {
+     "id": "aux-fp-002",
+     "f": "Titulación para el Subgrupo C2",
+     "b": "**Graduado en ESO**."
+    },
+    {
+     "id": "aux-fp-003",
+     "f": "Intervalo de niveles del C2 (RD-ley 6/2023)",
+     "b": "Del **14 al 18**."
+    },
+    {
+     "id": "aux-fp-004",
+     "f": "Situaciones administrativas (art. 85 TREBEP)",
+     "b": "Servicio activo, servicios especiales, servicio en otras AAPP, excedencia y suspensión de funciones."
+    },
+    {
+     "id": "aux-fp-005",
+     "f": "Duración máxima de la suspensión firme disciplinaria",
+     "b": "**6 años**."
+    },
+    {
+     "id": "aux-fp-006",
+     "f": "Prescripción de las faltas",
+     "b": "Muy graves **3 años**, graves **2 años**, leves **6 meses**."
+    },
+    {
+     "id": "aux-fp-007",
+     "f": "Prescripción de las sanciones",
+     "b": "Muy graves **3 años**, graves **2 años**, leves **1 año**."
+    },
+    {
+     "id": "aux-fp-008",
+     "f": "Retribuciones básicas",
+     "b": "**Sueldo** y **trienios** (también los de las pagas extraordinarias)."
+    },
+    {
+     "id": "aux-fp-009",
+     "f": "Pagas extraordinarias",
+     "b": "**Dos al año**."
+    },
+    {
+     "id": "aux-fp-010",
+     "f": "Permiso por matrimonio o pareja de hecho",
+     "b": "**15 días**."
+    },
+    {
+     "id": "aux-fp-011",
+     "f": "Presentación de los PGE (art. 134 CE)",
+     "b": "Al Congreso, al menos **3 meses antes** de que expiren los del año anterior. Si no se aprueban: **prórroga automática**."
+    },
+    {
+     "id": "aux-fp-012",
+     "f": "Composición equilibrada (LO 3/2007)",
+     "b": "Cada sexo entre el **40 %** y el **60 %**."
+    },
+    {
+     "id": "aux-fp-013",
+     "f": "Grado de discapacidad mínimo (RDL 1/2013, art. 4.2)",
+     "b": "**33 %**."
+    }
+   ]
+  },
+  {
+   "id": "aux-ciu",
+   "titulo": "Atención al ciudadano y administración electrónica",
+   "bloque": "Bloque II",
+   "tarjetas": [
+    {
+     "id": "aux-ciu-001",
+     "f": "Información general vs. particular (RD 208/1996)",
+     "b": "**General**: fines, servicios, requisitos (a cualquiera). **Particular**: estado de los procedimientos (solo a los interesados)."
+    },
+    {
+     "id": "aux-ciu-002",
+     "f": "Plazo para contestar una queja o sugerencia (RD 951/2005)",
+     "b": "**20 días hábiles**."
+    },
+    {
+     "id": "aux-ciu-003",
+     "f": "¿Quién aprueba las cartas de servicios?",
+     "b": "El **Subsecretario** del departamento, por resolución publicada en el **BOE**."
+    },
+    {
+     "id": "aux-ciu-004",
+     "f": "Derecho de petición: plazo de contestación (LO 4/2001)",
+     "b": "**3 meses** desde la presentación."
+    },
+    {
+     "id": "aux-ciu-005",
+     "f": "¿Dónde se pueden presentar documentos? (art. 16.4 Ley 39/2015)",
+     "b": "Registro electrónico de cualquier Administración, **Correos**, **consulados y embajadas** y **oficinas de asistencia en materia de registros**."
+    },
+    {
+     "id": "aux-ciu-006",
+     "f": "Presentación en día inhábil",
+     "b": "Se entiende hecha en la **primera hora del primer día hábil** siguiente."
+    },
+    {
+     "id": "aux-ciu-007",
+     "f": "¿Cuándo se entiende rechazada una notificación electrónica?",
+     "b": "A los **10 días naturales** sin acceder a ella."
+    },
+    {
+     "id": "aux-ciu-008",
+     "f": "¿Qué es la DEHú?",
+     "b": "La **Dirección Electrónica Habilitada única**: punto para consultar las notificaciones de las Administraciones."
+    },
+    {
+     "id": "aux-ciu-009",
+     "f": "¿Para qué sirve el CSV?",
+     "b": "**Código seguro de verificación**: comprobar en la sede la **autenticidad e integridad** de un documento."
+    },
+    {
+     "id": "aux-ciu-010",
+     "f": "Sistemas de identificación (art. 9.2 Ley 39/2015)",
+     "b": "Certificados cualificados de **firma** y de **sello** y sistemas de **clave concertada** (Cl@ve)."
+    },
+    {
+     "id": "aux-ciu-011",
+     "f": "Ciclo vital de los documentos",
+     "b": "Archivo de **oficina o gestión** → **central** → **intermedio** → **histórico**."
+    },
+    {
+     "id": "aux-ciu-012",
+     "f": "¿Qué es la Carpeta Ciudadana?",
+     "b": "El **área personalizada** del ciudadano en el PAGe: expedientes, notificaciones, registros y datos."
+    }
+   ]
+  },
+  {
+   "id": "aux-info",
+   "titulo": "Informática, Internet y ofimática",
+   "bloque": "Bloque II",
+   "tarjetas": [
+    {
+     "id": "aux-info-001",
+     "f": "1 byte =",
+     "b": "**8 bits**."
+    },
+    {
+     "id": "aux-info-002",
+     "f": "RAM",
+     "b": "Memoria de lectura y escritura **volátil**."
+    },
+    {
+     "id": "aux-info-003",
+     "f": "DNS / DHCP",
+     "b": "**DNS**: nombre → IP. **DHCP**: asigna la IP automáticamente."
+    },
+    {
+     "id": "aux-info-004",
+     "f": "VPN",
+     "b": "**Túnel cifrado** por Internet para entrar en una red privada."
+    },
+    {
+     "id": "aux-info-005",
+     "f": "IPv4 / IPv6",
+     "b": "**32 bits** / **128 bits**."
+    },
+    {
+     "id": "aux-info-006",
+     "f": "¿Quién creó la Web y dónde?",
+     "b": "**Tim Berners-Lee**, en el **CERN** (1989-1991)."
+    },
+    {
+     "id": "aux-info-007",
+     "f": "Nacimiento de Internet",
+     "b": "**1-1-1983**: ARPANET adopta **TCP/IP**."
+    },
+    {
+     "id": "aux-info-008",
+     "f": "Malvertising",
+     "b": "Publicidad en línea usada para **distribuir malware**."
+    },
+    {
+     "id": "aux-info-009",
+     "f": "Word en español: Ctrl + N / K / S",
+     "b": "**Negrita / cursiva / subrayado**."
+    },
+    {
+     "id": "aux-info-010",
+     "f": "Word en español: Ctrl + E / Ctrl + U / Ctrl + G",
+     "b": "**Seleccionar todo / nuevo / guardar**."
+    },
+    {
+     "id": "aux-info-011",
+     "f": "Excel: primer argumento de SUMAR.SI.CONJUNTO",
+     "b": "El **rango que se suma**."
+    },
+    {
+     "id": "aux-info-012",
+     "f": "Excel: #####",
+     "b": "La columna es **demasiado estrecha**."
+    },
+    {
+     "id": "aux-info-013",
+     "f": "Excel: filas y columnas",
+     "b": "**1.048.576** filas y **16.384** columnas (hasta **XFD**)."
+    },
+    {
+     "id": "aux-info-014",
+     "f": "Access: Texto corto",
+     "b": "Máximo **255** caracteres."
+    },
+    {
+     "id": "aux-info-015",
+     "f": "Access: Texto de validación",
+     "b": "El **mensaje** que aparece si no se cumple la **regla de validación**."
+    },
+    {
+     "id": "aux-info-016",
+     "f": "Outlook: programar un envío",
+     "b": "Opciones > **Retrasar entrega** > «No entregar antes de»."
+    },
+    {
+     "id": "aux-info-017",
+     "f": "Outlook: Cifrar > No reenviar",
+     "b": "El destinatario no puede **reenviar, imprimir ni copiar**."
+    },
+    {
+     "id": "aux-info-018",
+     "f": "Arrastrar un archivo a otra unidad",
+     "b": "**Copia** (en la misma unidad, mueve)."
+    }
+   ]
+  }
+ ]
+}

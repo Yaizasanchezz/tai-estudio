@@ -1,1 +1,153 @@
-{"categorias": []}
+{
+ "categorias": [
+  {
+   "titulo": "Examen de Auxiliar",
+   "descripcion": "Corrección del examen real. Tienes el mismo examen resuelto y explicado en la sección Exámenes.",
+   "items": [
+    {
+     "tipo": "Vídeo",
+     "titulo": "¡Corrección del examen de Auxiliar Administrativo del Estado! (23/05/2026)",
+     "canal": "Academia Veropo",
+     "descripcion": "Plantilla comentada del examen de mayo de 2026, el mismo que tienes resuelto aquí.",
+     "url": "https://www.youtube.com/watch?v=GQ1P29Q0FrQ"
+    }
+   ]
+  },
+  {
+   "titulo": "Constitución Española",
+   "descripcion": "La Constitución es la misma para TAI y Auxiliar: estos cursos valen para las dos.",
+   "items": [
+    {
+     "tipo": "Lista · 28 vídeos",
+     "titulo": "Constitución española EXPLICADA para OPOSICIONES",
+     "canal": "Opo Esquemas",
+     "descripcion": "Va título a título con esquemas en pantalla. Muy útil para el bloque I.",
+     "url": "https://www.youtube.com/playlist?list=PLrVzK1lvLJOWlw1qK-UUOrnbeLgjUtOGH"
+    },
+    {
+     "tipo": "Lista · 23 vídeos",
+     "titulo": "Constitución Española - Curso para Oposiciones",
+     "canal": "Paco Barbié",
+     "descripcion": "Explicación más pausada y con ejemplos, ideal para escuchar mientras repasas.",
+     "url": "https://www.youtube.com/playlist?list=PLM96U4ATrC6yDa4_sxp-gi6kCRDVbbuwY"
+    },
+    {
+     "tipo": "Lista · 62 vídeos",
+     "titulo": "Esquemas Constitución Española de 1978 para oposiciones",
+     "canal": "LANDL Formación",
+     "descripcion": "Vídeos cortos por artículos o grupos de artículos. Para repasar justo lo que fallas en los tests.",
+     "url": "https://www.youtube.com/playlist?list=PLj0QQ3oDWPhYQ1FOjxvD48uFMjwxcfbe3"
+    }
+   ]
+  },
+  {
+   "titulo": "Leyes administrativas",
+   "descripcion": "Procedimiento administrativo, sector público, empleados públicos y protección de datos.",
+   "items": [
+    {
+     "tipo": "Lista · 19 vídeos",
+     "titulo": "Ley 39/2015 EXPLICADA para OPOSICIONES",
+     "canal": "Opo Esquemas",
+     "descripcion": "El procedimiento administrativo común por títulos: interesados, actos, plazos, recursos…",
+     "url": "https://www.youtube.com/playlist?list=PLrVzK1lvLJOXwuTxLeXtLl1ir03RRhNrw"
+    },
+    {
+     "tipo": "Vídeo · 50 min",
+     "titulo": "Ley 39/2015 COMPLETA en 50 minutos",
+     "canal": "Estudia administrativo conmigo",
+     "descripcion": "Repaso de toda la ley de una vez. Bueno para la semana antes del examen.",
+     "url": "https://www.youtube.com/watch?v=uIfMppbZY0w"
+    },
+    {
+     "tipo": "Vídeo",
+     "titulo": "Ley 40/2015 explicada fácil (5/6): Sector Público Institucional",
+     "canal": "Estudia administrativo conmigo",
+     "descripcion": "Organismos autónomos, entidades públicas empresariales, agencias… la parte más liosa de la 40/2015.",
+     "url": "https://www.youtube.com/watch?v=MecTiahGO9U"
+    },
+    {
+     "tipo": "Lista · 15 vídeos",
+     "titulo": "TREBEP: resumen. Curso completo para opositores",
+     "canal": "Derecho Virtual",
+     "descripcion": "El Estatuto Básico del Empleado Público: clases de personal, derechos, deberes y situaciones.",
+     "url": "https://www.youtube.com/playlist?list=PLFPDaK5cuTEIB_Gg81u4RZ80sQU0ccM12"
+    },
+    {
+     "tipo": "Vídeo · 16 min",
+     "titulo": "LOPD LO 3/2018 y RGPD para oposiciones",
+     "canal": "Repasando Sin Papeles",
+     "descripcion": "Resumen rápido de la LOPDGDD y del RGPD.",
+     "url": "https://www.youtube.com/watch?v=uXrVaNlbvJQ"
+    },
+    {
+     "tipo": "Vídeo",
+     "titulo": "RGPD: principios de protección de datos para oposiciones",
+     "canal": "Quiero Una Plaza",
+     "descripcion": "Los principios del art. 5 RGPD (licitud, minimización, exactitud…), que caen mucho.",
+     "url": "https://www.youtube.com/watch?v=laltrxwUaWM"
+    }
+   ]
+  },
+  {
+   "titulo": "Ofimática",
+   "descripcion": "La segunda parte del examen. Ten abierto el programa y repite lo que hacen en el vídeo.",
+   "items": [
+    {
+     "tipo": "Lista · 45 vídeos",
+     "titulo": "Curso Windows 11 Completo Para principiantes 2026",
+     "canal": "APPbera",
+     "descripcion": "Escritorio, Explorador, configuración y herramientas, en vídeos cortos.",
+     "url": "https://www.youtube.com/playlist?list=PLREUv47U9HKaCF0h9yNmrgGHMiPxqUbbm"
+    },
+    {
+     "tipo": "Vídeo",
+     "titulo": "Combinación de Correspondencia en Word Office 365 (Microsoft 365)",
+     "canal": "David itesm",
+     "descripcion": "Paso a paso de combinar correspondencia, que cae casi todos los años.",
+     "url": "https://www.youtube.com/watch?v=uaQ07Yh2XoA"
+    },
+    {
+     "tipo": "Vídeo",
+     "titulo": "Preguntas de examen de Excel resueltas (Examen Auxiliar Administrativo del Estado 2022)",
+     "canal": "Opofimatica",
+     "descripcion": "Preguntas reales de Excel resueltas con el programa delante.",
+     "url": "https://www.youtube.com/watch?v=eTgQSeM20kU"
+    },
+    {
+     "tipo": "Lista · 13 vídeos",
+     "titulo": "CURSO Microsoft Access DESDE CERO: Bases de Datos, Consultas, Formularios e Informes",
+     "canal": "David Toscano",
+     "descripcion": "Tablas, claves, relaciones, consultas, formularios e informes por partes.",
+     "url": "https://www.youtube.com/playlist?list=PLLxr755ZPit9OLw6s-6jxauUeT_qiIDd4"
+    },
+    {
+     "tipo": "Vídeo · 2 h",
+     "titulo": "Tutorial de Microsoft Access desde Cero en 2 Horas",
+     "canal": "ResuMate Club",
+     "descripcion": "Todo Access de una sentada, con capítulos para saltar a lo que necesites.",
+     "url": "https://www.youtube.com/watch?v=b-j7K9YPQiI"
+    },
+    {
+     "tipo": "Lista · 8 vídeos",
+     "titulo": "Curso Integral de Microsoft Outlook 365 [Nuevo Outlook]",
+     "canal": "EL PROFE OTTO",
+     "descripcion": "Correo, calendario, reglas y contactos en el nuevo Outlook.",
+     "url": "https://youtube.com/playlist?list=PLvWDfByz7AdFi5-6BMxhIW_nPFzHh8UyR"
+    }
+   ]
+  },
+  {
+   "titulo": "Psicotécnicos",
+   "descripcion": "Exámenes oficiales resueltos. Para practicar sin límite, usa la sección Psicotécnicos de esta web.",
+   "items": [
+    {
+     "tipo": "Lista · 10 vídeos",
+     "titulo": "PSICOTÉCNICOS - AUX. ADMINISTRATIVO - EXÁMENES OFICIALES",
+     "canal": "Ale Formación",
+     "descripcion": "Psicotécnicos de exámenes oficiales de Auxiliar resueltos uno a uno.",
+     "url": "https://www.youtube.com/playlist?list=PL1Q7yJzoXjekzrKbw2XPk-NfIRGlRAWyZ"
+    }
+   ]
+  }
+ ]
+}
