@@ -1,0 +1,1828 @@
+{
+ "slug": "tai-libre-2021",
+ "orden": 5,
+ "titulo": "TAI turno libre · examen del 6 de noviembre de 2021",
+ "convocatoria": "Convocatoria 2019 (OEP 2019) · Ingreso libre",
+ "fecha": "6 de noviembre de 2021",
+ "duracion": "120 minutos para las dos partes",
+ "penalizacion": "cada error resta 1/3 de un acierto; las preguntas en blanco no puntúan",
+ "descripcion": "Primer examen con el formato actual de ejercicio único: 80 preguntas de teoría y dos supuestos a elegir, uno de desarrollo y otro de sistemas y comunicaciones.",
+ "notas": "Respuestas según la **plantilla definitiva**; en este examen no se anuló ninguna pregunta. Hay datos que han cambiado desde 2021 (versiones de USB o TLS, planes como España Digital): cuando es así, se avisa en la explicación. Enunciados transcritos del cuadernillo oficial (contrastados con el proyecto libre [OpoTAI](https://github.com/AcidClawX41/OpoTAI-Entrenador-Oposicion-TAI)); las explicaciones son de TAI Estudio.",
+ "enlaces": [
+  {
+   "texto": "Cuestionario (PDF, INAP)",
+   "url": "https://www.inap.es/documents/59312/1925774/cues_1er_ejer_TAI-L_oep19_154AB89SD658.pdf/ac7ec9d6-3ac6-4457-6687-6ecf53aa158e"
+  },
+  {
+   "texto": "Plantilla definitiva de respuestas (PDF)",
+   "url": "https://www.inap.es/documents/59312/1925774/Plantilla_definitivaTAI-LEjercicionico2019_154AB89SD658.pdf/3a177074-d70b-2fda-e9ec-38cc0942944d"
+  },
+  {
+   "texto": "Criterios de corrección y superación (PDF)",
+   "url": "https://www.inap.es/documents/59312/1925662/2OEP2019TAI-LI_154AB89SD658.pdf/0def8107-8fdd-c394-8860-dd291cc31fca"
+  },
+  {
+   "texto": "Puntuaciones mínimas del ejercicio (PDF)",
+   "url": "https://www.inap.es/documents/59312/1925774/Puntuacionesminimasprimerejercicio2019TAIL_154AB89SD658.pdf/9186ee4e-faf8-e9c5-3152-403b71232c9a"
+  }
+ ],
+ "partes": [
+  {
+   "id": "p1",
+   "titulo": "Primera parte",
+   "descripcion": "80 preguntas de los cuatro bloques del temario.",
+   "preguntas": [
+    {
+     "n": "1",
+     "tema": "Constitución · Deberes",
+     "pregunta": "En relación a los derechos y deberes de los ciudadanos, el artículo 30 de la Constitución Española indica que:",
+     "opciones": [
+      "Mediante ley podrán ser de obligado cumplimiento los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "Mediante Real Decreto podrán ser de obligado cumplimiento los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "Mediante ley podrán eliminarse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.",
+      "Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 30.4: «Mediante ley podrán **regularse** los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública». La trampa está en el verbo (no «ser de obligado cumplimiento» ni «eliminarse») y en el instrumento (ley, no real decreto)."
+    },
+    {
+     "n": "2",
+     "tema": "Constitución · Corona",
+     "pregunta": "Según el artículo 62 de la Constitución Española, ¿a quién corresponde expedir los decretos acordados en el Consejo de Ministros?",
+     "opciones": [
+      "Al Rey.",
+      "Al Presidente del Gobierno.",
+      "Al titular del Ministerio de la Presidencia.",
+      "Al Presidente de la Mesa del Congreso."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 62.f: corresponde **al Rey** expedir los decretos acordados en el Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones. Ver [Constitución]({{base}}constitucion/)."
+    },
+    {
+     "n": "3",
+     "tema": "Constitución · Tribunal Constitucional",
+     "pregunta": "Según el artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de:",
+     "opciones": [
+      "Doce miembros nombrados por el Rey; de ellos, tres serán a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Doce miembros nombrados por el Rey; de ellos, cuatro serán a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Dieciséis miembros nombrados por el Rey; de ellos, cuatro serán a propuesta del Congreso por mayoría de tres quintos de sus miembros.",
+      "Dieciséis miembros nombrados por el Rey; de ellos, tres serán a propuesta del Congreso por mayoría de tres quintos de sus miembros."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 159.1: **12 miembros** nombrados por el Rey: **4 a propuesta del Congreso** y **4 del Senado** (ambos por **3/5**), **2 del Gobierno** y **2 del CGPJ**. Mandato de **9 años**, renovación por terceras partes cada 3."
+    },
+    {
+     "n": "4",
+     "tema": "Constitución · Congreso",
+     "pregunta": "Según el artículo 68 de la Constitución Española, indique de cuántos diputados se compone el Congreso:",
+     "opciones": [
+      "De un mínimo de 250 y de un máximo de 350.",
+      "De un mínimo de 300 y de un máximo de 400.",
+      "De un mínimo de 300 y de un máximo de 350.",
+      "De un mínimo de 350 y de un máximo de 400."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 68.1: el Congreso tiene un **mínimo de 300 y un máximo de 400** Diputados. La LOREG lo fija en **350**."
+    },
+    {
+     "n": "5",
+     "tema": "Constitución · Moción de censura",
+     "pregunta": "Según se expone en el artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta por:",
+     "opciones": [
+      "Al menos la décima parte de los Diputados.",
+      "Al menos un veinte por ciento de los Diputados.",
+      "Al menos la décima parte de cada una de las Cámaras.",
+      "Al menos 20 Diputados y 20 Senadores."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 113.2: la moción la propone **al menos la décima parte de los Diputados** (35) e incluye un candidato a la Presidencia. Se aprueba por **mayoría absoluta** y no se vota hasta pasados **5 días**."
+    },
+    {
+     "n": "6",
+     "tema": "Agenda 2030 · ODS",
+     "pregunta": "¿Cuál de los siguientes NO es uno de los 17 Objetivos de Desarrollo Sostenibles de la Agenda 2030?",
+     "opciones": [
+      "Hambre cero.",
+      "Educación de calidad.",
+      "Aguas residuales y saneamiento.",
+      "Trabajo decente y crecimiento económico."
+     ],
+     "respuesta": "c",
+     "explicacion": "El ODS 6 es **«Agua limpia y saneamiento»**, no «Aguas residuales y saneamiento». Hambre cero es el 2, Educación de calidad el 4 y Trabajo decente y crecimiento económico el 8."
+    },
+    {
+     "n": "7",
+     "tema": "Ley 19/2013 · Comisión de Transparencia",
+     "pregunta": "Según la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, ¿cuál de los siguientes NO es miembro de la Comisión de Transparencia y Buen Gobierno?",
+     "opciones": [
+      "Un Diputado.",
+      "Un representante de la Subsecretaria de Estado de Administraciones Públicas.",
+      "Un representante del Defensor del Pueblo.",
+      "Un representante de la Autoridad Independiente de Responsabilidad Fiscal."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 36.2: la componen el Presidente, un Diputado, un Senador y un representante del Tribunal de Cuentas, del Defensor del Pueblo, de la AEPD, de la **Secretaría de Estado** de Administraciones Públicas y de la AIReF. La trampa es «Subsecretaría». Ver [Transparencia]({{base}}leyes/transparencia/)."
+    },
+    {
+     "n": "8",
+     "tema": "Constitución · Estructura",
+     "pregunta": "Indique cuál es el Título de la Constitución Española relativo a la Organización Territorial del Estado:",
+     "opciones": [
+      "Título IV.",
+      "Título VI.",
+      "Título VIII.",
+      "Título X."
+     ],
+     "respuesta": "c",
+     "explicacion": "**Título VIII**: De la Organización Territorial del Estado (arts. 137-158). El IV es el Gobierno y la Administración, el VI el Poder Judicial y el X la reforma constitucional."
+    },
+    {
+     "n": "9",
+     "tema": "Constitución · Administración Pública",
+     "pregunta": "De acuerdo con el artículo 103.1 de la Constitución Española, la Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de:",
+     "opciones": [
+      "Eficacia, eficiencia, descentralización, desconcentración y cooperación, con sometimiento pleno a la Ley y al Derecho.",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+      "Eficacia, jerarquía, descentralización, concentración y coordinación, con sometimiento pleno al ordenamiento jurídico.",
+      "Eficacia, jerarquía, descentralización, desconcentración y cooperación, con sometimiento pleno a la Ley y al Derecho."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 103.1: principios de **eficacia, jerarquía, descentralización, desconcentración y coordinación**, con **sometimiento pleno a la ley y al Derecho**. Truco para recordarlo: «**EJDDC**»."
+    },
+    {
+     "n": "10",
+     "tema": "Constitución · Delegación legislativa",
+     "pregunta": "Según lo establecido en el artículo 82 de la Constitución Española, cuando se trate de refundir varios textos legales en uno solo, la delegación legislativa de las Cortes Generales en el Gobierno deberá otorgarse mediante:",
+     "opciones": [
+      "Una Ley de Bases.",
+      "Una Ley Orgánica.",
+      "Una Ley Ordinaria.",
+      "Un Decreto Legislativo."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 82.2: para **refundir** textos se usa una **ley ordinaria**; para formar **textos articulados**, una **ley de bases**. El Gobierno aprueba después un **decreto legislativo**."
+    },
+    {
+     "n": "11",
+     "tema": "Igualdad · LO 3/2007",
+     "pregunta": "En el artículo 51 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, se definen criterios de actuación de las Administraciones públicas. ¿Cuál de los siguientes es uno de ellos?",
+     "opciones": [
+      "Facilitar la conciliación de la vida familiar y laboral, sin menoscabo de la formación profesional y acción social.",
+      "Fomentar la participación en igualdad, tanto en el acceso al empleo público como a lo largo de la carrera profesional.",
+      "Establecer medidas cautelares de protección frente al acoso sexual.",
+      "Establecer medidas efectivas para eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 51: las Administraciones deben, entre otras cosas, **eliminar cualquier discriminación retributiva, directa o indirecta, por razón de sexo**. Las demás opciones están deformadas: el texto dice conciliación «**sin menoscabo de la promoción profesional**», «**fomentar la formación** en igualdad» y medidas de protección (no «cautelares») frente al acoso. Ver [Igualdad]({{base}}leyes/igualdad/)."
+    },
+    {
+     "n": "12",
+     "tema": "Igualdad · Discriminación",
+     "pregunta": "Según el artículo 8 de la Ley Orgánica 3/2007, para la igualdad efectiva de mujeres y hombres, todo trato desfavorable a las mujeres relacionado con el embarazo o la maternidad constituye:",
+     "opciones": [
+      "Discriminación indirecta por razón de sexo.",
+      "Discriminación directa por razón de sexo.",
+      "Discriminación por asociación en razón de sexo.",
+      "Discriminación maternal por razón de sexo."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 8: todo trato desfavorable a las mujeres relacionado con el **embarazo o la maternidad** es **discriminación directa** por razón de sexo."
+    },
+    {
+     "n": "13",
+     "tema": "Dependencia · Grados",
+     "pregunta": "Según el artículo 26 de la Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, señale la opción correcta en relación a la clasificación de los grados de dependencia:",
+     "opciones": [
+      "Grado I. Dependencia moderada: cuando la persona necesita ayuda para realizar varias actividades básicas de la vida diaria, al menos una vez al día o tiene necesidades de apoyo intermitente o limitado para su autonomía personal.",
+      "Grado II. Gran dependencia: cuando la persona necesita ayuda para realizar varias actividades básicas de la vida diaria una o dos veces al día, pero no quiere el apoyo permanente de un cuidador o tiene necesidades de apoyo extenso para su autonomía personal.",
+      "Grado III. Dependencia total: cuando la persona necesita ayuda para realizar varias actividades básicas de la vida diaria varias veces al día y, por su pérdida total de autonomía necesita el apoyo indispensable y continuo de otra persona o tiene necesidades de apoyo generalizado para su autonomía personal.",
+      "Grado IV. Dependencia máxima: cuando la persona necesita constantemente ayuda para realizar cualquier actividad básica de la vida diaria."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 26 de la Ley 39/2006: hay **tres grados**: **I moderada** (ayuda al menos una vez al día), **II severa** (dos o tres veces al día, sin apoyo permanente) y **III gran dependencia** (varias veces al día, apoyo continuo). Ver [Discapacidad y dependencia]({{base}}leyes/discapacidad-dependencia/)."
+    },
+    {
+     "n": "14",
+     "tema": "DNI electrónico",
+     "pregunta": "En relación al DNIe v3.0, indique la respuesta correcta:",
+     "opciones": [
+      "Contiene dos certificados electrónicos de componentes: uno de Autenticación y otro de Firma.",
+      "La renovación de los certificados incluidos en la tarjeta del DNI electrónico puede realizarse en los Puntos de Actualización del DNIe y a través de Internet.",
+      "Actualmente, los certificados electrónicos de Autenticación y de Firma Electrónica que contiene tienen un plazo de validez de 24 meses.",
+      "El PIN debe tener un mínimo de 8 caracteres y un máximo de 12."
+     ],
+     "respuesta": "c",
+     "explicacion": "La plantilla da por buena la c: en 2021 los certificados de autenticación y firma del DNIe valían **24 meses** (es un dato técnico que puede cambiar; compruébalo en dnielectronico.es). Lo demás es falso: lleva certificados **de ciudadano** (autenticación y firma) además del de componente, se renuevan **en los Puntos de Actualización del DNIe** de las oficinas de expedición (no por Internet) y el PIN tiene **de 8 a 16 caracteres**."
+    },
+    {
+     "n": "15",
+     "tema": "Agenda digital · España Digital 2025",
+     "pregunta": "La nueva Agenda Digital \"España Digital 2025\" recoge un conjunto de medidas, reformas e inversiones. ¿En cuántos ejes se articulan estas medidas?",
+     "opciones": [
+      "6",
+      "9",
+      "12",
+      "10"
+     ],
+     "respuesta": "d",
+     "explicacion": "España Digital 2025 (2020) se articulaba en **10 ejes** (conectividad, 5G, competencias digitales, ciberseguridad, transformación de la Administración, empresas, sectores tractores, audiovisual, economía del dato e IA, y derechos digitales). En 2022 se actualizó como **España Digital 2026**."
+    },
+    {
+     "n": "16",
+     "tema": "DNI electrónico · Criptografía",
+     "pregunta": "¿Qué algoritmos criptográficos soporta el DNIe v3.0?",
+     "opciones": [
+      "RSA, PGP y Blowfish.",
+      "RC5 y algoritmo de hash MD5.",
+      "ElGamal, algoritmo de hash MD5 y cifrado simétrico Triple DES.",
+      "RSA, algoritmo de hash SHA-256 y cifrado simétrico Triple DES y AES."
+     ],
+     "respuesta": "d",
+     "explicacion": "El DNIe 3.0 trabaja con **RSA** (claves de 2048 bits), **SHA-256** y cifrado simétrico **Triple DES y AES**. MD5 está descartado por inseguro y PGP no es un algoritmo, sino un programa o estándar."
+    },
+    {
+     "n": "17",
+     "tema": "LOPDGDD · Prescripción de sanciones",
+     "pregunta": "Con respecto a la prescripción de las sanciones referidas a la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, señale cuál de estas afirmaciones es correcta:",
+     "opciones": [
+      "Las sanciones por importe igual o inferior a 40.000 euros, prescriben en el plazo de diez meses.",
+      "Las sanciones por importe igual o inferior a 40.000 euros, prescriben en el plazo de un año.",
+      "Las sanciones por importe igual o inferior a 40.000 euros, prescriben en el plazo de dos años",
+      "Las sanciones por importe igual o inferior a 40.000 euros, prescriben en el plazo de tres años."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 78: las sanciones **≤ 40.000 €** prescriben en **1 año**, las de **40.001 a 300.000 €** en **2** y las de **más de 300.000 €** en **3**. No lo confundas con la prescripción de las **infracciones** (muy graves 3 años, graves 2 y leves 1). Ver [Protección de datos]({{base}}leyes/proteccion-datos/)."
+    },
+    {
+     "n": "18",
+     "tema": "RGPD · Ámbito material",
+     "pregunta": "Señale la respuesta correcta en relación al ámbito de aplicación material del Reglamento (UE) 2016/679 en lo que respecta al tratamiento de datos personales:",
+     "opciones": [
+      "Se aplica al tratamiento total o parcialmente automatizado de datos personales por parte de las autoridades competentes con fines de prevención, investigación, detección o enjuiciamiento de infracciones penales, o de ejecución de sanciones penales, incluida la de protección frente a amenazas a la seguridad pública y su prevención.",
+      "Se aplica al tratamiento total o parcialmente automatizado de datos personales, así como al tratamiento no automatizado de datos personales contenidos o destinados a ser incluidos en un fichero.",
+      "Se aplica al tratamiento de datos personales efectuado por una persona física en el ejercicio de actividades exclusivamente personales o domésticas.",
+      "Se aplica al tratamiento total de datos personales."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 2.1 RGPD: se aplica al tratamiento **total o parcialmente automatizado** y al **no automatizado de datos contenidos o destinados a un fichero**. Quedan fuera las actividades **personales o domésticas** y los tratamientos penales de la Directiva (UE) 2016/680."
+    },
+    {
+     "n": "19",
+     "tema": "ENS · Dimensiones",
+     "pregunta": "Según el Esquema Nacional de Seguridad, ¿cuál de las siguientes medidas de seguridad afecta a la dimensión de Trazabilidad?",
+     "opciones": [
+      "Copias de seguridad.",
+      "Sellos de tiempo.",
+      "Cifrado.",
+      "Firma electrónica."
+     ],
+     "respuesta": "b",
+     "explicacion": "Los **sellos de tiempo** permiten saber **cuándo** ocurrió algo y quién lo hizo, es decir, la **trazabilidad** [T]. Las copias protegen la disponibilidad y la integridad, el cifrado la confidencialidad y la firma electrónica la autenticidad y la integridad. Ver [ENS]({{base}}leyes/ens/)."
+    },
+    {
+     "n": "20",
+     "tema": "Ley 39/2015 · Plazos",
+     "pregunta": "Conforme al artículo 30 de la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas, el cómputo de plazos señalados en días, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, se entienden como:",
+     "opciones": [
+      "Días hábiles, contados a partir del día siguiente a aquel que tenga la notificación o publicación del acto de que se trate.",
+      "Días hábiles, contados a partir del mismo día a aquel que tenga la notificación o publicación del acto de que se trate.",
+      "Días naturales, contados a partir del día siguiente a aquel que tenga la notificación o publicación del acto de que se trate.",
+      "Días naturales, contados a partir del mismo día a aquel que tenga la notificación o publicación del acto de que se trate."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 30.2: los plazos en días son **hábiles** (se excluyen sábados, domingos y festivos) y, según el 30.3, se cuentan **desde el día siguiente** a la notificación o publicación. Ver [Ley 39/2015]({{base}}leyes/ley-39-2015/)."
+    },
+    {
+     "n": "21",
+     "tema": "ENI · Guía de auditoría",
+     "pregunta": "La guía de auditoría, que identifica los requisitos a cumplir en conformidad con el Esquema Nacional de Interoperabilidad (ENI), contiene un conjunto de controles apropiados para evaluar el cumplimiento de lo previsto en el ENI, agrupados en tres categorías:",
+     "opciones": [
+      "Marco organizativo, Marco operacional y Medidas de protección.",
+      "Marco organizativo, Marco semántico y Marco de seguridad.",
+      "Evaluación organizativa, Evaluación semántica y Evaluación temporal.",
+      "Marco organizativo, Marco operacional y Medidas técnicas."
+     ],
+     "respuesta": "d",
+     "explicacion": "La Guía de auditoría del ENI agrupa sus controles en **marco organizativo, marco operacional y medidas técnicas**. No la confundas con el ENS, cuyas medidas son **marco organizativo, marco operacional y medidas de protección** (opción a)."
+    },
+    {
+     "n": "22",
+     "tema": "ENI · Normas Técnicas",
+     "pregunta": "¿Cuál de las siguientes NO es una Norma Técnica de Interoperabilidad?",
+     "opciones": [
+      "Catálogo de estándares.",
+      "Modelo de Datos para el intercambio de asientos entre las Entidades Registrales.",
+      "Protocolo de gestión de recursos de la Administración.",
+      "Expediente Electrónico."
+     ],
+     "respuesta": "c",
+     "explicacion": "Son NTI el **Catálogo de estándares**, el **Expediente electrónico** y el **Modelo de datos para el intercambio de asientos (SICRES)**, entre otras. No existe una NTI de «Protocolo de gestión de recursos». Ver [Administración electrónica]({{base}}leyes/administracion-electronica/)."
+    },
+    {
+     "n": "23",
+     "tema": "Servicios comunes · eVisor",
+     "pregunta": "Dentro de los servicios horizontales de Administración Electrónica, indique la afirmación correcta respecto a la funcionalidad principal del producto eVisor:",
+     "opciones": [
+      "Es un servicio que permite la creación de mapas interactivos para su presentación en portales web, cuadros de mando y otras aplicaciones sin necesidad de conocimientos de georreferenciación ni desarrollos adicionales.",
+      "Es una aplicación web de generación de copia auténtica en papel de documentos con firma electrónica y de justificantes de firma electrónica.",
+      "Es una herramienta basada en un Sistema de Información Territorial (GIS), que ofrece las funcionalidades necesarias para facilitar la gestión de la información de las Administraciones Públicas mediante la georreferenciación.",
+      "Es una herramienta que ofrece el Observatorio de Accesibilidad Web para realizar el servicio de diagnóstico en línea para las Administraciones Públicas."
+     ],
+     "respuesta": "b",
+     "explicacion": "**eVisor** genera **copias auténticas en papel** de documentos firmados electrónicamente, con su justificante de firma (CSV). La a es **GeoPortal** o similar, la c un **SIG** y la d el **Observatorio de Accesibilidad**."
+    },
+    {
+     "n": "24",
+     "tema": "Servicios comunes · Nómina",
+     "pregunta": "¿Qué solución común permite la gestión de la nómina de empleados públicos?",
+     "opciones": [
+      "SOROLLA2",
+      "BADARAL",
+      "NEDAES",
+      "NOMINAe"
+     ],
+     "respuesta": "c",
+     "explicacion": "**NEDAES** es la solución común para la **gestión de nóminas** de los empleados públicos. **SOROLLA2** sirve para la gestión económico-presupuestaria."
+    },
+    {
+     "n": "25",
+     "tema": "Arquitectura · ARM",
+     "pregunta": "¿Qué es la arquitectura ARM?",
+     "opciones": [
+      "Una arquitectura avanzada para microprocesadores RISC.",
+      "Una arquitectura para computación en la nube, basada en el intercambio asíncrono de información entre nodos usando agentes autónomos.",
+      "Una arquitectura de almacenamiento de información basada en redes de comunicaciones de fibra óptica.",
+      "Una arquitectura de computación cuántica."
+     ],
+     "respuesta": "a",
+     "explicacion": "**ARM** (*Advanced RISC Machines*) es una arquitectura **RISC** de bajo consumo, la de casi todos los móviles y también la de los Apple Silicon."
+    },
+    {
+     "n": "26",
+     "tema": "Hardware · USB",
+     "pregunta": "Indique la velocidad máxima de transferencia del USB 4.0:",
+     "opciones": [
+      "Hasta 20 Gbps.",
+      "Hasta 30 Gbps.",
+      "Hasta 40 Gbps.",
+      "Hasta 50 Gbps."
+     ],
+     "respuesta": "c",
+     "explicacion": "**USB4** (2019) llega a **40 Gbps**. Ojo, porque ha cambiado: desde 2022 **USB4 v2.0** alcanza **80 Gbps**."
+    },
+    {
+     "n": "27",
+     "tema": "Hardware · Interfaces",
+     "pregunta": "Indique cuál de las siguientes es una tecnología de interfaz hardware:",
+     "opciones": [
+      "Thunderbird",
+      "HIT",
+      "Thunderbolt",
+      "RISC"
+     ],
+     "respuesta": "c",
+     "explicacion": "**Thunderbolt** (Intel y Apple) es una interfaz de conexión de periféricos de alta velocidad. **Thunderbird** es el cliente de correo de Mozilla y **RISC** un tipo de arquitectura de procesador."
+    },
+    {
+     "n": "28",
+     "tema": "Almacenamiento · SSD",
+     "pregunta": "En relación con el almacenamiento, ¿qué es un SSD?",
+     "opciones": [
+      "Secure System Disk. Es un sistema de almacenamiento de datos cifrado AES 128.",
+      "Solid State Disk. Es un dispositivo de almacenamiento de datos que utiliza discos magnéticos.",
+      "Solid State Drive. Es un dispositivo de almacenamiento de datos que utiliza memoria no volátil.",
+      "Solid State Device. Es un dispositivo de almacenamiento de datos que utiliza memoria volátil."
+     ],
+     "respuesta": "c",
+     "explicacion": "**SSD** = *Solid State Drive*: almacena en **memoria flash no volátil**, sin partes móviles."
+    },
+    {
+     "n": "29",
+     "tema": "Multimedia · Códecs",
+     "pregunta": "AV1 es un:",
+     "opciones": [
+      "Nuevo sistema de realidad aumentada.",
+      "Nuevo sistema operativo para la IoT.",
+      "Nuevo códec de vídeo.",
+      "Nuevo estándar de seguridad para WiFi 6."
+     ],
+     "respuesta": "c",
+     "explicacion": "**AV1** es un **códec de vídeo** abierto y libre de regalías de la Alliance for Open Media (Google, Netflix, Amazon…), sucesor de VP9 y rival de HEVC."
+    },
+    {
+     "n": "30",
+     "tema": "Estructuras de datos · Árboles",
+     "pregunta": "Si un árbol binario lo recorremos siguiendo el orden siguiente: raíz, subárbol izquierdo, subárbol derecho, ¿cuál de los siguientes tipos de recorrido estamos utilizando?",
+     "opciones": [
+      "Preorden",
+      "Inorden",
+      "Postorden",
+      "Reorden"
+     ],
+     "respuesta": "a",
+     "explicacion": "**Preorden**: raíz, izquierdo, derecho. **Inorden**: izquierdo, raíz, derecho. **Postorden**: izquierdo, derecho, raíz."
+    },
+    {
+     "n": "31",
+     "tema": "Linux · Directorios",
+     "pregunta": "En una distribución Linux, ¿qué directorio contiene, entre otros, los ficheros de configuración tanto a nivel de componentes del sistema operativo en sí, como de los programas y aplicaciones instaladas a posteriori?",
+     "opciones": [
+      "/root",
+      "/bin",
+      "/dev",
+      "/etc"
+     ],
+     "respuesta": "d",
+     "explicacion": "**/etc** guarda la configuración del sistema y de las aplicaciones. **/root** es el directorio personal de root, **/bin** contiene binarios esenciales y **/dev** los dispositivos."
+    },
+    {
+     "n": "32",
+     "tema": "Linux · Permisos",
+     "pregunta": "En los sistemas Linux, si se ejecuta el comando chmod 640 para modificar los permisos de un archivo, ¿qué permisos estoy asignando?",
+     "opciones": [
+      "Acceso de lectura, escritura y ejecución al propietario, acceso de lectura al grupo y ningún acceso al resto de usuarios.",
+      "Acceso de lectura, escritura y ejecución al propietario, acceso de lectura y escritura al grupo, y acceso de ejecución al resto de usuarios.",
+      "Acceso de lectura y escritura al propietario, acceso de lectura al grupo, y ningún acceso al resto de usuarios.",
+      "Acceso de lectura y escritura al propietario, acceso de ejecución al grupo, y ningún acceso al resto de usuarios."
+     ],
+     "respuesta": "c",
+     "explicacion": "**640**: 6 = rw- (propietario), 4 = r-- (grupo) y 0 = --- (otros). Recuerda: r = 4, w = 2, x = 1."
+    },
+    {
+     "n": "33",
+     "tema": "Bases de datos · ORM",
+     "pregunta": "¿Cuál de los siguientes NO es un ORM (Mapeador Objeto-Relacional)?",
+     "opciones": [
+      "ADO.NET Entity Framework",
+      "Ruby Hibernation",
+      "NHibernate",
+      "Hibernate"
+     ],
+     "respuesta": "b",
+     "explicacion": "**Entity Framework**, **NHibernate** (.NET) y **Hibernate** (Java) son ORM. **«Ruby Hibernation» no existe**: en Ruby el ORM habitual es **ActiveRecord**."
+    },
+    {
+     "n": "34",
+     "tema": "Bases de datos · Reglas de Codd",
+     "pregunta": "¿Cuál de las siguientes opciones NO se corresponde con una de las 12 Reglas de Codd?",
+     "opciones": [
+      "Regla de la no subversión. Si el sistema ofrece una interfaz de acceso a bajo nivel, dicho acceso no se podrá usar para subvertir el sistema (por ejemplo para sortear restricciones de integridad o seguridad).",
+      "Tratamiento sistemático de valores nulos. El sistema debe permitir que haya campos nulos. Se debe disponer de una representación de valores desconocidos y no aplicables diferente de los valores normales.",
+      "Dependencia de la distribución. Que la base de datos se almacene o gestione de forma distribuida en varios servidores afecta al uso de la misma y a la programación de las aplicaciones de usuario.",
+      "Catálogo dinámico en línea basado en el modelo relacional. El sistema debe soportar un catálogo en línea, el catálogo relacional, que da acceso a la estructura de la base de datos y que debe ser accesible a los usuarios autorizados."
+     ],
+     "respuesta": "c",
+     "explicacion": "La regla 11 es la **independencia de la distribución**: que los datos estén distribuidos **no debe afectar** a usuarios ni aplicaciones. La opción c dice justo lo contrario."
+    },
+    {
+     "n": "35",
+     "tema": "Métrica v3 · DFD",
+     "pregunta": "Indique la definición correcta en referencia a los diagramas de flujo de datos de Métrica v3:",
+     "opciones": [
+      "Almacén de datos: representa la información en movimiento utilizada por el sistema.",
+      "Proceso de control: representa procesos que coordinan y sincronizan las actividades de otros procesos del diagrama de flujo de datos.",
+      "Flujo de control: representa el flujo entre dos procesos de control.",
+      "Flujo de datos: representa el movimiento de los datos, y establece la comunicación entre dos almacenes."
+     ],
+     "respuesta": "b",
+     "explicacion": "El **proceso de control** coordina y sincroniza otros procesos. El **almacén** representa datos **en reposo**, el **flujo de control** va de un proceso de control a otro proceso y el **flujo de datos** no puede ir directamente de almacén a almacén."
+    },
+    {
+     "n": "36",
+     "tema": "Normalización · 3FN",
+     "pregunta": "Una tabla se encuentra en Tercera Forma Normal (3FN) si:",
+     "opciones": [
+      "Está en 2FN y todo atributo que no forma parte de una clave candidata depende de ella al completo.",
+      "Está en 2FN y no existe ninguna dependencia transitiva de atributos no principales respecto de las claves.",
+      "Está en 2FN y no existen relaciones de dependencia de reunión no triviales que no se generen desde las claves.",
+      "Está en 2FN y los atributos que no forman parte de ninguna clave dependen de la clave principal."
+     ],
+     "respuesta": "b",
+     "explicacion": "**3FN** = 2FN + **sin dependencias transitivas** de atributos no clave. La a describe la **2FN** (dependencia completa) y la c la **5FN** (dependencias de reunión)."
+    },
+    {
+     "n": "37",
+     "tema": "Normalización · Dependencia funcional",
+     "pregunta": "Según Métrica v3, en la teoría de la normalización se define el término de Dependencia Funcional como:",
+     "opciones": [
+      "Un atributo Y depende funcionalmente respecto de otro X, si depende funcionalmente de él en su totalidad, es decir, no depende de ninguno de los posibles atributos que formen parte de X.",
+      "Un atributo Y se dice que depende funcionalmente de otro X si, y sólo si, a cada valor de X le corresponde un único valor de Y.",
+      "Un atributo depende funcionalmente de otro si, y sólo si, depende de él a través de otro atributo.",
+      "Un atributo X sólo puede tomar un único valor de dominio simple."
+     ],
+     "respuesta": "b",
+     "explicacion": "**Y depende funcionalmente de X** (X → Y) si **a cada valor de X le corresponde un único valor de Y**. La a es la dependencia funcional **completa**, la c la **transitiva** y la d la definición de **1FN**."
+    },
+    {
+     "n": "38",
+     "tema": "C++ · Bucles",
+     "pregunta": "En el lenguaje C++, si hablamos de un bucle con estructura do…while:",
+     "opciones": [
+      "Sólo se ejecuta si la condición del bucle es verdadera.",
+      "Evalúa la condición del bucle y después se ejecuta al menos una vez.",
+      "Se ejecuta una vez antes de evaluar la condición del bucle.",
+      "Se ejecuta una sola vez siempre y cuando sea verdadera la condición del bucle."
+     ],
+     "respuesta": "c",
+     "explicacion": "El **do…while** ejecuta el cuerpo **una vez antes** de evaluar la condición, así que se ejecuta como mínimo una vez. El **while** evalúa primero."
+    },
+    {
+     "n": "39",
+     "tema": "Frontend · Herramientas",
+     "pregunta": "Señale la respuesta correcta en relación a las tecnologías y herramientas de desarrollo front-end:",
+     "opciones": [
+      "Sass, Less y Stylus, son preprocesadores de CSS.",
+      "Postman es una herramienta que sirve para probar la parte de front-end, no permitiendo validar los servicios REST.",
+      "Node js fue construido con el motor de java jre 1.9",
+      "Bootstrap es una herramienta de desarrollo que permite realizar test de los servicios REST, aislando al programador del front-end."
+     ],
+     "respuesta": "a",
+     "explicacion": "**Sass, Less y Stylus** son **preprocesadores CSS**. **Postman** sirve precisamente para probar **APIs REST**, **Node.js** se construyó sobre el motor **V8** de Chrome (no Java) y **Bootstrap** es un framework CSS."
+    },
+    {
+     "n": "40",
+     "tema": "Java · Clases abstractas",
+     "pregunta": "En Java, una clase declarada como 'abstract':",
+     "opciones": [
+      "Puede no estar implementada o estarlo de manera incompleta.",
+      "Puede ser instanciada.",
+      "No puede ser extendida por subclases.",
+      "No existe el modificador abstract en Java."
+     ],
+     "respuesta": "a",
+     "explicacion": "Una clase **abstract** **no se puede instanciar**, puede tener métodos sin implementar (abstractos) junto con otros implementados, y está pensada para **ser extendida**."
+    },
+    {
+     "n": "41",
+     "tema": "Java · Interfaces",
+     "pregunta": "En la declaración de una clase en java, ¿mediante qué cláusula es posible definir un listado de uno o varios interfaces para la clase en cuestión?",
+     "opciones": [
+      "Mediante la cláusula 'interfaces'.",
+      "Mediante la cláusula 'declares'.",
+      "Mediante la cláusula 'implements'.",
+      "En Java no es posible declarar una clase con más de un interface."
+     ],
+     "respuesta": "c",
+     "explicacion": "`class A extends B implements I1, I2`: con **implements** una clase puede implementar **varias** interfaces. La herencia de clases es simple (un solo `extends`)."
+    },
+    {
+     "n": "42",
+     "tema": "SQL · Triggers",
+     "pregunta": "Teniendo una base de datos relacional, con una tabla \"Empleados\" con campos {Id, Nombre, Puesto, Salario,....}, indique cuál sería una forma válida de comenzar la creación de un Trigger en ANSI SQL, si lo que se quiere validar es un cambio de valor del campo \"Salario\":",
+     "opciones": [
+      "`CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario OF TABLE Empleados`",
+      "`CREATE NEW TRIGGER BEFORE UPDATE OF Salario ON Empleados`",
+      "`CREATE TRIGGER Validar_salario IN Empleados BEFORE UPDATE OF Salario`",
+      "`CREATE TRIGGER Validar_salario BEFORE UPDATE OF Salario ON Empleados`"
+     ],
+     "respuesta": "d",
+     "explicacion": "Sintaxis estándar: `CREATE TRIGGER nombre {BEFORE|AFTER} UPDATE OF columna ON tabla`. La tabla se indica con **ON**."
+    },
+    {
+     "n": "43",
+     "tema": "Oracle · Transacciones",
+     "pregunta": "Si utilizamos el gestor de base de datos Oracle (v.10g), ¿qué podríamos hacer si dentro de una transacción de la base de datos se quiere establecer un punto de recuperación?",
+     "opciones": [
+      "Utilizar la sentencia SAVEPOINT y así definir un punto de salvaguarda dentro de una transacción.",
+      "Utilizar la sentencia ROLLBACK y así definir un punto de salvaguarda dentro de una transacción",
+      "Usar los comandos GRANT para dar permisos adecuados de administrador DBA sobre las tablas.",
+      "Utilizar la sentencia RECOVERPOINT y así definir un punto de salvaguarda dentro de una transacción."
+     ],
+     "respuesta": "a",
+     "explicacion": "**SAVEPOINT nombre** marca un punto intermedio en la transacción; con `ROLLBACK TO nombre` se deshace solo hasta ahí. RECOVERPOINT no existe."
+    },
+    {
+     "n": "44",
+     "tema": "Patrones GoF · Decorator",
+     "pregunta": "Respecto a los patrones de diseño GoF (Gang of Four), indique cuál de las siguientes definiciones se corresponde con el patrón Decorator:",
+     "opciones": [
+      "Proporciona el poder agregar una nueva funcionalidad a un objeto dinámicamente.",
+      "Proporciona una interfaz unificada para un conjunto de interfaces de un subsistema.",
+      "Proporciona un sustituto o representante de otro objeto para controlar el acceso a éste.",
+      "Proporciona un modo de acceder secuencialmente a los elementos de un objeto agregado sin exponer su representación interna."
+     ],
+     "respuesta": "a",
+     "explicacion": "**Decorator** añade responsabilidades a un objeto **dinámicamente**, envolviéndolo. La b es **Facade**, la c **Proxy** y la d **Iterator**."
+    },
+    {
+     "n": "45",
+     "tema": "UML · Relaciones",
+     "pregunta": "Cuál de las siguientes afirmaciones NO se corresponde con el lenguaje UML:",
+     "opciones": [
+      "Una clase se representa mediante un rectángulo con tres secciones, la superior contiene el identificador o nombre de la clase, la central contiene los atributos, y la inferior, las operaciones o métodos que tienen asociados.",
+      "Las asociaciones son los elementos que representan las relaciones que existen entre los elementos estructurales que se utilizan en los modelos.",
+      "Un tipo de asociación entre elementos estructurales es la dispersión.",
+      "La agregación es un tipo de asociación entre elementos estructurales que representa una clase que es parte de otra."
+     ],
+     "respuesta": "c",
+     "explicacion": "En UML hay asociación, **agregación**, **composición**, generalización, dependencia y realización. **La «dispersión» no existe** como relación."
+    },
+    {
+     "n": "46",
+     "tema": "Java · Operadores",
+     "pregunta": "En JAVA, siendo x=6 e y=3 (ambas variables de tipo int), la operación x^y da como resultado:",
+     "opciones": [
+      "216",
+      "63",
+      "3",
+      "5"
+     ],
+     "respuesta": "d",
+     "explicacion": "En Java `^` es el **XOR bit a bit**, no la potencia: 6 = 110 y 3 = 011, así que 110 XOR 011 = 101 = **5**. Para potencias se usa `Math.pow(6, 3)`."
+    },
+    {
+     "n": "47",
+     "tema": ".NET · NuGet",
+     "pregunta": "En el entorno de programación .Net, indique que es un NuGet:",
+     "opciones": [
+      "Una biblioteca de clases base.",
+      "Un administrador de paquetes.",
+      "Una implementación de .Net.",
+      "Un entorno de ejecución."
+     ],
+     "respuesta": "b",
+     "explicacion": "**NuGet** es el **gestor de paquetes** de .NET, el equivalente a Maven en Java o npm en JavaScript."
+    },
+    {
+     "n": "48",
+     "tema": "Java · XML",
+     "pregunta": "Indique cuál de las siguientes opciones corresponde a una API de Java para el procesamiento de documentos en formato XML.",
+     "opciones": [
+      "JNA",
+      "StAX",
+      "JNI",
+      "JPaX"
+     ],
+     "respuesta": "b",
+     "explicacion": "**StAX** (*Streaming API for XML*) procesa XML en flujo, por eventos y bajo demanda (*pull*). También están **DOM**, **SAX**, **JAXP** y **JAXB**. **JNI** y **JNA** sirven para llamar a código nativo y «JPaX» no existe."
+    },
+    {
+     "n": "49",
+     "tema": "Servicios web · REST",
+     "pregunta": "¿Cuál NO es una característica de los servicios REST?",
+     "opciones": [
+      "Utiliza métodos del protocolo HTTP de forma explícita.",
+      "La solicitud no requiere que el servidor recupere información de estado de la aplicación.",
+      "Son admitidos los formatos XML y JSON para la transmisión o recepción de datos.",
+      "Usa la especificación UDDI para publicar y encontrar información sobre los servicios web expuestos."
+     ],
+     "respuesta": "d",
+     "explicacion": "**UDDI** pertenece al mundo de los servicios **SOAP/WSDL**, no de REST. REST usa los **métodos HTTP** de forma explícita, es **sin estado** y admite **JSON, XML** y otros formatos."
+    },
+    {
+     "n": "50",
+     "tema": "Frameworks · Ruby on Rails",
+     "pregunta": "Indique, de entre las siguientes afirmaciones, cuál es relativa a Ruby on Rails (RoR):",
+     "opciones": [
+      "Es un lenguaje de programación creado por G. Ruby.",
+      "Es un framework de control de versiones escrito en el lenguaje Ruby.",
+      "Es un framework de desarrollo de aplicaciones web basado en el patrón MVC.",
+      "Es un servicio de .NET."
+     ],
+     "respuesta": "c",
+     "explicacion": "**Ruby on Rails** es un **framework web MVC** escrito en Ruby (creado por David Heinemeier Hansson). El lenguaje Ruby lo creó **Yukihiro Matsumoto**."
+    },
+    {
+     "n": "51",
+     "tema": "Python · Sintaxis",
+     "pregunta": "En una sentencia \"if\" en el lenguaje de programación Python, ¿cómo se identifica el bloque de código a ejecutar si la condición se cumple?",
+     "opciones": [
+      "El bloque debe estar delimitado por llaves {}",
+      "El bloque debe estar delimitado por corchetes []",
+      "El bloque debe estar delimitado por corchetes ()",
+      "Cada línea del bloque debe estar precedida por el mismo número de espacios en blanco, con la misma sangría."
+     ],
+     "respuesta": "d",
+     "explicacion": "En Python los bloques se delimitan por **sangría** (normalmente 4 espacios) después de los dos puntos `:`. No hay llaves."
+    },
+    {
+     "n": "52",
+     "tema": "XML · Comentarios",
+     "pregunta": "En el lenguaje XML, ¿cuál de las siguientes sentencias sería correcta para añadir comentarios?",
+     "opciones": [
+      "<-- Aquí va el comentario /-->",
+      "< Aquí va el comentario !>",
+      "`<!-- Aquí va el comentario -->`",
+      "<--! Aquí va el comentario -->"
+     ],
+     "respuesta": "c",
+     "explicacion": "Los comentarios en XML (y en HTML) se escriben así: `<!-- comentario -->`, y dentro no puede aparecer `--`."
+    },
+    {
+     "n": "53",
+     "tema": "Accesibilidad · RD 1112/2018",
+     "pregunta": "En relación con el Real Decreto 1112/2018, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público, indique qué respuesta es INCORRECTA:",
+     "opciones": [
+      "Las entidades obligadas deberán ofrecer un mecanismo de comunicación para presentar sugerencias y quejas.",
+      "La primera revisión de accesibilidad deberá haberse realizado en el caso de los sitios web antes de dos años desde la entrada en vigor de este real decreto.",
+      "La primera revisión de accesibilidad deberá haberse realizado en el caso de las aplicaciones móviles, antes de dos años desde la entrada en vigor de este real decreto.",
+      "La entidad obligada deberá responder a la persona interesada sobre las solicitudes de información accesible y quejas, en el plazo de veinte días hábiles."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 17.6: la primera revisión de accesibilidad debía hacerse antes de **2 años** para los **sitios web** y de **3 años** para las **aplicaciones móviles**. Las quejas y solicitudes se responden en **20 días hábiles** (art. 12.3)."
+    },
+    {
+     "n": "54",
+     "tema": "Accesibilidad · WCAG",
+     "pregunta": "Según las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1, ¿cuál es el objetivo de que un contenido sea Distinguible?",
+     "opciones": [
+      "Crear contenido que pueda presentarse de diferentes formas (por ejemplo, con una disposición más simple) sin perder información o estructura.",
+      "Facilitar a los usuarios ver y oír el contenido, incluyendo la separación entre el primer plano y el fondo.",
+      "Proporcionar alternativas textuales para todo contenido no textual de modo que se pueda convertir a otros formatos que las personas necesiten, tales como textos ampliados, braille, voz, símbolos o en un lenguaje más simple.",
+      "Proporcionar alternativas para los medios tempodependientes."
+     ],
+     "respuesta": "b",
+     "explicacion": "La pauta 1.4 **Distinguible** busca que sea fácil **ver y oír** el contenido, separando primer plano y fondo (contraste, tamaño, audio). La a es la pauta **Adaptable** (1.3), la c **Alternativas textuales** (1.1) y la d **Medios tempodependientes** (1.2)."
+    },
+    {
+     "n": "55",
+     "tema": "Métrica v3 · Pruebas",
+     "pregunta": "Según Métrica v3, ¿qué tipo de pruebas consiste en determinar que los tiempos de respuesta están dentro de los intervalos establecidos en las especificaciones del sistema?",
+     "opciones": [
+      "Pruebas de respuesta.",
+      "Pruebas de sobrecarga.",
+      "Pruebas de rendimiento.",
+      "Pruebas de tiempo."
+     ],
+     "respuesta": "c",
+     "explicacion": "Las **pruebas de rendimiento** comprueban que los **tiempos de respuesta** están dentro de lo especificado. Las de **sobrecarga** miden el comportamiento al superar la capacidad prevista."
+    },
+    {
+     "n": "56",
+     "tema": "Git · Commit",
+     "pregunta": "En el software para control de versiones GIT, hacer un 'commit' es:",
+     "opciones": [
+      "La acción de introducir comentarios iterativos entre versiones.",
+      "La acción de establecer un compromiso de uso (commitment) entre ambas partes.",
+      "La acción de descargar la rama de trabajo del repositorio central.",
+      "La acción de almacenar una nueva instantánea (snapshot) del estado del proyecto en el historial de GIT."
+     ],
+     "respuesta": "d",
+     "explicacion": "Un **commit** guarda una **instantánea** del estado del proyecto (lo preparado con `git add`) en el **historial local**, con un mensaje y un identificador (hash)."
+    },
+    {
+     "n": "57",
+     "tema": "Pruebas · Carga",
+     "pregunta": "Señale cuál de las siguientes herramientas de software libre se utiliza para realizar pruebas de carga y de estrés, permitiendo simular escenarios de concurrencia de usuarios:",
+     "opciones": [
+      "Cactus",
+      "Mockito",
+      "JMeter",
+      "Foglight"
+     ],
+     "respuesta": "c",
+     "explicacion": "**Apache JMeter** hace pruebas de **carga y estrés** simulando muchos usuarios concurrentes. **Mockito** crea *mocks* para pruebas unitarias, **Cactus** probaba código Java del lado del servidor y **Foglight** es una herramienta comercial de monitorización."
+    },
+    {
+     "n": "58",
+     "tema": "Linux · Redes",
+     "pregunta": "En Linux, ¿cuál de las siguientes opciones utilizaría para conocer qué puertos tiene abiertos un servidor?",
+     "opciones": [
+      "ntpq",
+      "ntport",
+      "nmap",
+      "traceroute"
+     ],
+     "respuesta": "c",
+     "explicacion": "**nmap** escanea **puertos abiertos** y servicios. **ntpq** consulta el servicio NTP y **traceroute** muestra la ruta hasta un destino. En el propio servidor también se puede usar `ss -tulpn` o `netstat`."
+    },
+    {
+     "n": "59",
+     "tema": "Debian · Paquetes",
+     "pregunta": "En sistemas Debian, ¿cuál de los siguientes comandos permitiría descargar la información de los paquetes desde todas las fuentes configuradas?",
+     "opciones": [
+      "`apt update`",
+      "`apt upgrade`",
+      "`apt full-upgrade`",
+      "`apt list`"
+     ],
+     "respuesta": "a",
+     "explicacion": "**`apt update`** descarga la **lista de paquetes** de las fuentes configuradas, sin instalar nada. **`apt upgrade`** actualiza los paquetes instalados y **`full-upgrade`** además puede eliminar paquetes para resolver dependencias."
+    },
+    {
+     "n": "60",
+     "tema": "Almacenamiento · Thin provisioning",
+     "pregunta": "En el contexto de la administración del almacenamiento, ¿qué es el “Thin Provisioning”?",
+     "opciones": [
+      "Es un mecanismo de despliegue de discos en red para clientes ligeros.",
+      "Es método de virtualización de almacenamiento que permite que el espacio se asigne de forma justa y puntual.",
+      "Es una tecnología que permite agregar discos físicos en caliente a las cabinas de la SAN de forma ligera.",
+      "Es un método por el que se asigna todo el espacio virtualizado disponible y se va a reduciendo (shrinking) a medida que el cliente lo descarta."
+     ],
+     "respuesta": "b",
+     "explicacion": "El **aprovisionamiento ligero** asigna el espacio **justo cuando se necesita** (*just-in-time*), no todo de entrada."
+    },
+    {
+     "n": "61",
+     "tema": "Almacenamiento · RAID",
+     "pregunta": "En relación a los sistemas RAID, indique qué configuración permite acceso independiente con paridad distribuida:",
+     "opciones": [
+      "RAID 1",
+      "RAID 3",
+      "RAID 4",
+      "RAID 5"
+     ],
+     "respuesta": "d",
+     "explicacion": "**RAID 5**: bloques con **acceso independiente** y **paridad distribuida** entre todos los discos. **RAID 3** usa paridad dedicada a nivel de byte (acceso síncrono), **RAID 4** paridad dedicada por bloques y **RAID 1** es espejo."
+    },
+    {
+     "n": "62",
+     "tema": "Correo · Protocolos",
+     "pregunta": "Considerando que tanto en el punto de origen como en el punto de destino disponemos de un ordenador de usuario con un cliente de correo electrónico instalado y un servidor de correo electrónico, ¿qué papel juegan los protocolos SMTP, POP3 e IMAP durante el envío de uno de estos correos electrónicos?",
+     "opciones": [
+      "SMTP se usa desde el ordenador del usuario de origen al servidor de correo electrónico en el origen. POP3 o IMAP se usan entre el servidor de correo en el origen y el servidor de correo en el destino. SMTP se usa de nuevo entre el servidor de correo de destino y el destinatario, para enviarle el mensaje cuando se conecte.",
+      "POP3 se usa desde el ordenador del usuario de origen al servidor de correo electrónico en el origen. IMAP se usa entre el servidor de correo en el origen y el servidor de correo en el destino. SMTP se usa entre el servidor de correo de destino y el destinatario, para enviarle el mensaje cuando se conecte.",
+      "SMTP se usa desde el ordenador del usuario de origen al servidor de correo electrónico en el origen, así como desde el servidor de origen al servidor de destino. POP3 o IMAP se usan desde el servidor de correo en el destino hasta el ordenador del destinatario, para enviarle el mensaje cuando se conecte.",
+      "POP3 o IMAP se usan desde el ordenador del usuario de origen al servidor de correo electrónico en el origen, así como desde el servidor de origen al servidor de destino. SMTP se usa desde el servidor de correo en el destino hasta el ordenador del destinatario, para enviarle el mensaje cuando se conecte."
+     ],
+     "respuesta": "c",
+     "explicacion": "**SMTP** sirve para **enviar**: del cliente a su servidor y de servidor a servidor. **POP3 o IMAP** sirven para **recoger** el correo del buzón del destinatario."
+    },
+    {
+     "n": "63",
+     "tema": "Arquitectura · Microservicios",
+     "pregunta": "En las arquitecturas de microservicios las funcionalidades se implementan mediante la composición de distintos microservicios. Existen dos estrategias para gestionar esta composición, que son:",
+     "opciones": [
+      "Coreografía y orquestación.",
+      "Coreografía y coordinación.",
+      "Coordinación y orquestación.",
+      "Gestión y orquestación."
+     ],
+     "respuesta": "a",
+     "explicacion": "Composición de microservicios: **orquestación** (un coordinador central dirige las llamadas) o **coreografía** (cada servicio reacciona a eventos, sin coordinador)."
+    },
+    {
+     "n": "64",
+     "tema": "Windows · Servicios",
+     "pregunta": "¿Qué comando se debe ejecutar para mostrar un listado de los servicios en ejecución en un ordenador con sistema operativo Windows 10?",
+     "opciones": [
+      "`Net view services`",
+      "`Net start process`",
+      "`Net start`",
+      "`Net start all`"
+     ],
+     "respuesta": "c",
+     "explicacion": "**`net start`** sin parámetros **lista los servicios en ejecución**. Con un nombre, lo arranca. En PowerShell: `Get-Service`."
+    },
+    {
+     "n": "65",
+     "tema": "Redes · SNMP",
+     "pregunta": "¿Cuál es la última versión del protocolo de administración de red SNMP?",
+     "opciones": [
+      "SNMP v2",
+      "SNMP v3",
+      "SNMP v4",
+      "SNMP v5"
+     ],
+     "respuesta": "b",
+     "explicacion": "**SNMPv3** es la última versión y añade **seguridad**: autenticación y cifrado (modelo USM). No existe SNMPv4."
+    },
+    {
+     "n": "66",
+     "tema": "Criptografía · Firma digital",
+     "pregunta": "¿Indique la afirmación FALSA con respecto al proceso de firma digital?",
+     "opciones": [
+      "La aplicación o dispositivo digital utilizados para la firma digital crea un resumen del documento a firmar utilizando una función hash.",
+      "La aplicación cifra el documento a firmar asegurando la confidencialidad.",
+      "La aplicación cifra el resumen del documento a firmar obteniendo a su vez otro documento electrónico que corresponde con la firma electrónica.",
+      "Para cifrar el resumen, la aplicación utiliza la clave privada."
+     ],
+     "respuesta": "b",
+     "explicacion": "La firma digital **no cifra el documento** ni da confidencialidad: calcula un **hash** del documento y lo **cifra con la clave privada** del firmante. Garantiza **autenticidad, integridad y no repudio**."
+    },
+    {
+     "n": "67",
+     "tema": "Gestión de servicios · ITIL",
+     "pregunta": "Indique cuál de las siguientes opciones se corresponde con el concepto de ITIL:",
+     "opciones": [
+      "Su origen proviene de la metodología Kaizen y ofrece a las organizaciones un instrumento útil para la sistematización de las actividades que dan soporte al ciclo de vida del software.",
+      "Es una librería java, referida a la seguridad, que forma parte de la plataforma de Jakarta EE.",
+      "Es una colección de mejores prácticas de gestión de servicios de tecnologías de la información.",
+      "Es una metodología de análisis y gestión de riesgos de los sistemas de información."
+     ],
+     "respuesta": "c",
+     "explicacion": "**ITIL** es un conjunto de **buenas prácticas para la gestión de servicios TI** (la versión actual es ITIL 4). La d describe **MAGERIT**."
+    },
+    {
+     "n": "68",
+     "tema": "Seguridad · TLS",
+     "pregunta": "¿Cuál es la última versión estable del protocolo TLS?",
+     "opciones": [
+      "TLS 1.2",
+      "TLS 1.3",
+      "TLS 1.4",
+      "SSL 3.0"
+     ],
+     "respuesta": "b",
+     "explicacion": "**TLS 1.3** (RFC 8446, 2018) es la última versión. TLS 1.0 y 1.1 están retirados y SSL 3.0 es inseguro (POODLE)."
+    },
+    {
+     "n": "69",
+     "tema": "Criptografía · Algoritmos",
+     "pregunta": "Señale cuál de los siguientes NO es un algoritmo asimétrico:",
+     "opciones": [
+      "RSA",
+      "GOST",
+      "ECDSA",
+      "ElGamal"
+     ],
+     "respuesta": "b",
+     "explicacion": "**GOST** (28147-89, ruso) es un **cifrado simétrico** por bloques. **RSA**, **ECDSA** y **ElGamal** son asimétricos."
+    },
+    {
+     "n": "70",
+     "tema": "Wi-Fi · Seguridad",
+     "pregunta": "Sobre redes inalámbricas, indique cuál de las siguientes afirmaciones es INCORRECTA:",
+     "opciones": [
+      "La frecuencia de 2,4 GHz presenta interferencias con algunas versiones de Bluetooth.",
+      "La seguridad del protocolo WEP es superior a la del protocolo WPA2.",
+      "El protocolo WPA3 surge, entre otros, a raiz del ataque KRACK, mejorando la modalidad de cifrado WPA2-PSK (AES).",
+      "La frecuencia de 5 GHz tiene menor alcance que la de 2,4 GHz."
+     ],
+     "respuesta": "b",
+     "explicacion": "**WEP** está **roto** desde hace años y es muchísimo **menos** seguro que WPA2. Las demás son ciertas: 2,4 GHz comparte banda con Bluetooth, WPA3 llega tras KRACK (con SAE) y 5 GHz tiene **menos alcance**."
+    },
+    {
+     "n": "71",
+     "tema": "Wi-Fi · Estándares",
+     "pregunta": "El estándar comercializado con el nombre de Wi-Fi 6 se corresponde con el estándar de IEEE:",
+     "opciones": [
+      "802.11ax",
+      "802.11ac",
+      "802.11ac wave 2",
+      "802.11az"
+     ],
+     "respuesta": "a",
+     "explicacion": "**Wi-Fi 6 = 802.11ax**. Wi-Fi 4 = 802.11n, Wi-Fi 5 = 802.11ac y Wi-Fi 7 = 802.11be. 802.11az se dedica al posicionamiento."
+    },
+    {
+     "n": "72",
+     "tema": "IPv6 · Direcciones",
+     "pregunta": "¿Cuál es el prefijo para las direcciones multicast en el protocolo IPv6?",
+     "opciones": [
+      "FF80::/10",
+      "FF00::/8",
+      "FE00::/8",
+      "FE80::/10"
+     ],
+     "respuesta": "b",
+     "explicacion": "Multicast IPv6: **FF00::/8**. **FE80::/10** es enlace local (*link-local*)."
+    },
+    {
+     "n": "73",
+     "tema": "Redes · Enrutamiento",
+     "pregunta": "De los siguientes protocolos de enrutamiento, ¿cuál utiliza un algoritmo de vector de distancia?",
+     "opciones": [
+      "OSPF",
+      "IGRP",
+      "IS-IS",
+      "OLSR"
+     ],
+     "respuesta": "b",
+     "explicacion": "**IGRP** (Cisco), como RIP, es de **vector de distancia**. **OSPF**, **IS-IS** y **OLSR** (redes ad hoc) son de **estado de enlace**."
+    },
+    {
+     "n": "74",
+     "tema": "HTTP · Códigos",
+     "pregunta": "En el protocolo HTTP, el código de error que indica que el servicio no está disponible es el:",
+     "opciones": [
+      "500",
+      "501",
+      "502",
+      "503"
+     ],
+     "respuesta": "d",
+     "explicacion": "**503 Service Unavailable**. 500 es error interno, 501 método no implementado y 502 *Bad Gateway*."
+    },
+    {
+     "n": "75",
+     "tema": "DNS · Registros",
+     "pregunta": "¿Cuál de los siguientes registros DNS proporciona información sobre las características básicas del dominio y de la zona en la que se encuentra?",
+     "opciones": [
+      "AAAA",
+      "PTR",
+      "MX",
+      "SOA"
+     ],
+     "respuesta": "d",
+     "explicacion": "El registro **SOA** (*Start of Authority*) da los datos básicos de la **zona**: servidor primario, correo del responsable, número de serie y tiempos de refresco. **AAAA** es IPv6, **PTR** resolución inversa y **MX** servidores de correo."
+    },
+    {
+     "n": "76",
+     "tema": "Movilidad · Gestión de dispositivos",
+     "pregunta": "¿Qué modalidad de gestión de dispositivos móviles se basa en permitir al usuario usar su propio dispositivo personal para tareas profesionales o educativas?",
+     "opciones": [
+      "COPE",
+      "BYOD",
+      "COBO",
+      "CYOD"
+     ],
+     "respuesta": "b",
+     "explicacion": "**BYOD** (*Bring Your Own Device*): el usuario trabaja con su dispositivo personal. **COPE** es corporativo con uso personal permitido, **COBO** corporativo solo para trabajo y **CYOD** el usuario elige entre dispositivos aprobados por la organización."
+    },
+    {
+     "n": "77",
+     "tema": "CCN-CERT · Herramientas",
+     "pregunta": "La herramienta del CCN-CERT que permite realizar análisis estático de código dañino a través de múltiples motores antivirus y antimalware para plataformas Windows y Linux es:",
+     "opciones": [
+      "MARIA",
+      "PILAR",
+      "CLARA",
+      "REYES"
+     ],
+     "respuesta": "a",
+     "explicacion": "**MARIA** (hoy **MARTA**) hacía **análisis estático multimotor** de malware. **PILAR** analiza riesgos, **CLARA** audita el cumplimiento del ENS y **REYES** intercambia información de ciberamenazas."
+    },
+    {
+     "n": "78",
+     "tema": "VPN · Nivel de enlace",
+     "pregunta": "En relación con las VPN de nivel de enlace, ¿cuál de los siguientes protocolos NO se utiliza para la implementación de dicha VPN?",
+     "opciones": [
+      "PPTP (Point-to-Point Tunneling Protocol).",
+      "L2F (Layer Two Forwarding).",
+      "L2TP (Layer Two Tunneling Protocol).",
+      "P2TP (Point two Tunneling Protocol)."
+     ],
+     "respuesta": "d",
+     "explicacion": "Las VPN de nivel 2 usan **PPTP**, **L2F** y **L2TP**. **«P2TP» no existe**."
+    },
+    {
+     "n": "79",
+     "tema": "Bluetooth · Redes",
+     "pregunta": "¿Qué es una red Scatternet?",
+     "opciones": [
+      "Es un tipo de red MAN (Metropolitan area network).",
+      "Es una red de dispositivos WIFI en LAN (Local area network).",
+      "Es un grupo de Piconets.",
+      "Es la red utilizada para interconectar CubeSATs."
+     ],
+     "respuesta": "c",
+     "explicacion": "Una **piconet** es un maestro con hasta 7 esclavos activos, y una **scatternet** es un **conjunto de piconets** interconectadas."
+    },
+    {
+     "n": "80",
+     "tema": "Transporte · TCP y UDP",
+     "pregunta": "En relación a TCP y UDP indique cuál de las siguientes características NO es correcta:",
+     "opciones": [
+      "TCP es fiable.",
+      "UDP obliga al nivel de red a verificar que el envío es correcto.",
+      "TCP trabaja con un flujo de bytes.",
+      "UDP es un protocolo sin conexión."
+     ],
+     "respuesta": "b",
+     "explicacion": "**UDP** es **sin conexión y no fiable**: no garantiza la entrega y no obliga a nadie a verificarla (eso, si hace falta, lo hace la aplicación). **TCP** es fiable, orientado a conexión y trabaja con un flujo de bytes."
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "titulo": "Reserva de la primera parte",
+   "descripcion": "En este examen no hubo anulaciones, así que no llegaron a contar. Son buenas preguntas de repaso.",
+   "preguntas": [
+    {
+     "n": "R1",
+     "tema": "Arquitectura · Harvard",
+     "pregunta": "La arquitectura de ordenadores Harvard:",
+     "opciones": [
+      "Tiene un único espacio de memoria para datos e instrucciones.",
+      "Tiene dos espacios de memoria separados, uno para datos y otro para instrucciones.",
+      "Es un tipo de arquitectura Von Neumann.",
+      "Tiene tres espacios de memoria separados, uno para datos, otro para instrucciones y otro para la memoria no volátil."
+     ],
+     "respuesta": "b",
+     "explicacion": "La arquitectura **Harvard** separa la memoria de **instrucciones** y la de **datos**, con buses independientes. La **Von Neumann** usa una sola memoria para ambas."
+    },
+    {
+     "n": "R2",
+     "tema": "Protección de datos · FACILITA",
+     "pregunta": "¿Cuál es la funcionalidad de la herramienta \"FACILITA\"?",
+     "opciones": [
+      "Una herramienta de la Agencia Española de Protección de Datos para el tratamiento de datos personales de escaso riesgo.",
+      "Una herramienta ofrecida por la Administración Pública que facilita la adecuación del plan de actuación para ayudar a las personas con movilidad reducida.",
+      "Una aplicación de código abierto que ofrece la Administración General del Estado para que facilitar la visualización de contenidos multimedia.",
+      "Una aplicación para móviles que ofrece la Agencia Estatal de Administración Tributaria para generar y presentar la declaración de la renta."
+     ],
+     "respuesta": "a",
+     "explicacion": "**FACILITA RGPD** es la herramienta gratuita de la **AEPD** para empresas que hacen **tratamientos de escaso riesgo**; genera la documentación básica. También existe **FACILITA EMPRENDE**."
+    },
+    {
+     "n": "R3",
+     "tema": "Java · JDBC",
+     "pregunta": "En JAVA podemos utilizar el interface PreparedStatement para:",
+     "opciones": [
+      "Inicializar las variables locales del programa con valores preestablecidos.",
+      "Preparar los valores que introduciremos en un archivo de texto externo al programa.",
+      "Permitir ejecutar muchas veces una sentencia SQL.",
+      "Administrar el consumo de memoria que utilizan los objetos creados."
+     ],
+     "respuesta": "c",
+     "explicacion": "**PreparedStatement** precompila una sentencia SQL con parámetros (`?`) para **ejecutarla muchas veces** con distintos valores. Además previene la **inyección SQL**."
+    },
+    {
+     "n": "R4",
+     "tema": "CPD · TIA-942",
+     "pregunta": "Para valorar el nivel de disponibilidad y seguridad de un CPD, el estándar ANSI EIA/TIA 942 estableció:",
+     "opciones": [
+      "Cuatro niveles, siendo TIER I el de mayor disponibilidad y TIER IV el de menor.",
+      "Tres niveles, siendo TIER I el de mayor disponibilidad y TIER III el de menor.",
+      "Tres niveles, siendo TIER I el de menor disponibilidad y TIER III el de mayor.",
+      "Cuatro niveles, siendo TIER I el de menor disponibilidad y TIER IV el de mayor."
+     ],
+     "respuesta": "d",
+     "explicacion": "TIA-942 define **cuatro niveles (Tier)**: **I** básico (99,671 %), **II** con componentes redundantes, **III** mantenible sin parada y **IV** tolerante a fallos (99,995 %). Tier I es el de **menor** disponibilidad."
+    },
+    {
+     "n": "R5",
+     "tema": "JavaScript · Características",
+     "pregunta": "Indique cuál de las siguientes característica de JavaScript es INCORRECTA:",
+     "opciones": [
+      "Es imperativo y dinámico.",
+      "Proporciona funciones de segunda clase.",
+      "Es débilmente tipado.",
+      "Está basado en prototipos."
+     ],
+     "respuesta": "b",
+     "explicacion": "En JavaScript las funciones son **de primera clase**: se pueden asignar a variables, pasarse como argumentos y devolverse. Es imperativo y dinámico, **débilmente tipado** y **basado en prototipos**."
+    }
+   ]
+  },
+  {
+   "id": "s1",
+   "titulo": "Supuesto I · Desarrollo (gestión de procesos selectivos)",
+   "descripcion": "En el departamento TIC, al que usted se acaba de incorporar, quiere desarrollar para la Subdirección de Selección un sistema integral de información para la gestión de los procesos selectivos y convocatorias de oposiciones de la Administración General del Estado. El sistema incluirá, entre otras, las siguientes funcionalidades:\n\n- Gestión de solicitudes de inscripción de aspirantes al proceso selectivo.\n- Gestión de colaboradores.\n- Generación de listados, estadísticas y cuadros de mando.\n- Generación de certificados para aspirantes y colaboradores.\n\nDada la envergadura del proyecto, y para aprovechar las aplicaciones ya implantadas en la Subdirección y la experiencia profesional del personal, van a convivir diferentes lenguajes de programación, entre otros, Java, C# o Python, así como distintos gestores de Bases de Datos. Como repositorio de código se utiliza Git.\n\nA continuación se muestra un diagrama simplificado de clases que describe parte del sistema:\n\n![Diagrama de clases simplificado: Solicitud (+IdSolicitud, +IdOpositor, +IdProceso) «Presentada por» Opositor (+IdOpositor, +NIF) con multiplicidades 1..N y 1; Solicitud «Pertenece a» Proceso (+IdProceso, +IdFormaAcceso) con 1..N y 1; Proceso «Consta» de Ejercicio (+IdEjercicio, +IdProceso, +Duracion) con 1 y 1..N.]({{base}}static/img/examenes/tai-li-2021/p2-s1-statement-1.png)\n\n*Transcripción del diagrama de clases:*\n\n| Clase | Atributos |\n|---|---|\n| Solicitud | +IdSolicitud · +IdOpositor · +IdProceso |\n| Opositor | +IdOpositor · +NIF |\n| Proceso | +IdProceso · +IdFormaAcceso |\n| Ejercicio | +IdEjercicio · +IdProceso · +Duracion |\n\n| Asociación | Multiplicidades |\n|---|---|\n| Solicitud «Presentada por» Opositor | 1..N junto a Solicitud · 1 junto a Opositor |\n| Solicitud «Pertenece a» Proceso | 1..N junto a Solicitud · 1 junto a Proceso |\n| Proceso «Consta» Ejercicio | 1 junto a Proceso · 1..N junto a Ejercicio |\n\nSalvo que el enunciado diga lo contrario, se asume que aquellas preguntas que contengan un fragmento de código tendrán declaradas correctamente todas las clases, librerías y variables que no aparezcan explícitamente. Del mismo modo sí se trata de lenguaje HTML, se da por supuesto que éste será HTML5 y será ejecutado en navegadores que soporten dicha versión. Las sentencias SQL que aparecen se encuentran dentro del estándar ANSI SQL. Como metodología de base el organismo aplica Métrica v3.",
+   "preguntas": [
+    {
+     "n": "1",
+     "tema": "HTML · Tablas",
+     "pregunta": "Se necesita presentar una estadística utilizando HTML5 mediante una tabla en la que una de sus columnas contendrá la descripción de cada Proceso Selectivo. Suponiendo que a dicha columna la denominamos \"Proceso\", ¿qué etiqueta deberá utilizar para definir la celda de encabezado de la tabla para dicha columna, con un formato de letra diferenciado?",
+     "opciones": [
+      "`<th>Proceso</th>`",
+      "`<tableheader>Proceso</tableheader>`",
+      "`<theader>Proceso</theader>`",
+      "`<tableh>Proceso</tableh>`"
+     ],
+     "respuesta": "a",
+     "explicacion": "**`<th>`** es la celda de **encabezado** (en negrita y centrada por defecto). `<td>` es una celda normal y `<thead>` agrupa las filas de cabecera; las demás etiquetas no existen."
+    },
+    {
+     "n": "2",
+     "tema": "HTML · Listas anidadas",
+     "pregunta": "Le indican que debe presentar también una lista de opositores con las notas correspondientes a los dos primeros ejercicios. Las notas se representarán como una lista anidada para cada opositor, debiendo ser el resultado a obtener:\n\n- Opositor\n  - Nota 1\n  - Nota 2\n\n¿Cuál es el código HTML5 correcto si presentamos un solo opositor?",
+     "opciones": [
+      "`<ul><li>Opositor<ul><li>Nota 1</li><li>Nota 2</li></ul></li></ul>`",
+      "`<ul><li>Opositor</li></ul><ul><li>Nota 1</li><li>Nota 2</li></ul>`",
+      "`<ul><li1>Opositor</li1><li2>Nota 1</li2><li2>Nota 2</li2></ul>`",
+      "`<ul><li>Opositor<li>Nota 1</li><li>Nota 2</li></li></ul>`"
+     ],
+     "respuesta": "a",
+     "explicacion": "La lista anidada va **dentro del `<li>`** del padre, antes de cerrarlo: `<li>Opositor<ul>…</ul></li>`. La d cierra mal los elementos y en la b las listas quedan como hermanas, no anidadas."
+    },
+    {
+     "n": "3",
+     "tema": "HTML · Formularios",
+     "pregunta": "En el formulario web de inscripción se le pide forzar a la introducción del nombre del opositor como campo obligatorio. Para desarrollar esta petición, de entre las siguientes opciones de código, ¿cuál debería utilizar para incorporarlo en el fragmento de código marcado como [---------------------------------------] ? `<form>` `<label for=\"username\">`Nombre de Opositor:`</label>` [---------------------------------------] `<input type=\"submit\" value=\"Confirmar\"/>` `</form>`",
+     "opciones": [
+      "`<input type=\"text\" name=\"username\" required/>`",
+      "`<input type=\"text\" name=\"username\" enforced/>`",
+      "`<input type=\"text\" name=\"username\" mandatory/>`",
+      "`<input type=\"text\" name=\"username\" compulsory/>`"
+     ],
+     "respuesta": "a",
+     "explicacion": "El atributo booleano **`required`** hace obligatorio el campo y el navegador no envía el formulario si está vacío. Ojo: esto **no sustituye a la validación en el servidor**."
+    },
+    {
+     "n": "4",
+     "tema": "CSS · Selectores",
+     "pregunta": "En la página web a la que accederán los aspirantes, se quiere aplicar el color verde a todos los elementos que tengan etiqueta `<a>` que sean hijos de un elemento con etiqueta `<li>` ¿Cuál es el código CSS adecuado?",
+     "opciones": [
+      "`li.a {color: green;}`",
+      "`li>a {color: green;}`",
+      "`li#a {color: green;}`",
+      "`li_a {color: green;}`"
+     ],
+     "respuesta": "b",
+     "explicacion": "**`li > a`** selecciona los `<a>` que son **hijos directos** de un `<li>` (`li a` incluiría cualquier descendiente). `li.a` sería un `li` con clase «a» y `li#a` un `li` con id «a»."
+    },
+    {
+     "n": "5",
+     "tema": "CSS · Flexbox",
+     "pregunta": "Un compañero le consulta la forma de aplicar el modelo de Diseño de Caja Flexible (o Flexbox) a un elemento div con id=\"principal\". De entre los siguientes, ¿cuál es el código CSS correcto que debería proponer?",
+     "opciones": [
+      "`div#principal {display: flex;}`",
+      "`div#principal {display: flexbox;}`",
+      "`div#principal {display: flex-container;}`",
+      "`div#principal {display:flexible;}`"
+     ],
+     "respuesta": "a",
+     "explicacion": "**`display: flex`** convierte el elemento en contenedor flexible (o `inline-flex`). El valor `flexbox` es una sintaxis antigua y obsoleta."
+    },
+    {
+     "n": "6",
+     "tema": "XML · Documentos bien formados",
+     "pregunta": "Se han detectado varios errores en la exportación a XML de los diferentes listados de notas y le solicitan su ayuda. Sin tener en cuenta si la información está bien representada, ¿cuál de los siguientes XML está bien formado?",
+     "opciones": [
+      "`<Opositor>Winston Churchill<Nota1>95</nota1><Nota2>65</nota2></opositor>`",
+      "`<Opositor>Winston Churchill<Nota1>95</Nota1><Nota2>65</Opositor></Nota2>`",
+      "`<Opositor>Winston Churchill<Nota1/>95<Nota2/>65</Opositor>`",
+      "`<Opositor>Winston Churchill<Nota1>95</><Nota2>65</></>`"
+     ],
+     "respuesta": "c",
+     "explicacion": "XML distingue **mayúsculas y minúsculas** y exige **cierres en orden inverso** a la apertura. La c es correcta: `<Nota1/>` es un elemento vacío y el texto que le sigue es contenido mixto de `<Opositor>`. La a falla por las mayúsculas, la b por el anidamiento y la d porque `</>` no es válido."
+    },
+    {
+     "n": "7",
+     "tema": "JSON · Sintaxis",
+     "pregunta": "En su Subdirección van a usar JSON para realizar intercambio de datos, y le preguntan, de entre los siguientes, cuál sería un fichero JSON válido.",
+     "opciones": [
+      "`{\"nombre\": \"Juana\", \"apellido\": \"Ruiz\"}`",
+      "`{'nombre': 'Juana', 'apellido': 'Ruiz'}`",
+      "`{nombre: \"Juana\", apellido: \"Ruiz\"}`",
+      "`{nombre: \"Juana\"; apellido: \"Ruiz\"}`"
+     ],
+     "respuesta": "a",
+     "explicacion": "En JSON las claves y las cadenas van **siempre entre comillas dobles** y los pares se separan con **comas**. Las comillas simples y las claves sin comillas valen en JavaScript, pero no en JSON."
+    },
+    {
+     "n": "8",
+     "tema": "JavaScript · Bucles",
+     "pregunta": "Dentro de las tecnologías para el desarrollo web utilizadas en su unidad, se contempla utilizar javascript. ¿Qué valor devuelve la siguiente función javascript?\n\n```javascript\nFunction prueba() {\nvar i = 1;\nvar j = 0;\nwhile (i < 7) {\nj += i;\ni += 2; }\nreturn j; }\n```",
+     "opciones": [
+      "2",
+      "9",
+      "6",
+      "0"
+     ],
+     "respuesta": "b",
+     "explicacion": "i = 1 → j = 1; i = 3 → j = 4; i = 5 → j = **9**; i = 7 sale del bucle. Devuelve **9** (dejando de lado que `Function` con mayúscula daría error en JavaScript real)."
+    },
+    {
+     "n": "9",
+     "tema": "Python · Diccionarios y listas",
+     "pregunta": "Utilizando el lenguaje Python, a continuación se muestra la variable opositor, en la que se almacena el nombre y las puntuaciones de tres ejercicios por orden:\n\n```python\nopositor = {'nombre': 'Sandra Gomez', 'notas': [27, 36, 12]}\n```\n\n¿Cómo asignaría a una variable llamada notaSegundoEjercicio el valor 36?",
+     "opciones": [
+      "`notaSegundoEjercicio = opositor.notas.Value.Item2`",
+      "`notaSegundoEjercicio = opositor['notas'][1]`",
+      "`notaSegundoEjercicio = opositor.Key[notas].Value[1]`",
+      "`notaSegundoEjercicio = opositor(notas(2))`"
+     ],
+     "respuesta": "b",
+     "explicacion": "`opositor['notas']` devuelve la lista `[27, 36, 12]` y el índice **[1]** (los índices empiezan en 0) es **36**."
+    },
+    {
+     "n": "10",
+     "tema": "Python · Machine learning",
+     "pregunta": "Se está valorando la realización de otros desarrollos de Machine Learning para Python y le preguntan cuál de las siguientes podría ser una librería válida para ello.",
+     "opciones": [
+      "Keras",
+      "Yum",
+      "Mahotas",
+      "Openpyxl"
+     ],
+     "respuesta": "a",
+     "explicacion": "**Keras** es una API de **redes neuronales** (*deep learning*), integrada en TensorFlow. **Yum** es un gestor de paquetes de Linux, **Mahotas** sirve para visión por computador y **openpyxl** para leer y escribir Excel."
+    },
+    {
+     "n": "11",
+     "tema": "Java · Cadenas",
+     "pregunta": "Le piden opinión porque en uno de los módulos Java se detecta un bucle que concatena una cantidad muy elevada de cadenas de texto, penalizando el rendimiento. ¿Qué clase de java.lang habría que utilizar para mejorar la eficiencia?",
+     "opciones": [
+      "StringConcat",
+      "StringConstruct",
+      "StringBuilder",
+      "StringCreator"
+     ],
+     "respuesta": "c",
+     "explicacion": "**StringBuilder** es mutable y evita crear un objeto `String` nuevo en cada concatenación (`String` es inmutable). **StringBuffer** hace lo mismo pero sincronizado, y por tanto es más lento."
+    },
+    {
+     "n": "12",
+     "tema": "Java · Herencia",
+     "pregunta": "¿Cómo debe definir el equipo de desarrollo en Java una clase llamada Ejercicio si quiere impedir que se pueda heredar de la misma?",
+     "opciones": [
+      "`closed class Ejercicio`",
+      "`final class Ejercicio`",
+      "`private class Ejercicio`",
+      "`immutable class Ejercicio`"
+     ],
+     "respuesta": "b",
+     "explicacion": "Una clase **final** **no se puede heredar** (por ejemplo, `String`). Un método final no se puede sobrescribir y una variable final no se puede reasignar."
+    },
+    {
+     "n": "13",
+     "tema": "C# · Gestión de recursos",
+     "pregunta": "En C# debe crear un objeto de tipo SqlConnection y que se llame al método Dispose, para así liberar recursos al final del bloque de código que aparece entre llaves. ¿Qué instrucción debemos utilizar?",
+     "opciones": [
+      "`using (SqlConnection conn = new SqlConnection(connString)) {conn.Open();}`",
+      "`scope (SqlConnection conn = new SqlConnection(connString)) {conn.Open();}`",
+      "`dispose (SqlConnection conn = new SqlConnection(connString)) {conn.Open();}`",
+      "`internal (SqlConnection conn = new SqlConnection(connString)) {conn.Open();}`"
+     ],
+     "respuesta": "a",
+     "explicacion": "La instrucción **`using (...) { }`** llama automáticamente a **`Dispose()`** al salir del bloque, aunque haya excepciones. Funciona con objetos que implementan `IDisposable`."
+    },
+    {
+     "n": "14",
+     "tema": "C# · Arrays",
+     "pregunta": "Para cumplir el cometido que le ha sido asignado va a tener que definir arrays. ¿Cuál es la forma correcta de definir un array de enteros en C#?",
+     "opciones": [
+      "`int[] arrayEnteros = new {1, 2, 3};`",
+      "`int arrayEnteros[] = new() {1, 2, 3};`",
+      "`int[] arrayEnteros = new[] {1, 2, 3};`",
+      "`int arrayEnteros[] = new {1, 2, 3};`"
+     ],
+     "respuesta": "c",
+     "explicacion": "En C# los corchetes van **con el tipo**: `int[] a = new[] {1, 2, 3};` (también `new int[] {…}` o `{1, 2, 3}` a secas). `int a[]` es sintaxis de C o Java."
+    },
+    {
+     "n": "15",
+     "tema": "Normalización · 1FN",
+     "pregunta": "Su equipo está estudiando la información existente dispersa en distintas fuentes de datos con el fin de consolidarla. En una base de datos antigua, hay una tabla que contiene el siguiente registro:\n\n```text\nNIF: 12345678Z\nNombre: Emilia\nPrimerApellido: Pardo\nSegundoApellido: Bazán\nDireccion: Atocha 106\nTelefonos: 916666666;917777777\n```\n\n¿En qué forma normal está la tabla?",
+     "opciones": [
+      "En primera forma normal.",
+      "En segunda forma normal.",
+      "En tercera forma normal.",
+      "No está en ninguna forma normal."
+     ],
+     "respuesta": "d",
+     "explicacion": "El campo **Teléfonos** guarda **varios valores** («916666666;917777777»). Eso incumple la **1FN**, que exige atributos **atómicos**, así que la tabla no está en ninguna forma normal."
+    },
+    {
+     "n": "16",
+     "tema": "SQL · CASE",
+     "pregunta": "En la base de datos, el campo \"IdFormaAcceso\" de la tabla \"Proceso\" es de tipo char(1) y puede tomar los valores \"L\" (Ingreso Libre) y \"P\" (Promocion Interna). ¿Qué instrucción deberá utilizar para obtener un listado de todos los IdProceso de forma que aparezca el nombre descriptivo de la correspondiente Forma de Acceso?",
+     "opciones": [
+      "`SELECT IdProceso, IF IdFormaAcceso = 'L' THEN 'Ingreso Libre' ELSE 'Promocion Interna' ENDIF AS FormaAcceso FROM Proceso`",
+      "`SELECT IdProceso, CASE IdFormaAcceso WHEN 'L' THEN 'Ingreso Libre' WHEN 'P' THEN 'Promocion Interna' END AS FormaAcceso FROM Proceso`",
+      "`SELECT IdProceso, SWITCH IdFormaAcceso ('L' = 'Ingreso Libre', 'P' = 'Promocion Interna') AS FormaAcceso FROM Proceso`",
+      "`SELECT IdProceso, IIF(IdFormaAcceso, 'L' = 'Ingreso Libre', 'P' = 'Promocion Interna') AS FormaAcceso FROM Proceso`"
+     ],
+     "respuesta": "b",
+     "explicacion": "La expresión condicional del estándar es **`CASE … WHEN … THEN … END`**. `IIF` es de SQL Server o Access e `IF … ENDIF` no es SQL estándar dentro de un SELECT."
+    },
+    {
+     "n": "17",
+     "tema": "SQL · GROUP BY y HAVING",
+     "pregunta": "También le consultan sobre la sentencia SQL a utilizar para obtener el listado del identificador de los opositores (IdOpositor) que tienen más de una entrada en la tabla Solicitud.",
+     "opciones": [
+      "`SELECT IdOpositor, COUNT(IdSolicitud) AS NumeroSolicitudes FROM Solicitud GROUP BY IdOpositor WHERE NumeroSolicitudes > 1`",
+      "`SELECT IdOpositor, IdSolicitud FROM Solicitud WHERE COUNT(IdSolicitud) > 1`",
+      "`SELECT IdOpositor, COUNT(IdSolicitud) FROM Solicitud WHERE COUNT(IdSolicitud) > 1 GROUP BY IdOpositor`",
+      "`SELECT IdOpositor, COUNT(IdSolicitud) FROM Solicitud GROUP BY IdOpositor HAVING COUNT(IdSolicitud) > 1`"
+     ],
+     "respuesta": "d",
+     "explicacion": "Las condiciones sobre **funciones de agregado** van en **HAVING**, después de `GROUP BY`. **WHERE** filtra filas **antes** de agrupar y no admite `COUNT`."
+    },
+    {
+     "n": "18",
+     "tema": "SQL · UPDATE",
+     "pregunta": "¿Con qué instrucción ANSI SQL incrementaría un diez por ciento el valor de la columna Duracion para todos los registros de la tabla Ejercicio?",
+     "opciones": [
+      "`UPDATE Duracion = Duracion + (0.10 * Duracion) FROM Ejercicio`",
+      "`UPDATE Ejercicio SET Duracion = Duracion * 1.1`",
+      "`UPDATE TABLE Ejercicio (Duracion = Duracion + 10%)`",
+      "`UPDATE SET Duracion *= 1.10 FROM Ejercicio`"
+     ],
+     "respuesta": "b",
+     "explicacion": "Sintaxis: **`UPDATE tabla SET columna = expresión [WHERE …]`**. Sin WHERE se actualizan todas las filas."
+    },
+    {
+     "n": "19",
+     "tema": "SQL · LIKE",
+     "pregunta": "Si el campo DNI de la tabla Opositor es de tipo char(9), ¿cuál es la instrucción SQL para obtener el listado de todos los registros de la tabla Opositor cuyo DNI empieza por 3?",
+     "opciones": [
+      "`SELECT * FROM Opositor WHERE DNI = 3*`",
+      "`SELECT * FROM Opositor WHERE DNI IN ('3.')`",
+      "`SELECT * FROM Opositor WHERE DNI LIKE '3%'`",
+      "`SELECT DNI(3*) FROM Opositor`"
+     ],
+     "respuesta": "c",
+     "explicacion": "**`LIKE '3%'`**: `%` equivale a cualquier secuencia de caracteres y `_` a un solo carácter."
+    },
+    {
+     "n": "20",
+     "tema": "Git · Historial",
+     "pregunta": "Como repositorio de código en su unidad se utiliza Git, y le preguntan, ¿qué comando, de entre los siguientes, muestra una lista de los commits anteriores?",
+     "opciones": [
+      "`git commit`",
+      "`git fetch`",
+      "`git status`",
+      "`git log`"
+     ],
+     "respuesta": "d",
+     "explicacion": "**`git log`** muestra el historial de commits (`--oneline` para verlo compacto). `git status` muestra el estado del área de trabajo y `git fetch` descarga cambios del remoto sin integrarlos."
+    }
+   ]
+  },
+  {
+   "id": "rs1",
+   "titulo": "Reserva del supuesto I",
+   "descripcion": "",
+   "preguntas": [
+    {
+     "n": "R1",
+     "tema": "JavaScript · DOM",
+     "pregunta": "Dentro del código de la página web a la que acceden los opositores, se encuentra el siguiente código HTML:\n\n```html\n<html><body><h1 id=\"titulo\">Primer ejercicio TAI</h1></body></html>\n```\n\n¿Cuál es el código javascript para obtener la cadena \"Primer ejercicio TAI\"?",
+     "opciones": [
+      "`var titulo = document.getElementById(\"titulo\").firstChild.nodeValue;`",
+      "`var titulo = document.titulo.InnerHTML;`",
+      "`var titulo = document.getElement(\"h1\").InnerText;`",
+      "`var titulo = document.children[0].getValue();`"
+     ],
+     "respuesta": "a",
+     "explicacion": "`getElementById(\"titulo\")` obtiene el `<h1>`, su **firstChild** es el nodo de texto y **nodeValue** devuelve la cadena. También valdría `.textContent`. Las otras opciones usan propiedades que no existen o están mal escritas (JavaScript distingue mayúsculas: es `innerHTML`)."
+    },
+    {
+     "n": "R2",
+     "tema": "JavaScript · Testing",
+     "pregunta": "El equipo de proyecto está estudiando varios framework para valorar su utilización. ¿Cuál es el propósito principal del framework de javascript Jest?",
+     "opciones": [
+      "Testeado de código.",
+      "Machine learning.",
+      "Animacion y efectos gráficos.",
+      "Funciones matemáticas y tratamiento de cadenas."
+     ],
+     "respuesta": "a",
+     "explicacion": "**Jest** (Meta) es un framework de **pruebas** para JavaScript y TypeScript, muy usado con React."
+    },
+    {
+     "n": "R3",
+     "tema": "Python · Frameworks web",
+     "pregunta": "Entre los lenguajes contemplados para el nuevo sistema de información se encuentra Python. De entre los siguientes, ¿cuál es un framework para desarrollo web en Python?",
+     "opciones": [
+      "Django",
+      "Keras",
+      "Pip",
+      "Numpy"
+     ],
+     "respuesta": "a",
+     "explicacion": "**Django** (y también Flask o FastAPI) es un framework **web** de Python. **Keras** es de *deep learning*, **pip** el gestor de paquetes y **NumPy** la librería de cálculo numérico."
+    },
+    {
+     "n": "R4",
+     "tema": "HTML · Vídeo",
+     "pregunta": "Se ha realizado un vídeo explicativo para los opositores y se ha publicado en una página web. ¿Qué mostrará el siguiente fragmento de código en un navegador que soporte HTML5?:\n\n```html\n<video width=\"320\" height=\"240\" controls><source src=\"movie.mp4\" type=\"video/mp4\"><source src=\"movie.ogg\"\ntype=\"video/ogg\">No soportado</video>\n```",
+     "opciones": [
+      "Se mostrarán los dos vídeos \"movie.mp4\" y \"movie.ogg\".",
+      "Se mostrará el mensaje \"No soportado\" en todos los casos.",
+      "Se mostrará el vídeo \"movie.mp4\" si el navegador soporta el formato mp4.",
+      "No se mostrará nada porque el código no está bien formado."
+     ],
+     "respuesta": "c",
+     "explicacion": "El navegador recorre los `<source>` **en orden** y reproduce **el primero que soporte**. El texto «No soportado» solo aparece si el navegador no reconoce la etiqueta `<video>`."
+    },
+    {
+     "n": "R5",
+     "tema": "Seguridad · Inyección SQL",
+     "pregunta": "Para intentar obtener información de la base de datos de aspirantes, un usuario malintencionado introduce la siguiente cadena en el campo \"Número de opositor\" de un formulario incluido en la página web de inscripciones al proceso:\n\n```sql\n100 OR 1=1\n```\n\n¿Qué técnica está utilizando?",
+     "opciones": [
+      "Denial of Service.",
+      "Phishing",
+      "Malware attack.",
+      "SQL Injection."
+     ],
+     "respuesta": "d",
+     "explicacion": "`100 OR 1=1` convierte el WHERE en **siempre verdadero** y devuelve todas las filas: es **inyección SQL**. Se evita con **consultas parametrizadas** (PreparedStatement) y validando las entradas."
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "titulo": "Supuesto II · Sistemas y comunicaciones (integración de dos organismos)",
+   "descripcion": "Debido a la pandemia ocasionada por el SARS-CoV-2, más conocido como Coronavirus, las Administraciones Publicas se han visto obligadas a impulsar el teletrabajo y a cambiar su estrategia en el ámbito de las TIC.\n\nEn este sentido ha sido asignado en la integración de dos organismos en su departamento, los cuales no tienen capacidad para asumir las nuevas demandas de servicios y conexiones.\n\nUno de los centros es la Demarcación de Carreteras de Madrid (DCM) y el otro es la Confederación Hidrográfica del Tajo (CHT).\n\nLa DCM tiene máquinas físicas RedHat Enterprise Linux (RHEL). Su estructura consiste en tres áreas y en cada una de ellas trabajan 20 personas.\n\nLa CHT tiene máquinas físicas Solaris. Su estructura consiste en 5 áreas y en cada una de ellas trabajan 50 personas.\n\nAmbos organismos tienen bastantes máquinas Windows 10, además de equipamiento específico, para el desarrollo de sus actividades, que tendrá que ser trasladado a su CPD.\n\nEs crucial la salvaguarda de los datos, la pérdida o inconsistencia de los mismos durante el proceso es algo inasumible.\n\nSalvo que el enunciado de la propia pregunta diga lo contrario, debe suponer que dispone de los permisos adecuados, tanto a nivel de sistema operativo como de conexión de red.",
+   "preguntas": [
+    {
+     "n": "1",
+     "tema": "Subnetting · Máscaras",
+     "pregunta": "El equipo de comunicaciones le asigna la red 10.0.4.0 con la máscara 255.255.255.128 para el direccionamiento de la DCM. ¿Cuantos bits tiene la máscara de red?",
+     "opciones": [
+      "24",
+      "26",
+      "25",
+      "23"
+     ],
+     "respuesta": "c",
+     "explicacion": "255.255.255.128 son 8 + 8 + 8 + 1 = **25 bits** (/25), es decir, 128 direcciones y 126 hosts. Para la DCM, con 60 personas, sobra."
+    },
+    {
+     "n": "2",
+     "tema": "Direccionamiento · Clases",
+     "pregunta": "También le preguntan a qué Clase pertenece la red asignada (10.0.4.0).",
+     "opciones": [
+      "Clase A.",
+      "Clase B.",
+      "Clase C.",
+      "Clase D."
+     ],
+     "respuesta": "a",
+     "explicacion": "El primer octeto 10 está entre 1 y 126, así que es **clase A**. Además, **10.0.0.0/8** es un rango **privado** (RFC 1918). Clase B va de 128 a 191 y clase C de 192 a 223."
+    },
+    {
+     "n": "3",
+     "tema": "Subnetting · Hosts",
+     "pregunta": "Para la CHT los compañeros de redes le asignan el direccionamiento 10.0.0.0/21. ¿Cuál es el número máximo de hosts disponible?",
+     "opciones": [
+      "1024",
+      "2046",
+      "32",
+      "256"
+     ],
+     "respuesta": "b",
+     "explicacion": "/21 deja 32 − 21 = **11 bits** para hosts: 2¹¹ = 2048 direcciones, menos red y broadcast = **2046 hosts**. Basta para los 250 empleados de la CHT."
+    },
+    {
+     "n": "4",
+     "tema": "Subnetting · Rango",
+     "pregunta": "Dado el direccionamiento anterior (10.0.0.0/21) su responsable le pregunta cuál es el rango de hosts, para poder calcular si el direccionamiento es el adecuado.",
+     "opciones": [
+      "10.0.3.1 - 10.0.3.254",
+      "10.0.0.1 - 10.0.0.254",
+      "10.0.3.0 - 10.0.3.255",
+      "10.0.0.1 - 10.0.7.254"
+     ],
+     "respuesta": "d",
+     "explicacion": "/21 → la máscara es 255.255.**248**.0 y los bloques van de 8 en 8 en el tercer octeto. **10.0.0.0/21** abarca de 10.0.0.0 a 10.0.7.255, así que los hosts van de **10.0.0.1 a 10.0.7.254**."
+    },
+    {
+     "n": "5",
+     "tema": "Linux · Versión de RHEL",
+     "pregunta": "La DCM no es capaz de especificarle la versión de RHEL que tienen sus máquinas, por lo que debe decirles el comando a ejecutar. ¿Cuál de los siguientes sería?",
+     "opciones": [
+      "`rm -f /etc/redhat-release`",
+      "`cat /etc/redhat-version`",
+      "`cat /etc/redhat-release`",
+      "`mv /etc/redhat-release`"
+     ],
+     "respuesta": "c",
+     "explicacion": "**`cat /etc/redhat-release`** muestra la versión. En cualquier distribución también sirve `cat /etc/os-release` o `hostnamectl`. Ojo con la a y la d: **borran o mueven** el fichero."
+    },
+    {
+     "n": "6",
+     "tema": "Solaris · Rutas",
+     "pregunta": "Para poder tener conectividad, la CHT necesita poner una ruta persistente en una de sus máquinas Solaris a la red 10.0.5.0/24 con una máscara de red 255.255.255.0 y usando como puerta de enlace la dirección IP 10.0.5.150 ¿Cuál sería el comando correcto?",
+     "opciones": [
+      "`route -p add -net 10.0.5.0/24 -gateway 10.0.5.150`",
+      "`route new -p -net 10.0.5.0/24 -gateway 10.0.5.150`",
+      "`route -static add -net 10.0.5.0/24 -gateway 10.0.5.150`",
+      "`route add -static -net 10.0.5.0/24 -gateway 10.0.5.150`"
+     ],
+     "respuesta": "a",
+     "explicacion": "En Solaris, **`route -p add`** añade una ruta **persistente** (que sobrevive a reinicios). La sintaxis es `route -p add -net <red> -gateway <gw>`."
+    },
+    {
+     "n": "7",
+     "tema": "Linux · Contraseñas",
+     "pregunta": "Se está realizando una auditoría de seguridad en uno de los servidores Linux y le preguntan dónde se están guardando las contraseñas encriptadas de los usuarios:",
+     "opciones": [
+      "/etc/passwd",
+      "/etc/users",
+      "/etc/shadow",
+      "/etc/groups"
+     ],
+     "respuesta": "c",
+     "explicacion": "Los **hashes de las contraseñas** están en **/etc/shadow**, que solo puede leer root. **/etc/passwd** guarda los datos de las cuentas (con una «x» donde iría la contraseña) y los grupos están en **/etc/group** (sin s)."
+    },
+    {
+     "n": "8",
+     "tema": "Oracle · Versión",
+     "pregunta": "Una pieza crucial en cualquier sistema informático son las BBDD. Le han informado que tanto la DCM como la CHT utilizan Oracle, pero no le han dicho la versión. ¿Qué consulta podría hacer en la base de datos para conocer esta información?",
+     "opciones": [
+      "`SELECT * FROM V$VERSION`",
+      "`SELECT * FROM V$VERSIONADO`",
+      "`SELECT * FROM V$VERSIONDB`",
+      "`SELECT * FROM V$VERSIONTABLE`"
+     ],
+     "respuesta": "a",
+     "explicacion": "La vista dinámica **`V$VERSION`** muestra la versión de la base de datos y de sus componentes. También se puede consultar `PRODUCT_COMPONENT_VERSION`."
+    },
+    {
+     "n": "9",
+     "tema": "Linux · tar",
+     "pregunta": "Se le solicita crear un backup del directorio /home/opositor/temas/ comprimido con gzip en RHEL. Indique el comando correcto para realizarlo.",
+     "opciones": [
+      "`tar -czf TEMAS.tar.gz /home/opositor/temas/`",
+      "`tar -xzf TEMAS.tar.gz /home/opositor/temas/`",
+      "`tar -xzf /home/opositor/temas/ TEMAS.tar.gz`",
+      "`tar -cjf /home/opositor/temas/ TEMAS.tar.gz`"
+     ],
+     "respuesta": "a",
+     "explicacion": "`tar -czf destino.tar.gz origen`: **c** crea, **z** comprime con gzip y **f** indica el fichero. **x** extrae y **j** usa bzip2. El fichero destino va **justo después de la f**."
+    },
+    {
+     "n": "10",
+     "tema": "Windows · Grupos locales",
+     "pregunta": "Le preguntan sobre las cuentas de usuario que pertenecen al grupo Administradores locales de una máquina, ¿qué comando de Windows debería utilizar?",
+     "opciones": [
+      "`net local administradores`",
+      "`net localgroup admin`",
+      "`net local admin`",
+      "`net localgroup administradores`"
+     ],
+     "respuesta": "d",
+     "explicacion": "**`net localgroup <grupo>`** lista los miembros de un grupo local. En un Windows en español el grupo se llama **«Administradores»**."
+    },
+    {
+     "n": "11",
+     "tema": "Windows · Políticas de cuentas",
+     "pregunta": "También se le consulta sobre la configuración actual de las políticas de cuentas y contraseñas de una máquina local. ¿Qué comando de Windows muestra esa información?",
+     "opciones": [
+      "`net computer`",
+      "`net localgroup`",
+      "`net config`",
+      "`net accounts`"
+     ],
+     "respuesta": "d",
+     "explicacion": "**`net accounts`** muestra (y permite cambiar) la **política de contraseñas y bloqueo de cuentas**: longitud mínima, duración máxima, historial…"
+    },
+    {
+     "n": "12",
+     "tema": "Almacenamiento · RAID 6",
+     "pregunta": "Se están realizando en su unidad informes de las capacidades de los discos y requieren de su ayuda. Si se dispone de 5 discos duros de 6 TB, y se decide configurarlos en RAID 6, ¿qué capacidad neta de almacenamiento se obtendrá?",
+     "opciones": [
+      "12 TB",
+      "18 TB",
+      "24 TB",
+      "30 TB"
+     ],
+     "respuesta": "b",
+     "explicacion": "RAID 6 usa **2 discos de paridad**: (5 − 2) × 6 TB = **18 TB**. Aguanta el fallo de **2 discos** a la vez y necesita un mínimo de 4."
+    },
+    {
+     "n": "13",
+     "tema": "Docker · Contenedores",
+     "pregunta": "En sus instalaciones no disponen de un Windows Server 2008, pero como tienen instalado Docker han decidido crear uno y arrancarlo a partir de una imagen llamada SW2008. ¿Con qué sentencia debería realizar esta petición?",
+     "opciones": [
+      "`docker run SW2008`",
+      "`docker start SW2008`",
+      "`start docker SW2008`",
+      "`docker start run SW2008`"
+     ],
+     "respuesta": "a",
+     "explicacion": "**`docker run <imagen>`** **crea y arranca** un contenedor nuevo a partir de una imagen. **`docker start`** arranca un contenedor que **ya existe** y está parado."
+    },
+    {
+     "n": "14",
+     "tema": "Docker · Listado",
+     "pregunta": "No está seguro de que el contenedor se haya arrancado correctamente. ¿Qué comando utilizaría para listar todos los contenedores, estén o no en marcha?",
+     "opciones": [
+      "`docker ps`",
+      "`docker ps -a`",
+      "`docker list`",
+      "`docker list-container -all`"
+     ],
+     "respuesta": "b",
+     "explicacion": "`docker ps` lista solo los contenedores **en ejecución**; con **`-a`** muestra **todos**, también los parados."
+    },
+    {
+     "n": "15",
+     "tema": "Redes · PoE",
+     "pregunta": "Están estudiando el traslado de algunos equipos de la CHT a su CPD y le informan de que tienen una sonda de alrededor de 70 watios que utilizan 1 hora a la semana y que debe permanecer apagada el resto del tiempo. Le indican que sería necesario poder encenderla remotamente por red. ¿Sería posible hacerlo?",
+     "opciones": [
+      "No, no sería posible.",
+      "Si, mediante PoE IEEE 802.3ct",
+      "Si, mediante PoE IEEE 802.3bt",
+      "Si, mediante PoE IEEE 802.3dt"
+     ],
+     "respuesta": "c",
+     "explicacion": "Con **70 W** no llega PoE+ (802.3at, 30 W). Hace falta **PoE++ (802.3bt)**, que da hasta 60 W (Tipo 3) o 90-100 W (Tipo 4), y el switch puede activar o cortar la alimentación del puerto en remoto. 802.3ct y 802.3dt no son estándares PoE."
+    },
+    {
+     "n": "16",
+     "tema": "Cableado · Categorías",
+     "pregunta": "La DCM le informa que tienen un acuerdo con la Dirección General de Tráfico y alojan en sus instalaciones un medidor de tráfico que requiere una conexión Ethernet de unos 30 Gbps. Según el estándar ANSI/TIA-568, ¿qué categoría de cableado sería necesitaría?",
+     "opciones": [
+      "Categoría 6.",
+      "Categoría 7.",
+      "Categoría 7A.",
+      "Categoría 8."
+     ],
+     "respuesta": "d",
+     "explicacion": "Para **25/40GBASE-T** hace falta **categoría 8** (hasta 30 m y 2000 MHz). Cat 6A y Cat 7 llegan a 10 Gbps. Ojo: Cat 7 y 7A son ISO/IEC, no están en la norma TIA-568."
+    },
+    {
+     "n": "17",
+     "tema": "Windows · Firewall",
+     "pregunta": "Durante el proceso de creación de reglas, se da cuenta de un grave problema de seguridad. Algunos de los equipos Windows no tienen habilitado el firewall. ¿Qué comando utilizaría para habilitarlo?",
+     "opciones": [
+      "`netsh advfirewall set allprofiles enable`",
+      "`netsh advfirewall set allprofiles state on`",
+      "`netsh advfirewall set allprofiles state online`",
+      "`netsh advfirewall set allprofiles on`"
+     ],
+     "respuesta": "b",
+     "explicacion": "**`netsh advfirewall set allprofiles state on`** activa el firewall en todos los perfiles (dominio, privado y público). En PowerShell: `Set-NetFirewallProfile -Enabled True`."
+    },
+    {
+     "n": "18",
+     "tema": "Seguridad · IPS",
+     "pregunta": "Debido al creciente número de ataques, se decide implantar en su CPD un IPS que analice el comportamiento de la red y que examine el tráfico inusual para detectar posibles ataques DoS y malwares. ¿Qué tipo de IPS necesita?",
+     "opciones": [
+      "DIPS",
+      "WIPS",
+      "NBA",
+      "HIPS"
+     ],
+     "respuesta": "c",
+     "explicacion": "Un **NBA** (*Network Behavior Analysis*) estudia el **comportamiento del tráfico** y detecta flujos anómalos, como DoS, gusanos o escaneos. Según la NIST SP 800-94, los otros tipos son de red, inalámbricos (**WIPS**) y de host (**HIPS**)."
+    },
+    {
+     "n": "19",
+     "tema": "Correo · Puertos",
+     "pregunta": "Un aspecto importante es el protocolo de correo que se va a utilizar para las comunicaciones vía email. En la DCM están preocupados y no les parece seguro usar SMTP por lo que usted rápidamente sugiere usar SMTPS. ¿Qué puerto por defecto tendrá que solicitar a los compañero de seguridad para este protocolo SMTPS?",
+     "opciones": [
+      "25",
+      "465",
+      "443",
+      "425"
+     ],
+     "respuesta": "b",
+     "explicacion": "**SMTPS** (SMTP sobre TLS implícito) usa el puerto **465**; SMTP con STARTTLS usa el **587** y SMTP sin cifrar el **25**. El **443** es HTTPS."
+    },
+    {
+     "n": "20",
+     "tema": "Windows · DNS",
+     "pregunta": "Para evitar problemas de resolución de nombres en estos equipos Windows donde se está configurando el cliente de correo, han decidido limpiar la caché DNS. ¿Cuál sería el comando adecuado?",
+     "opciones": [
+      "`ifconfig /flushdns`",
+      "`ipconfig /flushdns`",
+      "`ipconfig /cleardns`",
+      "`ifconfig /cleardns`"
+     ],
+     "respuesta": "b",
+     "explicacion": "**`ipconfig /flushdns`** limpia la caché DNS. `ifconfig` es de Unix y Linux."
+    }
+   ]
+  },
+  {
+   "id": "rs2",
+   "titulo": "Reserva del supuesto II",
+   "descripcion": "",
+   "preguntas": [
+    {
+     "n": "R1",
+     "tema": "Windows · Firewall",
+     "pregunta": "Con el objetivo de recabar información sobre los equipos Windows, disponen de un software de inventariado que necesita acceso por el puerto 4433 (TCP) en los equipos destino. ¿Qué comando utilizaría en estos últimos para añadir la regla al firewall?",
+     "opciones": [
+      "`netsh advfirewall firewall create rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433`",
+      "`netsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=permit protocol=TCP localport=4433`",
+      "`netsh advfirewall firewall add rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433`",
+      "`netsh advfirewall firewall new rule name= \"Inventariado\" dir=in action=allow protocol=TCP localport=4433`"
+     ],
+     "respuesta": "c",
+     "explicacion": "Sintaxis: **`netsh advfirewall firewall add rule name=\"…\" dir=in action=allow protocol=TCP localport=4433`**. El verbo es **add** y la acción **allow** (también block o bypass)."
+    },
+    {
+     "n": "R2",
+     "tema": "Linux · Conectividad",
+     "pregunta": "Desde la unidad responsable de la red, le indican que por motivos de seguridad van a realizar la conexión por el puerto 422. ¿Qué comando debería utilizar en sus equipos RHEL para comprobar que la comunicación ya está abierta, si la IP destino es la 10.0.4.22 ?",
+     "opciones": [
+      "`nc -v - ip 10.0.4.22 -port 422`",
+      "`nc -v 10.0.4.22 422`",
+      "`nc -v 422 10.0.4.22`",
+      "`nc -v 10.0.4.22:422`"
+     ],
+     "respuesta": "b",
+     "explicacion": "**`nc -v <ip> <puerto>`** (netcat) intenta abrir una conexión TCP e informa de si el puerto responde. Con `-z` solo escanea, sin enviar datos."
+    },
+    {
+     "n": "R3",
+     "tema": "Windows · Cifrado",
+     "pregunta": "Durante el proceso de traslado, uno de los equipos Windows más importantes de la DCM da problemas de corrupción de datos y han decidido restaurar la copia de seguridad. Le indican que el dispositivo está cifrado. ¿Qué necesita que le proporcionen para poder restaurar la copia?",
+     "opciones": [
+      "El certificado digital.",
+      "La clave de BitLocker.",
+      "La clave privada.",
+      "La clave de sesión."
+     ],
+     "respuesta": "b",
+     "explicacion": "Si el disco está cifrado con **BitLocker**, hace falta la **clave de recuperación de BitLocker** (48 dígitos) para acceder a los datos o restaurarlos."
+    },
+    {
+     "n": "R4",
+     "tema": "Almacenamiento · RAID 10",
+     "pregunta": "Desde su unidad también se está valorando el uso de RAID 10, ¿cuántos discos duros son necesarios para crearlo?",
+     "opciones": [
+      "2 discos duros.",
+      "3 discos duros.",
+      "Al menos 4 discos duros.",
+      "Es indiferente."
+     ],
+     "respuesta": "c",
+     "explicacion": "**RAID 10** (1+0) son espejos agrupados en *striping*, así que necesita **al menos 4 discos** (siempre en número par). Ofrece el 50 % de la capacidad total."
+    },
+    {
+     "n": "R5",
+     "tema": "Redes · Puertos",
+     "pregunta": "Muchas de las comunicaciones se van a realizar mediante conexiones ssh y tiene que solicitar las reglas de firewall al equipo de comunicaciones. ¿Cuál es el puerto que debe solicitar?",
+     "opciones": [
+      "21",
+      "63",
+      "69",
+      "22"
+     ],
+     "respuesta": "d",
+     "explicacion": "**SSH** usa el **22**. El 21 es FTP y el 69 TFTP."
+    }
+   ]
+  }
+ ]
+}
