@@ -91,7 +91,7 @@
     card.classList.remove("is-flipped");
     $("[data-fc-answer]").hidden = true;
     $("[data-fc-front]").innerHTML = current.f;
-    $("[data-fc-back]").innerHTML = current.b;
+    $("[data-fc-answer-text]").innerHTML = current.b;
     const done = sessionStats.ok + sessionStats.mid + sessionStats.ko;
     $("[data-fc-progress]").textContent = current.deckTitle + " · " + (queue.length + 1) + " por repasar";
     card.focus({ preventScroll: true });
