@@ -113,8 +113,7 @@ Cada gasto se puede leer de cuatro maneras:
 | --- | --- | --- |
 | **Aprobación del gasto** | **A** | Se autoriza un gasto y se **reserva** crédito |
 | **Compromiso del gasto** (disposición) | **D** | Se acuerda con un tercero (por ejemplo, se adjudica el contrato) |
-| **Reconocimiento de la obligación** | **O** | Se declara una deuda exigible tras la **prestación** (se recibe la factura conforme) |
-| **Propuesta de pago** | **P** | Se pide el pago al Tesoro |
+| **Reconocimiento de la obligación** y **propuesta de pago** | **OK** | Se declara una deuda exigible tras la **prestación** (se recibe la factura conforme) y se propone su pago. En la AGE van juntas en el documento **OK**; los documentos **O** y **K** por separado solo se usan en casos especiales, como la Deuda del Estado |
 | **Ordenación del pago y pago material** | — | El **ordenador de pagos** lo ordena y el **Tesoro Público** paga |
 
 **Modificaciones presupuestarias (arts. 51 a 63 LGP):** **créditos extraordinarios** (para un gasto **sin crédito** previo) y **suplementos de crédito** (cuando el crédito es **insuficiente**), aprobados por **ley** o con cargo al Fondo de contingencia; **ampliaciones**, **transferencias** (entre créditos), **generaciones** (por ingresos no previstos) e **incorporaciones** (de remanentes del año anterior).
@@ -136,6 +135,6 @@ Cada gasto se puede leer de cuatro maneras:
 | Clasificaciones del gasto | Orgánica, por programas, económica y territorial |
 | Capítulo 1 de gastos | Gastos de personal |
 | Capítulo 6 de ingresos | Enajenación de inversiones reales (capital) |
-| Fases del gasto | A, D, O, P |
+| Fases del gasto y documentos | Aprobación (A), compromiso (D), reconocimiento de la obligación y propuesta de pago (OK), ordenación y pago |
 | Fondo de contingencia | 2 % del gasto no financiero |
 | Control externo | Tribunal de Cuentas (Cuenta General antes del 31 de octubre) |
