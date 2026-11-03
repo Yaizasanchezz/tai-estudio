@@ -47,7 +47,7 @@
       "En el mismo grado, la línea posterior a las anteriores."
      ],
      "respuesta": "c",
-     "explicacion": "Art. 57.1 CE: en la misma línea, **el grado más próximo al más remoto**; en el mismo grado, el varón a la mujer (hoy cuestionado) y, en el mismo sexo, la persona de más edad a la de menos. Las demás opciones invierten los criterios."
+     "explicacion": "Art. 57.1 CE: en la misma línea, **el grado más próximo al más remoto**; en el mismo grado, el varón a la mujer (hoy cuestionado) y, en el mismo sexo, la persona de más edad a la de menos. La a y la d invierten los criterios; la b coloca mal uno real (la línea anterior se prefiere **siempre**, no «en el mismo grado»)."
     },
     {
      "n": "2",
@@ -320,7 +320,7 @@
       "Verificar la identidad del usuario mediante múltiples factores de autenticación personalizados en función del riesgo del trámite."
      ],
      "respuesta": "a",
-     "explicacion": "Art. 2.f: capacidad de las Administraciones para, a partir del conocimiento del usuario, **proporcionar servicios precumplimentados y anticiparse a sus necesidades**. Compartir datos es la interoperabilidad (b, c) y adaptar el diseño no es este principio."
+     "explicacion": "Art. 2.f: capacidad de las Administraciones para, a partir del conocimiento del usuario, **proporcionar servicios precumplimentados y anticiparse a sus necesidades**. Compartir datos es la **interoperabilidad** (c, art. 2.d); personalizar el diseño de la sede (b) y la autenticación multifactor (d) no son este principio."
     },
     {
      "n": "23",
@@ -801,7 +801,7 @@
       "ReFS"
      ],
      "respuesta": "a",
-     "explicacion": "**exFAT** lo leen y escriben de forma nativa Windows y macOS y no tiene el límite de 4 GB por fichero de FAT32. APFS y HFS+ son de Apple y ReFS de Windows Server."
+     "explicacion": "**exFAT** lo leen y escriben de forma nativa Windows y macOS y no tiene el límite de 4 GB por fichero de FAT32. APFS y HFS+ son de Apple, y ReFS es de Microsoft (Windows Server y algunas ediciones de Windows 11), pero macOS no lo admite."
     },
     {
      "n": "60",

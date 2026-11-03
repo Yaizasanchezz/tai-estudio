@@ -713,7 +713,7 @@
     "Dentro del mes siguiente a la inversión y, en todo caso, en tres meses desde la percepción de los fondos."
    ],
    "correcta": 3,
-   "explicacion": "**Mes siguiente** a la inversión y **máximo tres meses** desde la percepción (ampliable a seis excepcionalmente). Las quincenas de enero, abril, julio y octubre son los estados de situación de los **anticipos de caja fija**."
+   "explicacion": "**Mes siguiente** a la inversión y **máximo tres meses** desde la percepción (ampliable a seis excepcionalmente). Las primeras quincenas de enero, abril, julio y octubre son las fechas mínimas de los **estados de situación de tesorería** (art. 9), no el plazo de justificación."
   },
   {
    "id": "adm056",

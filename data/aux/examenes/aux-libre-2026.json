@@ -917,7 +917,7 @@
       "En 2023 y sustituyó el término disminuido por personas con discapacidad."
      ],
      "respuesta": "b",
-     "explicacion": "La reforma del **art. 49** de **17 de febrero de 2024** sustituyó el término «**disminuidos**» (físicos, sensoriales y psíquicos) por «**personas con discapacidad**»."
+     "explicacion": "La reforma del **art. 49** de **15 de febrero de 2024** (BOE del 17) sustituyó el término «**disminuidos**» (físicos, sensoriales y psíquicos) por «**personas con discapacidad**»."
     },
     {
      "n": "3",
@@ -969,7 +969,7 @@
       "Transversalidad de las políticas públicas."
      ],
      "respuesta": "a",
-     "explicacion": "Art. 2 del RDL 1/2013: la **inclusión social** es el principio por el que la sociedad permite que todas las personas con discapacidad tengan las **oportunidades y recursos** necesarios para participar plenamente. La **accesibilidad universal** se refiere a los entornos y productos, y el **diseño universal** a diseñarlos para todos desde el principio. Ver [tema II-1]({{base}}auxiliar/temario/b2-01-atencion-publico/)."
+     "explicacion": "Art. 2 del RDL 1/2013 en la fecha del examen: la **inclusión social** era el principio por el que la sociedad permite que todas las personas con discapacidad tengan las **oportunidades y recursos** necesarios para participar plenamente (desde el 23 de octubre de 2026, la Ley 4/2026 ha reescrito esa letra, que ahora define la «inclusión»; la respuesta no cambia). La **accesibilidad universal** se refiere a los entornos y productos, y el **diseño universal** a diseñarlos para todos desde el principio. Ver [tema II-1]({{base}}auxiliar/temario/b2-01-atencion-publico/)."
     },
     {
      "n": "7",
@@ -1463,7 +1463,7 @@
       "No, una vez que el botón \"Enviar\" es pulsado, el protocolo SMTP impide cualquier modificación o eliminación en el buzón de destino por razones de integridad y seguridad."
      ],
      "respuesta": "a",
-     "explicacion": "**Recuperar este mensaje** (desde el mensaje en Elementos enviados > Archivo > Información) solo funciona si **remitente y destinatario** tienen cuentas de **Microsoft 365/Exchange en la misma organización** y el destinatario **no lo ha abierto**."
+     "explicacion": "**Recuperar este mensaje** (desde el mensaje en Elementos enviados > Archivo > Información) solo funciona si **remitente y destinatario** tienen cuentas de **Microsoft 365/Exchange en la misma organización** y el destinatario **no lo ha abierto** (es la regla clásica; con la recuperación en la nube de Exchange Online el administrador puede permitir recuperar también mensajes leídos)."
     },
     {
      "n": "45",

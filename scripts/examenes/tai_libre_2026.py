@@ -29,7 +29,7 @@ META = {
 # (n, tema, pregunta, respuesta, explicación)
 P1 = [
     (1, "Constitución · Corona", "Sucesión a la Corona: ¿qué se prefiere siempre?", "c",
-     "Art. 57.1 CE: en la misma línea, **el grado más próximo al más remoto**; en el mismo grado, el varón a la mujer (hoy cuestionado) y, en el mismo sexo, la persona de más edad a la de menos. Las demás opciones invierten los criterios."),
+     "Art. 57.1 CE: en la misma línea, **el grado más próximo al más remoto**; en el mismo grado, el varón a la mujer (hoy cuestionado) y, en el mismo sexo, la persona de más edad a la de menos. La a y la d invierten los criterios; la b coloca mal uno real (la línea anterior se prefiere **siempre**, no «en el mismo grado»)."),
     (2, "Constitución · Título preliminar", "¿Qué principio garantiza el art. 9 CE?", "c",
      "El art. 9.3 garantiza la legalidad, la jerarquía normativa, la publicidad de las normas, la **irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales**, la seguridad jurídica, la responsabilidad y la **interdicción de la arbitrariedad** de los poderes públicos. Lo que se prohíbe es la retroactividad de lo desfavorable, no de lo favorable."),
     (3, "Constitución · Cortes Generales", "Diputación Permanente (art. 78 CE)", "c",
@@ -71,7 +71,7 @@ P1 = [
     (21, "Plataforma de Intermediación de Datos", "Servicio que NO está en la PID", "c",
      "La **PID** ofrece, entre otros, la verificación de **identidad** (DGP), la **situación de prestaciones por desempleo** (SEPE) y los **títulos no universitarios**. La «información sobre datos del patrimonio» no figura como servicio de la PID."),
     (22, "RD 203/2021 · Principios", "Personalización y proactividad", "a",
-     "Art. 2.f: capacidad de las Administraciones para, a partir del conocimiento del usuario, **proporcionar servicios precumplimentados y anticiparse a sus necesidades**. Compartir datos es la interoperabilidad (b, c) y adaptar el diseño no es este principio."),
+     "Art. 2.f: capacidad de las Administraciones para, a partir del conocimiento del usuario, **proporcionar servicios precumplimentados y anticiparse a sus necesidades**. Compartir datos es la **interoperabilidad** (c, art. 2.d); personalizar el diseño de la sede (b) y la autenticación multifactor (d) no son este principio."),
     (23, "Hardware · Memoria caché", "Caché integrada en el núcleo, la más rápida y pequeña", "a",
      "La **caché L1** está dentro de cada núcleo, es la más rápida y la de menor capacidad (decenas de KB). L2 y L3 son mayores y más lentas; L3 suele ser compartida."),
     (24, "Hardware · Buses", "Función del bus del sistema", "d",
@@ -145,7 +145,7 @@ P1 = [
     (58, "Pruebas de software · Tipos", "Afirmación correcta", "a",
      "Las pruebas de **regresión** comprueban que un cambio no introduce errores en partes no modificadas. La b describe las de **caja negra** (no blanca), la c las de **aceptación** (no unitarias) y la d las de **integración**."),
     (59, "Sistemas de archivos", "Formato compatible con Windows (>32 GB) y macOS", "a",
-     "**exFAT** lo leen y escriben de forma nativa Windows y macOS y no tiene el límite de 4 GB por fichero de FAT32. APFS y HFS+ son de Apple y ReFS de Windows Server."),
+     "**exFAT** lo leen y escriben de forma nativa Windows y macOS y no tiene el límite de 4 GB por fichero de FAT32. APFS y HFS+ son de Apple, y ReFS es de Microsoft (Windows Server y algunas ediciones de Windows 11), pero macOS no lo admite."),
     (60, "Linux · Comandos", "Ver un log en tiempo real", "b",
      "**`tail -f`** (*follow*) muestra las últimas líneas y sigue mostrando lo que se añade al fichero. Muy usado con `/var/log/...`."),
     (61, "Linux · Cron", "Significado de `0 5 8 11 *`", "b",

@@ -234,7 +234,7 @@
       "Protección de dispositivos portátiles."
      ],
      "respuesta": "c",
-     "explicacion": "La **protección frente a código dañino** (op.exp.6) es del **marco operacional**, dentro de «explotación». La protección del correo, la de la integridad y autenticidad de la información y la de los portátiles son **medidas de protección**. Ver [ENS]({{base}}leyes/ens/)."
+     "explicacion": "La **protección frente a código dañino** (op.exp.6) es del **marco operacional**, dentro de «explotación». La protección del correo, la de la integridad y autenticidad (mp.com.3, en protección de las comunicaciones) y la de los portátiles son **medidas de protección**. Ver [ENS]({{base}}leyes/ens/)."
     },
     {
      "n": "17",
@@ -1340,7 +1340,7 @@
       "Builder."
      ],
      "respuesta": "d",
-     "explicacion": "**Builder** construye un objeto complejo **paso a paso** (carpetas, documentos, índice) separando la construcción de su representación. Ojo: el enunciado dice «API de persistencia», que es .NET, pero el código es Java."
+     "explicacion": "**Builder** construye un objeto complejo **paso a paso** (carpetas, documentos, índice) separando la construcción de su representación."
     },
     {
      "n": "16",
