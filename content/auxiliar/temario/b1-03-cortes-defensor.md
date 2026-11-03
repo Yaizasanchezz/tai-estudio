@@ -105,4 +105,4 @@ Las Comunidades Autónomas tienen figuras similares (Síndic de Greuges, Arartek
 | Periodos de sesiones | Septiembre-diciembre y febrero-junio |
 | Diputación Permanente | Mínimo 21 miembros |
 | Veto del Senado | Mayoría absoluta; el Congreso lo levanta por mayoría absoluta o simple a los 2 meses |
-| Defensor del Pueblo | 3/5 de cada Cámara, 5 años, 2 adjuntos, quejas en 1 año |
+| Defensor del Pueblo | 3/5 del Congreso y 3/5 del Senado en 20 días (si no, mayoría absoluta del Senado), 5 años, 2 adjuntos, quejas en 1 año |

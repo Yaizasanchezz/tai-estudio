@@ -107,7 +107,7 @@ Este temario sigue **tema por tema el programa oficial** del **Anexo III** de la
 
 ## Por dónde empezar
 
-1. **El supuesto práctico manda.** En 2026 los dos supuestos giraron en torno a **contratos** (umbrales, garantías, documentos contables) y **personal** (permisos, toma de posesión, nómina). Empieza por los temas [III-4]({{base}}administrativo/temario/b3-04-contratos/), [V-3]({{base}}administrativo/temario/b5-03-ejecucion-gasto/), [V-6]({{base}}administrativo/temario/b5-06-contratos-subvenciones/) y [IV-5]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/).
+1. **El supuesto práctico manda.** En 2026 los dos supuestos giraron en torno a **contratos** (umbrales, garantías, documentos contables), **modificaciones presupuestarias** (suplemento, transferencia y generación de crédito) y **personal** (permisos, toma de posesión, provisión). Añade el [tema V-2]({{base}}administrativo/temario/b5-02-presupuesto-estado/). Empieza por los temas [III-4]({{base}}administrativo/temario/b3-04-contratos/), [V-3]({{base}}administrativo/temario/b5-03-ejecucion-gasto/), [V-6]({{base}}administrativo/temario/b5-06-contratos-subvenciones/) y [IV-5]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/).
 2. **Bloque VI en paralelo:** un tema de ofimática por semana, **con el programa abierto** (Word, Excel, Access…) para probar cada cosa. Son 30 preguntas de 70.
 3. **Bloque I** (Constitución y organización): si ya lo estudiaste para TAI o Auxiliar, solo repasa lo nuevo (Comunidades Autónomas, Administración local y Unión Europea más a fondo).
 4. Cierra cada tema con los [tests]({{base}}administrativo/tests/) y las [flashcards]({{base}}administrativo/flashcards/), y haz los supuestos de 2026 cronometrados.

@@ -375,8 +375,8 @@ tbody tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transpa
 .admonition.example { background: var(--lilac-soft); border-color: color-mix(in srgb, var(--lilac) 35%, transparent); }
 .admonition.example .admonition-title { color: var(--lilac); }
 .admonition p:last-child { margin-bottom: 0; }
-.pager { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 44px; }
-.pager-link { display: flex; flex-direction: column; padding: 14px 18px; border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; background: var(--surface); color: var(--text); }
+.pager { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 14px; margin-top: 44px; }
+.pager-link { display: flex; flex-direction: column; min-width: 0; overflow-wrap: anywhere; padding: 14px 18px; border: 1px solid var(--border); border-radius: var(--radius-sm); text-decoration: none; background: var(--surface); color: var(--text); }
 .pager-link small { color: var(--muted); font-weight: 700; }
 .pager-link span { font-weight: 800; }
 .pager-link.next { text-align: right; grid-column: 2; }

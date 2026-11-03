@@ -15,7 +15,7 @@ Son **contratos del sector público** los **contratos onerosos** (el contratista
 
 **Principios** (art. 1): **libertad de acceso a las licitaciones**, **publicidad y transparencia** de los procedimientos, **no discriminación e igualdad de trato** entre los licitadores, **integridad**, **eficiencia** en el gasto, salvaguarda de la **libre competencia** y selección de la **oferta económicamente más ventajosa**. Se incorporan de forma **transversal** criterios **sociales y medioambientales**.
 
-**Quién contrata:** el **órgano de contratación** (en la AGE, los **Ministros** y **Secretarios de Estado**; en los organismos, sus presidentes o directores), asistido por la **mesa de contratación** (obligatoria en los procedimientos abiertos, restringidos, de diálogo y de asociación para la innovación) en la que está siempre un **interventor** y un **jurista** del servicio jurídico. En la web, todo se publica en el **perfil de contratante**, alojado en la **Plataforma de Contratación del Sector Público**.
+**Quién contrata:** el **órgano de contratación** (en la AGE, los **Ministros** y **Secretarios de Estado**; en los organismos, sus presidentes o directores), asistido por la **mesa de contratación** (obligatoria en los procedimientos abierto, **abierto simplificado**, restringido, de diálogo competitivo, **de licitación con negociación** y de asociación para la innovación; potestativa en el negociado sin publicidad —salvo imperiosa urgencia— y en el abierto simplificado abreviado) en la que está siempre un **interventor** y un **jurista** del servicio jurídico. En la web, todo se publica en el **perfil de contratante**, alojado en la **Plataforma de Contratación del Sector Público**.
 
 ## 2. Clases de contratos
 
@@ -119,8 +119,8 @@ Son **contratos del sector público** los **contratos onerosos** (el contratista
 
 ### Revisión de precios y otras alteraciones
 
-- **Revisión de precios** (arts. 103 a 105): solo **periódica y predeterminada** (por fórmula), en contratos de **obras**, suministros de **armamento**, de **energía** y aquellos en que el **periodo de recuperación de la inversión sea igual o superior a 5 años**. Tiene lugar cuando se ha ejecutado **al menos el 20 %** del importe y ha pasado **1 año** desde la formalización. **No** se revisan amortizaciones, costes financieros, gastos generales ni beneficio industrial. **No cabe** en los contratos con **precios provisionales** (art. 102.7).
-- **Modificación** (arts. 203 a 207): por razones de **interés público**. **Prevista en el pliego** (hasta el **20 %** del precio inicial) o **no prevista** solo en los casos del art. 205 (prestaciones adicionales, circunstancias imprevisibles o cambios no sustanciales), sin superar el **50 %**. Es **obligatoria para el contratista** cuando no supera el **20 %** del precio inicial.
+- **Revisión de precios** (arts. 103 a 105): solo **periódica y predeterminada** (por fórmula), en contratos de **obras**, suministros de fabricación de **armamento** y equipamiento, de **energía** y aquellos en que el **periodo de recuperación de la inversión sea igual o superior a 5 años**. Además, previa justificación, en los demás contratos cuando las **materias primas, bienes intermedios y energía superen el 20 % del presupuesto base de licitación** (solo sobre esa parte del precio). Salvo en los suministros de energía, tiene lugar cuando se ha ejecutado **al menos el 20 %** del importe (requisito que no se exige en las concesiones de servicios) y ha pasado **1 año** desde la formalización. **No** se revisan amortizaciones, costes financieros, gastos generales ni beneficio industrial. **No cabe** en los contratos con **precios provisionales** (art. 102.7).
+- **Modificación** (arts. 203 a 207): por razones de **interés público**. **Prevista en el pliego** (hasta el **20 %** del precio inicial) o **no prevista** solo en los casos del art. 205 (prestaciones adicionales o circunstancias imprevisibles, sin superar el **50 %** del precio inicial; o cambios **no sustanciales**, que dejan de serlo, entre otros casos, si superan el **15 %** del precio en obras o el **10 %** en los demás contratos). Es **obligatoria para el contratista** cuando no supera el **20 %** del precio inicial.
 - **Suspensión** (art. 208): si la Administración suspende, levanta **acta** e **indemniza** al contratista.
 
 ### Extinción
@@ -132,8 +132,8 @@ Son **contratos del sector público** los **contratos onerosos** (el contratista
 
 | | Contenido |
 | --- | --- |
-| **Nulidad** (art. 39) | Las causas del **art. 47 Ley 39/2015** y, además, la **falta de capacidad**, de **solvencia** o de **clasificación**, estar en **prohibición de contratar**, la **falta de crédito** (salvo urgencia), la falta de **publicación** del anuncio en el perfil o el DOUE, no respetar el plazo de **15 días** antes de formalizar si cabe recurso especial… |
-| **Anulabilidad** (art. 40) | Las demás infracciones (art. 48 Ley 39/2015); en especial, actos que incurren en **desviación de poder** |
+| **Nulidad** (art. 39) | Las causas del **art. 47 Ley 39/2015** y, además, la **falta de capacidad**, de **solvencia** o de **clasificación**, estar en **prohibición de contratar**, la **falta de crédito** (salvo urgencia), la falta de **publicación** del anuncio en el perfil o el DOUE, no respetar el plazo para formalizar **cuando** eso impidió recurrir **y** además hubo una infracción que impidió al licitador obtener la adjudicación, o formalizar sin respetar la **suspensión** del recurso especial… |
+| **Anulabilidad** (art. 40) | Las demás infracciones del ordenamiento (art. 48 Ley 39/2015) y, en especial, de la LCSP; en particular: incumplir los requisitos para **modificar** el contrato (arts. 204 y 205), dar **ventajas a empresas que ya contrataron** con la Administración y los **encargos a medios propios** que no cumplan el art. 32 |
 | Efectos | La declaración de nulidad lleva a la **liquidación** del contrato; si hay grave trastorno para el servicio público, se puede **continuar** con los mismos efectos hasta que se tomen medidas urgentes |
 
 **Recurso especial en materia de contratación** (arts. 44 a 60):

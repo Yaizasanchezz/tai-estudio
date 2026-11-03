@@ -19,4 +19,4 @@ order: 101
 | Magistrados del TC | 12: 4 Congreso, 4 Senado (3/5), 2 Gobierno, 2 CGPJ; 9 años, renovación por terceras partes |
 | Reforma ordinaria (art. 167) | 3/5 de cada Cámara; referéndum si lo pide 1/10 de cualquier Cámara en 15 días |
 | Reforma agravada (art. 168) | 2/3, disolución, ratificación por 2/3 de las nuevas Cámaras y referéndum obligatorio |
-| Defensor del Pueblo | Alto comisionado de las Cortes; 5 años; 3/5 de las Cámaras |
+| Defensor del Pueblo | Alto comisionado de las Cortes; 5 años; 3/5 del Congreso y ratificación por 3/5 del Senado en 20 días (si no, basta la mayoría absoluta del Senado) |
