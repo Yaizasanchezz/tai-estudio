@@ -54,7 +54,7 @@
   // ------------------------------------------------------------ oposición (TAI / Auxiliar)
   function setupOpo() {
     const root = document.documentElement;
-    const homeFor = (o) => BASE + (o === "aux" ? "auxiliar/" : "");
+    const homeFor = (o) => BASE + ({ aux: "auxiliar/", adm: "administrativo/" }[o] || "");
     document.querySelectorAll("[data-brand-link]").forEach((a) => { a.href = homeFor(root.getAttribute("data-opo")); });
     document.querySelectorAll("[data-opo-switch]").forEach((a) => {
       a.addEventListener("click", (e) => {

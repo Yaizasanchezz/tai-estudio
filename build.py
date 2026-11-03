@@ -187,8 +187,20 @@ NAV_AUX = [
     {"label": "Flashcards", "url": "auxiliar/flashcards/", "icon": "cards"},
     {"label": "YouTube", "url": "auxiliar/youtube/", "icon": "play"},
 ]
+NAV_ADM = [
+    {"label": "Inicio", "url": "administrativo/", "icon": "home"},
+    {"label": "Temario", "url": "administrativo/temario/", "icon": "book"},
+    {"label": "Constitución", "url": "constitucion/", "icon": "landmark"},
+    {"label": "Leyes", "url": "leyes/", "icon": "scale"},
+    {"label": "Tests", "url": "administrativo/tests/", "icon": "check"},
+    {"label": "Ofimática práctica", "url": "administrativo/ofimatica/", "icon": "grid"},
+    {"label": "Exámenes resueltos", "url": "administrativo/examenes/", "icon": "file"},
+    {"label": "Flashcards", "url": "administrativo/flashcards/", "icon": "cards"},
+    {"label": "YouTube", "url": "administrativo/youtube/", "icon": "play"},
+]
 OPOSITATEST_URL = "https://www.opositatest.com/oposiciones/cuerpo-de-tecnicos-auxiliares-de-informatica-de-la-administracion-del-estado/test"
 OPOSITATEST_AUX_URL = "https://www.opositatest.com/oposiciones/auxiliares-administrativos/test"
+OPOSITATEST_ADM_URL = "https://www.opositatest.com/oposiciones/administrativos-del-estado-turno-libre/test"
 
 # Rutas compartidas por las dos oposiciones (el menú lateral depende de la elegida).
 SHARED_PREFIXES = ("constitucion/", "leyes/")
@@ -199,13 +211,16 @@ def icon(name: str, cls: str = "icon") -> str:
             f'stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{ICONS[name]}</svg>')
 
 
-env.globals.update(base=BASE, nav=NAV, nav_aux=NAV_AUX, icon=icon, build_id=BUILD_ID,
-                   opositatest_url=OPOSITATEST_URL, opositatest_aux_url=OPOSITATEST_AUX_URL, year=TODAY.year)
+env.globals.update(base=BASE, nav=NAV, nav_aux=NAV_AUX, nav_adm=NAV_ADM, icon=icon, build_id=BUILD_ID,
+                   opositatest_url=OPOSITATEST_URL, opositatest_aux_url=OPOSITATEST_AUX_URL,
+                   opositatest_adm_url=OPOSITATEST_ADM_URL, year=TODAY.year)
 
 
 def opo_of(rel_url: str) -> str:
     if rel_url.startswith("auxiliar/"):
         return "aux"
+    if rel_url.startswith("administrativo/"):
+        return "adm"
     if rel_url.startswith(SHARED_PREFIXES):
         return "shared"
     return "tai"
@@ -224,9 +239,10 @@ def render(template: str, rel_url: str, **ctx) -> None:
     tpl = env.get_template(template)
     active = "" if rel_url == "" else active_in(NAV, rel_url)
     active_aux = active_in(NAV_AUX, rel_url)
+    active_adm = active_in(NAV_ADM, rel_url)
     opo = opo_of(rel_url)
-    ctx.setdefault("brand", {"aux": "Auxiliar", "shared": "Opo"}.get(opo, "TAI"))
-    html_out = tpl.render(rel_url=rel_url, active=active, active_aux=active_aux, opo=opo, **ctx)
+    ctx.setdefault("brand", {"aux": "Auxiliar", "adm": "Administrativo", "shared": "Opo"}.get(opo, "TAI"))
+    html_out = tpl.render(rel_url=rel_url, active=active, active_aux=active_aux, active_adm=active_adm, opo=opo, **ctx)
     target = rel_url + "index.html" if rel_url.endswith("/") or rel_url == "" else rel_url
     write(target, html_out)
 
@@ -496,6 +512,189 @@ def build_aux() -> dict:
     return {"pages": pages}
 
 
+# ---------------------------------------------------------------- Administrativo del Estado (C1)
+
+ADM = DATA / "adm"
+ADM_HOME = "administrativo/"
+
+
+def strip_first_admonition(text: str) -> str:
+    """Quita el primer bloque «!!! tip» (el «Qué pide el programa» del tema reutilizado)."""
+    lines = text.lstrip("\n").splitlines()
+    if not lines or not lines[0].startswith("!!! "):
+        return text
+    i = 1
+    while i < len(lines) and (lines[i].startswith("    ") or not lines[i].strip()):
+        i += 1
+    return "\n".join(lines[i:])
+
+
+def md_sections(text: str) -> tuple[str, list[tuple[str, str]]]:
+    """Divide un Markdown en (preámbulo, [(título ##, bloque completo)])."""
+    parts = re.split(r"(?m)^(?=## )", text)
+    pre, secs = parts[0], []
+    for part in parts[1:]:
+        secs.append((part.splitlines()[0][3:].strip(), part.rstrip() + "\n"))
+    return pre, secs
+
+
+def sec_number(title: str) -> str | None:
+    m = re.match(r"(\d+)\.", title)
+    return m.group(1) if m else None
+
+
+def table_rows(block: str) -> list[str]:
+    rows = [l for l in block.splitlines() if l.startswith("|")]
+    return rows[2:]  # sin cabecera ni separador
+
+
+ADM_INCLUDE = re.compile(r"<!--\s*include\s+(\S+?)(?:\.md)?(?:\s+sections=([\w,]+))?\s*-->")
+
+
+def load_adm_temario() -> list[dict]:
+    """Temas de content/administrativo/temario.
+
+    Para no duplicar texto, un tema del C1 se compone con partes de los temas de Auxiliar:
+    - front matter «reuse: auxiliar/temario/b2-08-word»: todo el tema (sin su recuadro inicial),
+      insertado donde esté «<!-- reuse -->» (o al final del texto propio);
+    - «<!-- include auxiliar/temario/b1-02-tc-reforma-corona sections=1,2 -->»: solo esas secciones
+      («sections=all»: todas las numeradas). Sus tablas «Resumen» se juntan en «<!-- resumen -->».
+    Después se renumeran los «## N.», y los enlaces a temas de Auxiliar incluidos apuntan al tema C1."""
+    folder = CONTENT / "administrativo" / "temario"
+    raw = []
+    for f in sorted(folder.glob("*.md")):
+        meta, text = front_matter(f.read_text(encoding="utf-8"))
+        raw.append((f.stem, meta, text))
+    # 1.ª pasada: qué tema de Auxiliar queda cubierto por qué tema del C1
+    link_map: dict[str, str] = {}
+    for slug, meta, text in raw:
+        srcs = [meta["reuse"]] if meta.get("reuse") else []
+        srcs += [m.group(1) for m in ADM_INCLUDE.finditer(text) if (m.group(2) or "all") == "all"]
+        srcs += [m.group(1) for m in ADM_INCLUDE.finditer(text)]
+        for src in srcs:
+            link_map.setdefault(src.rstrip("/") + "/", f"{ADM_HOME}temario/{slug}/")
+    pages = []
+    for slug, meta, text in raw:
+        resumen: list[str] = []
+
+        def source(path: str) -> str:
+            t = front_matter((CONTENT / f"{path}.md").read_text(encoding="utf-8"))[1]
+            # referencias pensadas para Auxiliar (solo en el texto reutilizado)
+            t = re.sub(r'!!! example "Tu caso"\n(?:    .*\n|\n(?=    ))*', "", t)
+            t = t.replace("Así lo preguntaron en 2026", "Así lo preguntaron en Auxiliar 2026")
+            t = re.sub(r" \((?:ver )?tema (?:II-)?\d+\)", "", t)
+            return re.sub(r"\[(el |este )?tema (?:II-)?\d+\]", lambda mm: f"[{mm.group(1) or ''}tema correspondiente]", t)
+
+        if meta.get("reuse"):
+            other = strip_first_admonition(source(meta["reuse"])).strip()
+            text = text.replace("<!-- reuse -->", other) if "<!-- reuse -->" in text else text.rstrip() + "\n\n" + other + "\n"
+
+        def do_include(m: re.Match) -> str:
+            _, secs = md_sections(source(m.group(1)))
+            want = (m.group(2) or "all").split(",")
+            out = []
+            for title, block in secs:
+                if title.lower().startswith("resumen"):
+                    if want == ["all"]:
+                        resumen.extend(table_rows(block))
+                    continue
+                n = sec_number(title)
+                if want == ["all"] or (n and n in want):
+                    out.append(block)
+            return "\n".join(out)
+
+        text = ADM_INCLUDE.sub(do_include, text)
+        if "<!-- resumen -->" in text:
+            table = "## Resumen\n\n| Dato | Respuesta |\n| --- | --- |\n" + "\n".join(resumen)
+            text = text.replace("<!-- resumen -->", table.rstrip())
+        # renumerar secciones
+        counter = iter(range(1, 1000))
+        text = re.sub(r"(?m)^## \d+\. ", lambda _m: f"## {next(counter)}. ", text)
+        for a, b in sorted(link_map.items(), key=lambda kv: -len(kv[0])):
+            text = text.replace("{{base}}" + a, "{{base}}" + b)
+        body, toc = render_md(text)
+        pages.append({"slug": slug, "meta": meta, "body": body, "toc": toc,
+                      "title": meta.get("title", slug), "order": float(meta.get("order", 99))})
+    pages.sort(key=lambda p: (p["order"], p["slug"]))
+    return pages
+
+
+def load_exams(folder: Path) -> list[dict]:
+    exams = []
+    for f in sorted(folder.glob("*.json")):
+        ex = read_json(f)
+        ex["notas_html"] = inline_md(ex.get("notas", "")) if ex.get("notas") else ""
+        for parte in ex.get("partes", []):
+            parte["descripcion_html"] = wrap_tables(inline_md(parte.get("descripcion", ""))) if parte.get("descripcion") else ""
+            for q in parte.get("preguntas", []):
+                q["explicacion_html"] = wrap_tables(inline_md(q.get("explicacion", "")))
+                q["pregunta_html"] = wrap_tables(inline_md(q.get("pregunta", "")))
+                q["opciones"] = [inline_md(o) for o in q.get("opciones", [])]
+        exams.append(ex)
+    exams.sort(key=lambda e: e.get("orden", 99))
+    return exams
+
+
+def build_adm() -> dict:
+    ctx = {"home_url": ADM_HOME}
+    pages = load_adm_temario()
+    for p in pages:
+        p["url"] = f"{ADM_HOME}temario/" if p["slug"] == "index" else f"{ADM_HOME}temario/{p['slug']}/"
+    for i, p in enumerate(pages):
+        render("page.html", p["url"], page=p, section="Temario de Administrativo", section_url=f"{ADM_HOME}temario/",
+               siblings=pages, prev=pages[i - 1] if i else None, next=pages[i + 1] if i + 1 < len(pages) else None,
+               studied_key=f"adm/temario/{p['slug']}", **ctx)
+        index_html_sections(f"Administrativo · {p['title']}", BASE + p["url"], p["body"], "Temario Administrativo")
+
+    counts_out = {}
+    for src, url, h1, lead_tpl, labels, data_dir in (
+        ("tests", "tests/", "Tests", "{n} preguntas con explicación de los bloques I a V. La nota se calcula como en el examen: aciertos − errores/3.",
+         {"b1": "I · Organización del Estado", "b2": "II · Oficinas públicas", "b3": "III · Derecho administrativo",
+          "b4": "IV · Gestión de personal", "b5": "V · Gestión financiera"}, ADM),
+        # El bloque VI (ofimática) es el mismo programa que en Auxiliar: se reutilizan sus preguntas.
+        ("ofimatica", "ofimatica/", "Ofimática práctica", "{n} preguntas de Windows 11, Word, Excel, Access y Outlook 365 (bloque VI).",
+         {"windows": "Windows 11", "word": "Word 365", "excel": "Excel 365", "access": "Access 365", "outlook": "Outlook 365"}, AUX),
+    ):
+        data = read_json(data_dir / f"{src}.json", {"preguntas": []})
+        prep_quiz(data)
+        write(f"data/adm-{src}.json", json.dumps(data, ensure_ascii=False))
+        counts = {k: sum(1 for q in data["preguntas"] if q["bloque"] == k) for k in labels}
+        render("tests.html", ADM_HOME + url, bloques=labels, counts=counts, total=len(data["preguntas"]),
+               source=f"adm-{src}", ns="adm-", h1=h1, lead=lead_tpl.format(n=len(data["preguntas"])),
+               extra=read_json(data_dir / f"{src}-extra.json"), **ctx)
+        counts_out[src] = len(data["preguntas"])
+
+    fc = read_json(ADM / "flashcards.json", {"mazos": []})
+    n_cards = 0
+    for deck in fc["mazos"]:
+        for c in deck["tarjetas"]:
+            c["f"] = inline_md(c["f"])
+            c["b"] = inline_md(c["b"])
+        n_cards += len(deck["tarjetas"])
+    write("data/adm-flashcards.json", json.dumps(fc, ensure_ascii=False))
+    render("flashcards.html", ADM_HOME + "flashcards/", mazos=fc["mazos"], total=n_cards, src="adm-flashcards", ns="adm-", **ctx)
+
+    exams = load_exams(ADM / "examenes")
+    for ex in exams:
+        ex["url"] = f"{ADM_HOME}examenes/{ex['slug']}/"
+        render("examen.html", ex["url"], ex=ex, **ctx)
+        for parte in ex.get("partes", []):
+            for q in parte.get("preguntas", []):
+                SEARCH.append({"t": ex["titulo"], "s": f"{parte['titulo']} · pregunta {q['n']}: {q.get('tema', '')} · {q.get('pregunta', '')}",
+                               "u": f"{BASE}{ex['url']}#{parte['id']}-{q['n']}", "k": "Exámenes Administrativo",
+                               "x": squash(strip_tags(q["explicacion_html"]))[:300]})
+    render("examenes.html", ADM_HOME + "examenes/", exams=exams, opo_name="Administrativo del Estado",
+           tip1="Ponte un temporizador con la duración del examen real y haz las dos partes seguidas.", **ctx)
+
+    yt = read_json(ADM / "youtube.json", {"categorias": []})
+    render("youtube.html", ADM_HOME + "youtube/", categorias=yt["categorias"],
+           lead="Vídeos para Administrativo: el examen de 2026, Constitución y leyes, contratos, gestión financiera y ofimática.", **ctx)
+
+    render("adm_home.html", ADM_HOME, temario=pages, n_tests=counts_out["tests"], n_ofi=counts_out["ofimatica"],
+           n_cards=n_cards, n_exams=len(exams), n_temas=sum(1 for p in pages if p["slug"] != "index"), **ctx)
+    return {"pages": pages}
+
+
 # ---------------------------------------------------------------- estáticos y PWA
 
 
@@ -545,6 +744,7 @@ def main() -> None:
     build_examenes()
     n_tests, n_cards = build_data_pages()
     build_aux()
+    build_adm()
 
     render("home.html", "", temario=temario, ce_pages=ce_pages, n_tests=n_tests, n_cards=n_cards)
     render("404.html", "404.html")

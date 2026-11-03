@@ -609,14 +609,14 @@ tbody tr:hover td { background: color-mix(in srgb, var(--surface-2) 60%, transpa
 .exam-scenario { line-height: 1.6; }
 
 /* ---------------------------------------------------------- dos oposiciones */
-html[data-opo="tai"] .only-aux, html[data-opo="aux"] .only-tai { display: none !important; }
-.opo-switch { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; padding: 4px; margin: 4px 0 14px;
+html:not([data-opo="tai"]) .only-tai, html:not([data-opo="aux"]) .only-aux, html:not([data-opo="adm"]) .only-adm { display: none !important; }
+.opo-switch { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4px; padding: 4px; margin: 4px 0 14px;
   background: var(--surface-2); border-radius: 14px; }
 .opo-btn { text-align: center; padding: 7px 6px; border-radius: 10px; font-weight: 800; font-size: .9rem;
   color: var(--muted); text-decoration: none; transition: background .15s, color .15s; }
-.opo-btn small { font-weight: 700; opacity: .7; font-size: .72rem; }
+.opo-btn small { display: block; font-weight: 700; opacity: .7; font-size: .72rem; }
 .opo-btn:hover { color: var(--primary); }
-html[data-opo="tai"] .opo-btn[data-opo-switch="tai"], html[data-opo="aux"] .opo-btn[data-opo-switch="aux"] {
+html[data-opo="tai"] .opo-btn[data-opo-switch="tai"], html[data-opo="aux"] .opo-btn[data-opo-switch="aux"], html[data-opo="adm"] .opo-btn[data-opo-switch="adm"] {
   background: var(--surface); color: var(--primary); box-shadow: 0 1px 4px rgba(120, 30, 70, .12); }
 
 /* ---------------------------------------------------------- psicotécnicos */

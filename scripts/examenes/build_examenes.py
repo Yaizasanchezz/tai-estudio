@@ -3,7 +3,7 @@
 Fuentes:
 - scripts/examenes/fuentes/<id>.json: enunciados, opciones y plantilla oficial de cada examen
   (transcripción de los cuadernillos del INAP contrastada con el proyecto libre OpoTAI).
-- scripts/examenes/tai_*.py: datos del examen (META), id de la fuente (FUENTE) y, para cada
+- scripts/examenes/tai_*.py, aux_*.py y adm_*.py: datos del examen (META), id de la fuente (FUENTE) y, para cada
   pregunta, el tema y una explicación propia (PARTES con tuplas (n, tema, _, respuesta, explicación)).
 
 Uso: python3 scripts/examenes/build_examenes.py
@@ -16,6 +16,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 OUT = HERE.parent.parent / "data" / "examenes"
 OUT_AUX = HERE.parent.parent / "data" / "aux" / "examenes"
+OUT_ADM = HERE.parent.parent / "data" / "adm" / "examenes"
 FUENTES = HERE / "fuentes"
 
 # id de parte del módulo -> (sección de la fuente, lista)
@@ -53,7 +54,8 @@ def clean_statement(text: str, fid: str) -> str:
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     OUT_AUX.mkdir(parents=True, exist_ok=True)
-    for path in sorted(HERE.glob("tai_*.py")) + sorted(HERE.glob("aux_*.py")):
+    OUT_ADM.mkdir(parents=True, exist_ok=True)
+    for path in sorted(HERE.glob("tai_*.py")) + sorted(HERE.glob("aux_*.py")) + sorted(HERE.glob("adm_*.py")):
         mod = load(path)
         src = json.loads((FUENTES / f"{mod.FUENTE}.json").read_text(encoding="utf-8"))
         secs = {s["id"]: s for s in src["sections"]}
@@ -83,7 +85,7 @@ def main() -> None:
             if desc is None:
                 desc = clean_statement(sec.get("statement") or "", mod.FUENTE) if kind == "questions" else ""
             ex["partes"].append({"id": parte["id"], "titulo": parte["titulo"], "descripcion": desc, "preguntas": qs})
-        (OUT_AUX if path.name.startswith("aux_") else OUT).joinpath(f"{ex['slug']}.json").write_text(json.dumps(ex, ensure_ascii=False, indent=1), encoding="utf-8")
+        {"aux_": OUT_AUX, "adm_": OUT_ADM}.get(path.name[:4], OUT).joinpath(f"{ex['slug']}.json").write_text(json.dumps(ex, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"{ex['slug']}: {total} preguntas")
 
 

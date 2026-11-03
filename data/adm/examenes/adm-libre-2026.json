@@ -1,0 +1,1692 @@
+{
+ "slug": "adm-libre-2026",
+ "orden": 1,
+ "titulo": "Administrativo del Estado · examen del 23 de mayo de 2026",
+ "convocatoria": "Convocatoria 2025 · Ingreso libre · Modelo A",
+ "fecha": "23 de mayo de 2026",
+ "duracion": "100 minutos para las dos partes",
+ "penalizacion": "cada error resta 1/3 de un acierto; las preguntas en blanco no puntúan",
+ "penalizacion_factor": 0.3333333,
+ "como_hacerlo": "Haz la <strong>primera parte</strong> (70 preguntas) y <strong>uno de los dos supuestos</strong> (20 preguntas) seguidos, en 100 minutos, como en el examen real. Las reservas solo cuentan si se anula alguna pregunta: en la primera parte se anularon la 24, la 63 y la 64 (las sustituyen las reservas 1, 2 y 3); en el supuesto II, la 3 (la sustituye la reserva 2, porque la 1 también se anuló).",
+ "descripcion": "El examen más reciente del C1: 40 preguntas de los bloques I a V y 30 de informática y ofimática en la primera parte, y dos supuestos prácticos a elegir (una Confederación Hidrográfica con un contrato de accesibilidad y un funcionario que asciende; y un contrato de reconocimientos médicos, modificaciones presupuestarias, un convenio y una funcionaria que concursa).",
+ "notas": "Respuestas según la **plantilla definitiva** del modelo A. Anuladas: preguntas **24, 63 y 64** de la primera parte, **reserva 2** del supuesto I y **pregunta 3** y **reserva 1** del supuesto II. Enunciados transcritos del cuadernillo oficial; las explicaciones son de esta web y citan el artículo exacto.",
+ "enlaces": [
+  {
+   "texto": "Convocatoria (BOE-A-2025-26262)",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26262"
+  },
+  {
+   "texto": "Sede electrónica del INAP (cuestionarios y plantillas)",
+   "url": "https://sede.inap.gob.es/"
+  }
+ ],
+ "partes": [
+  {
+   "id": "p1",
+   "titulo": "Primera parte · Bloques I a VI",
+   "descripcion": "Preguntas 1 a 40, de los bloques I a V; 41 a 70, de informática y ofimática (Windows 11 y Microsoft 365).",
+   "preguntas": [
+    {
+     "n": "1",
+     "tema": "Constitución · Reforma",
+     "pregunta": "De acuerdo con el artículo 167 de la Constitución Española de 1978, los proyectos de reforma constitucional deberán ser aprobados:",
+     "opciones": [
+      "Por mayoría de tres quintos del Congreso.",
+      "Por mayoría absoluta del Congreso.",
+      "Por mayoría absoluta de cada una de las Cámaras.",
+      "Por mayoría de tres quintos de cada una de las Cámaras."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 167.1 CE: la reforma ordinaria se aprueba por **tres quintos de cada una de las Cámaras**. La mayoría absoluta del Senado solo aparece como vía alternativa (con 2/3 del Congreso) si no hay acuerdo. Ver [tema]({{base}}administrativo/temario/b1-01-constitucion/)."
+    },
+    {
+     "n": "2",
+     "tema": "Constitución · La Corona",
+     "pregunta": "Corresponde al Rey, conforme al artículo 62 de la Constitución Española de 1978:",
+     "opciones": [
+      "Aprobar los Decretos Leyes.",
+      "Aprobar los Reglamentos.",
+      "Aprobar las Leyes.",
+      "Sancionar y promulgar las leyes."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 62.a CE: corresponde al Rey **sancionar y promulgar las leyes**. Las leyes las aprueban las Cortes, y los decretos-leyes y reglamentos, el Gobierno. Ver [tema]({{base}}administrativo/temario/b1-02-corona/)."
+    },
+    {
+     "n": "3",
+     "tema": "Constitución · Cortes Generales",
+     "pregunta": "De acuerdo con el artículo 67 de la Constitución Española de 1978:",
+     "opciones": [
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente.",
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente, salvo el Presidente del Gobierno y los Ministros.",
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente, salvo el Presidente del Gobierno.",
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente, pero se podrá acumular el acta de una Asamblea de Comunidad Autónoma con la de Diputado al Congreso."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 67.1 CE: **nadie puede ser miembro de las dos Cámaras simultáneamente**, ni acumular el acta de una Asamblea autonómica con la de Diputado. No hay excepción para el Presidente ni los Ministros. Ver [tema]({{base}}administrativo/temario/b1-03-cortes/)."
+    },
+    {
+     "n": "4",
+     "tema": "Constitución · Poder Judicial",
+     "pregunta": "¿Quién nombrará al Presidente del Tribunal Supremo de acuerdo con lo previsto en el artículo 123 de la Constitución Española de 1978?",
+     "opciones": [
+      "El Rey, a propuesta del Presidente del Gobierno, en la forma que determine la ley.",
+      "El Presidente del Gobierno, a propuesta del Rey, en la forma que determine la ley.",
+      "El Consejo General del Poder Judicial, a propuesta del Rey, en la forma que determine la ley.",
+      "El Rey, a propuesta del Consejo del Poder Judicial, en la forma que determine la ley."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 123.2 CE: el Presidente del Tribunal Supremo es **nombrado por el Rey, a propuesta del Consejo General del Poder Judicial**, en la forma que determine la ley. Ver [tema]({{base}}administrativo/temario/b1-04-poder-judicial/)."
+    },
+    {
+     "n": "5",
+     "tema": "Constitución · Gobierno y Cortes",
+     "pregunta": "De acuerdo con el artículo 112 de la Constitución Española de 1978, la cuestión de confianza planteada por el Presidente de Gobierno se entenderá otorgada cuando vote a favor de la misma:",
+     "opciones": [
+      "La mayoria simple del Congreso de los Diputados.",
+      "La mayoría simple del Congreso de los Diputados y del Senado.",
+      "La mayoría absoluta del Congreso de los Diputados.",
+      "La mayoria absoluta del Congreso de los Diputados y del Senado."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 112 CE: la confianza se entiende otorgada cuando vota a favor la **mayoría simple de los Diputados**. Es una relación solo con el **Congreso**; la moción de censura, en cambio, exige mayoría absoluta. Ver [tema]({{base}}administrativo/temario/b1-05-gobierno/)."
+    },
+    {
+     "n": "6",
+     "tema": "Agenda 2030",
+     "pregunta": "¿Cuántos objetivos de desarrollo sostenible contiene la Agenda 2030?",
+     "opciones": [
+      "Diecisiete objetivos.",
+      "Dieciocho objetivos.",
+      "Diecinueve objetivos.",
+      "Veinte objetivos."
+     ],
+     "respuesta": "a",
+     "explicacion": "La Agenda 2030 tiene **17 Objetivos de Desarrollo Sostenible** y 169 metas. Ver [tema]({{base}}administrativo/temario/b1-06-gobierno-abierto/)."
+    },
+    {
+     "n": "7",
+     "tema": "Transparencia · Límites",
+     "pregunta": "De acuerdo con el artículo 14 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
+     "opciones": [
+      "La seguridad nacional.",
+      "La seguridad e higiene en el trabajo.",
+      "La protección del anonimato de los empleados públicos.",
+      "La protección de datos de carácter profesional."
+     ],
+     "respuesta": "a",
+     "explicacion": "El art. 14.1 de la Ley 19/2013 enumera los límites del derecho de acceso: el primero es la **seguridad nacional** (luego la defensa, las relaciones exteriores, la seguridad pública…). Ninguna de las otras opciones está en la lista. Ver [tema]({{base}}administrativo/temario/b1-07-transparencia/)."
+    },
+    {
+     "n": "8",
+     "tema": "AGE · Órganos",
+     "pregunta": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿a quién de los siguientes órganos le corresponde la competencia de desempeñar la jefatura superior de todo el personal del Departamento?",
+     "opciones": [
+      "Los Secretarios de Estado.",
+      "Los Subsecretarios.",
+      "Los Directores Generales.",
+      "Los Subdirectores Generales."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 63.1 Ley 40/2015: los **Subsecretarios** ostentan la representación ordinaria del Ministerio y desempeñan la **jefatura superior de todo el personal** del Departamento. Ver [tema]({{base}}administrativo/temario/b1-08-age/)."
+    },
+    {
+     "n": "9",
+     "tema": "Comunidades Autónomas",
+     "pregunta": "¿A quién le corresponde la representación ordinaria del Estado en la Comunidad Autónoma conforme a lo dispuesto en el artículo 152 de la Constitución Española de 1978?",
+     "opciones": [
+      "Al Delegado del Gobierno.",
+      "Al Presidente del Gobierno.",
+      "Al Presidente de la Comunidad Autónoma.",
+      "Al Ministro de Política Territorial y Memoria Democrática."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 152.1 CE: el **Presidente de la Comunidad Autónoma** ostenta la suprema representación de la Comunidad y la **representación ordinaria del Estado** en ella. El Delegado del Gobierno dirige la Administración del Estado en el territorio (art. 154), que es otra cosa. Ver [tema]({{base}}administrativo/temario/b1-09-comunidades-autonomas/)."
+    },
+    {
+     "n": "10",
+     "tema": "Administración local · Gran población",
+     "pregunta": "De conformidad con el artículo 121 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, ¿a qué municipios se les aplicará el régimen de organización de los municipios de gran población?",
+     "opciones": [
+      "A los municipios cuya población supere los 100.000 habitantes.",
+      "A los municipios capitales de provincia cuya población sea superior a los 75.000 habitantes.",
+      "A los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas cuando así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos ayuntamientos.",
+      "A los municipios cuya población sea inferior a los 75.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales cuando así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos ayuntamientos."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 121.1 LBRL: el régimen de gran población se aplica a los municipios de **más de 250.000** habitantes, a las **capitales de provincia de más de 175.000**, a las **capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas** y a los de **más de 75.000** con circunstancias especiales; en estos dos últimos casos, si lo deciden las **Asambleas Legislativas** a iniciativa de los ayuntamientos. Las opciones a, b y d cambian las cifras. Ver [tema]({{base}}administrativo/temario/b1-10-administracion-local/)."
+    },
+    {
+     "n": "11",
+     "tema": "Unión Europea · Consejo",
+     "pregunta": "De acuerdo con el artículo 16 del Tratado de la Unión Europea, señale la respuesta correcta respecto del Consejo de la Unión Europea:",
+     "opciones": [
+      "Supervisará la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia de la Unión Europea.",
+      "Es el órgano ejecutivo de la Unión Europea y tiene su sede en Bruselas.",
+      "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria.",
+      "Ejerce conjuntamente con la Comisión Europea la función legislativa y la función presupuestaria."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 16.1 TUE: el **Consejo** ejerce **conjuntamente con el Parlamento Europeo la función legislativa y la presupuestaria**. Supervisar la aplicación del Derecho de la Unión es tarea de la **Comisión** (art. 17), que es además el órgano ejecutivo. Ver [tema]({{base}}administrativo/temario/b1-11-union-europea/)."
+    },
+    {
+     "n": "12",
+     "tema": "Calidad · Cartas de servicios",
+     "pregunta": "Las cartas de servicios, reguladas en el artículo 10.4 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado, se actualizarán periódicamente en función de las circunstancias y, en cualquier caso, al menos:",
+     "opciones": [
+      "Anualmente.",
+      "Cada dos años.",
+      "Cada tres años.",
+      "Cada cuatro años."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 10.4 RD 951/2005: las cartas de servicios se actualizan periódicamente y, en todo caso, **al menos cada tres años**. Ver [tema]({{base}}administrativo/temario/b2-01-atencion-publico/)."
+    },
+    {
+     "n": "13",
+     "tema": "Procedimiento · Registros",
+     "pregunta": "Según el artículo 16 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta correcta en materia de registros:",
+     "opciones": [
+      "Los Organismos públicos vinculados o dependientes de cada Administración deberán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende.",
+      "Cada Administración dispondrá de un Registro Electrónico General donde se deberá anotar la salida de los documentos oficiales provenientes de otros órganos o particulares.",
+      "Las disposiciones de creación de registros electrónicos especificarán el órgano o unidad responsable de su gestión, así como la fecha y hora oficial y los días declarados como hábiles.",
+      "Los Organismos públicos vinculados o dependientes de cada Administración podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que depende."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 16.1 Ley 39/2015: los organismos públicos **podrán** (no «deberán») disponer de su propio registro electrónico interoperable con el Registro Electrónico General. En el Registro General **se podrá** anotar la salida de los documentos **dirigidos** a otros órganos o particulares (la opción b dice «deberá» y «provenientes»), y la norma de creación de cada registro especifica los días declarados **inhábiles** (no «hábiles», opción c). Ver [tema]({{base}}administrativo/temario/b2-02-documento-registro-archivo/)."
+    },
+    {
+     "n": "14",
+     "tema": "Administración electrónica · Sellos",
+     "pregunta": "Según el artículo 40 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Administraciones Públicas, en relación con sus sistemas de identificación:",
+     "opciones": [
+      "Podrán hacer pública la relación de certificados electrónicos utilizados, incluyendo las características de los sellos electrónicos y los prestadores que los expiden.",
+      "Podrán identificarse mediante el uso de un certificado electrónico reconocido o cualificado.",
+      "Deberán identificarse mediante el uso de un sello electrónico basado en una firma electrónica reconocida o cualificada que reúna los requisitos exigidos por la legislación de certificado electrónico.",
+      "Podrán identificarse mediante el uso de un sello electrónico basado en un certificado electrónico reconocido o cualificado que reúna los requisitos exigidos por la legislación de firma electrónica."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 40.1 Ley 40/2015: las Administraciones **podrán identificarse mediante un sello electrónico basado en un certificado electrónico reconocido o cualificado** que reúna los requisitos de la legislación de **firma electrónica**. La relación de sellos **deberá** ser pública (no «podrá»). Ver [tema]({{base}}administrativo/temario/b2-03-administracion-electronica/)."
+    },
+    {
+     "n": "15",
+     "tema": "Protección de datos · Confidencialidad",
+     "pregunta": "Conforme al artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, ¿quiénes están sujetos al deber de confidencialidad?",
+     "opciones": [
+      "Todos los ciudadanos.",
+      "Los funcionarios públicos en ejercicio de sus funciones.",
+      "Los delegados de prevención de riesgos laborales.",
+      "Los responsables y encargados del tratamiento de datos, así como todas las personas que intervengan en cualquier fase de este."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 5.1 LOPDGDD: están sujetos al deber de confidencialidad **los responsables y encargados del tratamiento y todas las personas que intervengan en cualquier fase de este**. Ver [tema]({{base}}administrativo/temario/b2-04-proteccion-datos/)."
+    },
+    {
+     "n": "16",
+     "tema": "Fuentes · Código Civil",
+     "pregunta": "Señale la respuesta correcta en relación con el artículo 2 del Código Civil:",
+     "opciones": [
+      "Las leyes entrarán en vigor a los quince días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "Las leyes entrarán en vigor a los veinte días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "Las leyes entrarán en vigor a los treinta días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+      "Las leyes entrarán en vigor al día siguente de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 2.1 del Código Civil: las leyes entran en vigor **a los veinte días** de su completa publicación en el BOE, si en ellas no se dispone otra cosa (*vacatio legis*). Ver [tema]({{base}}administrativo/temario/b3-01-fuentes/)."
+    },
+    {
+     "n": "17",
+     "tema": "Acto administrativo · Anulabilidad",
+     "pregunta": "Conforme al artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son anulables los actos de la Administración:",
+     "opciones": [
+      "Contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+      "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+      "Que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+      "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 48.1 Ley 39/2015: son anulables los actos que incurran en **cualquier infracción del ordenamiento jurídico, incluso la desviación de poder**. Las otras tres opciones son causas de **nulidad de pleno derecho** del art. 47.1 (letras f, b y e). Ver [tema]({{base}}administrativo/temario/b3-02-acto-administrativo/)."
+    },
+    {
+     "n": "18",
+     "tema": "Procedimiento · Fin de la vía administrativa",
+     "pregunta": "Conforme al artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ponen fin a la vía administrativa:",
+     "opciones": [
+      "Las resoluciones que acuerden la aplicación de medidas provisionales.",
+      "Los actos emanados de los órganos directivos con nivel de Subdirector General, en relación con las competencias que tengan atribuidas en materia de personal.",
+      "Las resoluciones de órganos administrativos, salvo que una disposición legal o reglamentaria disponga lo contrario.",
+      "Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 114.1.d Ley 39/2015: ponen fin a la vía administrativa **los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento**. En materia de personal, solo los órganos con nivel de **Director General** o superior (no Subdirector). Las medidas provisionales no ponen fin a la vía. Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "19",
+     "tema": "Procedimiento · Actuaciones complementarias",
+     "pregunta": "De acuerdo con el artículo 87 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, antes de dictar resolución, el órgano competente para resolver podrá decidir, mediante acuerdo motivado, la realización de actuaciones complementarias indispensables para resolver el procedimiento. Dichas actuaciones complementarias deberán practicarse en un plazo:",
+     "opciones": [
+      "De siete días.",
+      "De veinte días.",
+      "No inferior a diez días ni superior a quince días.",
+      "No superior a quince días."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 87 Ley 39/2015: las actuaciones complementarias se practican en un plazo **no superior a quince días**, y el plazo para resolver queda suspendido mientras tanto. Los interesados tienen 7 días para alegar después. Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "20",
+     "tema": "Contratos · Revisión de precios",
+     "pregunta": "Según el artículo 102 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público en relación con la revisión de precios en los contratos celebrados con precios provisionales:",
+     "opciones": [
+      "Podrá admitirse la revisión de precios siempre que el período de recuperación de la inversión sea inferior a cinco años.",
+      "Podrá admitirse la revisión de precios siempre que el período de recuperación de la inversión sea igual o superior a cinco años.",
+      "Podrá admitirse la revisión de precios cuando el contrato se hubiese ejecutado, al menos, en el 20 por ciento de su importe y hubiese transcurrido un año desde su formalización.",
+      "No cabrá la revisión de precios."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 102.7 LCSP: **en los contratos celebrados con precios provisionales no cabrá la revisión de precios**. La regla del 20 % ejecutado y un año desde la formalización (opción c) es la general del art. 103.5. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "21",
+     "tema": "Subvenciones · Concepto",
+     "pregunta": "Según el artículo 2.4 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, no tienen carácter de subvenciones:",
+     "opciones": [
+      "Las otorgadas como consecuencia de la Política Agrícola Común.",
+      "Las que financien proyectos relacionados con la ciencia y la tecnología.",
+      "Los beneficios fiscales y beneficios en la cotización a la Seguridad Social.",
+      "Las destinadas a fomentar actividades de interés social."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 2.4.g Ley 38/2003: **no tienen carácter de subvenciones los beneficios fiscales y los beneficios en la cotización a la Seguridad Social**. Las demás opciones (PAC, ciencia, interés social) sí pueden ser subvenciones. Ver [tema]({{base}}administrativo/temario/b5-06-contratos-subvenciones/)."
+    },
+    {
+     "n": "22",
+     "tema": "Responsabilidad patrimonial · Tribunal Constitucional",
+     "pregunta": "Conforme al artículo 32.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿a quién le corresponde fijar el importe de las indemnizaciones que proceda abonar cuando el Tribunal Constitucional haya declarado, a instancia de parte interesada, la existencia de un funcionamiento anormal en la tramitación de los recursos de amparo o de las cuestiones de inconstitucionalidad?",
+     "opciones": [
+      "Al Ministerio de Justicia.",
+      "Al Consejo de Ministros.",
+      "Al Consejo de Estado.",
+      "Al Tribunal Constitucional."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 32.8 Ley 40/2015: el importe de la indemnización por funcionamiento anormal del Tribunal Constitucional lo fija el **Consejo de Ministros**; el procedimiento lo tramita el Ministerio de Justicia, con dictamen del Consejo de Estado. Ver [tema]({{base}}administrativo/temario/b3-06-responsabilidad-patrimonial/)."
+    },
+    {
+     "n": "23",
+     "tema": "Igualdad · LGTBI",
+     "pregunta": "Según el artículo 5 de la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, los poderes públicos:",
+     "opciones": [
+      "Fomentarán el reconocimiento institucional y la participación en los actos conmemorativos de la lucha por la igualdad real y efectiva de las personas LGTBI.",
+      "Podrán adoptar las medidas necesarias para limitar la diversidad en materia de orientación sexual de las personas LGTBI.",
+      "Podrán adoptar las medidas necesarias para poner en valor la identidad cultural y religiosa de las personas LGTBI.",
+      "Podrán adoptar las medidas necesarias para poner en valor la identidad racial y cultural de las personas LGTBI."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 5 de la Ley 4/2023: los poderes públicos **fomentarán el reconocimiento institucional y la participación en los actos conmemorativos** de la lucha por la igualdad de las personas LGTBI. Las demás opciones son inventadas (y alguna, contraria a la ley). Ver [tema]({{base}}administrativo/temario/b3-07-igualdad/)."
+    },
+    {
+     "n": "24",
+     "tema": "Personal · Registro Central de Personal",
+     "pregunta": "En lo referente al personal laboral, ¿qué es preceptivo de anotación en el Registro Central de Personal conforme al Real Decreto 1405/1986, de 6 de junio, por el que se aprueban el Reglamento del Registro Central de Personal y las normas de coordinación con los de las restantes Administraciones Públicas?",
+     "opciones": [
+      "Tomas de posesión del primer puesto de trabajo y de los sucesivos.",
+      "Bajas temporales y definitivas.",
+      "Adquisición del grado personal y sus modificaciones.",
+      "Reconocimiento de trienios."
+     ],
+     "respuesta": "anulada",
+     "explicacion": "**Anulada.** La respuesta buscada eran las **bajas temporales y definitivas**, que el art. 4.1 del RD 1405/1986 manda anotar del personal **laboral**; las tomas de posesión, el grado y los trienios son anotaciones del personal **funcionario**. La sustituye la reserva 1. Ver [tema]({{base}}administrativo/temario/b4-01-personal/)."
+    },
+    {
+     "n": "25",
+     "tema": "Selección · Requisitos",
+     "pregunta": "De acuerdo con el artículo 56 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, para poder participar en los procesos selectivos será necesario:",
+     "opciones": [
+      "Poseer nacionalidad española en todo caso.",
+      "Conocimiento de la lengua oficial y cooficial del territorio en el que se encuentre la Administración convocante.",
+      "Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+      "Tener cumplidos dieciocho años y no exceder, en su caso, de la edad máxima de jubilación forzosa."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 56.1.c TREBEP: hay que **tener cumplidos dieciséis años** y no exceder, en su caso, de la edad máxima de jubilación forzosa. La nacionalidad española no se exige «en todo caso» (art. 57 abre el acceso a nacionales de la UE), y la lengua cooficial solo cuenta donde la haya. Ver [tema]({{base}}administrativo/temario/b4-02-seleccion/)."
+    },
+    {
+     "n": "26",
+     "tema": "Funcionarios · Adquisición de la condición",
+     "pregunta": "De acuerdo con el artículo 62 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por el cumplimiento del siguiente requisito:",
+     "opciones": [
+      "No se exige ningún requisito adicional.",
+      "Superar un reconocimiento médico que excluya padecer una enfermedad infectocontagiosa.",
+      "Presentar el certificado de penales.",
+      "La toma de posesión dentro del plazo señalado."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 62.1 TREBEP: la condición de funcionario de carrera se adquiere por la **superación del proceso selectivo**, el **nombramiento**, el **acatamiento de la Constitución** y la **toma de posesión dentro del plazo**. Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
+    },
+    {
+     "n": "27",
+     "tema": "Funcionarios · Interinos",
+     "pregunta": "De conformidad con el artículo 10 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, se podrá nombrar personal funcionario interino cuando se dé alguna de las siguientes circunstancias:",
+     "opciones": [
+      "La ejecución de programas de carácter temporal, que no podrán tener una duración superior a dos años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo del EBEP.",
+      "El exceso o acumulación de tareas por plazo máximo de doce meses, dentro de un periodo de dieciocho meses.",
+      "La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de cuatro años.",
+      "La sustitución transitoria de los titulares, durante el tiempo estrictamente necesario."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 10.1 TREBEP: se nombran interinos para **plazas vacantes** (máximo **3 años**), para la **sustitución transitoria de los titulares** durante el tiempo estrictamente necesario, para **programas temporales** (máximo **3 años**, ampliable 12 meses) y por **exceso o acumulación de tareas** (máximo **9 meses** en 18). Las opciones a, b y c cambian esas cifras. Ver [tema]({{base}}administrativo/temario/b4-03-funcionarios/)."
+    },
+    {
+     "n": "28",
+     "tema": "Situaciones administrativas",
+     "pregunta": "De acuerdo con el artículo 3 del Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado, los funcionarios de carrera se hallan en situación de servicio activo:",
+     "opciones": [
+      "Cuando acceden a la condición de Diputado o Senador.",
+      "Cuando se encuentren en comisión de servicios.",
+      "Cuando sean transferidos a una comunidad autónoma.",
+      "Cuando estén en expectativa de destino."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 3 RD 365/1995: está en **servicio activo** quien está en **comisión de servicios**. Ser Diputado o Senador da lugar a **servicios especiales**; el transferido a una comunidad autónoma pasa a **servicio en otras Administraciones públicas**; y la **expectativa de destino** es una situación propia. Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
+    },
+    {
+     "n": "29",
+     "tema": "Carrera horizontal",
+     "pregunta": "De acuerdo con el artículo 122 del Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, la carrera profesional horizontal:",
+     "opciones": [
+      "La carrera profesional horizontal tendrá carácter voluntario. En cada grupo o subgrupo de personal funcionario existirán cuatro tramos.",
+      "La carrera profesional horizontal tendrá carácter voluntario. En cada grupo o subgrupo de personal funcionario existirán cinco tramos.",
+      "La carrera profesional horizontal tendrá carácter obligatorio. En cada grupo o subgrupo de personal funcionario existirán cuatro tramos.",
+      "La carrera profesional horizontal tendrá carácter obligatorio. En cada grupo o subgrupo de personal funcionario existirán cinco tramos."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 122.2 RD-ley 6/2023: la carrera horizontal es **voluntaria** y en cada grupo o subgrupo hay **4 tramos** (5 años de servicios para el primer ascenso y 6 para los siguientes). Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "30",
+     "tema": "Incompatibilidades",
+     "pregunta": "¿Qué actividades están exceptuadas del régimen de incompatibilidades de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del personal al servicio de las Administraciones Públicas?",
+     "opciones": [
+      "La participación en Tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas.",
+      "El desempeño de un puesto de trabajo en la esfera docente como profesor universitario asociado en régimen de dedicación no superior a la de tiempo parcial.",
+      "La participación superior al 10 por 100 en el capital de las empresas o sociedades.",
+      "El desempeño de cargos de todo orden en empresas concesionarias del sector público, cualquiera que sea la configuración jurídica de aquellas."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 19.c Ley 53/1984: está exceptuada del régimen de incompatibilidades **la participación en tribunales calificadores de pruebas selectivas**. Ser profesor asociado a tiempo parcial necesita **autorización de compatibilidad** (art. 4); y los cargos en empresas concesionarias y la participación de más del **10 %** en su capital están **prohibidos** (art. 12.1.c y d). Ver [tema]({{base}}administrativo/temario/b4-06-incompatibilidades-disciplina/)."
+    },
+    {
+     "n": "31",
+     "tema": "Seguridad Social · MUFACE",
+     "pregunta": "De acuerdo con el artículo 5 del Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba el texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, la Mutualidad General de Funcionarios Civiles del Estado (MUFACE) se integra en el Sector Público Institucional Estatal como:",
+     "opciones": [
+      "Sociedad Mercantil Estatal.",
+      "Consorcio.",
+      "Organismo público.",
+      "Fundación del Sector Público."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 5.1 RDL 4/2000: MUFACE es un **organismo público** con personalidad jurídica diferenciada, que se rige por las normas de los **organismos autónomos**. Ver [tema]({{base}}administrativo/temario/b4-07-seguridad-social-funcionarios/)."
+    },
+    {
+     "n": "32",
+     "tema": "Personal laboral · IV Convenio",
+     "pregunta": "Conforme al artículo 2 del IV Convenio Único para el personal laboral de la Administración General del Estado, quedan excluidos del ámbito de aplicación del Convenio el personal laboral que preste servicios en:",
+     "opciones": [
+      "La Agencia Española de Protección de Datos.",
+      "El Museo Nacional Centro de Arte Reina Sofía.",
+      "La Agencia de Información y Control Alimentarios.",
+      "El personal laboral que presta servicios en el exterior."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 2.a del IV Convenio Único: queda excluido **el personal laboral que presta servicios en el exterior**. Los otros tres organismos sí están incluidos. Ver [tema]({{base}}administrativo/temario/b4-08-personal-laboral/)."
+    },
+    {
+     "n": "33",
+     "tema": "Seguridad Social · Jubilación parcial",
+     "pregunta": "De acuerdo con lo dispuesto en el artículo 215 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, en el supuesto de jubilación parcial del personal laboral sujeto al IV Convenio único que tenga reconocida una discapacidad en grado igual o superior al 33 por ciento, ¿qué período de cotización mínimo se deberá acreditar para acceder a la prestación?",
+     "opciones": [
+      "Treinta y tres años.",
+      "Treinta años.",
+      "Veinticinco años.",
+      "Veinte años."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 215 LGSS: para la jubilación parcial se exigen, con carácter general, **33 años** cotizados; con una discapacidad igual o superior al **33 %**, **25 años**. Ver [tema]({{base}}administrativo/temario/b4-09-seguridad-social-laboral/)."
+    },
+    {
+     "n": "34",
+     "tema": "Presupuesto · Elaboración",
+     "pregunta": "Según el artículo 37 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, señale la respuesta correcta en relación con el proyecto de Ley de los Presupuestos Generales del Estado:",
+     "opciones": [
+      "El Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado al menos seis meses antes de la expiración de los del año anterior.",
+      "Corresponderá al Ministro de la Presidencia elevar al acuerdo del Gobierno el anteproyecto de la Ley de Presupuestos Generales del Estado.",
+      "Será remitido a las Cortes Generales antes del día 1 de octubre del año anterior al que se refiera.",
+      "Corresponderá al Ministro de Hacienda aprobar el anteproyecto de la Ley de Presupuestos Generales del Estado."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 37.1 LGP: el proyecto de Ley de Presupuestos se remite a las Cortes **antes del 1 de octubre** del año anterior. La CE (art. 134.3) habla de **tres meses** antes de que expiren los del año anterior, no seis; y el anteproyecto lo eleva al Gobierno el **Ministro de Hacienda** (no la Presidencia), pero lo **aprueba el Gobierno**. Ver [tema]({{base}}administrativo/temario/b5-01-presupuesto/)."
+    },
+    {
+     "n": "35",
+     "tema": "Presupuesto · Incorporaciones",
+     "pregunta": "De conformidad con el artículo 58 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, ¿mediante qué se financiarán las incorporaciones de crédito que afecten al presupuesto del Estado?",
+     "opciones": [
+      "Baja en el Fondo de Contingencia o baja en otros créditos de operaciones no financieras.",
+      "Baja en el Fondo de Contingencia o baja en otros créditos de operaciones no financieras o remanente de tesorería al fin del ejercicio anterior.",
+      "Baja en el Fondo de Contingencia o remanente de tesorería al fin del ejercicio anterior, o con mayores ingresos sobre los previstos inicialmente.",
+      "Baja en el Fondo de Contingencia, o con mayores ingresos sobre los previstos inicialmente."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 58 LGP: las incorporaciones que afectan al presupuesto del **Estado** se financian con **baja en el Fondo de Contingencia** o **baja en otros créditos de operaciones no financieras**. El **remanente de tesorería** es la financiación de las incorporaciones de los **organismos autónomos**. Ver [tema]({{base}}administrativo/temario/b5-02-presupuesto-estado/)."
+    },
+    {
+     "n": "36",
+     "tema": "Control · Tribunal de Cuentas",
+     "pregunta": "De conformidad con el artículo 2 de la Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas, ¿cuál de las siguientes funciones le corresponde al Tribunal de Cuentas?",
+     "opciones": [
+      "El control financiero permanente.",
+      "La fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público.",
+      "La función interventora.",
+      "La auditoria pública."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 2 LO 2/1982: son funciones del Tribunal de Cuentas la **fiscalización externa, permanente y consuntiva** de la actividad económico-financiera del sector público y el **enjuiciamiento de la responsabilidad contable**. La función interventora, el control financiero permanente y la auditoría pública son el control **interno** de la **IGAE**. Ver [tema]({{base}}administrativo/temario/b5-03-ejecucion-gasto/)."
+    },
+    {
+     "n": "37",
+     "tema": "Retribuciones · Conceptos",
+     "pregunta": "Según el artículo 23 de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, señale la respuesta correcta en relación con los conceptos retributivos:",
+     "opciones": [
+      "En el caso de que un funcionario preste sus servicios sucesivamente en diferentes Cuerpos, Escalas, Clases o Categorías de distinto grupo de clasificación, tendrá derecho a seguir percibiendo los trienios devengados en los grupos anteriores.",
+      "Las pagas extraordinarias, que serán de dos al año por un importe mínimo cada una de ellas de una mensualidad del sueldo, se devengarán los meses de junio y diciembre.",
+      "Cuando un funcionario cambie de adscripción a grupo antes de completar un trienio, la fracción de tiempo transcurrido se considerará como tiempo de servicios prestados en el anterior grupo.",
+      "El complemento específico está destinado a retribuir el especial rendimiento, la actividad extraordinaria y el interés o iniciativa con que el funcionario desempeñe su trabajo."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 23.2.b Ley 30/1984: quien sirve sucesivamente en cuerpos de distinto grupo **sigue percibiendo los trienios devengados en los grupos anteriores**. La fracción de trienio sin completar se computa en el grupo **nuevo** (no en el anterior), las pagas extraordinarias son de una mensualidad de **sueldo y trienios**, y la opción d define el **complemento de productividad**. Ver [tema]({{base}}administrativo/temario/b5-04-retribuciones-nominas/)."
+    },
+    {
+     "n": "38",
+     "tema": "Pagos a justificar",
+     "pregunta": "Según el artículo 10 del Real Decreto 640/1987, de 8 de mayo, sobre pagos librados «a justificar», ¿cuándo deberán justificar los Cajeros pagadores la aplicación de las cantidades recibidas?",
+     "opciones": [
+      "Dentro del mes siguiente a la inversión de las mismas y en todo caso en el plazo de tres meses desde la percepción de los correspondientes fondos.",
+      "Como mínimo en las primeras quincenas de los meses de enero, abril, julio y octubre.",
+      "Dentro del mes siguiente a la inversión de las mismas y en todo caso en el plazo de seis meses desde la percepción de los correspondientes fondos.",
+      "Dentro de los tres meses siguientes a la inversión de las mismas y en todo caso en el plazo de seis meses desde la percepción de los correspondientes fondos."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 10 RD 640/1987: los cajeros justifican **dentro del mes siguiente a la inversión** de los fondos y, **en todo caso, en tres meses** desde que los perciben. Las primeras quincenas de enero, abril, julio y octubre son las fechas de los **estados de situación de tesorería** de los **anticipos de caja fija**. Ver [tema]({{base}}administrativo/temario/b5-05-gastos-pagos/)."
+    },
+    {
+     "n": "39",
+     "tema": "Ejecución del gasto · Tramitación anticipada",
+     "pregunta": "De acuerdo con la regla 42 de la Orden del Ministerio de Economía y Hacienda, de 1 de febrero de 1996, por la que se aprueba la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado, en la tramitación anticipada de expedientes de contratación:",
+     "opciones": [
+      "El Servicio gestor competente para la tramitación del gasto expedirá un documento RC de \"ejercicio corriente\" y un RC de “ejercicios posteriores” detallando el importe que del gasto en cuestión corresponde a cada uno de los ejercicios posteriores afectados.",
+      "El Servicio gestor competente para la tramitación del gasto expedirá un documento RC de “ejercicios posteriores” detallando el importe que del gasto en cuestión corresponde a cada uno de los ejercicios posteriores afectados.",
+      "El Servicio gestor competente para la tramitación del gasto expedirá un documento RC de \"tramitación anticipada\" detallando el importe que del gasto en cuestión corresponde a cada uno de los ejercicios posteriores afectados.",
+      "El Servicio gestor competente para la tramitación del gasto expedirá un documento RC de \"ejercicio corriente\" y un RC de \"tramitación anticipada\" detallando el importe que del gasto en cuestión corresponde a cada uno de los ejercicios posteriores afectados."
+     ],
+     "respuesta": "c",
+     "explicacion": "Regla 42 de la Instrucción de operatoria contable (Orden de 1 de febrero de 1996): en la tramitación anticipada el servicio gestor expide un **RC de «tramitación anticipada»** con el importe que corresponde a cada ejercicio posterior. Ver [tema]({{base}}administrativo/temario/b5-03-ejecucion-gasto/)."
+    },
+    {
+     "n": "40",
+     "tema": "Subvenciones · Órganos",
+     "pregunta": "De acuerdo con el artículo 10 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, ¿quién tiene la competencia para la concesión de una subvención de cuantía de 10 millones de euros en un Organismo Autónomo?",
+     "opciones": [
+      "El Presidente o Director del Organismo Autónomo, sin que esta competencia pueda ser objeto de desconcentración.",
+      "El Presidente o Director del Organismo Autónomo previa autorización del Consejo de Ministros, sin que esta competencia pueda ser objeto de desconcentración.",
+      "El Presidente o Director del Organismo Autónomo; esta competencia podrá ser objeto de desconcentración.",
+      "El Presidente o Director del Organismo Autónomo previa autorización del Consejo de Ministros; esta competencia podrá ser objeto de desconcentración."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 10 Ley 38/2003: en los organismos públicos conceden los **presidentes o directores**, y la competencia **puede desconcentrarse** por real decreto. La autorización previa del Consejo de Ministros solo hace falta **por encima de 12 millones**, y aquí son 10. Ver [tema]({{base}}administrativo/temario/b5-06-contratos-subvenciones/)."
+    },
+    {
+     "n": "41",
+     "tema": "Informática · Procesador",
+     "pregunta": "¿Cuál de las siguientes definiciones corresponde a un procesador?",
+     "opciones": [
+      "Unidad funcional de una computadora u otro dispositivo electrónico que se encarga de la búsqueda, interpretación y ejecución de instrucciones.",
+      "Unidad de información compuesta generalmente de ocho bits.",
+      "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas, como el tratamiento de textos, el diseño de gráficos, la resolución de problemas matemáticos, el manejo de bancos de datos, etc.",
+      "Dispositivo de memoria de gran capacidad integrado en la computadora o en otro dispositivo electrónico, o conectado a ellos."
+     ],
+     "respuesta": "a",
+     "explicacion": "El **procesador** (CPU) es la unidad que **busca, interpreta y ejecuta instrucciones**. La b define el **byte**, la c un **programa** y la d un **disco duro**. Ver [tema]({{base}}administrativo/temario/b6-01-informatica-basica/)."
+    },
+    {
+     "n": "42",
+     "tema": "Informática · Seguridad",
+     "pregunta": "¿Cuál de los siguientes sistemas de seguridad tiene como función específica detectar y eliminar software de tipo malware?",
+     "opciones": [
+      "Gestor de contraseñas.",
+      "Firewall.",
+      "Antivirus.",
+      "VPN (Red Privada Virtual)."
+     ],
+     "respuesta": "c",
+     "explicacion": "El **antivirus** detecta y elimina malware. El cortafuegos filtra conexiones, la VPN cifra la conexión y el gestor de contraseñas las guarda. Ver [tema]({{base}}administrativo/temario/b6-01-informatica-basica/)."
+    },
+    {
+     "n": "43",
+     "tema": "Informática · Memoria",
+     "pregunta": "¿Cuál de los siguientes elementos realiza la función de guardar de forma temporal todos los programas y sus procesos de ejecución?",
+     "opciones": [
+      "Disipador.",
+      "CPU.",
+      "Tarjeta gráfica.",
+      "Memoria RAM."
+     ],
+     "respuesta": "d",
+     "explicacion": "La **memoria RAM** guarda de forma **temporal** (volátil) los programas en ejecución y sus datos. Ver [tema]({{base}}administrativo/temario/b6-01-informatica-basica/)."
+    },
+    {
+     "n": "44",
+     "tema": "Informática · Unidades",
+     "pregunta": "Si un programa está utilizando 30 GB, ¿cuántos KB está utilizando?",
+     "opciones": [
+      "300.000 KB.",
+      "3.000 KB.",
+      "3.000.000 KB.",
+      "30.000.000 KB."
+     ],
+     "respuesta": "d",
+     "explicacion": "Con el sistema decimal que usa la plantilla, 1 GB = 1.000 MB = 1.000.000 KB, así que **30 GB = 30.000.000 KB**. (En binario serían 30 × 1.024 × 1.024 = 31.457.280 KB, que no está entre las opciones.) Ver [tema]({{base}}administrativo/temario/b6-01-informatica-basica/)."
+    },
+    {
+     "n": "45",
+     "tema": "Windows 11 · Notificaciones",
+     "pregunta": "¿Cuál de las siguientes opciones permite acceder a las notificaciones de Windows 11?",
+     "opciones": [
+      "Las notificaciones están en la sección Accesibilidad de la Configuración, a la que se accede desde el menú de Inicio de Windows.",
+      "Las notificaciones están en el Centro de actividades, al que se acceden haciendo clic en el icono del Área de calendario y notificación en la esquina inferior derecha de la barra de tareas.",
+      "Las notificaciones están disponibles en el accesorio Noticias, al que se accede desde el menú de Inicio de Windows.",
+      "Las notificaciones están en el Menú de Windows, al que se accede en el icono de la barra de tareas o mediante la tecla Windows."
+     ],
+     "respuesta": "b",
+     "explicacion": "En Windows 11 las notificaciones se abren haciendo clic en la **fecha y la hora** (área de calendario y notificaciones) de la esquina inferior derecha de la barra de tareas, o con **Windows + N**. Ver [tema]({{base}}administrativo/temario/b6-02-windows/)."
+    },
+    {
+     "n": "46",
+     "tema": "Microsoft 365 · Copilot",
+     "pregunta": "¿Cuál es la función principal de Microsoft 365 Copilot en el entorno laboral?",
+     "opciones": [
+      "Funcionar como una herramienta con tecnología de inteligencia artificial que genera respuestas en tiempo real basadas en datos de la organización e Internet.",
+      "Gestionar de forma autónoma la seguridad de la red sin intervención del administrador de tecnología de la información.",
+      "Servir como un sistema de almacenamiento de archivos en la nube con funciones de autoguardado.",
+      "Proveer un catálogo de aplicaciones centralizado que permite buscar, descargar e instalar aplicaciones, juegos, películas y extensiones de forma segura."
+     ],
+     "respuesta": "a",
+     "explicacion": "**Microsoft 365 Copilot** es un asistente con **inteligencia artificial** que genera respuestas basadas en los datos de la organización (correos, documentos, reuniones) y de Internet. La d describe Microsoft Store y la c, OneDrive. Ver [tema]({{base}}administrativo/temario/b6-02-windows/)."
+    },
+    {
+     "n": "47",
+     "tema": "Windows 11 · Búsqueda",
+     "pregunta": "Señale cuál de las siguientes afirmaciones referidas a la búsqueda de Windows 11 es correcta:",
+     "opciones": [
+      "Windows Search busca en la web y los archivos, pero no busca en la configuración ni en aplicaciones y también puede incluir contenido de OneDrive, SharePoint, Outlook y Bing si se autoriza por el usuario.",
+      "Windows Search busca en la web, las aplicaciones, la configuración y los archivos, pero no incluye OneDrive, SharePoint o Outlook.",
+      "Windows Search busca en la web las aplicaciones, la configuración y los archivos y también puede incluir contenido de OneDrive, SharePoint, Outlook, Bing y otros servicios y aplicaciones si se autoriza por el usuario.",
+      "Windows Search solo busca en la web y los archivos almacenados en el dispositivo, incluyendo los de OneDrive solo si están sincronizados y almacenados en local, pero no realiza ninguna búsqueda en localizaciones externas al dispositivo."
+     ],
+     "respuesta": "c",
+     "explicacion": "Windows Search busca en **la web, las aplicaciones, la configuración y los archivos**, y puede incluir contenido de **OneDrive, SharePoint, Outlook, Bing** y otros servicios si el usuario lo autoriza. Ver [tema]({{base}}administrativo/temario/b6-02-windows/)."
+    },
+    {
+     "n": "48",
+     "tema": "Windows 11 · Explorador",
+     "pregunta": "¿Cuál de los siguientes grupos de diseños de vista del Explorador de archivos de Windows 11 tiene todos los elementos correctos?",
+     "opciones": [
+      "Iconos muy grandes – Contenido – Iconos muy pequeños.",
+      "Lista – Detalles – Iconos medianos.",
+      "Iconos muy pequeños – Extendido – Mosaico.",
+      "Mosaico – Iconos medianos – Extendido."
+     ],
+     "respuesta": "b",
+     "explicacion": "Las vistas del Explorador son: Iconos muy grandes, grandes, medianos y pequeños, **Lista**, **Detalles**, **Mosaicos** y **Contenido**. «Iconos muy pequeños» y «Extendido» no existen. Ver [tema]({{base}}administrativo/temario/b6-03-explorador/)."
+    },
+    {
+     "n": "49",
+     "tema": "Windows 11 · Este equipo",
+     "pregunta": "Hacemos un clic derecho de ratón sobre “Este equipo” en el Panel de navegación del Explorador de archivos de Windows 11 y seleccionamos la opción Propiedades. ¿Cuál de las siguientes opciones es la que se abre con esta acción?",
+     "opciones": [
+      "La ventana Propiedades del disco local C:",
+      "La Configuración de Windows en el apartado de Sistema.",
+      "La ventana de Administración de equipos.",
+      "El asistente para agregar una ubicación de red."
+     ],
+     "respuesta": "b",
+     "explicacion": "Clic derecho en **Este equipo > Propiedades** abre **Configuración > Sistema > Información**, con los datos del dispositivo. Ver [tema]({{base}}administrativo/temario/b6-03-explorador/)."
+    },
+    {
+     "n": "50",
+     "tema": "Windows 11 · Asistencia rápida",
+     "pregunta": "¿Cuál es la funcionalidad del Accesorio de Windows 11 \"Asistencia rápida\"?",
+     "opciones": [
+      "Abrir una incidencia en el servicio de Soporte Técnico de Microsoft.",
+      "Acceder al sitio web que aloja la base de conocimientos (knowledge base) de Windows, con las preguntas y respuestas más habituales sobre el sistema operativo.",
+      "Permitir el acceso remoto y toma de control de nuestro dispositivo a otra persona, así como solicitar a otra persona que comparta su pantalla con nosotros.",
+      "Acceder a la configuración de la cuenta de Windows registrada en el sistema operativo, en la página de contraseñas guardadas."
+     ],
+     "respuesta": "c",
+     "explicacion": "**Asistencia rápida** permite que otra persona **vea o controle tu equipo de forma remota** para ayudarte, o que tú ayudes a otra. Ver [tema]({{base}}administrativo/temario/b6-03-explorador/)."
+    },
+    {
+     "n": "51",
+     "tema": "Word 365 · Formato de fuente",
+     "pregunta": "En Word 365, a la siguiente línea de texto “E l r í o E b r o .” se le han aplicado varios formatos. ¿Cuál de las siguientes respuestas indicadas recoge de forma correcta estos formatos aplicados?",
+     "opciones": [
+      "Fuente en cursiva y con espaciado extendido.",
+      "Fuente en cursiva y superíndice.",
+      "Fuente doble tachado y con espaciado extendido.",
+      "Fuente con espaciado comprimido y versalitas."
+     ],
+     "respuesta": "a",
+     "explicacion": "El texto aparece inclinado (**cursiva**) y con las letras separadas, que es el **espaciado expandido** (Fuente > Avanzado > Espaciado). Ver [tema]({{base}}administrativo/temario/b6-04-word/)."
+    },
+    {
+     "n": "52",
+     "tema": "Word 365 · Notas al final",
+     "pregunta": "En Word 365, se han insertado notas al final en las siguientes palabras: Tajoi y Dueroii . ¿Cuál de los siguientes es el comportamiento resultante de situar el ratón sobre los símbolos que referencian las notas junto a las palabras?",
+     "opciones": [
+      "Dirige el cursor de texto a la posición donde está la nota.",
+      "Aparece un cuadro emergente con el texto añadido a la nota.",
+      "No ocurre nada, es necesario hacer clic con el ratón para disparar cualquier evento.",
+      "Se sustituye temporalmente el texto de la palabra reseñada por el texto de la nota."
+     ],
+     "respuesta": "b",
+     "explicacion": "Al **situar el ratón** sobre la marca de una nota al pie o al final, Word muestra un **cuadro emergente con el texto de la nota**; para ir a ella hay que hacer doble clic. Ver [tema]({{base}}administrativo/temario/b6-04-word/)."
+    },
+    {
+     "n": "53",
+     "tema": "Word 365 · Transcribir",
+     "pregunta": "Señale la respuesta correcta sobre la función Transcribir de Word 365:",
+     "opciones": [
+      "Los usuarios con una suscripción a Microsoft 365 pueden transcribir un máximo de 600 minutos de audio cargado al mes.",
+      "Las grabaciones se almacenarán en la carpeta Archivos transcritos en Google Drive.",
+      "Se puede transcribir la voz grabando directamente en Word o cargando un archivo de audio.",
+      "Convierte la voz en una transcripción de texto sin distinguir ni separar a los diferentes oradores."
+     ],
+     "respuesta": "c",
+     "explicacion": "**Transcribir** convierte voz en texto **grabando directamente en Word o cargando un archivo de audio**, y **separa a los distintos oradores**. Los archivos se guardan en **OneDrive**, no en Google Drive. Ver [tema]({{base}}administrativo/temario/b6-04-word/)."
+    },
+    {
+     "n": "54",
+     "tema": "Word 365 · Imprimir",
+     "pregunta": "Se necesita imprimir un documento Word 365 pero sin incluir las marcas de revisión. ¿Qué ajuste se debe realizar para poder imprimir sin necesidad de aceptar todos los cambios?",
+     "opciones": [
+      "Cambiar la orientación de la página de Vertical a Horizontal para que los comentarios se desplacen fuera del área de impresión.",
+      "Cambiar la vista del documento a Modo de lectura antes imprimir.",
+      "En la pestaña Revisar y seleccionar \"Aceptar todos los cambios\", ya que Word 365 siempre imprime las marcas de revisión.",
+      "En el menú de Configuración de impresión, desmarcar la casilla \"Imprimir documento con revisiones\"."
+     ],
+     "respuesta": "d",
+     "explicacion": "En **Archivo > Imprimir**, en el desplegable de qué imprimir, se **desmarca «Imprimir marcas»** (imprimir documento con revisiones) y sale el documento sin ellas, sin aceptar los cambios. Ver [tema]({{base}}administrativo/temario/b6-04-word/)."
+    },
+    {
+     "n": "55",
+     "tema": "Excel 365 · FILAS",
+     "pregunta": "En una celda de Excel 365 tenemos la siguiente fórmula: =FILAS(Registros[Fecha]). Si el resultado que muestra es 5, indique cuál es el funcionamiento de la fórmula:",
+     "opciones": [
+      "Establece para las filas seleccionadas de la tabla Registros el formato de fecha.",
+      "Devuelve la diferencia de días en las fechas de la columna Registros.",
+      "Establece un máximo de filas, en este caso 5, admisibles en la columna Fecha.",
+      "Devuelve el número de filas de la columna Fecha en la tabla Registros."
+     ],
+     "respuesta": "d",
+     "explicacion": "**FILAS** devuelve el **número de filas** de una referencia. Con una referencia estructurada, **Registros[Fecha]** es la columna Fecha de la tabla Registros (sin encabezado): tiene 5 filas de datos. Ver [tema]({{base}}administrativo/temario/b6-05-excel/)."
+    },
+    {
+     "n": "56",
+     "tema": "Excel 365 · Formato de fecha",
+     "pregunta": "En Excel 365, ¿cuál de los siguientes valores es correcto si aplicamos el siguiente formato de fecha a una celda: dd/mmm/aa?",
+     "opciones": [
+      "11/agosto/24",
+      "11/agosto/2024",
+      "Once de agosto del año 2024",
+      "11/ago/24"
+     ],
+     "respuesta": "d",
+     "explicacion": "En los códigos de formato, **dd** es el día con dos cifras, **mmm** el mes abreviado (ago) y **aa** el año con dos cifras: **11/ago/24**. «mmmm» daría «agosto» y «aaaa», 2024. Ver [tema]({{base}}administrativo/temario/b6-05-excel/)."
+    },
+    {
+     "n": "57",
+     "tema": "Excel 365 · Rangos",
+     "pregunta": "En Excel 365, al trabajar con rangos, ¿cuál de las siguientes opciones describe correctamente un rango discontinuo?",
+     "opciones": [
+      "B2:B2",
+      "$B$2:$C$4",
+      "B2:C4",
+      "B2:C2;B4:C4"
+     ],
+     "respuesta": "d",
+     "explicacion": "Un rango **discontinuo** une varios rangos con el separador de argumentos (**;** en la configuración española): **B2:C2;B4:C4**. Ver [tema]({{base}}administrativo/temario/b6-05-excel/)."
+    },
+    {
+     "n": "58",
+     "tema": "Excel 365 · Función NO",
+     "pregunta": "¿Qué función de Excel 365 se encarga de invertir el valor lógico de su argumento?",
+     "opciones": [
+      "NO",
+      "CAMBIAR",
+      "ESLOGICO",
+      "MINVERSA"
+     ],
+     "respuesta": "a",
+     "explicacion": "**NO** invierte el valor lógico: NO(VERDADERO) devuelve FALSO. MINVERSA es la matriz inversa, ESLOGICO comprueba si un valor es lógico y CAMBIAR elige entre valores. Ver [tema]({{base}}administrativo/temario/b6-05-excel/)."
+    },
+    {
+     "n": "59",
+     "tema": "Access 365 · Formatos",
+     "pregunta": "Vemos el siguiente número en un campo de Access 365: 2.345,68. ¿Cuál de los siguientes formatos de campo se ha utilizado?",
+     "opciones": [
+      "Numero general.",
+      "Moneda.",
+      "Estándar.",
+      "Porcentaje."
+     ],
+     "respuesta": "c",
+     "explicacion": "El formato **Estándar** muestra separador de miles y **dos decimales** (2.345,68). **Moneda** añadiría el símbolo (€), **Número general** no pone separador de miles y **Porcentaje** multiplica por 100. Ver [tema]({{base}}administrativo/temario/b6-06-access/)."
+    },
+    {
+     "n": "60",
+     "tema": "Access 365 · Consultas de parámetros",
+     "pregunta": "En la vista de Diseño de consultas en Access 365 hemos seleccionado el campo llamado “Fecha Alta” e incluimos como criterio para el campo el texto: [Fecha de Alta], ¿cuál de las siguientes opciones describe correctamente el efecto que produce esta acción al ejecutar la consulta?",
+     "opciones": [
+      "Filtra la consulta por los registros que tienen algún dato en el campo “Fecha Alta”.",
+      "En el resultado de la consulta sustituye el valor del campo “Fecha Alta” por el texto “Fecha de Alta” en todos los registros.",
+      "Aparecerá la ventana “Introduzca el valor del parámetro”, con el texto “Fecha de Alta”, solicitando una fecha para filtrar el resultado de la consulta por el campo “Fecha Alta”.",
+      "No producirá ninguna acción ya que el nombre del campo y el texto incluido en el criterio son diferentes."
+     ],
+     "respuesta": "c",
+     "explicacion": "Un texto **entre corchetes** que no coincide con ningún campo es un **parámetro**: al ejecutar la consulta aparece «Introduzca el valor del parámetro» con ese texto. Ver [tema]({{base}}administrativo/temario/b6-06-access/)."
+    },
+    {
+     "n": "61",
+     "tema": "Access 365 · Orden de tabulación",
+     "pregunta": "En el diseño del formulario de Access 365 podemos seleccionar el Orden automático para definir el orden de desplazamiento entre los campos. ¿Cuál será ese orden?",
+     "opciones": [
+      "De derecha a izquierda y de arriba hacia abajo.",
+      "De izquierda a derecha y de arriba hacia abajo.",
+      "De derecha a izquierda y de abajo hacia arriba.",
+      "De izquierda a derecha y de abajo hacia arriba."
+     ],
+     "respuesta": "b",
+     "explicacion": "El **Orden automático** de tabulación de un formulario va **de izquierda a derecha y de arriba abajo**. Ver [tema]({{base}}administrativo/temario/b6-06-access/)."
+    },
+    {
+     "n": "62",
+     "tema": "Access 365 · Datos adjuntos",
+     "pregunta": "En Access 365, ¿cuál es el tamaño máximo que puede almacenar un campo de tipo “Datos adjuntos” en una tabla?",
+     "opciones": [
+      "Hasta 2 GB.",
+      "Solo lo limita el espacio disponible en el disco duro.",
+      "255 caracteres.",
+      "64 bytes."
+     ],
+     "respuesta": "a",
+     "explicacion": "Un campo **Datos adjuntos** admite archivos **hasta 2 GB** en total, que es el tamaño máximo de un archivo de base de datos de Access. Ver [tema]({{base}}administrativo/temario/b6-06-access/)."
+    },
+    {
+     "n": "63",
+     "tema": "Correo electrónico",
+     "pregunta": "¿Cuál de las siguientes afirmaciones es la correcta con respecto a los correos electrónicos?",
+     "opciones": [
+      "No se pueden enviar mensajes de correo electrónico entre dos PCs sin la intervención de un servidor de correo.",
+      "Una dirección de correo electrónico podría no hacer uso de la arroba (@).",
+      "Es posible enviar correos electrónicos entre dos terminales de una computadora central, sin la participación de esta.",
+      "El envío de un correo electrónico no requiere del uso de un protocolo de comunicaciones."
+     ],
+     "respuesta": "anulada",
+     "explicacion": "**Anulada** por el tribunal. La sustituye la reserva 2. Ver [tema]({{base}}administrativo/temario/b6-07-outlook/)."
+    },
+    {
+     "n": "64",
+     "tema": "Outlook 365 · Permisos de carpeta",
+     "pregunta": "Queremos dar permiso a otro usuario sobre una carpeta en particular de Outlook 365 clásico. ¿Qué nivel de permisos debemos darle si queremos que pueda crear nuevos elementos, pero no pueda leer ni editar los elementos ya creados en la carpeta?",
+     "opciones": [
+      "Autor de publicación.",
+      "Revisor.",
+      "Colaborador.",
+      "Editor."
+     ],
+     "respuesta": "anulada",
+     "explicacion": "**Anulada** por el tribunal. Pedía el nivel que permite **crear elementos sin leer los existentes**, que en Outlook clásico es **Colaborador**. La sustituye la reserva 3. Ver [tema]({{base}}administrativo/temario/b6-07-outlook/)."
+    },
+    {
+     "n": "65",
+     "tema": "Outlook 365 · Búsqueda",
+     "pregunta": "En Outlook 365, en la barra de búsqueda escribimos el texto: cc:\"Ana Muñoz\", ¿cuál de las siguientes opciones indica de forma correcta qué mensajes devolverá la búsqueda de Outlook?",
+     "opciones": [
+      "Devolverá los elementos en los que la dirección de correo electrónico tenga como nombre anamunoz, (por ejemplo, anamunoz@outlook.com), en la línea cc (con copia).",
+      "No devolverá ningún elemento ya que buscará aquellos que en la línea cc (con copia), tengan en la dirección de correo el texto Ana Muñoz, lo que no es correcto en una dirección de correo.",
+      "Devolverá los elementos en los que Ana Muñoz está en la línea cc (con copia), solo si tenemos este nombre, con el correo electrónico, entre nuestros contactos de Outlook.",
+      "Devolverá los elementos en los que el nombre Ana Muñoz esté en la línea cc (con copia)."
+     ],
+     "respuesta": "d",
+     "explicacion": "El prefijo **cc:** busca en la línea **CC**, y entre comillas busca la frase exacta: devuelve los mensajes en los que **Ana Muñoz** figura en CC, esté o no entre tus contactos. Ver [tema]({{base}}administrativo/temario/b6-07-outlook/)."
+    },
+    {
+     "n": "66",
+     "tema": "Outlook 365 · Grupos",
+     "pregunta": "En Outlook 365 creamos un grupo para un equipo de trabajo de varios integrantes, ¿cuál de las siguientes opciones es correcta con respecto a la recepción de mensajes de correo?",
+     "opciones": [
+      "No se genera ninguna dirección de correo específica, pero todos los mensajes que se envíen a algún integrante del grupo serán reenviados al resto de los componentes.",
+      "El correo del integrante que ha creado el grupo queda como correo del grupo. Esta persona posteriormente podrá aplicar reglas de reenvío a otros integrantes del grupo, según su criterio.",
+      "Al crear el grupo se genera una dirección de correo del grupo, habilitado para recibir mensajes. No importa si el grupo es público o privado, cualquiera puede enviar mensajes al correo del grupo que serán distribuidos a todos sus integrantes.",
+      "Al crear el grupo se genera una dirección de correo del grupo habilitado para recibir mensajes. Si el grupo es público, cualquiera puede enviar mensajes al correo del grupo, que serán distribuidos a todos sus integrantes."
+     ],
+     "respuesta": "d",
+     "explicacion": "Al crear un **grupo de Microsoft 365** se genera una **dirección de correo del grupo**. Si es **público**, cualquiera puede escribir a esa dirección y el mensaje llega a todos los miembros. Ver [tema]({{base}}administrativo/temario/b6-07-outlook/)."
+    },
+    {
+     "n": "67",
+     "tema": "Internet · Microsoft Edge",
+     "pregunta": "¿Es posible anclar un sitio web al menú Inicio utilizando Microsoft Edge de Windows 11?",
+     "opciones": [
+      "No es posible, ya que en el menú Inicio sólo se pueden anclar aplicaciones de productividad.",
+      "No es posible, ya que los sitios web solo pueden guardarse como marcadores o favoritos en el navegador.",
+      "Sí es posible, haciendo clic en Configuración y más, luego Favoritos, y por último Anclar a Inicio.",
+      "Sí es posible, haciendo clic en Configuración y más, luego Más herramientas, y por último Anclar a Inicio."
+     ],
+     "respuesta": "d",
+     "explicacion": "En Edge: **Configuración y más (…) > Más herramientas > Anclar a Inicio**. Ver [tema]({{base}}administrativo/temario/b6-08-internet/)."
+    },
+    {
+     "n": "68",
+     "tema": "Internet · Web 4.0",
+     "pregunta": "¿En cuál de los siguientes tipos de web se da por supuesto el uso de Inteligencia Artificial?",
+     "opciones": [
+      "Página web dinámica.",
+      "Página de Inicio.",
+      "Web 4.0.",
+      "World Wide Web."
+     ],
+     "respuesta": "c",
+     "explicacion": "La **Web 4.0** es la web «inteligente», que da por supuesto el uso de **inteligencia artificial** para anticiparse al usuario. La 2.0 es la web social y la 3.0, la semántica. Ver [tema]({{base}}administrativo/temario/b6-08-internet/)."
+    },
+    {
+     "n": "69",
+     "tema": "Internet · Spam",
+     "pregunta": "¿Cuál de los siguientes términos hace referencia a una práctica ilegal en la mayoría de los sistemas legales e implica enviar comunicaciones masivas no solicitadas por medios como correo electrónico, mensajes instantáneos, de texto (SMS), redes sociales o incluso mensajes de voz?",
+     "opciones": [
+      "Dumping.",
+      "Spamming.",
+      "Streaming.",
+      "Malware."
+     ],
+     "respuesta": "b",
+     "explicacion": "El **spamming** es el envío **masivo de comunicaciones no solicitadas** (correo, SMS, redes sociales…). Ver [tema]({{base}}administrativo/temario/b6-08-internet/)."
+    },
+    {
+     "n": "70",
+     "tema": "Internet · Escritorio virtual",
+     "pregunta": "Cuál de los siguientes términos corresponde a la siguiente descripción: “Estación de trabajo existente en forma virtual que está separada de los dispositivos físicos que la utilizan. Se puede acceder, por ejemplo, a través de conexiones WiFi”.",
+     "opciones": [
+      "Servicio web.",
+      "Escritorio virtual.",
+      "Sistema de detección de intrusiones.",
+      "Web semántica."
+     ],
+     "respuesta": "b",
+     "explicacion": "Un **escritorio virtual** es un puesto de trabajo que existe en forma virtual, **separado del dispositivo físico** que lo usa, y al que se accede por la red. Ver [tema]({{base}}administrativo/temario/b6-08-internet/)."
+    }
+   ]
+  },
+  {
+   "id": "r1",
+   "titulo": "Reserva de la primera parte",
+   "descripcion": "Las reservas 1, 2 y 3 sustituyen a las preguntas 24, 63 y 64, anuladas.",
+   "preguntas": [
+    {
+     "n": "R1",
+     "tema": "Subvenciones · Fecha de gasto",
+     "pregunta": "De acuerdo con el anexo I de la Orden de 1 de febrero de 1996 por la que se aprueban los documentos contables a utilizar por la Administración General del Estado modificada por la Orden HAC/965/2024, en las subvenciones en régimen de concurrencia:",
+     "opciones": [
+      "Una vez aprobado el acuerdo de concesión, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido las condiciones para el pago de la subvención.",
+      "Una vez aprobado el acuerdo de concesión, se indicará como fecha de gasto la fecha en la que el beneficiario haya realizado la actividad subvencionable.",
+      "Una vez aprobado el acuerdo de concesión, se indicará como fecha de gasto la fecha en la que el beneficiario haya realizado la actividad subvencionable o en la que se tenga constancia documental de dicha realización.",
+      "Una vez aprobado el acuerdo de concesión, se indicará como fecha de gasto la fecha en la que el beneficiario haya iniciado la actividad subvencionable."
+     ],
+     "respuesta": "a",
+     "explicacion": "Anexo I de la Orden de 1 de febrero de 1996 (nota 34, apartado II.a.1): en las subvenciones **en concurrencia**, aprobada la concesión, la fecha de gasto es la fecha en que **consta documentalmente que el beneficiario ha cumplido las condiciones para el pago**. Contó porque se anuló la pregunta 24. Ver [tema]({{base}}administrativo/temario/b5-06-contratos-subvenciones/)."
+    },
+    {
+     "n": "R2",
+     "tema": "Access 365 · Criterios",
+     "pregunta": "En Access 365, en la vista Diseño tenemos una consulta con información de los empleados públicos de un Departamento Ministerial. Necesitamos identificar los funcionarios de carrera (campo Tipo_empleado_publico) que cumplan una de estas dos condiciones: aquellos cuya toma de posesión sea posterior al 01/01/2024 (campo Toma_posesion) o aquellos que su nivel de complemento de destino sea igual o superior a 28 (campo Nivel). ¿Cómo deben configurarse los criterios?",
+     "opciones": [
+      "En la fila Criterios del campo Tipo_empleado_publico, escribimos \"Funcionario de carrera\" y en la fila Criterios del campo Toma_posesion, escribimos >#01/01/2024#. En la fila inferior (o:), repetimos “Funcionario de carrera” en la fila Criterios del campo Tipo_empleado_publico y, en Criterios del campo Nivel, escribimos >=28.",
+      "En la fila Criterios del campo Tipo_empleado_publico, escribimos \"Funcionario de carrera\" y en el campo Toma_posesion, escribimos >#01/01/2024#. En la fila Criterios del campo Nivel, escribimos >=28.",
+      "En la fila Criterios del campo Tipo_empleado_publico, escribimos \"Funcionario de carrera\" y en el campo Toma_posesion, escribimos >*01/01/2024*. En la fila inferior (o:), repetimos “Funcionario de carrera” en el campo Tipo_empleado_publico y, en el campo Nivel, escribimos <=28.",
+      "En la fila Criterios del campo Tipo_empleado_publico, escribimos \"Funcionario de carrera\". En la fila inferior (o:), el campo Toma_posesion escribimos >#01/01/2024#, y en el campo Nivel, escribimos >=28."
+     ],
+     "respuesta": "a",
+     "explicacion": "Las condiciones en la **misma fila** se unen con **Y**; en filas distintas («o:»), con **O**. Como «funcionario de carrera» debe cumplirse en los dos casos, se **repite en las dos filas**: en una con la fecha **>#01/01/2024#** (las fechas van entre almohadillas) y en la otra con **>=28** en Nivel. Contó porque se anuló la 63. Ver [tema]({{base}}administrativo/temario/b6-06-access/)."
+    },
+    {
+     "n": "R3",
+     "tema": "Unión Europea · Competencias exclusivas",
+     "pregunta": "Según el artículo 3 del Tratado de Funcionamiento de la Unión Europea, ¿en qué ámbitos la Unión Europea dispondrá de competencia exclusiva?",
+     "opciones": [
+      "Para la celebración de cualquier acuerdo internacional.",
+      "En la conservación de los recursos biológicos marinos dentro de las políticas pesqueras de los Estados miembros.",
+      "En la política comercial de los Estados miembros cuya moneda es el euro.",
+      "En el establecimiento de las normas sobre competencia necesarias para el funcionamiento del mercado interior."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 3.1 TFUE: son exclusivas la unión aduanera, **las normas sobre competencia necesarias para el funcionamiento del mercado interior**, la política **monetaria** de los Estados del euro, la conservación de los recursos biológicos marinos en la **política pesquera común** y la política **comercial común**. Los acuerdos internacionales solo en ciertos casos (art. 3.2). Contó porque se anuló la 64. Ver [tema]({{base}}administrativo/temario/b1-11-union-europea/)."
+    },
+    {
+     "n": "R4",
+     "tema": "Administración electrónica · Notificaciones",
+     "pregunta": "Señale la respuesta correcta en relación con la práctica de las notificaciones electrónicas reguladas en el artículo 43 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+     "opciones": [
+      "Las notificaciones por medios electrónicos se entenderán practicadas en el momento en que se produzca el acceso a su contenido.",
+      "Cuando la notificación por medios electrónicos sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido cinco días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido.",
+      "Los interesados deberán acceder a las notificaciones desde el Punto de Acceso General electrónico de la Administración, que funcionará como un portal de acceso.",
+      "Las notificaciones por medios electrónicos se practicarán mediante notificación en la carpeta ciudadana."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 43.2 Ley 39/2015: la notificación electrónica se entiende practicada **cuando se accede a su contenido**, y rechazada a los **diez días naturales** (no cinco) sin acceder. Al Punto de Acceso General los interesados **podrán** acceder (no «deberán»). No contó. Ver [tema]({{base}}administrativo/temario/b2-03-administracion-electronica/)."
+    },
+    {
+     "n": "R5",
+     "tema": "Constitución · Consejo de Estado",
+     "pregunta": "Conforme al artículo 107 de la Constitución Española, el supremo órgano consultivo del Gobierno es:",
+     "opciones": [
+      "El Congreso de los Diputados.",
+      "El Consejo Supremo Consultivo.",
+      "El Consejo de Estado.",
+      "La Comisión Consultiva del Gobierno."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 107 CE: el **Consejo de Estado** es el supremo órgano consultivo del Gobierno. No contó. Ver [tema]({{base}}administrativo/temario/b1-05-gobierno/)."
+    }
+   ]
+  },
+  {
+   "id": "s1",
+   "titulo": "Segunda parte · Supuesto I (Confederación Hidrográfica)",
+   "descripcion": "Doña Clara Hevia presenta ante la Confederación Hidrográfica del Duero una solicitud de autorización de obras en un terreno de su propiedad situado en zona de policía de cauces, y en septiembre de 2025, la Confederación Hidrográfica resuelve autorizar a Doña Clara Hevia a construir una vivienda unifamiliar con garaje ubicada en dicha zona de policía de cauces de la margen derecha del río Tormes, en el término municipal de Barco de Ávila.\n\nCon posterioridad, en octubre de ese año, tras un ciclo de varias borrascas, el Agente Medioambiental del Organismo, encargado de la supervisión de esa zona, comprueba el estado de inundación de los terrenos y elabora un informe que pone de manifiesto la existencia de errores en el estudio hidrológico aportado en el expediente de autorización, concluyendo que la zona de futura construcción de la vivienda es inundable.\n\nTras recibir el informe, la Confederación Hidrográfica inicia un procedimiento para dejar sin efecto la autorización otorgada.\n\nDoña Clara Hevia recibe la comunicación de inicio de este expediente y, preocupada, decide ir personalmente a las oficinas de la Confederación para presentar las alegaciones. Al intentar acceder al edificio con su silla de ruedas, se da cuenta de la presencia de tres escalones que le impiden el acceso, por lo que decide volverse a su casa para presentarlas a través del registro electrónico, y al mismo tiempo, formular una queja.\n\nEl funcionario Don Eduardo Merino, del Cuerpo General Administrativo de la Administración General del Estado y Jefe de Negociado de Registro, recibe la queja de la misma usuaria y la traslada a la Secretaría General. Este órgano decide iniciar un expediente de contratación para mejorar la accesibilidad del edificio que alberga la sede del Registro.\n\nAdemás, el servicio de contratación de la Confederación Hidrográfica tiene que contratar el mantenimiento de los ascensores del edificio por un importe de 100.000 €, no pudiendo este gasto demorarse. No existe crédito en otras partidas presupuestarias y el crédito inicial del capítulo afectado del presupuesto de gastos del organismo, que no es ampliable, es de 85.000 €.\n\nA su vez, Don Eduardo Merino, que pronto será padre de su primer hijo, acaba de ver en la página web del INAP que ha sido una de las personas aspirantes que ha superado el proceso selectivo de acceso, por promoción interna, al Cuerpo de Gestión de la Administración Civil del Estado.\n\nInmediatamente le va a comunicar la noticia a Doña Elisa Sanz, Secretaria General de la Confederación, quien le felicita a la vez que le informa que en breve dejará su puesto para irse a vivir a Madrid al resultar adjudicataria de un puesto obtenido en un procedimiento de libre designación.",
+   "preguntas": [
+    {
+     "n": "1",
+     "tema": "Procedimiento · Subsanación",
+     "pregunta": "La Confederación Hidrográfica realiza una notificación a Doña Clara Hevia, en referencia a la autorización de vivienda en la zona de policía de cauces, indicándole la falta de firma en la solicitud y requiriéndole que aporte la firma o acredite la autenticidad de su voluntad expresada por cualquier medio, con indicación de que, si así no lo hiciera:",
+     "opciones": [
+      "Se considerará que renuncia a su derecho.",
+      "Se la tendrá por desistida de su petición.",
+      "Procederá la caducidad del expediente.",
+      "Se procederá a la suspensión del procedimiento."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 68.1 Ley 39/2015: si la solicitud no reúne los requisitos (aquí, la firma), se requiere al interesado para que subsane en **10 días**, con indicación de que, si no lo hace, **se le tendrá por desistido** de su petición. Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "2",
+     "tema": "Procedimiento · Cómputo de plazos",
+     "pregunta": "Doña Clara Hevia recibe la notificación de subsanación de su solicitud de autorización el martes, 3 de junio de 2025. Teniendo en cuenta el plazo previsto en el artículo 68 de la Ley 39/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y que no hay días festivos en el mes de junio, ¿cuál sería el último día del plazo para poder presentar la documentación?",
+     "opciones": [
+      "Lunes, 16 de junio.",
+      "Martes, 17 de junio.",
+      "Lunes, 23 de junio.",
+      "Martes, 24 de junio."
+     ],
+     "respuesta": "b",
+     "explicacion": "Son **10 días hábiles** (art. 68.1) contados desde el **día siguiente** a la notificación (art. 30.3), sin sábados, domingos ni festivos. Notificada el martes 3 de junio, el día 1 es el miércoles 4 y el día 10 es el **martes 17 de junio**. (El enunciado llama a la Ley 39/2015 «de Régimen Jurídico del Sector Público», que es el nombre de la 40/2015; no cambia la respuesta.) Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "3",
+     "tema": "Revisión de oficio · Lesividad",
+     "pregunta": "Comprobado el riesgo de inundación de los terrenos, ¿qué vía tiene la Confederación Hidrográfica para dejar sin efecto la resolución de autorización de construcción de la vivienda en zona de policía de cauces otorgada a favor de Doña Clara Hevia?",
+     "opciones": [
+      "La declaración de oficio de la anulabilidad de la autorización.",
+      "La revocación de la autorización.",
+      "La rectificación de errores.",
+      "La declaración de lesividad de la autorización."
+     ],
+     "respuesta": "d",
+     "explicacion": "La autorización es un acto **favorable** para la interesada y tiene un vicio que lo hace **anulable** (se basó en un estudio hidrológico erróneo). Para eliminar un acto favorable anulable, la Administración debe **declararlo lesivo** y después impugnarlo ante la jurisdicción contencioso-administrativa (art. 107 Ley 39/2015). La revocación (art. 109) solo cabe para actos **de gravamen o desfavorables**. Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "4",
+     "tema": "Procedimiento · Audiencia",
+     "pregunta": "Doña Clara Hevia recibe la notificación de la Confederación Hidrográfica donde se le comunica el inicio del procedimiento para dejar sin efecto la autorización para construir la vivienda, a la vez que abre un trámite de audiencia a la interesada para que pueda alegar lo que estime oportuno. ¿Cuál es el plazo mínimo que se le puede otorgar para realizar dicho trámite?",
+     "opciones": [
+      "Cinco días.",
+      "Diez días.",
+      "Quince días.",
+      "Veinte días."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 82.2 Ley 39/2015: el trámite de audiencia dura **no menos de diez días ni más de quince**. El mínimo, por tanto, es **diez días**. Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "5",
+     "tema": "Revisión de oficio · Caducidad",
+     "pregunta": "Si transcurridos seis meses desde el inicio del procedimiento el Organismo no le notifica resolución alguna, ¿qué puede entender Doña Clara Hevia?",
+     "opciones": [
+      "Que el procedimiento ha caducado.",
+      "Que la Administración desiste del procedimiento.",
+      "Que se produce la prescripción de la autorización.",
+      "Que se desestima su solicitud de autorización."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 107.3 Ley 39/2015: si pasan **seis meses** desde el inicio sin que se declare la lesividad, **el procedimiento caduca**. Es la regla general de los procedimientos iniciados de oficio con efectos desfavorables (art. 25.1.b). Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "6",
+     "tema": "Calidad · Quejas",
+     "pregunta": "Doña Clara Hevia decide formular su queja al Organismo Autónomo por falta de accesibilidad del edificio por correo electrónico. ¿Qué exigirá la Confederación Hidrográfica para la validez de esa queja, conforme al artículo 15 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado?",
+     "opciones": [
+      "Que adjunte una copia de la documentación que acredite su identidad.",
+      "Que la haya presentado previamente en portal de quejas de la Administración General del Estado.",
+      "Las quejas recibidas por correo electrónico carecen de validez, salvo cuando contengan sello electrónico.",
+      "Que esté suscrita con la firma electrónica de Doña Clara Hevia."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 15.2 RD 951/2005: las quejas y sugerencias presentadas **por correo electrónico o por Internet deben estar suscritas con la firma electrónica del interesado**. Ver [tema]({{base}}administrativo/temario/b2-01-atencion-publico/)."
+    },
+    {
+     "n": "7",
+     "tema": "Contratos · Regulación armonizada",
+     "pregunta": "El órgano de contratación fija el valor estimado del contrato de mejora de accesibilidad en 143.000 euros. ¿Debe el Organismo entender que es un contrato sujeto a regulación armonizada?",
+     "opciones": [
+      "No, porque su valor estimado es inferior a 5.404.000 euros.",
+      "No, porque el valor estimado no supera el importe de 216.000 euros.",
+      "Sí, porque su valor estimado es superior a 140.000 euros.",
+      "Sí, porque, aunque no supera el umbral del valor estimado, es adjudicado por un Organismo Autónomo de la Administración General del Estado."
+     ],
+     "respuesta": "a",
+     "explicacion": "Unas obras de mejora de accesibilidad son un **contrato de obras**, cuyo umbral de regulación armonizada en 2026-2027 es **5.404.000 €** (art. 20 LCSP actualizado). 143.000 € está muy por debajo. Los 140.000 y 216.000 € son umbrales de **servicios y suministros**. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "8",
+     "tema": "Presupuesto · Clasificación económica",
+     "pregunta": "Conforme a lo dispuesto en la Resolución de 20 de enero de 2014, de la Dirección General de Presupuestos, por la que se establecen los códigos que definen la clasificación económica, ¿con cargo a qué capítulo, artículo, concepto y subconcepto, en su caso, se abonará la ejecución del contrato de mejora de accesibilidad?",
+     "opciones": [
+      "162.00",
+      "226.02",
+      "450",
+      "630"
+     ],
+     "respuesta": "d",
+     "explicacion": "Las obras de mejora de un edificio son **inversión real** (**capítulo 6**), no gasto corriente. La plantilla da como correcta la **630** (artículo 63, inversión de **reposición** asociada al funcionamiento de los servicios). La 162.00 es formación del personal (cap. 1), la 226.02 publicidad (cap. 2) y la 450 una transferencia corriente (cap. 4). Ver [tema]({{base}}administrativo/temario/b5-05-gastos-pagos/)."
+    },
+    {
+     "n": "9",
+     "tema": "Contratos · Abierto simplificado",
+     "pregunta": "La Confederación Hidrográfica decide adjudicar el contrato mediante un procedimiento abierto simplificado. ¿Dónde se debe publicar el anuncio de licitación, según lo dispuesto por el artículo 159 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público?",
+     "opciones": [
+      "En el Diario Oficial de la Unión Europea, en el Boletín Oficial del Estado y en el de la provincia de Valladolid.",
+      "En el Boletín Oficial del Estado y en el Boletín Oficial de Castilla y León.",
+      "En el Boletín Oficial del Estado y en el perfil del contratante de la Confederación Hidrográfica del Duero.",
+      "Únicamente en el perfil del contratante de la Confederación Hidrográfica del Duero."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 159.2 LCSP: en el procedimiento abierto simplificado el anuncio de licitación se publica **únicamente en el perfil de contratante** del órgano de contratación. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "10",
+     "tema": "Contratos · Garantía definitiva",
+     "pregunta": "Finalmente el contrato de mejora de accesibilidad se adjudica a la empresa “Soluciones ADAPTA, S.L.” por importe de 120.000 euros (IVA excluido). ¿Cuál será la cuantía de la garantía definitiva del contrato?",
+     "opciones": [
+      "7.250 euros.",
+      "7.150 euros.",
+      "6.000 euros.",
+      "3.600 euros."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 107.1 LCSP: la garantía definitiva es el **5 % del precio final ofertado, IVA excluido**: 5 % × 120.000 = **6.000 €**. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "11",
+     "tema": "Presupuesto · Suplemento de crédito en un OA",
+     "pregunta": "¿Quién tendrá la competencia para autorizar el suplemento de crédito de 15.000 € para hacer frente a la insuficiencia del crédito debido a la contratación del mantenimiento de los ascensores?",
+     "opciones": [
+      "La Presidenta de la Confederación Hidrográfica.",
+      "El Ministro de Hacienda.",
+      "El Consejo de Ministros.",
+      "Las Cortes Generales."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 56.3 LGP: en un **organismo autónomo**, el presidente o director autoriza hasta el **10 %** del capítulo y 500.000 €; el **Ministro de Hacienda**, si se supera alguno de esos límites sin llegar al **20 %** ni a 1.000.000 €; y el Consejo de Ministros, en los demás casos. 15.000 € sobre 85.000 € es el **17,6 %** → **Ministro de Hacienda**. Ver [tema]({{base}}administrativo/temario/b5-02-presupuesto-estado/)."
+    },
+    {
+     "n": "12",
+     "tema": "Presupuesto · Financiación en un OA",
+     "pregunta": "¿Cómo se financiará dicho suplemento?",
+     "opciones": [
+      "Con el remanente de tesorería al fin del ejercicio anterior que no haya sido aplicado en el presupuesto del organismo o con baja en otros créditos de operaciones no financieras.",
+      "Con el remanente de tesorería al fin del ejercicio anterior que no haya sido aplicado en el presupuesto del organismo, o con mayores ingresos sobre los previstos.",
+      "Con el Fondo de Contingencia o con mayores ingresos sobre los previstos.",
+      "Con el Fondo de Contingencia o con baja en otros créditos de operaciones no financieras."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 56.2 LGP: en los organismos autónomos, los créditos extraordinarios y suplementos **solo** se financian con la parte del **remanente de tesorería** al fin del ejercicio anterior no aplicada al presupuesto o con **mayores ingresos** sobre los previstos. El Fondo de Contingencia y las bajas en otros créditos son la financiación del **Estado** (art. 55). Ver [tema]({{base}}administrativo/temario/b5-02-presupuesto-estado/)."
+    },
+    {
+     "n": "13",
+     "tema": "Contabilidad · Documento MC",
+     "pregunta": "¿Qué documento expedirá la Dirección General de Presupuestos con la aprobación de la Modificación presupuestaria de conformidad con la Orden de 1 de febrero de 1996 por la que se aprueban los documentos contables a utilizar por la Administración General del Estado?",
+     "opciones": [
+      "Documento MC.",
+      "Documento I.",
+      "Documento OK.",
+      "Documento PMP."
+     ],
+     "respuesta": "a",
+     "explicacion": "El documento **MC** recoge las **modificaciones de crédito**; lo expide la Dirección General de Presupuestos al aprobarlas. Ver [tema]({{base}}administrativo/temario/b5-03-ejecucion-gasto/)."
+    },
+    {
+     "n": "14",
+     "tema": "Carrera · Grado personal",
+     "pregunta": "Don Eduardo Merino quiere saber qué grado tiene consolidado antes de ser nombrado funcionario en prácticas del Cuerpo de Gestión de la Administración Civil del Estado. Si tomó posesión de su primer destino como funcionario de carrera en un puesto de Jefe de Negociado, nivel 16, el 12 de marzo de 2021 y el 1 de abril de 2023 pasa a ocupar un puesto de Jefe de Sección, nivel 20, en comisión de servicios, ¿qué grado personal tendrá consolidado en enero de 2026, si aún continúa en comisión de servicios?",
+     "opciones": [
+      "El grado 16.",
+      "El grado 18.",
+      "El grado 20.",
+      "No ha consolidado el grado."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 70 RD 364/1995: el grado se consolida con **dos años continuados** en puestos del nivel (o tres con interrupción). Del 12-3-2021 al 12-3-2023 consolidó el **16**. El tiempo en **comisión de servicios** en el nivel 20 solo cuenta para ese grado si después **obtiene con carácter definitivo** ese puesto u otro de igual o superior nivel (art. 70.6), y no es el caso. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "15",
+     "tema": "Situaciones · Excedencia",
+     "pregunta": "Don Eduardo Merino superó con éxito el proceso selectivo en el Cuerpo de Gestión de la Administración Civil del Estado, por el turno de promoción interna. El día de la toma de posesión, ¿qué tipo excedencia deberá solicitar en el Cuerpo General Administrativo?",
+     "opciones": [
+      "Una excedencia incentivada.",
+      "Una excedencia voluntaria por interés particular.",
+      "Una excedencia voluntaria por prestación de servicios en el sector público.",
+      "Una excedencia forzosa."
+     ],
+     "respuesta": "c",
+     "explicacion": "Quien accede a otro cuerpo y pasa a servicio activo en él queda en el de origen en **excedencia voluntaria por prestación de servicios en el sector público** (art. 15 RD 365/1995). Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
+    },
+    {
+     "n": "16",
+     "tema": "Funcionarios · Toma de posesión",
+     "pregunta": "El 9 marzo de 2026 se publica en el Boletín Oficial del Estado el nombramiento de Don Eduardo Merino como funcionario de carrera del Cuerpo de Gestión de la Administración Civil del Estado. ¿De qué plazo dispondrá para tomar posesión si no cambia de lugar de residencia?",
+     "opciones": [
+      "10 días hábiles.",
+      "15 días naturales.",
+      "15 días hábiles.",
+      "Un mes."
+     ],
+     "respuesta": "b",
+     "explicacion": "Las resoluciones de nombramiento de funcionarios de carrera de la AGE fijan **un plazo de 15 días naturales** desde el día siguiente a su publicación en el BOE para tomar posesión (un mes si hay cambio de localidad de residencia). No es un plazo fijado en una ley: lo establece cada resolución. Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
+    },
+    {
+     "n": "17",
+     "tema": "Permisos · Nacimiento",
+     "pregunta": "Don Eduardo Merino decide disfrutar del permiso por nacimiento de su hijo o hija, previsto en el artículo 49. c) del texto refundido de la Ley del Estatuto Básico del Empleado Público, de forma interrumpida. ¿Con cuánto tiempo deberá preavisar a la Confederación?",
+     "opciones": [
+      "El mismo día del nacimiento del hijo o hija.",
+      "Al menos 10 días.",
+      "Al menos 15 días.",
+      "No se requerirá preaviso."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 49.c TREBEP: si el permiso se disfruta de forma **interrumpida**, cada período exige un **preaviso de al menos quince días** y se toma por semanas completas. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "18",
+     "tema": "Permisos · Tiempo parcial",
+     "pregunta": "¿Cuántas semanas del total del permiso por el nacimiento de su hijo o hija puede Don Eduardo Merino disfrutar a tiempo parcial?",
+     "opciones": [
+      "Seis semanas.",
+      "Diez semanas.",
+      "Trece semanas.",
+      "Diecinueve semanas."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 49.c TREBEP: de las **19 semanas**, las **6** primeras son obligatorias y **a jornada completa**; las **11** siguientes y las **2** que pueden usarse hasta que el menor cumpla 8 años pueden disfrutarse **a tiempo parcial**: 11 + 2 = **13 semanas**. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "19",
+     "tema": "Situaciones · Servicio activo",
+     "pregunta": "La Secretaria General de la Confederación Hidrográfica y jefa de Don Eduardo Merino acaba de resultar adjudicataria, en un procedimiento de libre designación, del puesto de Subdirectora General de Análisis, Coordinación y Estadística del Ministerio de Agricultura, Pesca y Alimentación. ¿En qué situación administrativa se encontrará tras tomar posesión del puesto?",
+     "opciones": [
+      "Excedencia por incompatibilidad.",
+      "Servicio en otras Administraciones Públicas.",
+      "Servicios especiales.",
+      "Servicio activo."
+     ],
+     "respuesta": "d",
+     "explicacion": "Obtener un puesto de la propia AGE por **libre designación** (aquí, una Subdirección General) no cambia la situación: la funcionaria sigue en **servicio activo**. Los servicios especiales son para altos cargos y otros supuestos del art. 87 TREBEP, no para un puesto de Subdirector. Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
+    },
+    {
+     "n": "20",
+     "tema": "Provisión · Plazo de toma de posesión",
+     "pregunta": "¿Hasta qué fecha tendrá la Secretaria General para tomar posesión en su nuevo puesto si se tiene en cuenta que el cese en su puesto actual se produce el lunes, 3 de marzo de 2025, y que le supondrá un cambio de residencia de Valladolid a Madrid?",
+     "opciones": [
+      "Hasta el martes, 4 de marzo de 2025.",
+      "Hasta el miércoles, 5 de marzo de 2025.",
+      "Hasta el jueves, 3 de abril de 2025.",
+      "Hasta el viernes, 4 de abril de 2025."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 48.1 RD 364/1995 (aplicable a la libre designación por el art. 57): con **cambio de residencia** el plazo es de **un mes**, contado desde el **día siguiente al cese**. Cese el lunes 3 de marzo de 2025 → el plazo termina el **jueves 3 de abril de 2025** (los plazos en meses acaban el mismo día del mes, art. 30.4 Ley 39/2015). Sin cambio de residencia serían 3 días hábiles. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    }
+   ]
+  },
+  {
+   "id": "rs1",
+   "titulo": "Reserva del supuesto I",
+   "descripcion": "No se anuló ninguna pregunta del supuesto I, así que estas no contaron (la reserva 2 se anuló).",
+   "preguntas": [
+    {
+     "n": "R1",
+     "tema": "Vacaciones · Permiso por nacimiento",
+     "pregunta": "¿Hasta cuándo podrá disfrutar Don Eduardo Merino de sus vacaciones ya que, como consecuencia del disfrute del permiso por nacimiento de su hijo o hija, no va a poder hacerlo durante el año 2026?",
+     "opciones": [
+      "Hasta junio de 2027.",
+      "Hasta diciembre de 2027.",
+      "Hasta junio de 2028.",
+      "Hasta diciembre de 2028."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 50.2 TREBEP: si un permiso por nacimiento impide disfrutar las vacaciones en su año, se pueden tomar después, siempre que no pasen **más de 18 meses desde el final del año** en que se generaron. Vacaciones de 2026 → hasta **junio de 2028**. No contó (no se anuló ninguna pregunta del supuesto I)."
+    },
+    {
+     "n": "R2",
+     "tema": "Indemnizaciones · Dietas",
+     "pregunta": "Don Eduardo Merino recibe la orden de desplazarse, por motivos de trabajo, a un almacén que la Confederación Hidrográfica tiene a las afueras de Valladolid, para llevar cajas con expedientes antiguos y proceder a su archivo. Si sale a las 9:00 horas en un vehículo oficial y regresa a las 18:00 horas a la oficina donde trabaja habitualmente, ¿tiene derecho a la percepción de dietas conforme al Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio?",
+     "opciones": [
+      "No, porque la salida tiene una duración inferior a un día natural.",
+      "No, porque la salida está dentro de su jornada y horario habitual de trabajo y no debe desplazarse fuera del término municipal.",
+      "Sí, tendrá derecho al 50% del importe de la dieta por manutención, porque la salida se efectúa antes de las catorce horas y finaliza después de las dieciséis horas.",
+      "Sí, tendrá derecho al 100% del importe de la dieta por manutención, porque la salida se efectúa antes de las catorce horas y finaliza después de las dieciséis horas."
+     ],
+     "respuesta": "anulada",
+     "explicacion": "**Anulada** por el tribunal. Planteaba si un desplazamiento de 9:00 a 18:00 a las afueras del mismo municipio genera dietas según el RD 462/2002. Ver [tema]({{base}}administrativo/temario/b5-04-retribuciones-nominas/)."
+    },
+    {
+     "n": "R3",
+     "tema": "Selección · Nombramiento",
+     "pregunta": "¿Qué órgano es el competente para el nombramiento de los funcionarios que acceden al Cuerpo de Gestión de la Administración Civil del Estado por promoción interna?",
+     "opciones": [
+      "El Ministro para la Transformación Digital y de la Función Pública.",
+      "La Secretaria de Estado de Función Pública.",
+      "El Subsecretario del Ministerio para la Transformación Digital y de la Función Pública.",
+      "La Directora General de la Función Pública."
+     ],
+     "respuesta": "b",
+     "explicacion": "Los funcionarios de carrera de los cuerpos adscritos al Ministerio para la Transformación Digital y de la Función Pública (como el Cuerpo de Gestión de la Administración Civil del Estado) los nombra la **Secretaría de Estado de Función Pública**, por resolución que se publica en el BOE. No contó. Ver [tema]({{base}}administrativo/temario/b4-01-personal/)."
+    },
+    {
+     "n": "R4",
+     "tema": "Contratos · Documentos contables",
+     "pregunta": "Al inicio del expediente de contratación de mantenimiento de los ascensores, ¿qué documento contable deberá expedir el servicio gestor?",
+     "opciones": [
+      "Documento RC.",
+      "Documento A.",
+      "Documento AD.",
+      "Documento ADOK."
+     ],
+     "respuesta": "a",
+     "explicacion": "Al **iniciar** un expediente de contratación hay que acreditar que hay crédito: el servicio gestor expide un **RC** (retención de crédito). El **A** llega con la aprobación del expediente y del gasto. No contó. Ver [tema]({{base}}administrativo/temario/b5-06-contratos-subvenciones/)."
+    },
+    {
+     "n": "R5",
+     "tema": "Calidad · Contestación de quejas",
+     "pregunta": "Si Doña Clara Hevia formula su queja el 11 de noviembre de 2025, ¿de qué plazo dispone la Administración para informarle de las actuaciones realizadas, conforme a lo previsto en el artículo 16 del Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado?",
+     "opciones": [
+      "10 días hábiles.",
+      "15 días hábiles.",
+      "20 días hábiles.",
+      "Un mes."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 16.1 RD 951/2005: la unidad de quejas informa al interesado de las actuaciones realizadas en **20 días hábiles** (suspendible si hay que pedirle aclaraciones en 10 días hábiles). No contó. Ver [tema]({{base}}administrativo/temario/b2-01-atencion-publico/)."
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "titulo": "Segunda parte · Supuesto II (Ministerio e INAP)",
+   "descripcion": "El Ministerio para la Transformación Digital y de la Función Pública quiere realizar un contrato de servicios cuyo objeto sería el reconocimiento médico de su personal por un valor estimado de 90.000 € por un año con prórroga.\n\nDebido al incremento de los salarios públicos dispuesto en el Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público, existe una insuficiencia de crédito en el capítulo 1 de este Ministerio.\n\nEl Instituto Nacional de Administración Pública (INAP), organismo autónomo adscrito al Ministerio para la Transformación Digital y de la Función Pública a través de la Secretaría de Estado de Función Pública, quiere realizar un gasto con cargo al subconcepto 226.07 pero el crédito es insuficiente, por lo que ese gasto se financia desde el Ministerio para la Transformación Digital y de la Función Pública mediante incremento en la aplicación presupuestaria 33.101.921O.227.06 del INAP.\n\nEl gasto con cargo al subconcepto 226.07 es necesario para llevar a cabo un convenio de colaboración con la Universidad Complutense de Madrid con el objeto de celebrar un proceso selectivo de personal laboral del Instituto Nacional de las Artes Escénicas y de la Música (INAEM).\n\nCarmen Pérez, funcionaria del INAP, que ocupa un puesto obtenido por concurso, quiere participar en otro concurso del Ministerio para la Transformación Digital y de la Función Pública para ocupar una plaza en el Gabinete de la Secretaría de Estado de Función Pública.\n\nAdemás, se ha casado con un funcionario del Ministerio de Hacienda en octubre de 2025 y está embarazada de 4 meses.",
+   "preguntas": [
+    {
+     "n": "1",
+     "tema": "Contratos · Procedimiento",
+     "pregunta": "Sabiendo el tipo y el importe del contrato del reconocimiento médico, ¿cuál sería el procedimiento de licitación más adecuado y ágil para este tipo de contrato?",
+     "opciones": [
+      "Procedimiento negociado.",
+      "Procedimiento restringido.",
+      "Procedimiento abierto simplificado.",
+      "Procedimiento abierto simplificado abreviado del artículo 159.6. de la Ley de Contratos del Sector Público."
+     ],
+     "respuesta": "c",
+     "explicacion": "Un contrato de **servicios** de 90.000 € de valor estimado está por debajo del umbral armonizado (140.000 €), así que cabe el **abierto simplificado** (art. 159.1 LCSP). El **abreviado** del art. 159.6 solo vale para servicios de **menos de 60.000 €**, y el negociado y el restringido no son los más ágiles ni proceden aquí. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "2",
+     "tema": "Contratos · Valor estimado",
+     "pregunta": "¿Qué se ha tenido en cuenta para el cálculo del valor estimado de 90.000 euros en el contrato del reconocimiento médico considerando que la duración es de un año prorrogable por otro?",
+     "opciones": [
+      "El importe total sin el Impuesto sobre el Valor Añadido, sin prórrogas.",
+      "El importe total con el Impuesto sobre el Valor Añadido, con prórrogas.",
+      "El importe total con el Impuesto sobre el Valor Añadido, sin prórrogas.",
+      "El importe total sin el Impuesto sobre el Valor Añadido, con prórrogas."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 101.1 y 2 LCSP: el valor estimado es el importe total **sin IVA** e incluye **las prórrogas** (y las modificaciones previstas). Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "3",
+     "tema": "Presupuesto · Clasificación económica",
+     "pregunta": "¿A qué capítulo presupuestario de gastos se debe imputar el gasto de contratación del reconocimiento médico?",
+     "opciones": [
+      "Al Capítulo 1.",
+      "Al Capítulo 2.",
+      "Al Capítulo 4.",
+      "Al Capítulo 6."
+     ],
+     "respuesta": "anulada",
+     "explicacion": "**Anulada** por el tribunal. La sustituye la reserva 2 (la 1 también se anuló). Un servicio contratado a una empresa suele ser **capítulo 2**. Ver [tema]({{base}}administrativo/temario/b5-05-gastos-pagos/)."
+    },
+    {
+     "n": "4",
+     "tema": "Contratos · Capacidad",
+     "pregunta": "La empresa \"RECONOCIMIENTOS RÁPIDOS S.L.\" está interesada en saber quiénes pueden ser adjudicatarios en la licitación del reconocimiento médico. Señale la respuesta correcta:",
+     "opciones": [
+      "Las personas jurídicas solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que les sean propios.",
+      "Las personas naturales solo podrán ser adjudicatarias de contratos cuyas prestaciones estén comprendidas dentro de los fines, objeto o ámbito de actividad que les sean propios.",
+      "Solo pueden ser adjudicatarios públicos las personas naturales o jurídicas españolas.",
+      "No puede ser adjudicatario quién hubiera participado previamente en la elaboración de las especificaciones técnicas o de los documentos preparatorios del contrato o hubieran asesorado al órgano de contratación."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 66.1 LCSP: las **personas jurídicas** solo pueden ser adjudicatarias de contratos cuyas prestaciones estén dentro de sus **fines, objeto o ámbito de actividad** según sus estatutos. Pueden contratar también empresas **extranjeras**, y haber participado en la preparación **no excluye automáticamente** (art. 70). Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "5",
+     "tema": "Contratos · Duración",
+     "pregunta": "¿Qué duración máxima podría tener el contrato de servicios como el de reconocimiento médico del enunciado?",
+     "opciones": [
+      "Cuatro años, incluyendo las posibles prórrogas.",
+      "Cinco años, incluyendo las posibles prórrogas.",
+      "Cuatro años, excluyendo las posibles prórrogas.",
+      "Cinco años, excluyendo las posibles prórrogas."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 29.4 LCSP: los contratos de suministro y de **servicios** de prestación sucesiva duran como máximo **cinco años, incluidas las prórrogas**. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "6",
+     "tema": "Contratos · Plazo de adjudicación",
+     "pregunta": "¿Cuál sería el plazo máximo de adjudicación del contrato de reconocimiento médico si el único criterio fuese el precio?",
+     "opciones": [
+      "Quince días a contar desde el siguiente al de apertura de las proposiciones.",
+      "Cinco días a contar desde el siguiente al de apertura de las proposiciones.",
+      "Diez días a contar desde el siguiente al de apertura de las proposiciones.",
+      "Treinta días a contar desde el siguiente al de apertura de las proposiciones."
+     ],
+     "respuesta": "a",
+     "explicacion": "Art. 158.1 LCSP: si el **único criterio es el precio**, la adjudicación debe hacerse en **15 días** desde el siguiente a la apertura de las proposiciones (dos meses si hay varios criterios). Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "7",
+     "tema": "Contratos · No formalización",
+     "pregunta": "Por causa imputable a la empresa \"RECONOCIMIENTOS RÁPIDOS S.L.\", adjudicataria del contrato, no se formaliza el contrato, ¿qué importe se exigirá a la empresa en concepto de penalidad?",
+     "opciones": [
+      "Cinco por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía provisional, si se hubiera constituido.",
+      "Tres por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía provisional, si se hubiera constituido.",
+      "Cinco por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera constituido.",
+      "Tres por ciento del presupuesto base de licitación, IVA excluido, que se hará efectivo en primer lugar contra la garantía definitiva, si se hubiera constituido."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 153.4 LCSP: si el contrato no se formaliza por causa del adjudicatario, se le exige el **3 % del presupuesto base de licitación, IVA excluido**, que se cobra **primero contra la garantía definitiva**, si se hubiera constituido. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "8",
+     "tema": "Ejecución del gasto · Imputación",
+     "pregunta": "Finalmente, el contrato se formaliza con la empresa \"SIENDO SALUDABLE S.L.\", y comienza su ejecución. En diciembre de 2025 se reconoció una obligación económica, el ejercicio donde comprometió el gasto y el pago material se realizó en 2026, ¿a qué ejercicio se imputó contablemente y qué documento contable se expidió con el reconocimiento de la obligación?",
+     "opciones": [
+      "2025 - Documento OK.",
+      "2026 - Documento D.",
+      "2025 - Documento D.",
+      "2026 - Documento OK."
+     ],
+     "respuesta": "a",
+     "explicacion": "La obligación se imputa al ejercicio en que **se reconoce** (art. 49 LGP: obligaciones reconocidas hasta el 31 de diciembre), aunque se pague después: **2025**, con documento **OK** (reconocimiento de la obligación y propuesta de pago). Ver [tema]({{base}}administrativo/temario/b5-03-ejecucion-gasto/)."
+    },
+    {
+     "n": "9",
+     "tema": "Contratos · Prórroga",
+     "pregunta": "El Ministerio quiere que se ejecute la prórroga del contrato en 2026, ¿qué actuación tendrá que realizar?",
+     "opciones": [
+      "Ninguna, porque puede producirse la prórroga por el consentimiento tácito de las partes.",
+      "Se tendrá que acordar por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con dos meses de antelación según lo indicado en los pliegos.",
+      "Se tendrá que acordar por el órgano de contratación y será potestativa para el empresario, sin obligación de realizar ningún preaviso.",
+      "Se tendrá que acordar por el órgano de contratación y será potestativa para el empresario, siempre que su preaviso se produzca al menos con dos meses de antelación según lo indicado en los pliegos."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 29.2 LCSP: la prórroga la **acuerda el órgano de contratación** y es **obligatoria para el empresario** si se le preavisa con **al menos dos meses** de antelación (o el plazo mayor del pliego). **Nunca** se produce por consentimiento tácito. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "10",
+     "tema": "Presupuesto · Transferencias",
+     "pregunta": "El crédito consignado en el capítulo 1 debido a los incrementos de las retribuciones del personal es insuficiente, por lo que se realiza una transferencia de créditos del capítulo 2 al capítulo 1. ¿Quién es el competente para autorizar la anterior transferencia según la Ley 47/2003 General Presupuestaria?",
+     "opciones": [
+      "El Ministro para la Transformación Digital y de la Función Pública sin necesidad de previo informe favorable de la Intervención Delegada.",
+      "El Ministro para la Transformación Digital y de la Función Pública previo informe favorable de la Intervención Delegada.",
+      "El Ministro de Hacienda.",
+      "No se puede realizar esta transferencia de crédito."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 63.1.a LGP: el Ministro del departamento solo autoriza transferencias que **no afecten a créditos de personal**. Una transferencia **al capítulo 1** la autoriza el **Ministro de Hacienda** (art. 62.a). Ver [tema]({{base}}administrativo/temario/b5-02-presupuesto-estado/)."
+    },
+    {
+     "n": "11",
+     "tema": "Presupuesto · Generación de crédito",
+     "pregunta": "¿Qué modificación presupuestaria le corresponde realizar al INAP que incrementa los créditos como consecuencia de la realización de determinados ingresos superiores a los contemplados en el presupuesto inicial por la aportación realizada del Ministerio para la Transformación Digital y de la Función Pública al INAP?",
+     "opciones": [
+      "Crédito extraordinario.",
+      "Ampliación de crédito.",
+      "Generación de crédito.",
+      "Suplemento de crédito."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 53 LGP: la **generación** incrementa créditos por ingresos no previstos o superiores a los previstos; entre ellos, la **aportación del Estado a los organismos autónomos** (art. 53.2.a). Ver [tema]({{base}}administrativo/temario/b5-02-presupuesto-estado/)."
+    },
+    {
+     "n": "12",
+     "tema": "Presupuesto · Competencia de los OA",
+     "pregunta": "¿Quién es competente para aprobar la anterior modificación presupuestaria?",
+     "opciones": [
+      "El Gobierno.",
+      "El Ministro de Hacienda.",
+      "El Presidente del Organismo Autónomo pudiendo ser avocada la competencia por el Ministro para la Transformación Digital y de la Función Pública.",
+      "El Presidente del Organismo Autónomo sin que pueda ser avocada la competencia por el Ministro para la Transformación Digital y de la Función Pública."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 63.2 LGP: los presidentes o directores de los organismos autónomos ejercen, sobre su presupuesto, las competencias de los ministros del art. 63.1 (entre ellas, las generaciones del art. 53.2.a), y **el Ministro puede avocarlas**. Ver [tema]({{base}}administrativo/temario/b5-02-presupuesto-estado/)."
+    },
+    {
+     "n": "13",
+     "tema": "Convenios · Duración",
+     "pregunta": "¿Qué duración máxima puede tener el convenio entre el INAP y la Universidad Complutense de Madrid?",
+     "opciones": [
+      "Puede tener duración indeterminada.",
+      "No podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior y no podrá ser objeto de prórroga.",
+      "No podrá ser superior a cuatro años, salvo que normativamente se prevea un plazo superior, y se podrá acordar unánimemente su prórroga por un periodo de hasta cuatro años adicionales.",
+      "No podrá ser superior a dos años, salvo que normativamente se prevea un plazo superior, y se podrá acordar unánimemente su prórroga por un periodo de hasta dos años adicionales."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 49.h Ley 40/2015: los convenios no pueden durar **más de cuatro años**, salvo que una norma prevea más, y antes de que acaben los firmantes pueden acordar **unánimemente su prórroga hasta cuatro años más**. Ver [tema]({{base}}administrativo/temario/b3-05-actividad-administrativa/)."
+    },
+    {
+     "n": "14",
+     "tema": "Convenios · Extinción",
+     "pregunta": "Posteriormente al proceso selectivo de personal laboral el INAP quiere extinguir el convenio, ¿cuál de las siguientes respuestas NO se contempla en la normativa como causa de extinción de los convenios?",
+     "opciones": [
+      "El incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes.",
+      "El acuerdo unilateral por parte Administración General del Estado.",
+      "El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo.",
+      "Cumplimiento de las actuaciones que constituyen su objeto."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 51 Ley 40/2015: los convenios se extinguen por **cumplimiento** de su objeto o por **resolución** (fin del plazo sin prórroga, acuerdo **unánime**, **incumplimiento**, decisión judicial…). La decisión **unilateral** de una parte **no** es causa de extinción. Ver [tema]({{base}}administrativo/temario/b3-05-actividad-administrativa/)."
+    },
+    {
+     "n": "15",
+     "tema": "Personal laboral · Grupos profesionales",
+     "pregunta": "El proceso selectivo que se va a celebrar en el INAEM es para el grupo profesional E2, ¿qué titulación será exigida para el ingreso en dicho grupo?",
+     "opciones": [
+      "Título de Bachiller o Técnico o equivalentes.",
+      "Título de Graduado en Educación Secundaria Obligatoria.",
+      "Título Profesional Básico o equivalentes.",
+      "Sin titulación prevista en el sistema educativo."
+     ],
+     "respuesta": "a",
+     "explicacion": "IV Convenio Único (clasificación profesional): para el grupo **E2** se exige el **título de Bachiller o Técnico** o equivalentes. Ver [tema]({{base}}administrativo/temario/b4-08-personal-laboral/)."
+    },
+    {
+     "n": "16",
+     "tema": "Provisión · Permanencia mínima",
+     "pregunta": "Para participar en el concurso del Ministerio para la Transformación Digital y de la Función Pública, ¿cuánto debe haber permanecido en el puesto de trabajo obtenido con carácter definitivo la señora Carmen Pérez?",
+     "opciones": [
+      "Un mínimo de dos años desde la fecha en la que termine el plazo de presentación de las solicitudes de participación.",
+      "Un mínimo de dos años desde la fecha de la publicación de la convocatoria.",
+      "Sin ninguna limitación por razón de la Secretaría de Estado en donde presta servicio.",
+      "Un mínimo de un año desde la fecha en la que termine el plazo de presentación de las solicitudes de participación."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 41.2 RD 364/1995: hay que llevar **dos años** en el puesto definitivo para concursar, **salvo en el ámbito de la propia Secretaría de Estado** (o del Departamento si no la hay). Carmen está en el INAP, adscrito a través de la **Secretaría de Estado de Función Pública**, y concursa a un puesto de esa misma Secretaría de Estado: no tiene limitación. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "17",
+     "tema": "Provisión · Comisión de valoración",
+     "pregunta": "La composición de la Comisión de Valoración que valore los méritos alegados por los solicitantes del concurso deberá ajustarse al siguiente principio:",
+     "opciones": [
+      "Principio de composición equilibrada de mujeres y hombres, de acuerdo con la normativa vigente en materia de igualdad, que se entenderá cumplido siempre que ambos sexos estén representados al 50%.",
+      "Principio de composición equilibrada de mujeres y hombres, de acuerdo con la normativa vigente en materia de igualdad, que se entenderá cumplido siempre que ninguno de los sexos supere el 60% ni sea inferior al 40%.",
+      "Principio de representatividad, que implica que el número de los representantes de las organizaciones sindicales tendrá que ser igual o superior al de los miembros designados a propuesta de la Administración.",
+      "Principio de representatividad, que implica que el número de los representantes de las organizaciones sindicales tendrá que ser superior al de los miembros designados a propuesta de la Administración."
+     ],
+     "respuesta": "b",
+     "explicacion": "Las comisiones de valoración deben tener **composición equilibrada** de mujeres y hombres: ningún sexo **por encima del 60 % ni por debajo del 40 %** (disposición adicional 1.ª de la LO 3/2007). Los representantes sindicales, si los hay, no pueden ser más que los de la Administración. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "18",
+     "tema": "Provisión · Plazo de resolución",
+     "pregunta": "¿En qué plazo máximo se deberá resolver el concurso al que se quiere presentar la señora Carmen Pérez?",
+     "opciones": [
+      "Tres meses contados desde el día siguiente al de la iniciación de la presentación de solicitudes, salvo que la propia convocatoria establezca otro distinto.",
+      "Tres meses contados desde el día siguiente al de la finalización del de la presentación de solicitudes, salvo que la propia convocatoria establezca otro distinto.",
+      "Dos meses contados desde el día siguiente al de la iniciación de la presentación de solicitudes, salvo que la propia convocatoria establezca otro distinto.",
+      "Dos meses contados desde el día siguiente al de la finalización del de la presentación de solicitudes, salvo que la propia convocatoria establezca otro distinto."
+     ],
+     "respuesta": "d",
+     "explicacion": "Art. 47.1 RD 364/1995: el concurso se resuelve en **dos meses** desde el día siguiente al de **finalización** del plazo de presentación de solicitudes, salvo que la convocatoria diga otra cosa. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "19",
+     "tema": "Recursos",
+     "pregunta": "Finalmente se publica en BOE la Resolución de la Subsecretaría por la que se resuelve el concurso del Ministerio para la Transformación Digital y de la Función Pública y Carmen Pérez no resulta adjudicataria de ningún puesto. ¿Podría interponer algún recurso contra esta Resolución?",
+     "opciones": [
+      "Sí, podrá interponer, con carácter potestativo, recurso de reposición ante la Subsecretaria, en el plazo de un mes desde su publicación, o bien, recurso contencioso-administrativo, en el plazo de dos meses desde su publicación.",
+      "Únicamente podrá interponer recurso contencioso-administrativo, en el plazo de dos meses desde su publicación.",
+      "Sí, podrá interponer recurso de alzada ante el titular del Ministerio para la Transformación Digital y de la Función Pública en el plazo de un mes.",
+      "No, no cabe recurso alguno."
+     ],
+     "respuesta": "a",
+     "explicacion": "La resolución de la Subsecretaría en materia de personal **pone fin a la vía administrativa** (art. 114.2 Ley 39/2015: órganos con nivel de Director General o superior). Cabe **reposición potestativa** en **un mes** o **contencioso-administrativo** en **dos meses** (arts. 123 y 124 Ley 39/2015 y 46 Ley 29/1998). Ver [tema]({{base}}administrativo/temario/b3-03-procedimiento/)."
+    },
+    {
+     "n": "20",
+     "tema": "Permisos · Nacimiento",
+     "pregunta": "¿Qué duración máxima tendrá el permiso por nacimiento al que podrá acceder Carmen Pérez tras el nacimiento de su hijo o hija?",
+     "opciones": [
+      "Diecinueve semanas, de las cuales podrán disfrutarse seis semanas ininterrumpidas inmediatamente posteriores al parto, no serán obligatorias y habrán de disfrutarse a jornada completa.",
+      "Diecisiete semanas, de las cuales podrán disfrutarse seis semanas ininterrumpidas inmediatamente posteriores al parto, no serán obligatorias y habrán de disfrutarse a jornada completa.",
+      "Diecinueve semanas, de las cuales dos semanas pueden disfrutarse hasta que el hijo o la hija cumpla los ocho años.",
+      "Diecisiete semanas, de las cuales dos semanas pueden disfrutarse hasta que el hijo o la hija cumpla los ocho años."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 49.a TREBEP: el permiso por nacimiento de la madre biológica dura **19 semanas**: las **6** posteriores al parto son **obligatorias** y a jornada completa, y **2** pueden disfrutarse **hasta que el hijo o hija cumpla ocho años**. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    }
+   ]
+  },
+  {
+   "id": "rs2",
+   "titulo": "Reserva del supuesto II",
+   "descripcion": "Se anularon la pregunta 3 y la reserva 1: la sustituye la reserva 2.",
+   "preguntas": [
+    {
+     "n": "R1",
+     "tema": "Contratos · Garantía provisional",
+     "pregunta": "En relación con el contrato de reconocimientos médicos, señale la afirmación correcta:",
+     "opciones": [
+      "Es obligatoria la constitución de garantía provisional por el 2% del presupuesto base de licitación.",
+      "El órgano de contratación puede exigir garantía provisional si lo justifica en el expediente.",
+      "No procede la exigencia de garantía provisional.",
+      "Es obligatoria la constitución de garantía provisional por el 5% del presupuesto base de licitación."
+     ],
+     "respuesta": "anulada",
+     "explicacion": "**Anulada** por el tribunal. Recuerda: en el procedimiento **abierto simplificado** no se exige garantía provisional (art. 159.4.b LCSP). Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    },
+    {
+     "n": "R2",
+     "tema": "Permisos · Matrimonio",
+     "pregunta": "¿Qué duración tuvo el permiso por matrimonio de la funcionaria Carmen Pérez?",
+     "opciones": [
+      "Quince días hábiles.",
+      "Quince días naturales.",
+      "Veinte días hábiles.",
+      "Veinte días naturales."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 48.l TREBEP: el permiso por matrimonio o pareja de hecho es de **quince días**; la ley no dice «hábiles» y la plantilla los cuenta como **naturales**. (La regla de los días hábiles del art. 30 Ley 39/2015 es para plazos de procedimientos, no para la duración de un permiso.) Contó porque se anularon la pregunta 3 y la reserva 1. Ver [tema]({{base}}administrativo/temario/b4-05-provision-derechos-carrera/)."
+    },
+    {
+     "n": "R3",
+     "tema": "Presupuesto · Clasificación económica",
+     "pregunta": "¿Qué artículo del presupuesto del Ministerio para la Transformación Digital y de la Función Pública se verá afectado por la aportación realizada para incrementar el crédito del INAP?",
+     "opciones": [
+      "Artículo 41 “Transferencias corrientes a organismos autónomos”.",
+      "Artículo 71 “Transferencias de capital a organismos autónomos”.",
+      "Artículo 22 “Material, suministros y otros”.",
+      "Artículo 13 “Laborales”."
+     ],
+     "respuesta": "a",
+     "explicacion": "La aportación del Ministerio financia un **gasto corriente** del INAP (el subconcepto 226.07 es capítulo 2), así que en el presupuesto del Ministerio se imputa al artículo **41, «Transferencias corrientes a organismos autónomos»**. El artículo 71 sería para financiar inversiones. No contó. Ver [tema]({{base}}administrativo/temario/b5-05-gastos-pagos/)."
+    },
+    {
+     "n": "R4",
+     "tema": "Contratos · Aprobación del gasto",
+     "pregunta": "¿Quién debe aprobar el gasto para el contrato del reconocimiento médico?",
+     "opciones": [
+      "El Ministro para la Transformación Digital y de la Función Pública previa autorización del Consejo de Ministros.",
+      "El Ministro para la Transformación Digital y de la Función Pública previa autorización de la Secretaria de Estado de Función Pública.",
+      "El Ministro para la Transformación Digital y de la Función Pública.",
+      "El Director General del Tesoro y Política Financiera."
+     ],
+     "respuesta": "c",
+     "explicacion": "Art. 74 LGP: en la AGE aprueban los gastos los **Ministros** (y los secretarios de Estado y subsecretarios por delegación). La autorización previa del **Consejo de Ministros** solo hace falta en contratos de valor estimado **igual o superior a 12 millones** (art. 324 LCSP). No contó. Ver [tema]({{base}}administrativo/temario/b5-03-ejecucion-gasto/)."
+    },
+    {
+     "n": "R5",
+     "tema": "Contratos · Tipos",
+     "pregunta": "Tras los reconocimientos médicos del personal se detecta un aumento de problemas de espalda asociados al teletrabajo, por lo que el Ministerio para la Transformación Digital y de la Función Pública decide adquirir sillas ergonómicas para su personal. Este contrato tendrá la consideración de:",
+     "opciones": [
+      "Contrato de servicios.",
+      "Contrato de suministro.",
+      "Contrato de concesión de servicios.",
+      "Contrato privado."
+     ],
+     "respuesta": "b",
+     "explicacion": "Art. 16 LCSP: la **adquisición de bienes muebles** (sillas) es un **contrato de suministro**. No contó. Ver [tema]({{base}}administrativo/temario/b3-04-contratos/)."
+    }
+   ]
+  }
+ ]
+}

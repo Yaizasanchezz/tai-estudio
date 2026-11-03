@@ -1,0 +1,1696 @@
+{
+ "mazos": [
+  {
+   "id": "adm-org",
+   "titulo": "Constitución, Gobierno y organización territorial",
+   "bloque": "Bloque I",
+   "tarjetas": [
+    {
+     "id": "adm-org-001",
+     "f": "Constitución · Referéndum / BOE",
+     "b": "6-12-1978 / 29-12-1978 *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-002",
+     "f": "Constitución · Artículos",
+     "b": "169 (Preliminar + 10 títulos) *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-003",
+     "f": "Constitución · Valores superiores",
+     "b": "Libertad, justicia, igualdad, pluralismo político *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-004",
+     "f": "Constitución · Amparo",
+     "b": "Art. 14, Sección 1ª y objeción de conciencia (30.2) *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-005",
+     "f": "Constitución · Ley orgánica",
+     "b": "Desarrollo de derechos fundamentales y libertades públicas (art. 81) *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-006",
+     "f": "Constitución · Suspensión general",
+     "b": "Estados de excepción y sitio (art. 55.1) *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-007",
+     "f": "Constitución · Reformas",
+     "b": "1992, 2011, 2024 y 2026 *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-008",
+     "f": "Constitución · Magistrados del TC",
+     "b": "12: 4 Congreso, 4 Senado (3/5), 2 Gobierno, 2 CGPJ; 9 años, renovación por terceras partes *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-009",
+     "f": "Constitución · Reforma ordinaria (art. 167)",
+     "b": "3/5 de cada Cámara; referéndum si lo pide 1/10 de cualquier Cámara en 15 días *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-010",
+     "f": "Constitución · Reforma agravada (art. 168)",
+     "b": "2/3, disolución, ratificación por 2/3 de las nuevas Cámaras y referéndum obligatorio *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-011",
+     "f": "Constitución · Defensor del Pueblo",
+     "b": "Alto comisionado de las Cortes; 5 años; 3/5 de las Cámaras *(tema I-1)*"
+    },
+    {
+     "id": "adm-org-012",
+     "f": "Corona · Título de la CE",
+     "b": "Título II (arts. 56 a 65) *(tema I-2)*"
+    },
+    {
+     "id": "adm-org-013",
+     "f": "Corona · Inviolable y no sujeto a responsabilidad",
+     "b": "El Rey; sus actos van refrendados (art. 56.3) *(tema I-2)*"
+    },
+    {
+     "id": "adm-org-014",
+     "f": "Corona · Quién refrenda",
+     "b": "Presidente del Gobierno y ministros competentes; la propuesta y nombramiento del Presidente del Gobierno y la disolución del art. 99.5, el Presidente del Congreso (art. 64) *(tema I-2)*"
+    },
+    {
+     "id": "adm-org-015",
+     "f": "Corona · Leyes",
+     "b": "El Rey las sanciona y promulga (art. 62.a) *(tema I-2)*"
+    },
+    {
+     "id": "adm-org-016",
+     "f": "Corona · Sucesión",
+     "b": "Primogenitura y representación; preferencia de línea anterior, grado más próximo, varón sobre mujer y mayor edad (art. 57.1) *(tema I-2)*"
+    },
+    {
+     "id": "adm-org-017",
+     "f": "Cortes · Diputados",
+     "b": "Entre 300 y 400 (350 por la LOREG); 4 años *(tema I-3)*"
+    },
+    {
+     "id": "adm-org-018",
+     "f": "Cortes · Incompatibilidad (art. 67)",
+     "b": "Nadie puede ser miembro de las dos Cámaras ni acumular el acta autonómica con la de Diputado *(tema I-3)*"
+    },
+    {
+     "id": "adm-org-019",
+     "f": "Cortes · Mandato imperativo",
+     "b": "Prohibido (art. 67.2) *(tema I-3)*"
+    },
+    {
+     "id": "adm-org-020",
+     "f": "Cortes · Sesiones ordinarias",
+     "b": "Septiembre a diciembre y febrero a junio *(tema I-3)*"
+    },
+    {
+     "id": "adm-org-021",
+     "f": "Cortes · Diputación Permanente",
+     "b": "Mínimo 21 miembros por Cámara *(tema I-3)*"
+    },
+    {
+     "id": "adm-org-022",
+     "f": "Poder Judicial · Órgano de gobierno del Poder Judicial",
+     "b": "CGPJ *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-023",
+     "f": "Poder Judicial · Composición del CGPJ",
+     "b": "Presidente + 20 vocales (12 judiciales + 4 Congreso + 4 Senado), 5 años *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-024",
+     "f": "Poder Judicial · Quién preside el CGPJ",
+     "b": "El Presidente del Tribunal Supremo *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-025",
+     "f": "Poder Judicial · Salas del Tribunal Supremo",
+     "b": "5 (Civil, Penal, Contencioso, Social, Militar) *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-026",
+     "f": "Poder Judicial · Órgano superior salvo garantías constitucionales",
+     "b": "Tribunal Supremo *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-027",
+     "f": "Poder Judicial · Culmina la organización judicial en la Comunidad",
+     "b": "Tribunal Superior de Justicia *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-028",
+     "f": "Poder Judicial · Nueva organización desde 2025",
+     "b": "Tribunales de Instancia por partido judicial (LO 1/2025) *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-029",
+     "f": "Poder Judicial · Fiscal General del Estado",
+     "b": "Lo nombra el Rey a propuesta del Gobierno, oído el CGPJ *(tema I-4)*"
+    },
+    {
+     "id": "adm-org-030",
+     "f": "Gobierno · Investidura",
+     "b": "Mayoría absoluta; a las 48 h, simple; disolución a los 2 meses de la primera votación *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-031",
+     "f": "Gobierno · Quién propone el candidato",
+     "b": "El Rey, tras consultas, a través del Presidente del Congreso *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-032",
+     "f": "Gobierno · Causas de cese",
+     "b": "Elecciones generales, pérdida de confianza, dimisión o fallecimiento del Presidente *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-033",
+     "f": "Gobierno · Responsabilidad política",
+     "b": "Solidaria, ante el Congreso *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-034",
+     "f": "Gobierno · Moción de censura",
+     "b": "1/10 de los Diputados, candidato, mayoría absoluta, 5 días *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-035",
+     "f": "Gobierno · Cuestión de confianza",
+     "b": "El Presidente, previa deliberación del Consejo; mayoría simple *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-036",
+     "f": "Gobierno · Secretario del Consejo de Ministros",
+     "b": "Ministro de la Presidencia *(tema I-5)*"
+    },
+    {
+     "id": "adm-org-037",
+     "f": "Gobierno abierto · Principios del Gobierno Abierto",
+     "b": "Transparencia, participación, colaboración (+ rendición de cuentas e integridad) *(tema I-6)*"
+    },
+    {
+     "id": "adm-org-038",
+     "f": "Gobierno abierto · Origen del concepto",
+     "b": "Memorándum de Obama, 2009 *(tema I-6)*"
+    },
+    {
+     "id": "adm-org-039",
+     "f": "Gobierno abierto · OGP",
+     "b": "2011; España se adhiere en 2011 *(tema I-6)*"
+    },
+    {
+     "id": "adm-org-040",
+     "f": "Gobierno abierto · Plan vigente",
+     "b": "V Plan de Gobierno Abierto 2025–2029 (10 compromisos, 218 iniciativas) *(tema I-6)*"
+    },
+    {
+     "id": "adm-org-041",
+     "f": "Gobierno abierto · Agenda 2030",
+     "b": "ONU, 25-9-2015; 17 ODS, 169 metas, 5 P *(tema I-6)*"
+    },
+    {
+     "id": "adm-org-042",
+     "f": "Gobierno abierto · ODS de las instituciones transparentes",
+     "b": "16 *(tema I-6)*"
+    },
+    {
+     "id": "adm-org-043",
+     "f": "Transparencia · Fecha",
+     "b": "9 de diciembre de 2013 *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-044",
+     "f": "Transparencia · ¿Hay que motivar la solicitud?",
+     "b": "No *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-045",
+     "f": "Transparencia · Plazo para resolver",
+     "b": "1 mes (+1) *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-046",
+     "f": "Transparencia · Silencio",
+     "b": "Desestimatorio *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-047",
+     "f": "Transparencia · Reclamación al CTBG",
+     "b": "1 mes / resuelve en 3 meses *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-048",
+     "f": "Transparencia · Límites",
+     "b": "12 *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-049",
+     "f": "Transparencia · Inhabilitación máxima",
+     "b": "10 años *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-050",
+     "f": "Transparencia · Prescripción",
+     "b": "5 / 3 / 1 años *(tema I-7)*"
+    },
+    {
+     "id": "adm-org-051",
+     "f": "AGE · Órganos superiores",
+     "b": "Ministros y Secretarios de Estado *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-052",
+     "f": "AGE · Altos cargos que no lo son",
+     "b": "Subdirectores generales *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-053",
+     "f": "AGE · Quién crea los Ministerios",
+     "b": "Real Decreto del Presidente del Gobierno *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-054",
+     "f": "AGE · Delegado del Gobierno",
+     "b": "Rango de Subsecretario; nombrado por el Consejo de Ministros a propuesta del Presidente *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-055",
+     "f": "AGE · Subdelegado",
+     "b": "Nivel de Subdirector general; lo nombra el Delegado *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-056",
+     "f": "AGE · Supremo órgano consultivo",
+     "b": "Consejo de Estado (LO 3/1980) *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-057",
+     "f": "AGE · Norma del exterior",
+     "b": "Ley 2/2014, de la Acción y del Servicio Exterior *(tema I-8)*"
+    },
+    {
+     "id": "adm-org-058",
+     "f": "CC. AA. · Organización territorial (art. 137)",
+     "b": "Municipios, provincias y Comunidades Autónomas *(tema I-9)*"
+    },
+    {
+     "id": "adm-org-059",
+     "f": "CC. AA. · Vía rápida / lenta",
+     "b": "Art. 151 / art. 143 *(tema I-9)*"
+    },
+    {
+     "id": "adm-org-060",
+     "f": "CC. AA. · Competencias",
+     "b": "Art. 148 (pueden asumir las CC. AA.) y art. 149.1 (exclusivas del Estado, 32 materias) *(tema I-9)*"
+    },
+    {
+     "id": "adm-org-061",
+     "f": "CC. AA. · Estatutos",
+     "b": "Ley orgánica; norma institucional básica (art. 147) *(tema I-9)*"
+    },
+    {
+     "id": "adm-org-062",
+     "f": "CC. AA. · Representación ordinaria del Estado en la CA",
+     "b": "El Presidente de la Comunidad Autónoma (art. 152.1) *(tema I-9)*"
+    },
+    {
+     "id": "adm-org-063",
+     "f": "CC. AA. · Dirige la Administración del Estado en la CA",
+     "b": "El Delegado del Gobierno (art. 154) *(tema I-9)*"
+    },
+    {
+     "id": "adm-org-064",
+     "f": "Administración local · Entidades locales territoriales (art. 3 LBRL)",
+     "b": "Municipio, provincia e isla (en Baleares y Canarias) *(tema I-10)*"
+    },
+    {
+     "id": "adm-org-065",
+     "f": "Administración local · Órganos de todos los municipios",
+     "b": "Alcalde, Tenientes de Alcalde, Pleno y Comisión Especial de Cuentas *(tema I-10)*"
+    },
+    {
+     "id": "adm-org-066",
+     "f": "Administración local · Junta de Gobierno Local obligatoria",
+     "b": "Municipios de más de 5.000 habitantes *(tema I-10)*"
+    },
+    {
+     "id": "adm-org-067",
+     "f": "Administración local · Gobierno de la provincia",
+     "b": "Diputación Provincial (Presidente, Vicepresidentes, Junta de Gobierno y Pleno) *(tema I-10)*"
+    },
+    {
+     "id": "adm-org-068",
+     "f": "Administración local · Gobierno de la isla",
+     "b": "Cabildos (Canarias) y Consejos Insulares (Baleares) *(tema I-10)*"
+    },
+    {
+     "id": "adm-org-069",
+     "f": "Administración local · Gran población",
+     "b": "Más de 250.000 hab.; capitales de provincia de más de 175.000; capitales/sedes autonómicas o más de 75.000 si lo decide la Asamblea Legislativa *(tema I-10)*"
+    },
+    {
+     "id": "adm-org-070",
+     "f": "Unión Europea · Competencias exclusivas (art. 3 TFUE)",
+     "b": "Unión aduanera, normas de competencia del mercado interior, política monetaria del euro, recursos biológicos marinos (pesca común) y política comercial común *(tema I-11)*"
+    },
+    {
+     "id": "adm-org-071",
+     "f": "Unión Europea · Función legislativa y presupuestaria",
+     "b": "Parlamento Europeo y Consejo, conjuntamente (art. 16 TUE) *(tema I-11)*"
+    },
+    {
+     "id": "adm-org-072",
+     "f": "Unión Europea · Base constitucional de la integración",
+     "b": "Art. 93 CE (ley orgánica) *(tema I-11)*"
+    }
+   ]
+  },
+  {
+   "id": "adm-ofi",
+   "titulo": "Oficinas públicas, administración electrónica y datos",
+   "bloque": "Bloque II",
+   "tarjetas": [
+    {
+     "id": "adm-ofi-001",
+     "f": "Atención al público · Funciones de atención (RD 208/1996, art. 4)",
+     "b": "Recepción y acogida, orientación e información, gestión, iniciativas o sugerencias, quejas y reclamaciones, petición *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-002",
+     "f": "Atención al público · La información nunca puede…",
+     "b": "Entrañar una interpretación normativa *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-003",
+     "f": "Atención al público · Asistencia en medios electrónicos",
+     "b": "Art. 12 Ley 39/2015 (funcionario habilitado) *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-004",
+     "f": "Atención al público · Oficinas accesibles de la AGE",
+     "b": "RD 366/2007 *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-005",
+     "f": "Atención al público · Lenguas de signos",
+     "b": "Ley 27/2007 *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-006",
+     "f": "Atención al público · Señalización accesible",
+     "b": "Al menos dos formas: visual, acústica o táctil *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-007",
+     "f": "Atención al público · Clases de información",
+     "b": "General (cualquiera) y particular (solo interesados) *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-008",
+     "f": "Atención al público · La información no puede…",
+     "b": "Interpretar normas *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-009",
+     "f": "Atención al público · CIA",
+     "b": "Información de toda la AGE; hoy, D. G. de Gobernanza Pública *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-010",
+     "f": "Atención al público · Contestar una queja",
+     "b": "20 días hábiles (aclaraciones: 10 días hábiles) *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-011",
+     "f": "Atención al público · ¿La queja es un recurso?",
+     "b": "No, y no interrumpe plazos *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-012",
+     "f": "Atención al público · Derecho de petición",
+     "b": "Acuse en 10 días, subsanar en 15, admisión en 45 días hábiles, contestar en 3 meses *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-013",
+     "f": "Atención al público · Cartas de servicios",
+     "b": "Resolución del Subsecretario en el BOE; actualizar cada 3 años como mínimo *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-014",
+     "f": "Atención al público · Programas de calidad",
+     "b": "6 *(tema II-1)*"
+    },
+    {
+     "id": "adm-ofi-015",
+     "f": "Registro y archivo · Funciones del documento",
+     "b": "Constancia, comunicación y prueba *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-016",
+     "f": "Registro y archivo · Registro de cada Administración",
+     "b": "Registro Electrónico General (art. 16) *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-017",
+     "f": "Registro y archivo · Registros de todas las Administraciones",
+     "b": "Plenamente interoperables (SIR) *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-018",
+     "f": "Registro y archivo · Presentación en día inhábil (registro electrónico)",
+     "b": "Primera hora del primer día hábil siguiente *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-019",
+     "f": "Registro y archivo · Archivo de procedimientos finalizados",
+     "b": "Archivo electrónico único (art. 17) *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-020",
+     "f": "Registro y archivo · Archivos según el ciclo vital",
+     "b": "Oficina o gestión → central → intermedio (AGA) → histórico (AHN) *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-021",
+     "f": "Registro y archivo · Quién autoriza eliminar documentos",
+     "b": "Comisión Superior Calificadora de Documentos Administrativos *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-022",
+     "f": "Registro y archivo · Clasificar / ordenar",
+     "b": "Agrupar en series / colocar dentro de la serie *(tema II-2)*"
+    },
+    {
+     "id": "adm-ofi-023",
+     "f": "Administración electrónica · Principio de servicios precumplimentados",
+     "b": "Personalización y proactividad (RD 203/2021) *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-024",
+     "f": "Administración electrónica · PAG de la AGE",
+     "b": "administracion.gob.es (sede: sede.administracion.gob.es) *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-025",
+     "f": "Administración electrónica · DEHú",
+     "b": "Dirección Electrónica Habilitada única (notificaciones) *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-026",
+     "f": "Administración electrónica · CSV",
+     "b": "Código Seguro de Verificación *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-027",
+     "f": "Administración electrónica · Notificación electrónica rechazada",
+     "b": "10 días naturales sin acceder *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-028",
+     "f": "Administración electrónica · Teléfono de información de la AGE",
+     "b": "060 *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-029",
+     "f": "Administración electrónica · Ventanilla Única Empresarial",
+     "b": "Protocolo de 1999: AGE, CC. AA., Ayuntamientos y Cámaras de Comercio *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-030",
+     "f": "Administración electrónica · Accesibilidad web",
+     "b": "RD 1112/2018 (WCAG 2.1 AA) *(tema II-3)*"
+    },
+    {
+     "id": "adm-ofi-031",
+     "f": "Protección de datos · Normas",
+     "b": "RGPD (aplicable desde 25-5-2018) y LO 3/2018 (LOPDGDD) *(tema II-4)*"
+    },
+    {
+     "id": "adm-ofi-032",
+     "f": "Protección de datos · Edad para consentir",
+     "b": "14 años en España *(tema II-4)*"
+    },
+    {
+     "id": "adm-ofi-033",
+     "f": "Protección de datos · Plazo para responder a un derecho",
+     "b": "1 mes (+2) *(tema II-4)*"
+    },
+    {
+     "id": "adm-ofi-034",
+     "f": "Protección de datos · Notificar una brecha",
+     "b": "72 horas *(tema II-4)*"
+    },
+    {
+     "id": "adm-ofi-035",
+     "f": "Protección de datos · DPD en la Administración",
+     "b": "Obligatorio *(tema II-4)*"
+    },
+    {
+     "id": "adm-ofi-036",
+     "f": "Protección de datos · Multas a las Administraciones",
+     "b": "No: apercibimiento *(tema II-4)*"
+    }
+   ]
+  },
+  {
+   "id": "adm-dra",
+   "titulo": "Derecho administrativo y contratos",
+   "bloque": "Bloque III",
+   "tarjetas": [
+    {
+     "id": "adm-dra-001",
+     "f": "Fuentes · Fuentes (art. 1.1 CC)",
+     "b": "Ley, costumbre y principios generales del derecho *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-002",
+     "f": "Fuentes · Entrada en vigor de las leyes (art. 2.1 CC)",
+     "b": "A los 20 días de su completa publicación en el BOE, si no dicen otra cosa *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-003",
+     "f": "Fuentes · Jurisprudencia",
+     "b": "Complementa el ordenamiento (doctrina reiterada del TS) *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-004",
+     "f": "Fuentes · Texto articulado / refundido",
+     "b": "Ley de bases / ley ordinaria *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-005",
+     "f": "Fuentes · Decreto-ley",
+     "b": "Extraordinaria y urgente necesidad; convalidación por el Congreso en 30 días *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-006",
+     "f": "Fuentes · Límites del decreto-ley",
+     "b": "Instituciones básicas, derechos del Título I, régimen de las CC. AA. y Derecho electoral general *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-007",
+     "f": "Fuentes · Potestad reglamentaria",
+     "b": "Gobierno (art. 97 CE), órganos de gobierno autonómicos y locales *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-008",
+     "f": "Fuentes · Jerarquía de reglamentos",
+     "b": "RD del Presidente o del Consejo de Ministros > Orden Ministerial *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-009",
+     "f": "Fuentes · El reglamento no puede",
+     "b": "Tipificar infracciones, establecer sanciones ni tributos *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-010",
+     "f": "Fuentes · Recurso administrativo contra un reglamento",
+     "b": "No cabe (art. 112.3 Ley 39/2015) *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-011",
+     "f": "Fuentes · Principios de buena regulación",
+     "b": "Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia *(tema III-1)*"
+    },
+    {
+     "id": "adm-dra-012",
+     "f": "Acto administrativo · Presunción",
+     "b": "Los actos se presumen válidos y producen efectos desde que se dictan *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-013",
+     "f": "Acto administrativo · Forma",
+     "b": "Por escrito a través de medios electrónicos (art. 36) *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-014",
+     "f": "Acto administrativo · Motivación",
+     "b": "Sucinta referencia de hechos y fundamentos de derecho (art. 35) *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-015",
+     "f": "Acto administrativo · Retroactividad",
+     "b": "Solo si sustituyen a actos anulados o son favorables (art. 39.3) *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-016",
+     "f": "Acto administrativo · Plazo para cursar la notificación",
+     "b": "10 días desde que se dicta el acto *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-017",
+     "f": "Acto administrativo · Notificación en papel",
+     "b": "Mayor de 14 años; segundo intento en 3 días y hora distinta *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-018",
+     "f": "Acto administrativo · Notificación infructuosa",
+     "b": "Anuncio en el BOE *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-019",
+     "f": "Acto administrativo · Anulabilidad",
+     "b": "Cualquier infracción del ordenamiento, incluida la desviación de poder *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-020",
+     "f": "Acto administrativo · Nulidad por incompetencia",
+     "b": "Manifiesta por razón de materia o territorio (la jerárquica, anulable) *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-021",
+     "f": "Acto administrativo · Convalidación",
+     "b": "Solo actos anulables; efecto desde su fecha *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-022",
+     "f": "Acto administrativo · Dejar sin efecto un acto favorable anulable",
+     "b": "Declaración de lesividad (4 años) y recurso contencioso *(tema III-2)*"
+    },
+    {
+     "id": "adm-dra-023",
+     "f": "Procedimiento · Plazo máximo para resolver si la norma no dice nada",
+     "b": "3 meses *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-024",
+     "f": "Procedimiento · Silencio en procedimientos a solicitud",
+     "b": "Estimatorio, salvo excepciones *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-025",
+     "f": "Procedimiento · Días",
+     "b": "Hábiles (sin sábados, domingos ni festivos) *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-026",
+     "f": "Procedimiento · Revisión de actos nulos",
+     "b": "En cualquier momento, con dictamen favorable del Consejo de Estado *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-027",
+     "f": "Procedimiento · Lesividad",
+     "b": "4 años *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-028",
+     "f": "Procedimiento · Alzada / reposición",
+     "b": "1 mes para interponer; 3 meses / 1 mes para resolver *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-029",
+     "f": "Procedimiento · Contencioso",
+     "b": "2 meses *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-030",
+     "f": "Procedimiento · Defensa de la AGE en juicio",
+     "b": "Abogacía del Estado *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-031",
+     "f": "Procedimiento · Subsanación",
+     "b": "10 días (ampliables 5); si no, desistimiento *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-032",
+     "f": "Procedimiento · Audiencia",
+     "b": "De 10 a 15 días *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-033",
+     "f": "Procedimiento · Actuaciones complementarias",
+     "b": "Máximo 15 días; 7 días de alegaciones *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-034",
+     "f": "Procedimiento · Procedimiento de oficio de gravamen sin resolver a tiempo",
+     "b": "Caducidad *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-035",
+     "f": "Procedimiento · Actos de personal que agotan la vía en la AGE",
+     "b": "Los de Director general o superior *(tema III-3)*"
+    },
+    {
+     "id": "adm-dra-036",
+     "f": "Contratos · Contrato menor",
+     "b": "Obras < 40.000 €; suministros y servicios < 15.000 €; máximo 1 año, sin prórroga *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-037",
+     "f": "Contratos · SARA obras",
+     "b": "5.404.000 € o más *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-038",
+     "f": "Contratos · SARA servicios y suministros de la AGE",
+     "b": "140.000 € o más (216.000 € el resto del sector público) *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-039",
+     "f": "Contratos · Valor estimado",
+     "b": "Sin IVA, con prórrogas y modificaciones previstas *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-040",
+     "f": "Contratos · Duración máxima de servicios y suministros",
+     "b": "5 años incluidas las prórrogas *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-041",
+     "f": "Contratos · Prórroga",
+     "b": "Obligatoria para el empresario con preaviso de 2 meses; nunca tácita *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-042",
+     "f": "Contratos · Abierto simplificado",
+     "b": "Obras ≤ 2 M€; servicios y suministros bajo umbral SARA; anuncio solo en el perfil *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-043",
+     "f": "Contratos · Adjudicación con solo el precio",
+     "b": "15 días desde la apertura de proposiciones (2 meses con varios criterios) *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-044",
+     "f": "Contratos · Garantía provisional",
+     "b": "No se exige salvo justificación; máximo 3 % *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-045",
+     "f": "Contratos · Garantía definitiva",
+     "b": "5 % del precio de adjudicación sin IVA *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-046",
+     "f": "Contratos · No formalizar por culpa del adjudicatario",
+     "b": "3 % del presupuesto base sin IVA, contra la garantía definitiva *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-047",
+     "f": "Contratos · Penalidad por demora",
+     "b": "0,60 € por cada 1.000 € diarios *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-048",
+     "f": "Contratos · Pago",
+     "b": "30 días; demora de más de 6 meses permite resolver *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-049",
+     "f": "Contratos · Revisión de precios",
+     "b": "Ejecutado el 20 % y pasado 1 año; nunca con precios provisionales *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-050",
+     "f": "Contratos · Recurso especial",
+     "b": "15 días hábiles ante el TACRC; obras > 3 M€, servicios y suministros > 100.000 € *(tema III-4)*"
+    },
+    {
+     "id": "adm-dra-051",
+     "f": "Actividad administrativa · Cuatro formas clásicas",
+     "b": "Limitación (policía), fomento, servicio público y arbitral *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-052",
+     "f": "Actividad administrativa · Declaración responsable",
+     "b": "Permite empezar la actividad desde su presentación, con control posterior *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-053",
+     "f": "Actividad administrativa · Prescripción de infracciones (si la ley no dice nada)",
+     "b": "Muy graves 3 años, graves 2, leves 6 meses *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-054",
+     "f": "Actividad administrativa · Beneficios fiscales",
+     "b": "No son subvenciones *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-055",
+     "f": "Actividad administrativa · Gestión directa",
+     "b": "Propia Administración, OA, EPE, sociedad de capital público, medio propio *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-056",
+     "f": "Actividad administrativa · Gestión indirecta",
+     "b": "Concesión de servicios (riesgo operacional del concesionario) *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-057",
+     "f": "Actividad administrativa · Sector público institucional estatal",
+     "b": "Organismos públicos (OA, EPE, agencias), autoridades independientes, sociedades, consorcios, fundaciones, fondos, universidades no transferidas *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-058",
+     "f": "Actividad administrativa · Duración de los convenios",
+     "b": "Máximo 4 años, prorrogables unánimemente hasta 4 más *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-059",
+     "f": "Actividad administrativa · Extinción unilateral de un convenio",
+     "b": "No es causa de extinción (salvo incumplimiento de la otra parte) *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-060",
+     "f": "Actividad administrativa · Encomienda de gestión",
+     "b": "Actividades materiales o técnicas; no cede la titularidad *(tema III-5)*"
+    },
+    {
+     "id": "adm-dra-061",
+     "f": "Responsabilidad patrimonial · Base constitucional",
+     "b": "Art. 106.2 CE *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-062",
+     "f": "Responsabilidad patrimonial · Tipo de responsabilidad",
+     "b": "Objetiva y directa; funcionamiento normal o anormal *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-063",
+     "f": "Responsabilidad patrimonial · Excluye la responsabilidad",
+     "b": "Fuerza mayor y daños que hay deber jurídico de soportar *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-064",
+     "f": "Responsabilidad patrimonial · Requisitos del daño",
+     "b": "Efectivo, evaluable económicamente e individualizado *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-065",
+     "f": "Responsabilidad patrimonial · Riesgos del desarrollo",
+     "b": "No indemnizables *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-066",
+     "f": "Responsabilidad patrimonial · Dictamen del Consejo de Estado",
+     "b": "Reclamaciones de 50.000 € o más *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-067",
+     "f": "Responsabilidad patrimonial · Resuelve en la AGE",
+     "b": "El Ministro (Consejo de Ministros: Estado legislador) *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-068",
+     "f": "Responsabilidad patrimonial · Funcionamiento anormal del TC",
+     "b": "Fija la indemnización el Consejo de Ministros *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-069",
+     "f": "Responsabilidad patrimonial · Acción de regreso",
+     "b": "Dolo, culpa o negligencia graves *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-070",
+     "f": "Responsabilidad patrimonial · Varias Administraciones en fórmula conjunta",
+     "b": "Responsabilidad solidaria *(tema III-6)*"
+    },
+    {
+     "id": "adm-dra-071",
+     "f": "Igualdad · Composición equilibrada",
+     "b": "40 %–60 % *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-072",
+     "f": "Igualdad · Planes de igualdad obligatorios",
+     "b": "Empresas de 50 o más *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-073",
+     "f": "Igualdad · Violencia de género (LO 1/2004)",
+     "b": "Pareja o expareja, aun sin convivencia *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-074",
+     "f": "Igualdad · Rectificación registral del sexo",
+     "b": "Desde los 16 años por solicitud (Ley 4/2023) *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-075",
+     "f": "Igualdad · Autoridad de igualdad de trato",
+     "b": "Creada por la Ley 15/2022 *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-076",
+     "f": "Igualdad · Discapacidad reconocida",
+     "b": "≥ 33 % *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-077",
+     "f": "Igualdad · Reforma del art. 49 CE",
+     "b": "17-2-2024 *(tema III-7)*"
+    },
+    {
+     "id": "adm-dra-078",
+     "f": "Igualdad · Grados de dependencia",
+     "b": "I moderada, II severa, III gran dependencia *(tema III-7)*"
+    }
+   ]
+  },
+  {
+   "id": "adm-per",
+   "titulo": "Gestión de personal",
+   "bloque": "Bloque IV",
+   "tarjetas": [
+    {
+     "id": "adm-per-001",
+     "f": "Personal · Dirige la política de personal",
+     "b": "El Gobierno *(tema IV-1)*"
+    },
+    {
+     "id": "adm-per-002",
+     "f": "Personal · Autoriza medidas de personal con impacto en el gasto",
+     "b": "El Ministro de Hacienda *(tema IV-1)*"
+    },
+    {
+     "id": "adm-per-003",
+     "f": "Personal · Jefatura superior del personal de un Ministerio",
+     "b": "El Subsecretario *(tema IV-1)*"
+    },
+    {
+     "id": "adm-per-004",
+     "f": "Personal · Registro Central de Personal",
+     "b": "Ley 30/1984 (art. 13) y RD 1405/1986; NRP *(tema IV-1)*"
+    },
+    {
+     "id": "adm-per-005",
+     "f": "Selección · Derecho fundamental de acceso",
+     "b": "Art. 23.2 CE *(tema IV-2)*"
+    },
+    {
+     "id": "adm-per-006",
+     "f": "Selección · Mérito y capacidad",
+     "b": "Art. 103.3 CE *(tema IV-2)*"
+    },
+    {
+     "id": "adm-per-007",
+     "f": "Selección · Cupo de discapacidad",
+     "b": "Al menos el 7 % (2 % discapacidad intelectual) *(tema IV-2)*"
+    },
+    {
+     "id": "adm-per-008",
+     "f": "Selección · Adaptaciones de tiempo y medios",
+     "b": "A petición del aspirante y solo si guardan relación con la prueba *(tema IV-2)*"
+    },
+    {
+     "id": "adm-per-009",
+     "f": "Funcionarios · Potestades públicas",
+     "b": "Exclusivas de los funcionarios (art. 9.2) *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-010",
+     "f": "Funcionarios · Interino por vacante",
+     "b": "Máximo 3 años *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-011",
+     "f": "Funcionarios · Interino por sustitución",
+     "b": "El tiempo estrictamente necesario *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-012",
+     "f": "Funcionarios · Interino por programas temporales",
+     "b": "3 años + 12 meses *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-013",
+     "f": "Funcionarios · Interino por exceso de tareas",
+     "b": "9 meses en 18 *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-014",
+     "f": "Funcionarios · El interino cesa",
+     "b": "Cobertura reglada, supresión del puesto, fin del plazo o fin de la causa *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-015",
+     "f": "Funcionarios · Selección de interinos",
+     "b": "Igualdad, mérito, capacidad, publicidad y celeridad *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-016",
+     "f": "Funcionarios · Nombramiento en la AGE",
+     "b": "Secretaría de Estado de Función Pública (cuerpos generales) *(tema IV-3)*"
+    },
+    {
+     "id": "adm-per-017",
+     "f": "Situaciones · Requisitos para ser funcionario de carrera",
+     "b": "Superar el proceso, nombramiento publicado, acatamiento de la Constitución y toma de posesión en plazo *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-018",
+     "f": "Situaciones · Toma de posesión tras el nombramiento (AGE)",
+     "b": "15 días naturales (1 mes con cambio de localidad) *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-019",
+     "f": "Situaciones · Pérdida de la condición",
+     "b": "Renuncia, nacionalidad, jubilación total, separación firme e inhabilitación firme *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-020",
+     "f": "Situaciones · Renuncia no aceptada",
+     "b": "Con expediente disciplinario, auto de procesamiento o de apertura de juicio oral *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-021",
+     "f": "Situaciones · Jubilación forzosa",
+     "b": "65 años (prolongable hasta 70) *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-022",
+     "f": "Situaciones · Comisión de servicios",
+     "b": "Servicio activo *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-023",
+     "f": "Situaciones · Expectativa de destino",
+     "b": "Máximo 1 año; 50 % del complemento específico *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-024",
+     "f": "Situaciones · Excedencia forzosa",
+     "b": "Cobra básicas; computa trienios y derechos pasivos *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-025",
+     "f": "Situaciones · Ingreso en otro cuerpo",
+     "b": "Excedencia voluntaria por prestación de servicios en el sector público *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-026",
+     "f": "Situaciones · Excedencia por interés particular",
+     "b": "5 años de servicios previos; no con expediente disciplinario *(tema IV-4)*"
+    },
+    {
+     "id": "adm-per-027",
+     "f": "Provisión y carrera · Concursar",
+     "b": "2 años en el puesto definitivo (salvo dentro de la misma Secretaría de Estado) *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-028",
+     "f": "Provisión y carrera · Resolución del concurso",
+     "b": "2 meses desde el fin del plazo de solicitudes *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-029",
+     "f": "Provisión y carrera · Comisión de valoración",
+     "b": "Mínimo 4 miembros; composición equilibrada (40-60 %) *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-030",
+     "f": "Provisión y carrera · Toma de posesión tras concurso",
+     "b": "3 días hábiles sin cambio de residencia; 1 mes con cambio *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-031",
+     "f": "Provisión y carrera · Permiso por nacimiento",
+     "b": "19 semanas; 6 obligatorias; preaviso de 15 días si es interrumpido *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-032",
+     "f": "Provisión y carrera · Vacaciones aplazadas",
+     "b": "Hasta 18 meses desde el final del año *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-033",
+     "f": "Provisión y carrera · Carrera horizontal",
+     "b": "Voluntaria, 4 tramos, 5 años el primero y 6 los siguientes *(tema IV-5)*"
+    },
+    {
+     "id": "adm-per-034",
+     "f": "Incompatibilidades y disciplina · Segundo puesto público",
+     "b": "Solo docencia, sanidad, cargos electivos o interés público; con autorización previa *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-035",
+     "f": "Incompatibilidades y disciplina · Profesor asociado a tiempo parcial",
+     "b": "Compatible con autorización (no exceptuado) *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-036",
+     "f": "Incompatibilidades y disciplina · Opción entre puestos incompatibles",
+     "b": "En el plazo de toma de posesión; si no, nuevo puesto y excedencia *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-037",
+     "f": "Incompatibilidades y disciplina · Participación en empresas contratistas",
+     "b": "Prohibida si supera el 10 % del capital *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-038",
+     "f": "Incompatibilidades y disciplina · Tribunales calificadores",
+     "b": "Actividad exceptuada *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-039",
+     "f": "Incompatibilidades y disciplina · Cursos de formación de funcionarios",
+     "b": "Exceptuados hasta 75 horas al año *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-040",
+     "f": "Incompatibilidades y disciplina · Suspensión por falta muy grave (AGE)",
+     "b": "De 3 a 6 años *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-041",
+     "f": "Incompatibilidades y disciplina · Pliego de cargos",
+     "b": "En 1 mes desde la incoación; 10 días para contestar *(tema IV-6)*"
+    },
+    {
+     "id": "adm-per-042",
+     "f": "MUFACE y Clases Pasivas · Piezas del régimen especial",
+     "b": "Clases Pasivas y Mutualismo Administrativo (MUFACE) *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-043",
+     "f": "MUFACE y Clases Pasivas · Ingresados desde el 1-1-2011",
+     "b": "Régimen General a efectos de pensiones; MUFACE para lo demás *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-044",
+     "f": "MUFACE y Clases Pasivas · Naturaleza de MUFACE",
+     "b": "Organismo público (régimen de organismo autónomo) *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-045",
+     "f": "MUFACE y Clases Pasivas · Cuota de MUFACE",
+     "b": "Mensual (anual / 14), doble en junio y diciembre *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-046",
+     "f": "MUFACE y Clases Pasivas · Asistencia sanitaria",
+     "b": "Opción entre la sanidad pública o entidades concertadas *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-047",
+     "f": "MUFACE y Clases Pasivas · IT de un funcionario",
+     "b": "3 meses con retribuciones íntegras; desde el 4.º mes, básicas + subsidio de MUFACE *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-048",
+     "f": "MUFACE y Clases Pasivas · Pensiones de Clases Pasivas",
+     "b": "Jubilación o retiro, viudedad, orfandad y en favor de los padres *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-049",
+     "f": "MUFACE y Clases Pasivas · Carencia de la jubilación",
+     "b": "15 años de servicios *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-050",
+     "f": "MUFACE y Clases Pasivas · Reconoce las pensiones de Clases Pasivas",
+     "b": "El INSS *(tema IV-7)*"
+    },
+    {
+     "id": "adm-per-051",
+     "f": "Personal laboral · Contrato del personal laboral",
+     "b": "Por escrito; fijo, indefinido o temporal (art. 11 TREBEP) *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-052",
+     "f": "Personal laboral · Permisos de nacimiento del personal laboral",
+     "b": "Por el TREBEP, no por el ET *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-053",
+     "f": "Personal laboral · Excluidos del IV Convenio",
+     "b": "Personal en el exterior, alta dirección, otros convenios, fuera de convenio, profesorado de religión… *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-054",
+     "f": "Personal laboral · Incluidos aunque no sean AGE",
+     "b": "Justicia no transferida, Seguridad Social, CSN, AEPD, Museo Reina Sofía, Trabajo Penitenciario *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-055",
+     "f": "Personal laboral · Grupo E2",
+     "b": "Bachiller o Técnico *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-056",
+     "f": "Personal laboral · Grupo E1",
+     "b": "Graduado en ESO o Título Profesional Básico *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-057",
+     "f": "Personal laboral · Grupo E0",
+     "b": "Sin titulación *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-058",
+     "f": "Personal laboral · Periodo de prueba",
+     "b": "3 meses (M3 y M2), 1 mes (resto), 15 días laborables (sin titulación) *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-059",
+     "f": "Personal laboral · Incompatibilidades",
+     "b": "Ley 53/1984, igual que los funcionarios *(tema IV-8)*"
+    },
+    {
+     "id": "adm-per-060",
+     "f": "Seguridad Social · Régimen del personal laboral",
+     "b": "Régimen General (art. 136.2.k LGSS) *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-061",
+     "f": "Seguridad Social · Afiliación y cotización",
+     "b": "TGSS *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-062",
+     "f": "Seguridad Social · Prestaciones económicas",
+     "b": "INSS *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-063",
+     "f": "Seguridad Social · IT por enfermedad común",
+     "b": "Desde el 4.º día; del 4.º al 15.º paga el empleador *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-064",
+     "f": "Seguridad Social · Duración máxima de la IT",
+     "b": "365 días + 180 de prórroga *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-065",
+     "f": "Seguridad Social · Nacimiento y cuidado de menor",
+     "b": "19 semanas; 100 % de la base reguladora *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-066",
+     "f": "Seguridad Social · Grados de incapacidad permanente",
+     "b": "Parcial, total, absoluta y gran incapacidad *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-067",
+     "f": "Seguridad Social · Edad de jubilación en 2026",
+     "b": "66 años y 10 meses (65 con 38 años y 3 meses cotizados) *(tema IV-9)*"
+    },
+    {
+     "id": "adm-per-068",
+     "f": "Seguridad Social · Jubilación parcial con relevo y discapacidad ≥ 33 %",
+     "b": "25 años cotizados *(tema IV-9)*"
+    }
+   ]
+  },
+  {
+   "id": "adm-fin",
+   "titulo": "Gestión financiera",
+   "bloque": "Bloque V",
+   "tarjetas": [
+    {
+     "id": "adm-fin-001",
+     "f": "Presupuesto · Remisión del proyecto a las Cortes",
+     "b": "Antes del 1 de octubre (art. 37 LGP) *(tema V-1)*"
+    },
+    {
+     "id": "adm-fin-002",
+     "f": "Presupuesto · Eleva el anteproyecto al Gobierno",
+     "b": "El Ministro de Hacienda *(tema V-1)*"
+    },
+    {
+     "id": "adm-fin-003",
+     "f": "Presupuesto · Especialidad cualitativa",
+     "b": "Art. 42: finalidad específica *(tema V-1)*"
+    },
+    {
+     "id": "adm-fin-004",
+     "f": "Presupuesto · Especialidad cuantitativa",
+     "b": "Art. 46: créditos limitativos; nulidad si se supera *(tema V-1)*"
+    },
+    {
+     "id": "adm-fin-005",
+     "f": "Presupuesto · Anualidad",
+     "b": "Ejercicio = año natural; créditos no comprometidos se anulan *(tema V-1)*"
+    },
+    {
+     "id": "adm-fin-006",
+     "f": "Presupuesto · Presupuesto por programas",
+     "b": "Créditos vinculados a objetivos e indicadores *(tema V-1)*"
+    },
+    {
+     "id": "adm-fin-007",
+     "f": "Créditos y modificaciones · Vinculación de los créditos en el Estado",
+     "b": "Concepto; personal y bienes corrientes, artículo; inversiones, capítulo *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-008",
+     "f": "Créditos y modificaciones · Créditos limitativos",
+     "b": "Nulidad de pleno derecho de los compromisos que los superen *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-009",
+     "f": "Créditos y modificaciones · Plurianuales",
+     "b": "Máximo 4 años: 70 %, 60 %, 50 %, 50 % *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-010",
+     "f": "Créditos y modificaciones · Fondo de Contingencia",
+     "b": "2 % del gasto no financiero; lo aplica el Consejo de Ministros *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-011",
+     "f": "Créditos y modificaciones · Incorporaciones en el Estado",
+     "b": "Fondo de Contingencia o baja en otros créditos no financieros *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-012",
+     "f": "Créditos y modificaciones · Extraordinarios y suplementos en OA",
+     "b": "Remanente de tesorería o mayores ingresos *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-013",
+     "f": "Créditos y modificaciones · Transferencias prohibidas",
+     "b": "De capital a corriente, de financieras al resto, entre secciones *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-014",
+     "f": "Créditos y modificaciones · Transferencias que afectan a personal",
+     "b": "Ministro de Hacienda *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-015",
+     "f": "Créditos y modificaciones · Anticipos de Tesorería",
+     "b": "Gobierno; máximo 1 % de los créditos del Estado *(tema V-2)*"
+    },
+    {
+     "id": "adm-fin-016",
+     "f": "Ejecución del gasto · Fases del gasto",
+     "b": "Aprobación (A), compromiso (D), reconocimiento de la obligación (O), ordenación del pago y pago *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-017",
+     "f": "Ejecución del gasto · Documento previo de existencia de crédito",
+     "b": "RC *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-018",
+     "f": "Ejecución del gasto · Reconocimiento de obligación + propuesta de pago",
+     "b": "OK *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-019",
+     "f": "Ejecución del gasto · Tres fases a la vez",
+     "b": "ADOK *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-020",
+     "f": "Ejecución del gasto · Modificación de crédito",
+     "b": "MC (autoriza el Director General de Presupuestos) *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-021",
+     "f": "Ejecución del gasto · Aprueban y comprometen gastos en la AGE",
+     "b": "Los Ministros (y por debajo de sus límites, Secretarios de Estado y Subsecretario) *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-022",
+     "f": "Ejecución del gasto · Ordenador general de pagos",
+     "b": "Director General del Tesoro y Política Financiera *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-023",
+     "f": "Ejecución del gasto · Control interno",
+     "b": "IGAE: función interventora, control financiero permanente y auditoría pública *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-024",
+     "f": "Ejecución del gasto · Control de legalidad previo",
+     "b": "Función interventora *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-025",
+     "f": "Ejecución del gasto · Tribunal de Cuentas",
+     "b": "Fiscalización externa, permanente y consuntiva + enjuiciamiento contable *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-026",
+     "f": "Ejecución del gasto · Consejeros de Cuentas",
+     "b": "12 (6 Congreso + 6 Senado), 3/5, 9 años *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-027",
+     "f": "Ejecución del gasto · Presidente del Tribunal de Cuentas",
+     "b": "Lo nombra el Rey a propuesta del Pleno, 3 años *(tema V-3)*"
+    },
+    {
+     "id": "adm-fin-028",
+     "f": "Retribuciones y nóminas · Trienios al cambiar de grupo",
+     "b": "Se conservan los de los grupos anteriores *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-029",
+     "f": "Retribuciones y nóminas · Fracción de trienio al cambiar de grupo",
+     "b": "Cuenta en el nuevo grupo *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-030",
+     "f": "Retribuciones y nóminas · Complemento específico",
+     "b": "Uno por puesto; dificultad, dedicación, responsabilidad, incompatibilidad, peligrosidad o penosidad *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-031",
+     "f": "Retribuciones y nóminas · Productividad",
+     "b": "Especial rendimiento, actividad extraordinaria e interés o iniciativa; pública *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-032",
+     "f": "Retribuciones y nóminas · Alta en nómina de nuevo ingreso",
+     "b": "Título, nombramiento y toma de posesión *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-033",
+     "f": "Retribuciones y nóminas · Devengo de pagas extra",
+     "b": "Primer día hábil de junio y de diciembre *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-034",
+     "f": "Retribuciones y nóminas · Comisión de un día",
+     "b": "50 % de manutención si empieza antes de las 14:00 y acaba después de las 16:00 (mínimo 5 horas) *(tema V-4)*"
+    },
+    {
+     "id": "adm-fin-035",
+     "f": "Pagos y ACF · Reconocimiento médico contratado a una empresa",
+     "b": "Capítulo 2 *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-036",
+     "f": "Pagos y ACF · Obras de accesibilidad de un edificio",
+     "b": "Capítulo 6 (inversiones reales) *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-037",
+     "f": "Pagos y ACF · Transferencia",
+     "b": "Entrega sin contrapartida directa (corriente, cap. 4; de capital, cap. 7) *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-038",
+     "f": "Pagos y ACF · Anticipo de caja fija",
+     "b": "Provisión extrapresupuestaria y permanente para gastos periódicos del capítulo 2 *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-039",
+     "f": "Pagos y ACF · Límite de los ACF",
+     "b": "7 % del capítulo 2 *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-040",
+     "f": "Pagos y ACF · Pago individual máximo con ACF",
+     "b": "5.000 € (salvo teléfono, energía, combustibles e indemnizaciones) *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-041",
+     "f": "Pagos y ACF · Reposición de ACF",
+     "b": "Documento ADOK; cuentas al menos en diciembre *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-042",
+     "f": "Pagos y ACF · Pagos a justificar",
+     "b": "Sin documentación previa; justificación en el mes siguiente y, como máximo, 3 meses *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-043",
+     "f": "Pagos y ACF · Ampliación excepcional",
+     "b": "Hasta 6 meses *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-044",
+     "f": "Pagos y ACF · Aprobación o reparo de la cuenta",
+     "b": "En 2 meses *(tema V-5)*"
+    },
+    {
+     "id": "adm-fin-045",
+     "f": "Contratos y subvenciones · Documento al iniciar un expediente de contratación",
+     "b": "RC *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-046",
+     "f": "Contratos y subvenciones · Aprobación del expediente y del gasto",
+     "b": "A *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-047",
+     "f": "Contratos y subvenciones · Adjudicación del contrato",
+     "b": "D *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-048",
+     "f": "Contratos y subvenciones · Certificación o factura conformada",
+     "b": "OK *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-049",
+     "f": "Contratos y subvenciones · Plazo de pago al contratista",
+     "b": "30 días desde la aprobación de la certificación o factura *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-050",
+     "f": "Contratos y subvenciones · Certificaciones de obra",
+     "b": "Mensuales, en los 10 días siguientes; son pagos a cuenta *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-051",
+     "f": "Contratos y subvenciones · No son subvenciones",
+     "b": "Prestaciones de Seguridad Social, clases pasivas, beneficios fiscales y en la cotización, crédito oficial… *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-052",
+     "f": "Contratos y subvenciones · Conceden en la AGE",
+     "b": "Ministros y Secretarios de Estado; en organismos, sus presidentes o directores *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-053",
+     "f": "Contratos y subvenciones · Más de 12 millones",
+     "b": "Autorización previa del Consejo de Ministros *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-054",
+     "f": "Contratos y subvenciones · Procedimiento ordinario",
+     "b": "Concurrencia competitiva *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-055",
+     "f": "Contratos y subvenciones · La concesión supone",
+     "b": "El compromiso del gasto (D) *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-056",
+     "f": "Contratos y subvenciones · Fecha de gasto (concurrencia)",
+     "b": "Cuando consta que el beneficiario cumplió las condiciones para el pago *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-057",
+     "f": "Contratos y subvenciones · Prescripción del reintegro",
+     "b": "4 años *(tema V-6)*"
+    },
+    {
+     "id": "adm-fin-058",
+     "f": "Contratos y subvenciones · Multa fija",
+     "b": "De 75 a 6.000 € *(tema V-6)*"
+    }
+   ]
+  },
+  {
+   "id": "adm-info",
+   "titulo": "Informática, Internet y ofimática",
+   "bloque": "Bloque VI",
+   "tarjetas": [
+    {
+     "id": "adm-info-001",
+     "f": "1 byte =",
+     "b": "**8 bits**."
+    },
+    {
+     "id": "adm-info-002",
+     "f": "RAM",
+     "b": "Memoria de lectura y escritura **volátil**."
+    },
+    {
+     "id": "adm-info-003",
+     "f": "DNS / DHCP",
+     "b": "**DNS**: nombre → IP. **DHCP**: asigna la IP automáticamente."
+    },
+    {
+     "id": "adm-info-004",
+     "f": "VPN",
+     "b": "**Túnel cifrado** por Internet para entrar en una red privada."
+    },
+    {
+     "id": "adm-info-005",
+     "f": "IPv4 / IPv6",
+     "b": "**32 bits** / **128 bits**."
+    },
+    {
+     "id": "adm-info-006",
+     "f": "¿Quién creó la Web y dónde?",
+     "b": "**Tim Berners-Lee**, en el **CERN** (1989-1991)."
+    },
+    {
+     "id": "adm-info-007",
+     "f": "Nacimiento de Internet",
+     "b": "**1-1-1983**: ARPANET adopta **TCP/IP**."
+    },
+    {
+     "id": "adm-info-008",
+     "f": "Malvertising",
+     "b": "Publicidad en línea usada para **distribuir malware**."
+    },
+    {
+     "id": "adm-info-009",
+     "f": "Word en español: Ctrl + N / K / S",
+     "b": "**Negrita / cursiva / subrayado**."
+    },
+    {
+     "id": "adm-info-010",
+     "f": "Word en español: Ctrl + E / Ctrl + U / Ctrl + G",
+     "b": "**Seleccionar todo / nuevo / guardar**."
+    },
+    {
+     "id": "adm-info-011",
+     "f": "Excel: primer argumento de SUMAR.SI.CONJUNTO",
+     "b": "El **rango que se suma**."
+    },
+    {
+     "id": "adm-info-012",
+     "f": "Excel: #####",
+     "b": "La columna es **demasiado estrecha**."
+    },
+    {
+     "id": "adm-info-013",
+     "f": "Excel: filas y columnas",
+     "b": "**1.048.576** filas y **16.384** columnas (hasta **XFD**)."
+    },
+    {
+     "id": "adm-info-014",
+     "f": "Access: Texto corto",
+     "b": "Máximo **255** caracteres."
+    },
+    {
+     "id": "adm-info-015",
+     "f": "Access: Texto de validación",
+     "b": "El **mensaje** que aparece si no se cumple la **regla de validación**."
+    },
+    {
+     "id": "adm-info-016",
+     "f": "Outlook: programar un envío",
+     "b": "Opciones > **Retrasar entrega** > «No entregar antes de»."
+    },
+    {
+     "id": "adm-info-017",
+     "f": "Outlook: Cifrar > No reenviar",
+     "b": "El destinatario no puede **reenviar, imprimir ni copiar**."
+    },
+    {
+     "id": "adm-info-018",
+     "f": "Arrastrar un archivo a otra unidad",
+     "b": "**Copia** (en la misma unidad, mueve)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,836 @@
+{
+ "preguntas": [
+  {
+   "id": "adm001",
+   "bloque": "b1",
+   "pregunta": "Según el art. 152.1 CE, la representación ordinaria del Estado en la Comunidad Autónoma corresponde:",
+   "opciones": [
+    "Al Presidente de la Comunidad Autónoma.",
+    "Al Delegado del Gobierno.",
+    "Al Subdelegado del Gobierno en la provincia.",
+    "Al Ministro de Política Territorial."
+   ],
+   "correcta": 0,
+   "explicacion": "El **Presidente** de la Comunidad ostenta la **suprema representación** de la Comunidad y la **ordinaria del Estado** en ella. El Delegado del Gobierno **dirige la Administración del Estado** en el territorio (art. 154 CE)."
+  },
+  {
+   "id": "adm002",
+   "bloque": "b1",
+   "pregunta": "¿Qué mayoría exige el art. 113 CE para aprobar una moción de censura?",
+   "opciones": [
+    "Mayoría simple del Congreso.",
+    "Tres quintos del Congreso.",
+    "Mayoría absoluta del Congreso.",
+    "Mayoría absoluta de cada Cámara."
+   ],
+   "correcta": 2,
+   "explicacion": "La moción de censura exige **mayoría absoluta del Congreso** e incluir un **candidato** a la Presidencia. La cuestión de confianza, en cambio, se gana por **mayoría simple** (art. 112)."
+  },
+  {
+   "id": "adm003",
+   "bloque": "b1",
+   "pregunta": "Conforme al art. 107 CE, el supremo órgano consultivo del Gobierno es:",
+   "opciones": [
+    "El Consejo de Estado.",
+    "El Consejo Económico y Social.",
+    "La Comisión General de Secretarios de Estado y Subsecretarios.",
+    "El Tribunal Supremo."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 107 CE: el **Consejo de Estado** es el supremo órgano consultivo del Gobierno; lo regula la LO 3/1980."
+  },
+  {
+   "id": "adm004",
+   "bloque": "b1",
+   "pregunta": "Según el art. 121 LBRL, se aplica el régimen de municipios de gran población, sin más requisitos, a los municipios cuya población supere:",
+   "opciones": [
+    "Los 75.000 habitantes.",
+    "Los 250.000 habitantes.",
+    "Los 175.000 habitantes.",
+    "Los 100.000 habitantes."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 121.1.a LBRL: **más de 250.000 habitantes**. Las capitales de provincia necesitan más de **175.000**; y las capitales autonómicas, sedes de instituciones autonómicas o municipios de más de **75.000** con circunstancias especiales, que lo decida la **Asamblea Legislativa** a iniciativa del ayuntamiento."
+  },
+  {
+   "id": "adm005",
+   "bloque": "b1",
+   "pregunta": "¿Cuál de estos ámbitos es de competencia exclusiva de la Unión Europea según el art. 3.1 TFUE?",
+   "opciones": [
+    "El mercado interior.",
+    "La protección de los consumidores.",
+    "La agricultura y la pesca, salvo la conservación de los recursos biológicos marinos.",
+    "La unión aduanera."
+   ],
+   "correcta": 3,
+   "explicacion": "Son exclusivas la **unión aduanera**, las normas de competencia del mercado interior, la política monetaria del euro, la conservación de los recursos biológicos marinos en la política pesquera común y la política comercial común. El mercado interior, la agricultura y los consumidores son competencias **compartidas** (art. 4)."
+  },
+  {
+   "id": "adm006",
+   "bloque": "b1",
+   "pregunta": "¿Qué institución de la UE ejerce, conjuntamente con el Parlamento Europeo, la función legislativa y la presupuestaria (art. 16 TUE)?",
+   "opciones": [
+    "El Consejo Europeo.",
+    "La Comisión Europea.",
+    "El Tribunal de Cuentas Europeo.",
+    "El Consejo."
+   ],
+   "correcta": 3,
+   "explicacion": "Es el **Consejo** (de ministros). El **Consejo Europeo** da los impulsos políticos y **no ejerce función legislativa**; la **Comisión** tiene la iniciativa legislativa y supervisa la aplicación del Derecho de la Unión."
+  },
+  {
+   "id": "adm007",
+   "bloque": "b1",
+   "pregunta": "Según la Ley 40/2015, la jefatura superior de todo el personal del Departamento corresponde:",
+   "opciones": [
+    "Al Ministro.",
+    "Al Secretario de Estado.",
+    "Al Secretario General Técnico.",
+    "Al Subsecretario."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 63.1 Ley 40/2015: los **Subsecretarios** ostentan la representación ordinaria del Ministerio y la **jefatura superior de todo el personal** del Departamento."
+  },
+  {
+   "id": "adm008",
+   "bloque": "b1",
+   "pregunta": "¿Cuántos Objetivos de Desarrollo Sostenible y metas contiene la Agenda 2030?",
+   "opciones": [
+    "15 objetivos y 150 metas.",
+    "17 objetivos y 169 metas.",
+    "17 objetivos y 196 metas.",
+    "19 objetivos y 169 metas."
+   ],
+   "correcta": 1,
+   "explicacion": "La Agenda 2030 (Naciones Unidas, 2015) tiene **17 ODS** y **169 metas**."
+  },
+  {
+   "id": "adm009",
+   "bloque": "b1",
+   "pregunta": "Según el art. 14.1 de la Ley 19/2013, el derecho de acceso a la información pública puede limitarse cuando suponga un perjuicio para:",
+   "opciones": [
+    "La defensa.",
+    "La imagen de la Administración.",
+    "La carga de trabajo de la unidad.",
+    "Los intereses partidistas."
+   ],
+   "correcta": 0,
+   "explicacion": "El art. 14.1 enumera, entre otros, la **seguridad nacional**, la **defensa**, las relaciones exteriores, la seguridad pública, los intereses económicos y comerciales y el secreto profesional. El resto de opciones no son límites legales."
+  },
+  {
+   "id": "adm010",
+   "bloque": "b1",
+   "pregunta": "El Presidente del Tribunal Supremo es nombrado (art. 123.2 CE):",
+   "opciones": [
+    "Por el Rey, a propuesta del Consejo General del Poder Judicial.",
+    "Por el Rey, a propuesta del Gobierno.",
+    "Por el Consejo General del Poder Judicial.",
+    "Por el Congreso, por mayoría de tres quintos."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 123.2 CE: lo **nombra el Rey, a propuesta del CGPJ**, en la forma que determine la ley. Es también el Presidente del CGPJ."
+  },
+  {
+   "id": "adm011",
+   "bloque": "b2",
+   "pregunta": "Según el RD 951/2005, ¿en qué plazo informa la unidad responsable al interesado de las actuaciones realizadas tras una queja?",
+   "opciones": [
+    "20 días hábiles.",
+    "15 días hábiles.",
+    "10 días hábiles.",
+    "Un mes."
+   ],
+   "correcta": 0,
+   "explicacion": "Art. 16.1 RD 951/2005: **20 días hábiles**. Puede suspenderse si hay que pedir aclaraciones al interesado, que tiene **10 días hábiles** para darlas."
+  },
+  {
+   "id": "adm012",
+   "bloque": "b2",
+   "pregunta": "Las quejas presentadas por correo electrónico, según el art. 15 RD 951/2005:",
+   "opciones": [
+    "No son válidas.",
+    "Deben acompañarse de copia del DNI.",
+    "Deben estar suscritas con la firma electrónica del interesado.",
+    "Deben ratificarse presencialmente en 10 días."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 15.2: las quejas y sugerencias por **correo electrónico o Internet** deben estar **suscritas con la firma electrónica** del interesado."
+  },
+  {
+   "id": "adm013",
+   "bloque": "b2",
+   "pregunta": "Las cartas de servicios se actualizarán, en todo caso, al menos (art. 10.4 RD 951/2005):",
+   "opciones": [
+    "Cada tres años.",
+    "Cada dos años.",
+    "Cada año.",
+    "Cada cinco años."
+   ],
+   "correcta": 0,
+   "explicacion": "Se actualizan periódicamente y, **como mínimo, cada tres años**."
+  },
+  {
+   "id": "adm014",
+   "bloque": "b2",
+   "pregunta": "Una notificación electrónica obligatoria se entiende rechazada cuando, desde su puesta a disposición, pasan sin acceder a ella (art. 43.2 Ley 39/2015):",
+   "opciones": [
+    "Cinco días hábiles.",
+    "Diez días hábiles.",
+    "Quince días naturales.",
+    "Diez días naturales."
+   ],
+   "correcta": 3,
+   "explicacion": "**Diez días naturales**. La notificación se entiende practicada en el momento en que se **accede a su contenido**."
+  },
+  {
+   "id": "adm015",
+   "bloque": "b2",
+   "pregunta": "Según el art. 16.1 Ley 39/2015, los organismos públicos vinculados o dependientes de una Administración:",
+   "opciones": [
+    "Podrán disponer de su propio registro electrónico, interoperable con el Registro Electrónico General.",
+    "Deben disponer de su propio registro electrónico.",
+    "No pueden tener registro propio.",
+    "Solo pueden tener registro presencial."
+   ],
+   "correcta": 0,
+   "explicacion": "**Podrán** tener registro electrónico propio, **plenamente interoperable e interconectado** con el Registro Electrónico General de su Administración."
+  },
+  {
+   "id": "adm016",
+   "bloque": "b2",
+   "pregunta": "¿Quiénes están sujetos al deber de confidencialidad según el art. 5 LOPDGDD?",
+   "opciones": [
+    "Solo el delegado de protección de datos.",
+    "Solo los funcionarios públicos.",
+    "Solo los encargados del tratamiento.",
+    "Los responsables y encargados del tratamiento y todas las personas que intervengan en cualquier fase de este."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 5.1 LOPDGDD. Además, la obligación **se mantiene aunque haya terminado** la relación con el responsable o encargado (art. 5.3)."
+  },
+  {
+   "id": "adm017",
+   "bloque": "b3",
+   "pregunta": "Salvo que dispongan otra cosa, las leyes entran en vigor (art. 2.1 Código Civil):",
+   "opciones": [
+    "Al día siguiente de su publicación.",
+    "A los quince días de su completa publicación en el BOE.",
+    "A los veinte días de su completa publicación en el BOE.",
+    "A los treinta días de su publicación."
+   ],
+   "correcta": 2,
+   "explicacion": "*Vacatio legis* general de **20 días** desde su completa publicación en el BOE."
+  },
+  {
+   "id": "adm018",
+   "bloque": "b3",
+   "pregunta": "¿Cuál de estos actos es anulable (y no nulo de pleno derecho) según la Ley 39/2015?",
+   "opciones": [
+    "El dictado por órgano manifiestamente incompetente por razón de la materia.",
+    "El que incurre en desviación de poder.",
+    "El dictado prescindiendo total y absolutamente del procedimiento.",
+    "El de contenido imposible."
+   ],
+   "correcta": 1,
+   "explicacion": "Art. 48.1: son anulables los actos que incurren en **cualquier infracción del ordenamiento jurídico, incluso la desviación de poder**. Las demás opciones son causas de **nulidad** del art. 47.1."
+  },
+  {
+   "id": "adm019",
+   "bloque": "b3",
+   "pregunta": "Para eliminar un acto favorable anulable, la Administración debe declararlo lesivo. ¿En qué plazo máximo desde que se dictó el acto? (art. 107 Ley 39/2015)",
+   "opciones": [
+    "Un año.",
+    "Dos años.",
+    "En cualquier momento.",
+    "Cuatro años."
+   ],
+   "correcta": 3,
+   "explicacion": "La declaración de lesividad **no puede adoptarse pasados cuatro años** desde que se dictó el acto; después hay que impugnarlo ante la jurisdicción contencioso-administrativa. Si en **seis meses** desde el inicio no se declara, el procedimiento **caduca**."
+  },
+  {
+   "id": "adm020",
+   "bloque": "b3",
+   "pregunta": "El trámite de audiencia a los interesados tendrá una duración (art. 82.2 Ley 39/2015):",
+   "opciones": [
+    "No inferior a cinco días ni superior a diez.",
+    "De quince días exactamente.",
+    "No inferior a diez días ni superior a quince.",
+    "No inferior a quince días ni superior a veinte."
+   ],
+   "correcta": 2,
+   "explicacion": "**Entre 10 y 15 días**. Se puede prescindir de él si no se tienen en cuenta más hechos ni alegaciones que los aducidos por el interesado."
+  },
+  {
+   "id": "adm021",
+   "bloque": "b3",
+   "pregunta": "Si una solicitud no reúne los requisitos exigidos, se requiere al interesado para que subsane en 10 días con indicación de que, si no lo hace (art. 68.1 Ley 39/2015):",
+   "opciones": [
+    "Caducará el procedimiento.",
+    "Se le tendrá por renunciado a su derecho.",
+    "Se le tendrá por desistido de su petición.",
+    "Se suspenderá el procedimiento."
+   ],
+   "correcta": 2,
+   "explicacion": "Se le tiene por **desistido**, previa resolución. El plazo de 10 días puede ampliarse hasta **5 días** más, salvo en procedimientos selectivos o de concurrencia competitiva."
+  },
+  {
+   "id": "adm022",
+   "bloque": "b3",
+   "pregunta": "¿Cuál es el umbral de regulación armonizada de los contratos de obras en 2026-2027?",
+   "opciones": [
+    "140.000 €.",
+    "216.000 €.",
+    "5.404.000 €.",
+    "750.000 €."
+   ],
+   "correcta": 2,
+   "explicacion": "**5.404.000 €** para obras y concesiones (Orden HAC/1517/2025). En suministros y servicios de la AGE es **140.000 €**, y **216.000 €** en otros poderes adjudicadores; **750.000 €** para servicios sociales y otros específicos."
+  },
+  {
+   "id": "adm023",
+   "bloque": "b3",
+   "pregunta": "La garantía definitiva de un contrato es, como regla general (art. 107 LCSP):",
+   "opciones": [
+    "El 3 % del presupuesto base de licitación.",
+    "El 10 % del precio de adjudicación.",
+    "El 5 % del valor estimado, IVA incluido.",
+    "El 5 % del precio final ofertado, IVA excluido."
+   ],
+   "correcta": 3,
+   "explicacion": "**5 % del precio final ofertado, sin IVA**. Por ejemplo, un contrato adjudicado por 120.000 € sin IVA → **6.000 €**. El 3 % es la penalidad por no formalizar por culpa del adjudicatario."
+  },
+  {
+   "id": "adm024",
+   "bloque": "b3",
+   "pregunta": "Los contratos de servicios de prestación sucesiva tienen una duración máxima de (art. 29.4 LCSP):",
+   "opciones": [
+    "Cinco años, incluidas las prórrogas.",
+    "Cuatro años, sin contar las prórrogas.",
+    "Seis años, incluidas las prórrogas.",
+    "Diez años."
+   ],
+   "correcta": 0,
+   "explicacion": "**Cinco años incluyendo las prórrogas**. La prórroga la acuerda el órgano de contratación y es obligatoria para el empresario si se le preavisa con **dos meses**."
+  },
+  {
+   "id": "adm025",
+   "bloque": "b3",
+   "pregunta": "El procedimiento abierto simplificado abreviado (art. 159.6 LCSP) puede usarse en contratos de servicios de valor estimado:",
+   "opciones": [
+    "Inferior a 40.000 €.",
+    "Inferior a 100.000 €.",
+    "Inferior a 60.000 €.",
+    "Inferior al umbral armonizado."
+   ],
+   "correcta": 2,
+   "explicacion": "Servicios y suministros de **menos de 60.000 €** (salvo prestaciones intelectuales) y obras de **menos de 80.000 €**."
+  },
+  {
+   "id": "adm026",
+   "bloque": "b3",
+   "pregunta": "Si el único criterio de adjudicación es el precio, el contrato debe adjudicarse en el plazo máximo de (art. 158.1 LCSP):",
+   "opciones": [
+    "Quince días desde el siguiente a la apertura de las proposiciones.",
+    "Diez días.",
+    "Cinco días desde la apertura de proposiciones.",
+    "Dos meses."
+   ],
+   "correcta": 0,
+   "explicacion": "**Quince días**. Con varios criterios, **dos meses**."
+  },
+  {
+   "id": "adm027",
+   "bloque": "b3",
+   "pregunta": "La duración máxima de un convenio de la Ley 40/2015, salvo que una norma prevea otra cosa, es:",
+   "opciones": [
+    "Dos años, prorrogables otros dos.",
+    "Cuatro años, sin prórroga.",
+    "Cuatro años, prorrogables por acuerdo unánime hasta cuatro años más.",
+    "Indefinida."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 49.h: **no superior a cuatro años**, con prórroga **unánime** de **hasta cuatro años** adicionales."
+  },
+  {
+   "id": "adm028",
+   "bloque": "b3",
+   "pregunta": "El derecho a reclamar responsabilidad patrimonial prescribe (art. 67.1 Ley 39/2015):",
+   "opciones": [
+    "A los seis meses.",
+    "A los dos años.",
+    "Al año del hecho o de la manifestación de su efecto lesivo.",
+    "A los cuatro años."
+   ],
+   "correcta": 2,
+   "explicacion": "**Al año**. Con daños físicos o psíquicos, el plazo empieza desde la **curación** o la determinación del alcance de las **secuelas**."
+  },
+  {
+   "id": "adm029",
+   "bloque": "b3",
+   "pregunta": "En la AGE, el dictamen del Consejo de Estado es preceptivo en las reclamaciones de responsabilidad patrimonial de cuantía:",
+   "opciones": [
+    "Igual o superior a 6.000 €.",
+    "Igual o superior a 15.000 €.",
+    "Superior a 100.000 €.",
+    "Igual o superior a 50.000 €."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 81.2 Ley 39/2015: **50.000 € o más**. El dictamen se emite en **dos meses**."
+  },
+  {
+   "id": "adm030",
+   "bloque": "b3",
+   "pregunta": "Si una ley no dice nada, las infracciones muy graves prescriben (art. 30 Ley 40/2015):",
+   "opciones": [
+    "Al año.",
+    "A los tres años.",
+    "A los dos años.",
+    "A los cinco años."
+   ],
+   "correcta": 1,
+   "explicacion": "Infracciones: **muy graves 3 años, graves 2 y leves 6 meses**. Sanciones: muy graves 3 años, graves 2 y leves 1 año."
+  },
+  {
+   "id": "adm031",
+   "bloque": "b4",
+   "pregunta": "Para participar en procesos selectivos es necesario (art. 56.1 TREBEP):",
+   "opciones": [
+    "Tener cumplidos dieciocho años.",
+    "Tener la nacionalidad española en todo caso.",
+    "Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+    "Haber cumplido el servicio militar."
+   ],
+   "correcta": 2,
+   "explicacion": "**Dieciséis años**. Además: nacionalidad (con las excepciones del art. 57), capacidad funcional, no haber sido separado ni estar inhabilitado y la titulación exigida."
+  },
+  {
+   "id": "adm032",
+   "bloque": "b4",
+   "pregunta": "Se puede nombrar funcionario interino para plazas vacantes, cuando no sea posible cubrirlas con funcionarios de carrera, por un máximo de (art. 10.1 TREBEP):",
+   "opciones": [
+    "Tres años.",
+    "Dos años.",
+    "Cuatro años.",
+    "Cinco años."
+   ],
+   "correcta": 0,
+   "explicacion": "**Tres años** (art. 10.1.a). Por **exceso o acumulación de tareas**, máximo **nueve meses** dentro de dieciocho; para **programas temporales**, tres años ampliables doce meses."
+  },
+  {
+   "id": "adm033",
+   "bloque": "b4",
+   "pregunta": "¿En qué situación queda un funcionario de carrera que pasa a desempeñar un puesto en comisión de servicios?",
+   "opciones": [
+    "Servicios especiales.",
+    "Servicio en otras Administraciones públicas.",
+    "Servicio activo.",
+    "Expectativa de destino."
+   ],
+   "correcta": 2,
+   "explicacion": "Art. 3 RD 365/1995: la **comisión de servicios** es **servicio activo**."
+  },
+  {
+   "id": "adm034",
+   "bloque": "b4",
+   "pregunta": "Según el RD-ley 6/2023 (art. 122), la carrera horizontal de los funcionarios de la AGE:",
+   "opciones": [
+    "Es obligatoria y tiene cinco tramos.",
+    "Es voluntaria y tiene cinco tramos.",
+    "Es voluntaria y tiene cuatro tramos.",
+    "Es obligatoria y tiene cuatro tramos."
+   ],
+   "correcta": 2,
+   "explicacion": "Es **voluntaria**, con **4 tramos**; para ascender hacen falta **5 años** de servicios efectivos en el primer tramo y **6** en los siguientes."
+  },
+  {
+   "id": "adm035",
+   "bloque": "b4",
+   "pregunta": "El grado personal se consolida, como regla, por el desempeño de puestos del nivel correspondiente durante (art. 70 RD 364/1995):",
+   "opciones": [
+    "Un año continuado.",
+    "Cinco años.",
+    "Tres años continuados o cuatro con interrupción.",
+    "Dos años continuados o tres con interrupción."
+   ],
+   "correcta": 3,
+   "explicacion": "**Dos años continuados o tres con interrupción**. El tiempo en **comisión de servicios** solo cuenta para el grado del puesto desempeñado si después se obtiene **con carácter definitivo** ese puesto u otro de igual o superior nivel."
+  },
+  {
+   "id": "adm036",
+   "bloque": "b4",
+   "pregunta": "Para participar en un concurso, el funcionario debe llevar en su puesto definitivo, salvo excepciones (art. 41.2 RD 364/1995):",
+   "opciones": [
+    "Un año.",
+    "No se exige permanencia mínima.",
+    "Tres años.",
+    "Dos años."
+   ],
+   "correcta": 3,
+   "explicacion": "**Dos años**, salvo en el ámbito de la **propia Secretaría de Estado** (o del Departamento si no la hay), por supresión del puesto y otros supuestos."
+  },
+  {
+   "id": "adm037",
+   "bloque": "b4",
+   "pregunta": "Si la resolución de un concurso supone cambio de residencia, el plazo para tomar posesión es (art. 48 RD 364/1995):",
+   "opciones": [
+    "Un mes desde el día siguiente al cese.",
+    "Tres días hábiles desde la publicación.",
+    "Quince días naturales desde el cese.",
+    "Dos meses."
+   ],
+   "correcta": 0,
+   "explicacion": "**Un mes** (tres días hábiles si no hay cambio de residencia), contado desde el **día siguiente al cese**, que se produce en los **tres días hábiles** siguientes a la publicación de la resolución."
+  },
+  {
+   "id": "adm038",
+   "bloque": "b4",
+   "pregunta": "¿Cuánto dura el permiso por nacimiento de la madre biológica según el art. 49.a TREBEP vigente?",
+   "opciones": [
+    "Dieciséis semanas.",
+    "Diecisiete semanas.",
+    "Veinte semanas.",
+    "Diecinueve semanas."
+   ],
+   "correcta": 3,
+   "explicacion": "**Diecinueve semanas**: seis obligatorias tras el parto a jornada completa, once más hasta los doce meses y **dos** que pueden disfrutarse **hasta que el hijo cumpla ocho años**."
+  },
+  {
+   "id": "adm039",
+   "bloque": "b4",
+   "pregunta": "Si el permiso por nacimiento se disfruta de forma interrumpida, cada período requiere un preaviso de (art. 49 TREBEP):",
+   "opciones": [
+    "Al menos diez días.",
+    "No requiere preaviso.",
+    "Al menos un mes.",
+    "Al menos quince días."
+   ],
+   "correcta": 3,
+   "explicacion": "Preaviso de **al menos quince días** y por **semanas completas**."
+  },
+  {
+   "id": "adm040",
+   "bloque": "b4",
+   "pregunta": "Si un permiso por nacimiento impide disfrutar las vacaciones en su año natural, pueden tomarse después siempre que no hayan pasado (art. 50.2 TREBEP):",
+   "opciones": [
+    "Dieciocho meses desde el final del año en que se generaron.",
+    "Doce meses desde el final del año en que se generaron.",
+    "Dos años desde que terminó el permiso.",
+    "No pueden trasladarse."
+   ],
+   "correcta": 0,
+   "explicacion": "**Dieciocho meses** desde el final del año en que se originaron."
+  },
+  {
+   "id": "adm041",
+   "bloque": "b4",
+   "pregunta": "¿Cuál de estas actividades está exceptuada del régimen de incompatibilidades (art. 19 Ley 53/1984)?",
+   "opciones": [
+    "Ser profesor universitario asociado a tiempo parcial.",
+    "Tener más del 10 % del capital de una empresa contratista.",
+    "Ser administrador de una empresa concesionaria.",
+    "Participar en tribunales calificadores de pruebas selectivas."
+   ],
+   "correcta": 3,
+   "explicacion": "Están exceptuadas, entre otras, la participación en **tribunales calificadores**, la producción literaria o científica y la administración del patrimonio personal. Ser profesor asociado requiere **autorización de compatibilidad**; las otras dos son **actividades prohibidas** (art. 12)."
+  },
+  {
+   "id": "adm042",
+   "bloque": "b4",
+   "pregunta": "MUFACE se integra en el sector público institucional estatal como (art. 5 RDL 4/2000):",
+   "opciones": [
+    "Entidad pública empresarial.",
+    "Fundación del sector público.",
+    "Agencia estatal.",
+    "Organismo público, regido por las normas de los organismos autónomos."
+   ],
+   "correcta": 3,
+   "explicacion": "Es un **organismo público** con personalidad jurídica propia que se rige por lo previsto para los **organismos autónomos**."
+  },
+  {
+   "id": "adm043",
+   "bloque": "b4",
+   "pregunta": "¿Qué personal queda excluido del IV Convenio Único de la AGE (art. 2)?",
+   "opciones": [
+    "El del Museo del Prado.",
+    "El del INAP.",
+    "El de las Confederaciones Hidrográficas.",
+    "El personal laboral que presta servicios en el exterior."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 2.a: el personal laboral que presta servicios **en el exterior**. También el de alta dirección, el de otros convenios de la AGE y el contratado fuera de convenio, entre otros."
+  },
+  {
+   "id": "adm044",
+   "bloque": "b4",
+   "pregunta": "¿Qué titulación se exige para el grupo profesional E2 del IV Convenio Único?",
+   "opciones": [
+    "Graduado en ESO.",
+    "Título universitario de Grado.",
+    "Título de Bachiller o Técnico o equivalentes.",
+    "Título Profesional Básico."
+   ],
+   "correcta": 2,
+   "explicacion": "Grupo **E2**: **Bachiller o Técnico** o equivalentes."
+  },
+  {
+   "id": "adm045",
+   "bloque": "b4",
+   "pregunta": "Con una discapacidad igual o superior al 33 %, el periodo mínimo de cotización para la jubilación parcial es (art. 215 LGSS):",
+   "opciones": [
+    "Veinte años.",
+    "Treinta y tres años.",
+    "Treinta años.",
+    "Veinticinco años."
+   ],
+   "correcta": 3,
+   "explicacion": "Con carácter general se exigen **33 años**; con discapacidad del **33 %** o más, **25 años**."
+  },
+  {
+   "id": "adm046",
+   "bloque": "b4",
+   "pregunta": "El permiso por matrimonio o registro de pareja de hecho tiene una duración de (art. 48.l TREBEP):",
+   "opciones": [
+    "Diez días.",
+    "Un mes.",
+    "Veinte días.",
+    "Quince días."
+   ],
+   "correcta": 3,
+   "explicacion": "**Quince días** (la plantilla del examen de 2026 los cuenta como **naturales**)."
+  },
+  {
+   "id": "adm047",
+   "bloque": "b5",
+   "pregunta": "El proyecto de Ley de Presupuestos Generales del Estado se remite a las Cortes (art. 37 LGP):",
+   "opciones": [
+    "Antes del 1 de octubre del año anterior.",
+    "Antes del 1 de septiembre.",
+    "Antes del 1 de noviembre.",
+    "Al menos seis meses antes de que expiren los del año anterior."
+   ],
+   "correcta": 0,
+   "explicacion": "**Antes del 1 de octubre**. La Constitución (art. 134.3) dice **al menos tres meses** antes de la expiración de los del año anterior."
+  },
+  {
+   "id": "adm048",
+   "bloque": "b5",
+   "pregunta": "Las incorporaciones de crédito que afecten al presupuesto del Estado se financian (art. 58 LGP):",
+   "opciones": [
+    "Con remanente de tesorería.",
+    "Con baja en el Fondo de Contingencia o en otros créditos de operaciones no financieras.",
+    "Con mayores ingresos.",
+    "Con Deuda Pública."
+   ],
+   "correcta": 1,
+   "explicacion": "**Fondo de Contingencia** o **baja en otros créditos no financieros**. En los **organismos autónomos**, con la parte del **remanente de tesorería** no aplicada."
+  },
+  {
+   "id": "adm049",
+   "bloque": "b5",
+   "pregunta": "¿Cómo se financian los suplementos de crédito en el presupuesto de un organismo autónomo (art. 56.2 LGP)?",
+   "opciones": [
+    "Con el Fondo de Contingencia.",
+    "Con remanente de tesorería no aplicado o con mayores ingresos sobre los previstos.",
+    "Con baja en otros créditos.",
+    "Con Deuda Pública."
+   ],
+   "correcta": 1,
+   "explicacion": "**Solo** con el remanente de tesorería no aplicado del ejercicio anterior o con **mayores ingresos**."
+  },
+  {
+   "id": "adm050",
+   "bloque": "b5",
+   "pregunta": "Un suplemento de crédito en un organismo autónomo que supone el 15 % del capítulo y 40.000 € lo autoriza (art. 56.3 LGP):",
+   "opciones": [
+    "El Ministro de Hacienda.",
+    "El Presidente o Director del organismo.",
+    "El Consejo de Ministros.",
+    "Las Cortes Generales."
+   ],
+   "correcta": 0,
+   "explicacion": "El presidente o director llega hasta el **10 %** del capítulo y 500.000 €; el **Ministro de Hacienda**, si se supera alguno de esos límites sin llegar al **20 %** ni a 1.000.000 €; el resto, el Consejo de Ministros."
+  },
+  {
+   "id": "adm051",
+   "bloque": "b5",
+   "pregunta": "¿Quién autoriza una transferencia de crédito del capítulo 2 al capítulo 1 de un Ministerio?",
+   "opciones": [
+    "El Ministro de Hacienda.",
+    "El Subsecretario.",
+    "El Ministro del Departamento.",
+    "No es posible."
+   ],
+   "correcta": 0,
+   "explicacion": "El Ministro del Departamento solo autoriza transferencias que **no afecten a créditos de personal** (art. 63.1.a LGP). Esta la autoriza el **Ministro de Hacienda** (art. 62.a)."
+  },
+  {
+   "id": "adm052",
+   "bloque": "b5",
+   "pregunta": "Una aportación del Estado a un organismo autónomo que incrementa sus créditos da lugar a:",
+   "opciones": [
+    "Un crédito extraordinario.",
+    "Una ampliación de crédito.",
+    "Una incorporación de crédito.",
+    "Una generación de crédito."
+   ],
+   "correcta": 3,
+   "explicacion": "Art. 53.2.a LGP: **generación de crédito** por aportación del Estado. En el OA la autoriza su presidente o director, y el Ministro puede **avocarla** (art. 63.2)."
+  },
+  {
+   "id": "adm053",
+   "bloque": "b5",
+   "pregunta": "El importe total de los anticipos de caja fija no puede superar (RD 725/1989):",
+   "opciones": [
+    "El 5 % del capítulo 2.",
+    "El 7 % del total del presupuesto.",
+    "El 10 % del capítulo 2.",
+    "El 7 % del capítulo 2."
+   ],
+   "correcta": 3,
+   "explicacion": "**7 % de los créditos del capítulo 2** del presupuesto vigente. Con cargo al anticipo no se pueden hacer pagos individuales de más de **5.000 €** (salvo teléfono, energía, combustibles e indemnizaciones)."
+  },
+  {
+   "id": "adm054",
+   "bloque": "b5",
+   "pregunta": "La reposición de fondos de un anticipo de caja fija se hace con documento contable:",
+   "opciones": [
+    "RC.",
+    "ADOK.",
+    "AD.",
+    "MC."
+   ],
+   "correcta": 1,
+   "explicacion": "Con **ADOK**, imputando a los conceptos presupuestarios de los gastos ya pagados. Los cajeros rinden cuentas cuando necesitan reponer y, en todo caso, **en diciembre**."
+  },
+  {
+   "id": "adm055",
+   "bloque": "b5",
+   "pregunta": "Los cajeros pagadores deben justificar los pagos «a justificar» (art. 10 RD 640/1987):",
+   "opciones": [
+    "En las primeras quincenas de enero, abril, julio y octubre.",
+    "Antes del 31 de diciembre.",
+    "En seis meses desde la percepción.",
+    "Dentro del mes siguiente a la inversión y, en todo caso, en tres meses desde la percepción de los fondos."
+   ],
+   "correcta": 3,
+   "explicacion": "**Mes siguiente** a la inversión y **máximo tres meses** desde la percepción (ampliable a seis excepcionalmente). Las quincenas de enero, abril, julio y octubre son los estados de situación de los **anticipos de caja fija**."
+  },
+  {
+   "id": "adm056",
+   "bloque": "b5",
+   "pregunta": "¿Qué documento contable expide el servicio gestor al iniciar un expediente de contratación?",
+   "opciones": [
+    "A.",
+    "RC.",
+    "D.",
+    "OK."
+   ],
+   "correcta": 1,
+   "explicacion": "**RC** (retención de crédito): certifica que hay crédito y lo reserva. El **A** llega con la aprobación del expediente y del gasto; el **D**, con la adjudicación; el **OK**, con la factura o certificación conformada."
+  },
+  {
+   "id": "adm057",
+   "bloque": "b5",
+   "pregunta": "Una obligación reconocida en diciembre de 2025 y pagada en enero de 2026 se imputa:",
+   "opciones": [
+    "A 2025, con documento OK.",
+    "A 2026, con documento OK.",
+    "A 2025, con documento D.",
+    "A 2026, con documento P."
+   ],
+   "correcta": 0,
+   "explicacion": "Al ejercicio en que **se reconoce** la obligación (**2025**), con el documento **OK**."
+  },
+  {
+   "id": "adm058",
+   "bloque": "b5",
+   "pregunta": "Según la LO 2/1982, ¿qué función corresponde al Tribunal de Cuentas?",
+   "opciones": [
+    "La función interventora.",
+    "El control financiero permanente.",
+    "La auditoría pública.",
+    "La fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público."
+   ],
+   "correcta": 3,
+   "explicacion": "Fiscalización **externa**, permanente y consuntiva, y **enjuiciamiento de la responsabilidad contable**. La función interventora, el control financiero permanente y la auditoría pública son el control **interno** de la IGAE."
+  },
+  {
+   "id": "adm059",
+   "bloque": "b5",
+   "pregunta": "Un funcionario que pasa de un cuerpo del subgrupo C2 a otro del C1 (art. 23 Ley 30/1984):",
+   "opciones": [
+    "Pierde los trienios del C2.",
+    "Cobra los trienios solo si vuelve al C2.",
+    "Ve convertidos sus trienios en trienios del C1.",
+    "Sigue percibiendo los trienios devengados en el C2."
+   ],
+   "correcta": 3,
+   "explicacion": "Sigue cobrando los **trienios devengados en los grupos anteriores** (con su importe), y la fracción de trienio sin completar se computa en el **nuevo** grupo."
+  },
+  {
+   "id": "adm060",
+   "bloque": "b5",
+   "pregunta": "La Administración debe pagar el precio de un contrato en el plazo de (art. 198.4 LCSP):",
+   "opciones": [
+    "90 días desde la recepción.",
+    "60 días desde la factura.",
+    "30 días desde la aprobación de la certificación o del documento de conformidad.",
+    "Dos meses desde la adjudicación."
+   ],
+   "correcta": 2,
+   "explicacion": "**30 días** desde que aprueba la certificación o la conformidad (que debe aprobar en otros 30 desde la entrega). Si se retrasa más de **4 meses**, el contratista puede suspender; más de **6**, resolver."
+  },
+  {
+   "id": "adm061",
+   "bloque": "b5",
+   "pregunta": "Para conceder en la AGE una subvención de más de 12 millones de euros hace falta (art. 10 Ley 38/2003):",
+   "opciones": [
+    "Una ley.",
+    "La autorización de las Cortes.",
+    "El informe del Consejo de Estado.",
+    "La autorización previa del Consejo de Ministros."
+   ],
+   "correcta": 3,
+   "explicacion": "**Autorización previa del Consejo de Ministros** (o de la Comisión Delegada para Asuntos Económicos si la normativa lo prevé). La autorización no supone la aprobación del gasto."
+  },
+  {
+   "id": "adm062",
+   "bloque": "b5",
+   "pregunta": "El plazo máximo para resolver un procedimiento de concesión de subvenciones es, salvo ley o norma europea (art. 25.4 Ley 38/2003):",
+   "opciones": [
+    "Tres meses; silencio estimatorio.",
+    "Seis meses; silencio estimatorio.",
+    "Seis meses desde la publicación de la convocatoria; silencio desestimatorio.",
+    "Un año; silencio desestimatorio."
+   ],
+   "correcta": 2,
+   "explicacion": "**Seis meses** desde la publicación de la convocatoria; si vence sin resolución, la solicitud se entiende **desestimada**."
+  },
+  {
+   "id": "adm063",
+   "bloque": "b5",
+   "pregunta": "El derecho de la Administración a reconocer o liquidar el reintegro de una subvención prescribe a los (art. 39 Ley 38/2003):",
+   "opciones": [
+    "Un año.",
+    "Dos años.",
+    "Cinco años.",
+    "Cuatro años."
+   ],
+   "correcta": 3,
+   "explicacion": "**Cuatro años**, contados como regla desde que venció el plazo de justificación. El **procedimiento** de reintegro debe resolverse en **12 meses** (si no, caduca)."
+  },
+  {
+   "id": "adm064",
+   "bloque": "b5",
+   "pregunta": "¿Cuál de estas NO tiene carácter de subvención según el art. 2.4 Ley 38/2003?",
+   "opciones": [
+    "Una ayuda para un proyecto de investigación.",
+    "Una ayuda para contratar personas con discapacidad.",
+    "Una ayuda a una asociación de interés social.",
+    "Un beneficio fiscal."
+   ],
+   "correcta": 3,
+   "explicacion": "No son subvenciones, entre otros, los **beneficios fiscales** y en la cotización, las prestaciones de la Seguridad Social y de clases pasivas, y el crédito oficial (salvo que se subvencionen los intereses)."
+  }
+ ]
+}
