@@ -50,7 +50,7 @@
     "Los 100.000 habitantes."
    ],
    "correcta": 1,
-   "explicacion": "Art. 121.1.a LBRL: **más de 250.000 habitantes**. Las capitales de provincia necesitan más de **175.000**; y las capitales autonómicas, sedes de instituciones autonómicas o municipios de más de **75.000** con circunstancias especiales, que lo decida la **Asamblea Legislativa** a iniciativa del ayuntamiento."
+   "explicacion": "Art. 121.1.a LBRL: **más de 250.000 habitantes**. Las capitales de provincia de **más de 175.000** también lo tienen directamente (letra b). Las **capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas** (de cualquier población, letra c) y los municipios de **más de 75.000** con circunstancias especiales (letra d) lo tienen si lo decide la **Asamblea Legislativa** a iniciativa del ayuntamiento."
   },
   {
    "id": "adm005",
@@ -551,13 +551,13 @@
    "bloque": "b4",
    "pregunta": "¿Qué personal queda excluido del IV Convenio Único de la AGE (art. 2)?",
    "opciones": [
-    "El del Museo del Prado.",
+    "El del Museo Nacional Centro de Arte Reina Sofía.",
     "El del INAP.",
     "El de las Confederaciones Hidrográficas.",
     "El personal laboral que presta servicios en el exterior."
    ],
    "correcta": 3,
-   "explicacion": "Art. 2.a: el personal laboral que presta servicios **en el exterior**. También el de alta dirección, el de otros convenios de la AGE y el contratado fuera de convenio, entre otros."
+   "explicacion": "Art. 2.a: el personal laboral que presta servicios **en el exterior**. También el de alta dirección, el de otros convenios de la AGE y el contratado fuera de convenio, entre otros. El **Reina Sofía** está incluido expresamente (art. 1.2.e), y el INAP y las Confederaciones Hidrográficas son organismos autónomos de la AGE (art. 1.1)."
   },
   {
    "id": "adm044",

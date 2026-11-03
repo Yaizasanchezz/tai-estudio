@@ -347,7 +347,7 @@
     "Cl@ve."
    ],
    "correcta": 1,
-   "explicacion": "La DEHú centraliza las notificaciones (art. 43.4 de la Ley 39/2015). La Carpeta Ciudadana permite acceder a ellas, pero el servicio que las gestiona es la DEHú, y Cl@ve es el sistema de identificación.",
+   "explicacion": "La **DEHú** (Dirección Electrónica Habilitada única) es el punto donde se pueden consultar las notificaciones puestas a disposición por las Administraciones (art. 43.1 y 3 de la Ley 39/2015 y art. 44 del RD 203/2021). La Carpeta Ciudadana y el Punto de Acceso General permiten **acceder** a ellas, pero el servicio que las centraliza es la DEHú; Cl@ve es el sistema de identificación.",
    "id": "t027",
    "bloque": "leyes"
   },
