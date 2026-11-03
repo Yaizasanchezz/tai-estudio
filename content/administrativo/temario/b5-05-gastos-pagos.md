@@ -23,7 +23,7 @@ order: 505
 | **8 y 9. Activos y pasivos financieros** | Préstamos, depósitos, compra de acciones / amortización de deuda | |
 
 !!! example "Así lo preguntaron en 2026"
-    - El **reconocimiento médico** del personal contratado a una empresa es un **servicio**: **capítulo 2**.
+    - El **reconocimiento médico** del personal contratado a una empresa es un **servicio**: **capítulo 2** (el tribunal acabó **anulando** esa pregunta, la 3 del supuesto II).
     - Las **obras de mejora de la accesibilidad** de un edificio son **inversión** (**capítulo 6**): la plantilla da como correcta la **630**, del artículo 63 (inversión de reposición asociada al funcionamiento operativo de los servicios). El mantenimiento ordinario (por ejemplo, de los ascensores) sería, en cambio, **capítulo 2**.
 
 **Diferencia clave:** un **gasto corriente** se consume en el ejercicio; una **inversión** crea o mejora un bien que dura varios años; una **transferencia** se da **sin contraprestación** (la Administración no recibe un bien o servicio a cambio).
@@ -49,7 +49,7 @@ El **pago** es la operación por la que se **extingue** una obligación de la Ha
 | **Límites de los pagos** | Con el sistema implantado, no pueden librarse pagos directos a perceptores por **menos de 600 €** (salvo reposiciones). Con cargo al anticipo **no** se pueden hacer pagos individuales de **más de 5.000 €**, salvo teléfono, energía eléctrica, combustibles o indemnizaciones por razón del servicio. No se pueden **fraccionar** gastos ni acumular pagos en un justificante |
 | **Situación de los fondos** | En cuentas del **Tesoro Público** en el **Banco de España** (o en entidades de crédito autorizadas) |
 | **Reposición** (art. 7) | Los cajeros **rinden cuentas** cuando necesitan reponer fondos y, **en todo caso, en diciembre**. La reposición se hace con documentos **ADOK** con cargo a los conceptos presupuestarios de los gastos realizados |
-| **Estados de situación de tesorería** (art. 8) | Como mínimo en las **primeras quincenas de enero, abril, julio y octubre**, referidos al último día del trimestre anterior |
+| **Estados de situación de tesorería** (art. 9) | Como mínimo en las **primeras quincenas de enero, abril, julio y octubre**, referidos al último día del trimestre anterior |
 | **Control** | La **Intervención** examina las cuentas justificativas |
 
 ## 4. Los pagos a justificar
@@ -60,7 +60,7 @@ El **pago** es la operación por la que se **extingue** una obligación de la Ha
 | **Imputación** | Solo obligaciones del **ejercicio** al que corresponde el libramiento; lo **no invertido** se **reintegra** al Tesoro |
 | **Normas** | Las fijan los **Ministros** y **presidentes o directores** de los OA, previo informe del Interventor Delegado |
 | **Limitación** (art. 1.3 RD 640/1987) | **No** se pueden librar nuevas órdenes a una caja que tenga fondos **sin justificar** fuera de plazo |
-| **Plazo de justificación** (art. 10 RD 640/1987) | **Dentro del mes siguiente** a la inversión de los fondos y, **en todo caso**, en **3 meses** desde su percepción. Excepcionalmente, ampliable hasta **6 meses**. Para **expropiaciones** y pagos **en el extranjero**, **6 meses** (art. 79.4 LGP) |
+| **Plazo de justificación** (art. 10 RD 640/1987) | **Dentro del mes siguiente** a la inversión de los fondos y, **en todo caso**, en **3 meses** desde su percepción. Excepcionalmente, ampliable hasta **6 meses**. Para **expropiaciones** y pagos **en el extranjero**, **6 meses**, ampliables excepcionalmente hasta **12** (art. 79.4 LGP) |
 | **Cuenta justificativa** | Los perceptores responden de la **custodia** y uso de los fondos y de **rendir la cuenta**. La autoridad competente **aprueba o pone reparos** a la cuenta en los **2 meses** siguientes |
 
 ## 5. Justificación de los libramientos
@@ -81,5 +81,5 @@ El **pago** es la operación por la que se **extingue** una obligación de la Ha
 | Pago individual máximo con ACF | 5.000 € (salvo teléfono, energía, combustibles e indemnizaciones) |
 | Reposición de ACF | Documento ADOK; cuentas al menos en diciembre |
 | Pagos a justificar | Sin documentación previa; justificación en el mes siguiente y, como máximo, 3 meses |
-| Ampliación excepcional | Hasta 6 meses |
+| Ampliación excepcional | Hasta 6 meses (12 en expropiaciones y pagos en el extranjero) |
 | Aprobación o reparo de la cuenta | En 2 meses |

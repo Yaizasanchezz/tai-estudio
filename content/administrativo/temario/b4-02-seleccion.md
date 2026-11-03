@@ -30,7 +30,7 @@ El **art. 55 TREBEP** añade: **publicidad**, **transparencia**, **imparcialidad
 | **Plazas no cubiertas** | En la AGE se **acumulan** a la oferta siguiente, con límites |
 | **Promoción interna** (art. 5) | También hay reserva para personas con discapacidad |
 | **Adaptaciones** (art. 8 RD 2271/2004 y art. 59.2 TREBEP) | **Adaptaciones y ajustes razonables de tiempo y medios** en las pruebas (y en cursos y prácticas), **a petición** del aspirante en la solicitud. **No son automáticas**: solo si la discapacidad guarda **relación directa** con la prueba |
-| **Elección de destino** (art. 9) | Pueden pedir **alterar el orden de prelación** para elegir plaza por motivos de dependencia, tipo de discapacidad o accesibilidad |
+| **Elección de destino** (art. 9) | Pueden pedir **alterar el orden de prelación** para elegir plaza (dentro del ámbito territorial de la convocatoria) por motivos de **dependencia personal**, **dificultades de desplazamiento** u otras análogas, acreditados; el órgano hace la **mínima modificación** necesaria |
 | **Provisión de puestos** | En concursos pueden pedir la **adaptación del puesto**; la Administración comprueba que es posible y no supone una modificación exorbitante |
 
 <!-- resumen -->

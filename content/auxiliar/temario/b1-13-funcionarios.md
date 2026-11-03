@@ -98,7 +98,7 @@ order: 113
 1. **Superar el proceso selectivo** (incluido, si lo hay, el **periodo de prácticas** o curso selectivo).
 2. **Nombramiento** por el órgano competente, publicado en el **diario oficial** (BOE).
 3. **Acatamiento de la Constitución** y, en su caso, del Estatuto de Autonomía y del resto del ordenamiento.
-4. **Toma de posesión** dentro del plazo establecido. En la AGE, las resoluciones de nombramiento fijan **15 días naturales** desde el día siguiente a su publicación en el BOE (**1 mes** si supone cambio de localidad de residencia).
+4. **Toma de posesión** dentro del plazo establecido. En el Cuerpo General Auxiliar, las resoluciones de nombramiento fijan **15 días naturales** desde el día siguiente a su publicación en el BOE (**1 mes** si supone cambio de localidad de residencia).
 
 ## 6. Provisión de puestos de trabajo (arts. 78 a 84 TREBEP y RD 364/1995)
 

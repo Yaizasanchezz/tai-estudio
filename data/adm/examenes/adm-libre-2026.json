@@ -1221,7 +1221,7 @@
       "Un mes."
      ],
      "respuesta": "b",
-     "explicacion": "Las resoluciones de nombramiento de funcionarios de carrera de la AGE fijan **un plazo de 15 días naturales** desde el día siguiente a su publicación en el BOE para tomar posesión (un mes si hay cambio de localidad de residencia). No es un plazo fijado en una ley: lo establece cada resolución. Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
+     "explicacion": "El plazo no lo fija una ley: lo establece **cada resolución de nombramiento**, contado desde el día siguiente a su publicación en el BOE. La plantilla da por buenos **15 días naturales**, que es lo que dicen, por ejemplo, los nombramientos de Auxiliar (un mes si hay cambio de localidad de residencia); ojo, porque los últimos nombramientos de Administrativo por turno libre (2022 y 2025) dieron **un mes**. Ver [tema]({{base}}administrativo/temario/b4-04-situaciones/)."
     },
     {
      "n": "17",

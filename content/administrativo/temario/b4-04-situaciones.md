@@ -16,7 +16,7 @@ Se adquiere por el **cumplimiento sucesivo** de estos requisitos:
 1. **Superación del proceso selectivo** (incluidos, en su caso, el curso selectivo o el periodo de prácticas).
 2. **Nombramiento** por el órgano competente, **publicado** en el diario oficial.
 3. **Acto de acatamiento** de la Constitución y, en su caso, del Estatuto de Autonomía y del resto del ordenamiento.
-4. **Toma de posesión** dentro del **plazo que se establezca**. En la AGE, las resoluciones de nombramiento dan **15 días naturales** desde el día siguiente a su publicación en el BOE, o **1 mes** si hay **cambio de localidad de residencia**.
+4. **Toma de posesión** dentro del **plazo que se establezca**. El plazo lo fija **cada resolución de nombramiento**, contado desde el día siguiente a su publicación en el BOE. En las últimas del **Cuerpo General Administrativo** (turno libre, 2022 y 2025) es **1 mes**; en las de **Auxiliar**, **15 días naturales** (1 mes si hay cambio de localidad de residencia). En el supuesto I de 2026 (promoción interna a Gestión, sin cambio de residencia) la plantilla dio por buenos **15 días naturales**. No lo confundas con el plazo tras un **concurso** (3 días hábiles o 1 mes, art. 48 RD 364/1995).
 
 Si después de superar el proceso no se acreditan los **requisitos** de la convocatoria, no se puede ser nombrado y quedan sin efecto las actuaciones (art. 62.2).
 
@@ -45,7 +45,7 @@ Si después de superar el proceso no se acreditan los **requisitos** de la convo
 | **Expectativa de destino** (art. 12) | Funcionarios afectados por **reasignación de efectivos** sin puesto en las dos primeras fases. Máximo **1 año**; después, **excedencia forzosa**. Cobran **básicas**, **complemento de destino** del grado y el **50 % del complemento específico** |
 | **Excedencia forzosa** (art. 13) | Tras la expectativa de destino, o cuando quien sale de una suspensión firme sin reserva de puesto pide el reingreso y no se le concede en **6 meses**. Cobran las **básicas** (y prestaciones por hijo) y **computa** a efectos de **trienios y derechos pasivos**. No pueden trabajar en el sector público |
 | **Excedencia voluntaria por prestación de servicios en el sector público** (art. 15) | Se declara (de oficio o a instancia) a quien pasa a estar en **servicio activo en otro cuerpo o escala** de cualquier Administración (salvo compatibilidad) o pasa a **personal laboral fijo** del sector público. Dura mientras dure esa relación; al cesar, hay **1 mes** para pedir el reingreso |
-| **Excedencia voluntaria por interés particular** (art. 16 y art. 89.2 TREBEP) | Requiere **5 años** de servicios efectivos inmediatamente anteriores. Subordinada a las **necesidades del servicio**. **No** se concede con un **expediente disciplinario** abierto. Si no se pide el reingreso en plazo, se **pierde la condición de funcionario** |
+| **Excedencia voluntaria por interés particular** (art. 16 y art. 89.2 TREBEP) | Requiere **5 años** de servicios efectivos inmediatamente anteriores. Subordinada a las **necesidades del servicio**. **No** se concede con un **expediente disciplinario** abierto. El RD 365/1995 (art. 16) fija una duración de 2 a 15 años y la pérdida de la condición de funcionario si no se pide el reingreso, pero el art. 89.2 TREBEP ya no establece duración máxima: es un punto discutido |
 | **Excedencia voluntaria por agrupación familiar** (art. 17) | Cónyuge con puesto definitivo en otro municipio |
 
 !!! example "Así lo preguntaron en 2026 (supuesto I)"
@@ -58,7 +58,7 @@ Si después de superar el proceso no se acreditan los **requisitos** de la convo
 | Dato | Respuesta |
 | --- | --- |
 | Requisitos para ser funcionario de carrera | Superar el proceso, nombramiento publicado, acatamiento de la Constitución y toma de posesión en plazo |
-| Toma de posesión tras el nombramiento (AGE) | 15 días naturales (1 mes con cambio de localidad) |
+| Toma de posesión tras el nombramiento (AGE) | El que fije la resolución: 1 mes en Administrativo (libre, 2025); 15 días naturales en Auxiliar y en la plantilla de 2026 |
 | Pérdida de la condición | Renuncia, nacionalidad, jubilación total, separación firme e inhabilitación firme |
 | Renuncia no aceptada | Con expediente disciplinario, auto de procesamiento o de apertura de juicio oral |
 | Jubilación forzosa | 65 años (prolongable hasta 70) |

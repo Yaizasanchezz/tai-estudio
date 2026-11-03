@@ -218,7 +218,7 @@ S1 = [
     (15, "Situaciones · Excedencia", "", "c",
      "Quien accede a otro cuerpo y pasa a servicio activo en él queda en el de origen en **excedencia voluntaria por prestación de servicios en el sector público** (art. 15 RD 365/1995). Ver " + tema("b4-04-situaciones") + "."),
     (16, "Funcionarios · Toma de posesión", "", "b",
-     "Las resoluciones de nombramiento de funcionarios de carrera de la AGE fijan **un plazo de 15 días naturales** desde el día siguiente a su publicación en el BOE para tomar posesión (un mes si hay cambio de localidad de residencia). No es un plazo fijado en una ley: lo establece cada resolución. Ver " + tema("b4-04-situaciones") + "."),
+     "El plazo no lo fija una ley: lo establece **cada resolución de nombramiento**, contado desde el día siguiente a su publicación en el BOE. La plantilla da por buenos **15 días naturales**, que es lo que dicen, por ejemplo, los nombramientos de Auxiliar (un mes si hay cambio de localidad de residencia); ojo, porque los últimos nombramientos de Administrativo por turno libre (2022 y 2025) dieron **un mes**. Ver " + tema("b4-04-situaciones") + "."),
     (17, "Permisos · Nacimiento", "", "c",
      "Art. 49.c TREBEP: si el permiso se disfruta de forma **interrumpida**, cada período exige un **preaviso de al menos quince días** y se toma por semanas completas. Ver " + tema("b4-05-provision-derechos-carrera") + "."),
     (18, "Permisos · Tiempo parcial", "", "c",

@@ -61,7 +61,7 @@ order: 502
 !!! example "Así lo preguntaron en 2026"
     - **Suplemento de 15.000 €** en un organismo autónomo cuyo capítulo tiene un crédito inicial de **85.000 €**: es el **17,6 %** del capítulo (más del 10 %, menos del 20 %) y menos de 1.000.000 € → lo autoriza el **Ministro de Hacienda**, y se financia con **remanente de tesorería** no aplicado o **mayores ingresos**. El documento contable que expide la Dirección General de Presupuestos al aprobar la modificación es el **MC**.
     - **Transferencia del capítulo 2 al capítulo 1** en un Ministerio: afecta a **créditos de personal**, así que **no** la puede autorizar el Ministro del departamento → **Ministro de Hacienda**.
-    - El Ministerio **aporta fondos al INAP** (organismo autónomo) para un gasto: en el INAP es una **generación de crédito** (art. 53.2.a), que aprueba su **Presidente**, con posible **avocación** por el Ministro.
+    - El Ministerio **aporta fondos al INAP** (organismo autónomo) para un gasto: en el INAP es una **generación de crédito** (art. 53.2.a), que aprueba el **presidente o director** del organismo (art. 63.2 LGP; en el INAP, la gestión presupuestaria es de la **Dirección**), con posible **avocación** por el Ministro.
 
 <!-- resumen -->
 | Vinculación de los créditos en el Estado | Concepto; personal y bienes corrientes, artículo; inversiones, capítulo |
