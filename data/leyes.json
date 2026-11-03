@@ -412,6 +412,54 @@
    "nombre": "Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual",
    "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
    "explicada": ""
+  },
+  {
+   "slug": "rd-1405-1986",
+   "id": "BOE-A-1986-18101",
+   "corto": "RD 1405/1986",
+   "nombre": "Real Decreto 1405/1986, de 6 de junio, Reglamento del Registro Central de Personal",
+   "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
+   "explicada": ""
+  },
+  {
+   "slug": "rd-2271-2004",
+   "id": "BOE-A-2004-21221",
+   "corto": "RD 2271/2004",
+   "nombre": "Real Decreto 2271/2004, de 3 de diciembre, acceso al empleo público y provisión de puestos de las personas con discapacidad",
+   "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
+   "explicada": ""
+  },
+  {
+   "slug": "rdl-6-2023",
+   "id": "BOE-A-2023-25758",
+   "corto": "RDL 6/2023",
+   "nombre": "Real Decreto-ley 6/2023, de 19 de diciembre, medidas urgentes en materia de servicio público de justicia, función pública, régimen local y mecenazgo",
+   "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
+   "explicada": ""
+  },
+  {
+   "slug": "orden-docs-contables-1996",
+   "id": "BOE-A-1996-2749",
+   "corto": "Orden 1-2-1996 (documentos contables)",
+   "nombre": "Orden de 1 de febrero de 1996 por la que se aprueban los documentos contables a utilizar por la Administración General del Estado",
+   "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
+   "explicada": ""
+  },
+  {
+   "slug": "orden-operatoria-contable-1996",
+   "id": "BOE-A-1996-2627",
+   "corto": "Orden 1-2-1996 (operatoria contable)",
+   "nombre": "Orden de 1 de febrero de 1996 por la que se aprueba la Instrucción de operatoria contable a seguir en la ejecución del gasto del Estado",
+   "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
+   "explicada": ""
+  },
+  {
+   "slug": "orden-nominas-1992",
+   "id": "BOE-A-1992-19493",
+   "corto": "Orden 30-7-1992 (nóminas)",
+   "nombre": "Orden de 30 de julio de 1992 sobre instrucciones para la confección de nóminas",
+   "grupo": "Administrativo C1: contratos, personal, Seguridad Social y gestión financiera",
+   "explicada": ""
   }
  ]
 }
