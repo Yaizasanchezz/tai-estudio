@@ -2,15 +2,14 @@
 title: Ley 50/1997 · Ley del Gobierno
 description: El Gobierno por dentro: composición y funciones del Presidente, Vicepresidentes, Ministros y Consejo de Ministros; Comisiones Delegadas; órganos de apoyo; estatuto de sus miembros; Gobierno en funciones; forma y jerarquía de sus normas; elaboración de leyes y reglamentos; y control del Gobierno.
 order: 4
+texto: ley-50-1997
 ---
 
 !!! tip "Cómo encaja con la Constitución"
     Los arts. 97 a 107 de la Constitución dicen **qué es** el Gobierno y cómo nace y cesa (investidura, moción de censura…). La **Ley 50/1997** desarrolla **cómo funciona**: quién hace qué, cómo se reúne, qué puede hacer un Gobierno en funciones y cómo se elaboran las normas. Es la parte del tema 5 que más se pregunta después de la Constitución.
 
-## Título I · Composición, organización y funciones (arts. 1 a 10)
 
-### Artículo 1 · El Gobierno
-
+<!-- a1 -->
 - **Funciones:** dirige la **política interior y exterior**, la **Administración civil y militar** y la **defensa del Estado**. Ejerce la **función ejecutiva** y la **potestad reglamentaria**.
 - **Composición:** **Presidente**, **Vicepresidente o Vicepresidentes** (si los hay) y **Ministros**.
 - Sus miembros se reúnen en **Consejo de Ministros** y en **Comisiones Delegadas del Gobierno**.
@@ -18,8 +17,8 @@ order: 4
 !!! warning "Trampa típica"
     Los **Secretarios de Estado no son miembros del Gobierno**: son órganos superiores de la Administración y **órganos de colaboración** del Gobierno. Pueden asistir al Consejo de Ministros si se les convoca, pero no forman parte de él.
 
-### Artículo 2 · El Presidente del Gobierno
 
+<!-- a2 -->
 Dirige la acción del Gobierno y **coordina** a los demás miembros, sin perjuicio de la responsabilidad directa de cada Ministro. Le corresponde:
 
 - **Representar** al Gobierno.
@@ -36,14 +35,16 @@ Dirige la acción del Gobierno y **coordina** a los demás miembros, sin perjuic
 - **Resolver los conflictos de atribuciones entre Ministerios.**
 - Impartir **instrucciones** a los demás miembros del Gobierno.
 
-### Artículos 3 y 4 · Vicepresidentes y Ministros
+
+<!-- antes a3 -->
+## Artículos 3 y 4 · Vicepresidentes y Ministros
 
 - **Vicepresidentes:** ejercen las funciones que les **encomiende el Presidente**. Si además son titulares de un Ministerio, tienen la condición de **Ministro**.
 - **Ministros:** desarrollan la acción del Gobierno en su Departamento, ejercen la **potestad reglamentaria** en las materias propias de su Departamento y **refrendan** los actos del Rey de su competencia.
 - Puede haber **Ministros sin cartera** (sin Departamento), con las funciones que se les atribuyan por Real Decreto.
 
-### Artículo 5 · El Consejo de Ministros
 
+<!-- a5 -->
 Órgano colegiado del Gobierno. Le corresponde:
 
 - Aprobar los **proyectos de ley** y remitirlos al Congreso (o al Senado).
@@ -58,8 +59,8 @@ Dirige la acción del Gobierno y **coordina** a los demás miembros, sin perjuic
 
 Pueden asistir los **Secretarios de Estado** y, excepcionalmente, otros altos cargos convocados. Sus **deliberaciones son secretas**.
 
-### Artículo 6 · Comisiones Delegadas del Gobierno
 
+<!-- a6 -->
 - Se crean, modifican y suprimen por **Real Decreto del Consejo de Ministros, a propuesta del Presidente**.
 - El Real Decreto fija quién la **preside**, sus **miembros** (miembros del Gobierno y, en su caso, Secretarios de Estado), sus **funciones**, quién ejerce la **Secretaría** y su régimen de funcionamiento.
 - **Funciones:** examinar cuestiones generales que afectan a varios Ministerios; preparar **propuestas conjuntas** para el Consejo de Ministros; **resolver asuntos** que afectan a más de un Ministerio y no necesitan ir al Consejo; y lo que les delegue el Consejo.
@@ -68,7 +69,9 @@ Pueden asistir los **Secretarios de Estado** y, excepcionalmente, otros altos ca
 !!! example "Ejemplos reales"
     La **Comisión Delegada del Gobierno para Asuntos Económicos** o la de **Política de Inteligencia**.
 
-### Artículos 7 a 10 · Órganos de colaboración y apoyo
+
+<!-- antes a7 -->
+## Artículos 7 a 10 · Órganos de colaboración y apoyo
 
 | Órgano | Qué es | Detalles clave |
 | --- | --- | --- |
@@ -77,13 +80,13 @@ Pueden asistir los **Secretarios de Estado** y, excepcionalmente, otros altos ca
 | **Secretariado del Gobierno** (art. 9) | Órgano de **apoyo** del Consejo de Ministros, Comisiones Delegadas y Comisión General | Integrado en el **Ministerio de la Presidencia**. Asiste al Ministro-Secretario del Consejo, remite convocatorias, **custodia actas**, vela por la **buena regulación** y por la **correcta publicación en el BOE**; tramita la **sanción y promulgación** de las leyes |
 | **Gabinetes** (art. 10) | Órganos de **apoyo político y técnico** del Presidente, Vicepresidentes, Ministros y Secretarios de Estado | Sus miembros hacen tareas de **confianza y asesoramiento especial** y **no pueden dictar actos** que correspondan a órganos de la Administración (salvo los directores, en la jefatura de su unidad) |
 
-## Título II · Estatuto de los miembros del Gobierno (arts. 11 a 16)
 
-### Artículo 11 · Requisitos
-
+<!-- a11 -->
 Para ser miembro del Gobierno hay que ser **español**, **mayor de edad**, disfrutar del **derecho de sufragio activo y pasivo**, **no estar inhabilitado** para cargo público por sentencia firme y reunir los requisitos de idoneidad de la **Ley 3/2015** del alto cargo. (No hace falta ser diputado o senador.)
 
-### Artículos 12 y 13 · Nombramiento, cese y suplencia
+
+<!-- antes a12 -->
+## Artículos 12 y 13 · Nombramiento, cese y suplencia
 
 - El **Presidente** se nombra y cesa según la **Constitución** (investidura, art. 99 CE).
 - **Vicepresidentes y Ministros:** nombrados y separados **por el Rey, a propuesta del Presidente**. Desde la LO 2/2024, en su conjunto **cada sexo debe suponer al menos el 40 %**.
@@ -91,19 +94,19 @@ Para ser miembro del Gobierno hay que ser **español**, **mayor de edad**, disfr
 - **Suplencia del Presidente:** los **Vicepresidentes** por su orden y, si no hay, los **Ministros según el orden de precedencia** de los Departamentos.
 - **Suplencia de los Ministros:** la determina un **Real Decreto del Presidente**, y debe recaer **siempre en otro miembro del Gobierno**.
 
-### Artículo 14 · Incompatibilidades
 
+<!-- a14 -->
 Los miembros del Gobierno **no pueden** ejercer otras funciones representativas que las del **mandato parlamentario** (sí pueden ser diputados o senadores), ni otra función pública que no derive del cargo, ni **actividad profesional o mercantil** alguna. Se les aplica el régimen de incompatibilidades de los **altos cargos**.
 
-### Artículos 15 y 16 · Secretarios de Estado y Directores de Gabinete
+
+<!-- antes a15 -->
+## Artículos 15 y 16 · Secretarios de Estado y Directores de Gabinete
 
 - **Secretarios de Estado:** nombrados y separados por **Real Decreto del Consejo de Ministros**, a propuesta del Presidente o del Ministro del que dependan. Su suplencia sigue el orden del Real Decreto de estructura del Ministerio.
 - **Directores de Gabinete:** del Presidente, Vicepresidentes y Ministros, por **Real Decreto del Consejo de Ministros**; de los Secretarios de Estado, por **Orden Ministerial** con conocimiento del Consejo. **Cesan automáticamente** cuando cesa su titular. Los funcionarios que se incorporan a un Gabinete pasan a **servicios especiales** (o pueden quedarse en servicio activo).
 
-## Título III · Funcionamiento y delegación (arts. 17 a 20)
 
-### Artículo 18 · Funcionamiento del Consejo de Ministros
-
+<!-- a18 -->
 - Lo **convoca y preside el Presidente del Gobierno**; actúa como **Secretario el Ministro de la Presidencia**.
 - Sus reuniones pueden ser **decisorias o deliberantes**.
 - El **orden del día** lo fija el **Presidente**.
@@ -113,8 +116,8 @@ Los miembros del Gobierno **no pueden** ejercer otras funciones representativas 
 !!! example "Ejemplo"
     El Consejo de Ministros se reúne normalmente los martes. Antes, la **Comisión General de Secretarios de Estado y Subsecretarios** examina los asuntos: los que llegan pactados van al «índice verde» y se aprueban sin debate; los que necesitan deliberación, al «índice rojo».
 
-### Artículo 20 · Delegación y avocación
 
+<!-- a20 -->
 **Pueden delegar:**
 
 - El **Presidente** en los **Vicepresidentes y Ministros**.
@@ -130,8 +133,8 @@ Los miembros del Gobierno **no pueden** ejercer otras funciones representativas 
 
 El **Consejo de Ministros** puede **avocar**, a propuesta del Presidente, un asunto de una Comisión Delegada, mediante acuerdo motivado; contra la avocación **no cabe recurso**.
 
-## Título IV · El Gobierno en funciones (art. 21)
 
+<!-- antes a21 -->
 El Gobierno **cesa** tras la celebración de **elecciones generales**, por **pérdida de la confianza parlamentaria** (moción de censura o cuestión de confianza perdida) o por **dimisión o fallecimiento del Presidente**. Sigue **en funciones** hasta que toma posesión el nuevo Gobierno.
 
 El Gobierno en funciones **facilita el traspaso de poderes** y limita su gestión al **despacho ordinario** de los asuntos públicos, salvo **urgencia** o **interés general** debidamente acreditados.
@@ -147,14 +150,12 @@ Además, las **delegaciones legislativas** de las Cortes quedan **en suspenso** 
 !!! example "Ejemplo"
     Tras las elecciones y mientras no hay investidura, el Gobierno en funciones **sí puede** aprobar un Real Decreto-ley urgente (por ejemplo, ayudas por una catástrofe), pero **no puede** enviar al Congreso el proyecto de Presupuestos.
 
-## Título V · Iniciativa legislativa y potestad reglamentaria (arts. 22 a 28)
 
-### Artículo 23 · Entrada en vigor
-
+<!-- a23 -->
 Las leyes y reglamentos del Gobierno que impongan **nuevas obligaciones** a quienes ejercen una **actividad económica o profesional** entran en vigor el **2 de enero o el 1 de julio** siguientes a su aprobación. No se aplica a los decretos-leyes ni cuando lo exija la transposición de directivas.
 
-### Artículo 24 · Forma y jerarquía de las normas del Gobierno
 
+<!-- a24 -->
 | Forma | Qué aprueba |
 | --- | --- |
 | **Real Decreto Legislativo** | Textos articulados o refundidos por delegación de las Cortes (art. 82 CE) |
@@ -167,7 +168,9 @@ Las leyes y reglamentos del Gobierno que impongan **nuevas obligaciones** a quie
 
 **Jerarquía de los reglamentos:** 1.º los aprobados por **Real Decreto** (del Presidente o acordado en Consejo de Ministros); 2.º los aprobados por **Orden Ministerial**.
 
-### Artículos 25 a 28 · Elaboración de las normas
+
+<!-- antes a25 -->
+## Artículos 25 a 28 · Elaboración de las normas
 
 - **Plan Anual Normativo (art. 25):** recoge las iniciativas del año siguiente; lo coordina el **Ministerio de la Presidencia** y se aprueba **antes del 30 de abril**. Si una norma no estaba en el Plan, hay que justificarlo.
 - **Procedimiento (art. 26):**
@@ -182,13 +185,15 @@ Las leyes y reglamentos del Gobierno que impongan **nuevas obligaciones** a quie
 - **Tramitación urgente (art. 27):** para transponer directivas a tiempo o por circunstancias extraordinarias. Los plazos se **reducen a la mitad**, no hay consulta pública (la audiencia es de **7 días**) y la falta de un informe preceptivo **no impide continuar**.
 - **Informe anual de evaluación (art. 28):** aprobado **antes del 30 de abril**, analiza el cumplimiento del Plan Anual Normativo del año anterior y la **eficacia, eficiencia y sostenibilidad** de las normas evaluadas.
 
-## Título VI · Control del Gobierno (art. 29)
 
+<!-- antes a29 -->
 1. El Gobierno está sujeto a la **Constitución y al resto del ordenamiento** en toda su actuación.
 2. Todos sus actos y omisiones están sometidos al **control político de las Cortes Generales**.
 3. Sus actos, inactividad y vías de hecho son impugnables ante la **jurisdicción contencioso-administrativa** (los del Consejo de Ministros, ante el **Tribunal Supremo**).
 4. Su actuación es impugnable ante el **Tribunal Constitucional** según la LOTC.
 
+
+<!-- final -->
 ## Disposiciones adicionales
 
 - Los **expresidentes del Gobierno** pueden usar el título y gozan de los honores que se determinen.

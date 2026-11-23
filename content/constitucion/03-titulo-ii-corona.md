@@ -3,98 +3,93 @@ title: Título II · La Corona
 description: El Rey como Jefe del Estado, la sucesión, la regencia, la tutela, sus funciones y el refrendo (arts. 56 a 65).
 order: 3
 arts: Arts. 56–65
+texto: constitucion
+rango: tii-a65
 ---
 
-## Idea general
+<!-- titulo a56: El Rey, Jefe del Estado -->
+<!-- titulo a57: Sucesión en la Corona -->
+<!-- titulo a58: La Reina consorte -->
+<!-- titulo a59: La Regencia -->
+<!-- titulo a60: La tutela del Rey menor -->
+<!-- titulo a61: Juramento -->
+<!-- titulo a62: Funciones del Rey -->
+<!-- titulo a63: Relaciones internacionales -->
+<!-- titulo a64: El refrendo -->
+<!-- titulo a65: La Casa del Rey -->
+<!-- destacar a56: El Rey es el Jefe del Estado, símbolo de su unidad y permanencia | más alta representación del Estado español en las relaciones internacionales | Rey de España | La persona del Rey es inviolable y no está sujeta a responsabilidad. | refrendados -->
+<!-- destacar a57: hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón | primogenitura y representación | línea anterior | grado más próximo | varón a la mujer | más edad | Príncipe de Asturias | Extinguidas todas las líneas | Cortes Generales | contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales | abdicaciones y renuncias | ley orgánica -->
+<!-- destacar a58: no podrán asumir funciones constitucionales -->
+<!-- destacar a59: Cuando el Rey fuere menor de edad | inhabilitare | reconocida por las Cortes Generales | Príncipe heredero | Cortes Generales | una, tres o cinco personas | español y mayor de edad | en nombre del Rey -->
+<!-- destacar a60: tutor del Rey menor | testamento | padre o la madre | viudos | Cortes Generales | incompatible con el de todo cargo o representación política -->
+<!-- destacar a61: juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas | Príncipe heredero | Regente o Regentes | fidelidad al Rey -->
+<!-- destacar a62: Sancionar y promulgar las leyes. | Convocar y disolver las Cortes Generales y convocar elecciones | Convocar a referéndum | Proponer el candidato a Presidente del Gobierno | Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente. | Expedir los decretos acordados en el Consejo de Ministros | Ser informado de los asuntos de Estado | mando supremo de las Fuerzas Armadas | derecho de gracia | no podrá autorizar indultos generales | Alto Patronazgo de las Reales Academias -->
+<!-- destacar a63: acredita a los embajadores | manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados | previa autorización de las Cortes Generales, declarar la guerra y hacer la paz -->
+<!-- destacar a64: De los actos del Rey serán responsables las personas que los refrenden. -->
+<!-- destacar a65: Presupuestos del Estado una cantidad global -->
 
-En una **Monarquía parlamentaria** (art. 1.3) el Rey es el Jefe del Estado, pero **no gobierna**: sus actos son casi siempre debidos (tiene que hacerlos) y los asume otra persona mediante el **refrendo**. Por eso se dice que «el Rey reina, pero no gobierna». El Título II está protegido por la reforma agravada del art. 168.
+En una **Monarquía parlamentaria** (art. 1.3) el Rey es el Jefe del Estado, pero **no gobierna**: sus actos son casi siempre **debidos** (tiene que hacerlos) y de ellos responde otra persona mediante el **refrendo**. Por eso se dice que «el Rey reina, pero no gobierna». El Título II está protegido por la **reforma agravada** del art. 168.
 
-## Artículo 56 · El Rey, Jefe del Estado
+<!-- a56 -->
+- **56.1:** el Rey es **Jefe del Estado, símbolo de su unidad y permanencia**; **arbitra y modera** el funcionamiento de las instituciones y asume la **más alta representación** del Estado en las relaciones internacionales, especialmente con las naciones de su **comunidad histórica**.
+- **56.3:** es **inviolable** (no puede ser juzgado) y **no está sujeto a responsabilidad**: responde quien **refrenda** sus actos. Sin refrendo, sus actos **no son válidos**, salvo el nombramiento de los miembros de su Casa (65.2).
 
-1. **El Rey es el Jefe del Estado, símbolo de su unidad y permanencia**, arbitra y modera el funcionamiento regular de las instituciones, asume la **más alta representación del Estado español en las relaciones internacionales**, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.
-2. Su título es el de **Rey de España** y podrá utilizar los demás que correspondan a la Corona.
-3. **La persona del Rey es inviolable y no está sujeta a responsabilidad.** Sus actos estarán siempre **refrendados** en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65.2.
+<!-- a57 -->
+- **57.1:** sucesión por **primogenitura y representación**: la **línea anterior** antes que las posteriores; en la misma línea, el **grado más próximo**; en el mismo grado, el **varón** a la mujer; y en el mismo sexo, la persona de **más edad**.
+- **57.2:** el heredero tiene la dignidad de **Príncipe de Asturias** desde su nacimiento **o desde que se produzca el hecho que origine el llamamiento**.
+- **57.3:** si se extinguen todas las líneas, proveen las **Cortes Generales**.
+- **57.4:** quien se case **contra la expresa prohibición del Rey y de las Cortes** queda excluido, con sus descendientes.
+- **57.5:** **abdicaciones, renuncias** y dudas sobre la sucesión se resuelven por **ley orgánica**. La abdicación de Juan Carlos I en 2014 se hizo efectiva con la **LO 3/2014**.
 
-Qué significa: el Rey no puede ser juzgado (inviolable) ni responde de sus actos (irresponsable); responde quien los refrenda. La excepción del 65.2 es el nombramiento de los miembros de su Casa, que hace libremente.
+Ejemplo: la princesa Leonor es la heredera porque Felipe VI no tiene hijos varones; si los tuviera, según el texto vigente, el varón pasaría delante.
 
-## Artículo 57 · Sucesión en la Corona
+<!-- a58 -->
+La Reina consorte o el consorte de la Reina **no tienen funciones constitucionales**, salvo lo previsto para la **Regencia** (art. 59.1: pueden ser regentes como padre o madre del Rey menor).
 
-1. La Corona de España es **hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón**, legítimo heredero de la dinastía histórica. La sucesión seguirá el orden regular de **primogenitura y representación**:
-    - siendo preferida siempre la **línea anterior** a las posteriores;
-    - en la misma línea, el **grado más próximo** al más remoto;
-    - en el mismo grado, el **varón a la mujer**;
-    - y en el mismo sexo, la persona de **más edad** a la de menos.
-2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de **Príncipe de Asturias** y los demás títulos vinculados tradicionalmente al sucesor de la Corona.
-3. **Extinguidas todas las líneas** llamadas en Derecho, las **Cortes Generales** proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.
-4. Aquellas personas que, teniendo derecho a la sucesión en el trono, **contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales**, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.
-5. Las **abdicaciones y renuncias** y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una **ley orgánica**.
+<!-- a59 -->
+La **Regencia** es el ejercicio de las funciones del Rey por otra persona cuando el Rey no puede ejercerlas:
 
-Ejemplo: la abdicación de Juan Carlos I en 2014 se hizo efectiva con la **Ley Orgánica 3/2014**. La princesa Leonor es heredera porque el Rey Felipe VI no tiene hijos varones; si los tuviera, según el texto vigente, el varón pasaría delante.
+| Situación | Quién es Regente |
+| --- | --- |
+| **Rey menor de edad** | El **padre o la madre** del Rey y, en su defecto, el **pariente mayor de edad más próximo** a suceder en la Corona |
+| **Rey inhabilitado** (las **Cortes** reconocen la inhabilitación) | El **Príncipe heredero**, si es mayor de edad; si no, como en el caso anterior |
+| No hay nadie a quien corresponda | La nombran las **Cortes Generales**: **una, tres o cinco** personas |
 
-## Artículo 58 · La Reina consorte
+Para ser Regente hay que ser **español y mayor de edad**. La Regencia se ejerce **por mandato constitucional** y siempre **en nombre del Rey**.
 
-La Reina consorte o el consorte de la Reina **no podrán asumir funciones constitucionales**, salvo lo dispuesto para la Regencia.
+<!-- a60 -->
+Diferencia: el **Regente** ejerce las funciones del Rey (lo público); el **tutor** cuida de la persona y la educación del **Rey menor** (lo privado). Es tutor quien haya designado en su **testamento** el Rey difunto (si es mayor de edad y español de nacimiento); si no, el **padre o la madre** mientras permanezcan **viudos**; y si no, lo nombran las **Cortes**. Los cargos de **Regente y tutor** solo pueden acumularse en el **padre, la madre o ascendientes directos** del Rey.
 
-## Artículo 59 · La Regencia
+<!-- a61 -->
+El Rey jura ante las **Cortes** desempeñar fielmente sus funciones, **guardar y hacer guardar la Constitución** y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas. El **Príncipe heredero** al ser mayor de edad, y el **Regente** al asumir sus funciones, prestan el mismo juramento **y además el de fidelidad al Rey**. La princesa Leonor juró el **31 de octubre de 2023**, al cumplir 18 años.
 
-La Regencia es el ejercicio de las funciones del Rey por otra persona cuando el Rey no puede ejercerlas.
-
-1. **Cuando el Rey fuere menor de edad**, el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, según el orden establecido en la Constitución, entrará a ejercer inmediatamente la Regencia y la ejercerá durante el tiempo de la minoría de edad del Rey.
-2. Si el Rey se **inhabilitare** para el ejercicio de su autoridad y la imposibilidad fuere **reconocida por las Cortes Generales**, entrará a ejercer inmediatamente la Regencia el **Príncipe heredero** de la Corona, si fuere mayor de edad. Si no lo fuere, se procederá de la manera prevista en el apartado anterior hasta que el Príncipe heredero alcance la mayoría de edad.
-3. Si no hubiere ninguna persona a quien corresponda la Regencia, esta será nombrada por las **Cortes Generales**, y se compondrá de **una, tres o cinco personas**.
-4. Para ejercer la Regencia es preciso ser **español y mayor de edad**.
-5. La Regencia se ejercerá por mandato constitucional y siempre **en nombre del Rey**.
-
-## Artículo 60 · La tutela del Rey menor
-
-1. Será **tutor del Rey menor** la persona que en su **testamento** hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento. Si no lo hubiese nombrado, será tutor el **padre o la madre** mientras permanezcan **viudos**. En su defecto, lo nombrarán las **Cortes Generales**, pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey.
-2. El ejercicio de la tutela es también **incompatible con el de todo cargo o representación política**.
-
-Diferencia: el **Regente** ejerce las funciones del Rey (lo público); el **tutor** cuida de la persona y la educación del Rey menor (lo privado).
-
-## Artículo 61 · Juramento
-
-1. El Rey, al ser proclamado ante las Cortes Generales, prestará **juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas**.
-2. El **Príncipe heredero**, al alcanzar la mayoría de edad, y el **Regente o Regentes** al hacerse cargo de sus funciones, prestarán el mismo juramento, así como el de **fidelidad al Rey**.
-
-La princesa Leonor juró la Constitución ante las Cortes el 31 de octubre de 2023, al cumplir 18 años.
-
-## Artículo 62 · Funciones del Rey
-
-Corresponde al Rey:
-
-- a) **Sancionar y promulgar las leyes.**
-- b) **Convocar y disolver las Cortes Generales y convocar elecciones** en los términos previstos en la Constitución.
-- c) **Convocar a referéndum** en los casos previstos en la Constitución.
-- d) **Proponer el candidato a Presidente del Gobierno** y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución.
-- e) **Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.**
-- f) **Expedir los decretos acordados en el Consejo de Ministros**, conferir los empleos civiles y militares y conceder honores y distinciones con arreglo a las leyes.
-- g) **Ser informado de los asuntos de Estado** y presidir, a estos efectos, las sesiones del Consejo de Ministros, cuando lo estime oportuno, a petición del Presidente del Gobierno.
-- h) El **mando supremo de las Fuerzas Armadas**.
-- i) Ejercer el **derecho de gracia** con arreglo a la ley, que **no podrá autorizar indultos generales**.
-- j) El **Alto Patronazgo de las Reales Academias**.
+<!-- a62 -->
+Son funciones **debidas**: el Rey no decide su contenido.
 
 !!! tip "Ojo en el examen"
-    El Rey **preside el Consejo de Ministros** solo cuando lo estime oportuno **y a petición del Presidente del Gobierno**, y solo para ser informado. No vota ni decide. Y puede conceder indultos particulares, nunca **generales** (amnistías generales en forma de indulto).
+    - Convoca y disuelve las Cortes y convoca **elecciones** y **referéndum** «en los términos previstos en la Constitución».
+    - **Preside el Consejo de Ministros** solo **cuando lo estime oportuno y a petición del Presidente del Gobierno**, y para ser **informado** de los asuntos de Estado. No vota ni decide.
+    - Ejerce el **derecho de gracia** con arreglo a la ley, que **no puede autorizar indultos generales**.
+    - Tiene el **mando supremo de las Fuerzas Armadas** y el **Alto Patronazgo de las Reales Academias**.
 
-## Artículo 63 · Relaciones internacionales
+<!-- a63 -->
+Acredita a los **embajadores** y representantes diplomáticos (los extranjeros se acreditan **ante él**). Manifiesta el consentimiento del Estado en los **tratados** y, **previa autorización de las Cortes**, declara la **guerra** y hace la **paz**.
 
-1. El Rey **acredita a los embajadores** y otros representantes diplomáticos. Los representantes extranjeros en España están acreditados ante él.
-2. Al Rey corresponde **manifestar el consentimiento del Estado para obligarse internacionalmente por medio de tratados**, de conformidad con la Constitución y las leyes.
-3. Al Rey corresponde, **previa autorización de las Cortes Generales, declarar la guerra y hacer la paz**.
+<!-- a64 -->
+El **refrendo** traslada la responsabilidad del acto:
 
-## Artículo 64 · El refrendo
+| Acto | Quién refrenda |
+| --- | --- |
+| La generalidad de los actos | El **Presidente del Gobierno** y, en su caso, los **Ministros** competentes |
+| **Propuesta y nombramiento del Presidente del Gobierno** y **disolución del art. 99.5** (nadie obtiene la investidura en dos meses) | El **Presidente del Congreso** |
 
-1. Los actos del Rey serán refrendados por el **Presidente del Gobierno** y, en su caso, por los **Ministros competentes**. La **propuesta y el nombramiento del Presidente del Gobierno**, y la **disolución prevista en el artículo 99** (cuando nadie obtiene la investidura en dos meses), serán refrendados por el **Presidente del Congreso**.
-2. **De los actos del Rey serán responsables las personas que los refrenden.**
+De los actos del Rey **responden las personas que los refrenden** (64.2).
 
-## Artículo 65 · La Casa del Rey
+<!-- a65 -->
+- **65.1:** el Rey recibe de los Presupuestos del Estado una **cantidad global** para el sostenimiento de su Familia y Casa, y la **distribuye libremente**.
+- **65.2:** **nombra y releva libremente** a los miembros civiles y militares de su **Casa**. Es el único acto del Rey que **no necesita refrendo**.
 
-1. El Rey recibe de los **Presupuestos del Estado una cantidad global** para el sostenimiento de su Familia y Casa, y **la distribuye libremente**.
-2. El Rey **nombra y releva libremente a los miembros civiles y militares de su Casa**. Es el único acto del Rey que no necesita refrendo.
-
-## Resumen
-
+<!-- final -->
 | Tema | Dato clave |
 | --- | --- |
 | Inviolabilidad | El Rey es inviolable y no responde; responden quienes refrendan (arts. 56.3 y 64.2) |

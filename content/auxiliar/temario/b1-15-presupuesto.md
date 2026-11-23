@@ -7,7 +7,7 @@ order: 115
 !!! tip "Qué pide el programa"
     El presupuesto del Estado en España · Contenido, elaboración y estructura · Fases del ciclo presupuestario.
 
-    **Normas:** art. 134 de la Constitución ([Título VII explicado]({{base}}constitucion/explicada/08-titulo-vii-economia/#artículo-134-presupuestos-generales-del-estado)), la **Ley 47/2003, de 26 de noviembre, General Presupuestaria (LGP)** y la **Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera**. Este tema no está en TAI: está desarrollado entero aquí.
+    **Normas:** art. 134 de la Constitución ([Título VII explicado]({{base}}constitucion/explicada/08-titulo-vii-economia/#a134)), la **Ley 47/2003, de 26 de noviembre, General Presupuestaria (LGP)** y la **Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera**. Este tema no está en TAI: está desarrollado entero aquí.
 
 ## 1. Qué son los Presupuestos Generales del Estado
 

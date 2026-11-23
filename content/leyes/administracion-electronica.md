@@ -2,6 +2,7 @@
 title: Administración electrónica · RD 203/2021, ENI (RD 4/2010) y accesibilidad (RD 1112/2018)
 description: Reglamento de actuación y funcionamiento del sector público por medios electrónicos, Esquema Nacional de Interoperabilidad y sus normas técnicas, accesibilidad de webs y apps, y las plataformas comunes que usarás como TAI.
 order: 11
+texto: rd-203-2021, eni, rd-1112-2018
 ---
 
 !!! tip "El tema más «tuyo» del bloque jurídico"
@@ -19,13 +20,15 @@ order: 11
 | **RD 1112/2018, de 7 de septiembre** | **Accesibilidad** de los sitios web y aplicaciones móviles del sector público |
 | **Ley 6/2020 y Reglamento eIDAS** | Servicios electrónicos de confianza y firma. Ver [Firma electrónica]({{base}}leyes/firma-electronica/) |
 
-## 1. Real Decreto 203/2021 · Reglamento de actuación y funcionamiento del sector público por medios electrónicos
 
+<!-- antes rd-203-2021:inicio -->
 - **Entró en vigor el 2 de abril de 2021**, la misma fecha en que entraron en vigor las previsiones de la Ley 39/2015 sobre **registro electrónico de apoderamientos, registro electrónico, registro de empleados públicos habilitados, Punto de Acceso General electrónico y archivo único electrónico**.
 - **Ámbito:** el del **art. 2 de las Leyes 39/2015 y 40/2015** (todo el sector público). Muchos artículos se aplican **solo al sector público estatal**.
 - **Estructura:** Título preliminar (disposiciones generales) · Título I (**portales, PAGe, Carpeta Ciudadana y sedes**) · Título II (**procedimiento**: actuación automatizada, identificación y firma, registros, notificaciones) · Título III (**expediente y documentos**: copias, archivo) · Título IV (**relaciones entre Administraciones** y reutilización).
 
-### Principios (art. 2)
+
+<!-- antes rd-203-2021:a2 -->
+## Principios
 
 | Principio | Qué significa |
 | --- | --- |
@@ -36,18 +39,24 @@ order: 11
 | **Proporcionalidad** | Solo las **garantías y medidas de seguridad adecuadas** a cada trámite |
 | **Personalización y proactividad** | Ofrecer servicios **precumplimentados** y **anticiparse** a las necesidades del usuario |
 
-### Derecho y obligación de relacionarse electrónicamente (arts. 3 y 14)
+
+<!-- antes rd-203-2021:a3 -->
+## Derecho y obligación de relacionarse electrónicamente
 
 - **Obligados**, al menos, los del **art. 14.2 de la Ley 39/2015**: **personas jurídicas**, **entidades sin personalidad jurídica**, quienes ejerzan una **actividad profesional con colegiación obligatoria** (en sus trámites profesionales), quienes **representen** a un obligado y los **empleados públicos** en los trámites que realicen por su condición de tales.
 - Por **reglamento** puede extenderse la obligación a otros colectivos de personas físicas con acceso a medios electrónicos. En el ámbito estatal, por **real decreto** o por **orden ministerial**, publicándose en el **PAGe**.
 - Las **personas físicas no obligadas** pueden elegir en cada momento, comunicándolo al órgano.
 - **Subsanación (art. 14):** si un obligado presenta en papel, se le requiere para que **subsane en 10 días**; si no, se le tiene por **desistido**. **La fecha de presentación será la de la subsanación.**
 
-### Canales de asistencia (art. 4)
+
+<!-- antes rd-203-2021:a4 -->
+## Canales de asistencia
 
 **Presencial** (oficinas de asistencia), **portales y sedes**, **redes sociales**, **teléfono**, **correo electrónico** y cualquier otro que se establezca.
 
-### Portales, PAGe, Carpeta Ciudadana y sedes (arts. 5 a 12)
+
+<!-- antes rd-203-2021:a5 -->
+## Portales, PAGe, Carpeta Ciudadana y sedes
 
 | Concepto | Definición y claves |
 | --- | --- |
@@ -62,7 +71,9 @@ order: 11
 - **Servicios mínimos (art. 11.2):** acceso a los trámites con sus **plazos máximos**; **quejas y sugerencias**; mecanismos de comunicación y reclamación sobre **accesibilidad**; **verificación de los certificados de la sede** y de los **sellos** electrónicos; **comprobación de documentos con CSV**; modelos y presentación masiva; **directorio geográfico de oficinas** de asistencia en materia de registros.
 - **Responsabilidad (art. 12):** el titular de la sede responde de la **integridad, veracidad y actualización** de su información y servicios.
 
-### Actuación administrativa automatizada (art. 13)
+
+<!-- antes rd-203-2021:a1-5 -->
+## Actuación administrativa automatizada
 
 - Es la que realiza un **sistema de información sin intervención directa de un empleado público** (art. 41 Ley 40/2015).
 - En el ámbito estatal la autoriza una **resolución** del titular del órgano competente, que se **publica en la sede** e indica los **recursos** que proceden. Como exige el art. 41.2 de la Ley 40/2015, hay que identificar el órgano responsable de la **definición de especificaciones, programación, mantenimiento, supervisión y control de calidad** y, en su caso, de la **auditoría** del sistema y su **código fuente**, así como el órgano al que se imputa la actuación a efectos de recurso.
@@ -70,7 +81,9 @@ order: 11
 !!! example "Ejemplo"
     El certificado de estar al corriente de pago con Hacienda que descargas de la sede de la AEAT lo genera un sistema **automatizado** y va firmado con un **sello electrónico** y un **CSV**: no lo ha firmado ninguna persona.
 
-### Identificación y firma (arts. 15 a 36)
+
+<!-- antes rd-203-2021:a1-7 -->
+## Identificación y firma
 
 **De las Administraciones:**
 
@@ -93,7 +106,9 @@ order: 11
 - **Registro Electrónico de Apoderamientos (REA)** de la AGE: inscribe los **apoderamientos *apud acta*** (presenciales o electrónicos) de tres tipos (art. 6.4 Ley 39/2015): **generales** ante cualquier Administración, **ante una Administración u organismo concreto** y **para trámites específicos**. **No es público**: solo acceden poderdante y apoderado. Los poderes inscritos tienen una **vigencia máxima de 5 años** (art. 6.6 Ley 39/2015).
 - También acreditan la representación el **certificado cualificado de representante** y los documentos notariales o registrales.
 
-### Registros (arts. 37 a 40)
+
+<!-- antes rd-203-2021:a3-9 -->
+## Registros
 
 - Cada Administración tiene un **registro electrónico general** y sus organismos pueden tener **registros electrónicos propios**, todos **interoperables** e **interconectados**. En la AGE: el **Registro Electrónico General de la AGE** (servicio **REC**, Registro Electrónico Común, en el PAGe).
 - **Funcionan 24 horas todos los días del año**; la fecha y hora oficial es la de la **sede**; lo presentado en día inhábil se entiende presentado en la **primera hora del primer día hábil** siguiente (art. 31 Ley 39/2015).
@@ -101,7 +116,9 @@ order: 11
 - Las Administraciones pueden fijar **formatos y estándares** de los documentos; si no se cumplen, **subsanación en 10 días** (art. 39).
 - **Oficinas de asistencia en materia de registros (OAMR, art. 40):** tienen naturaleza de **órgano administrativo**. **Digitalizan** las solicitudes en papel dirigidas a cualquier Administración y las anotan en el registro, emiten el **recibo**, expiden **copias electrónicas auténticas**, informan sobre identificación y firma, **identifican o firman** por los interesados no obligados, practican **notificaciones** a quien comparece espontáneamente, comunican el **código de identificación (DIR3)** del órgano destinatario e inician el **apoderamiento *apud acta*** presencial.
 
-### Notificaciones electrónicas (arts. 41 a 45)
+
+<!-- antes rd-203-2021:a4-3 -->
+## Notificaciones electrónicas
 
 - **Cómo se practican (art. 42):** por **comparecencia en la sede** o sede asociada, a través de la **Dirección Electrónica Habilitada única (DEHú)**, o **por ambos sistemas**. Si se ponen en ambos, cuenta **el primer acceso o rechazo**.
 - **En el ámbito estatal, toda notificación se pone a disposición en la DEHú** (y, de forma complementaria, en la sede del emisor).
@@ -112,7 +129,9 @@ order: 11
 - **Sucesión:** el sucesor debe comunicarla en **15 días hábiles**.
 - **DEHú (art. 44):** sistema de notificación electrónica de la AGE, alojado en la sede del PAGe, al que todas las Administraciones deben hacer interoperables sus notificaciones para que cada persona pueda acceder **a todas** en un solo sitio.
 
-### Documentos, copias y archivo (arts. 46 a 55)
+
+<!-- antes rd-203-2021:a4-8 -->
+## Documentos, copias y archivo
 
 - **Documento administrativo electrónico (art. 46):** información de cualquier naturaleza en formato electrónico, archivada en un soporte electrónico, según un formato determinado, susceptible de identificación y tratamiento diferenciado, con **metadatos** y, en su caso, **firma**.
 - **Copias auténticas (arts. 47 a 49):** tienen la **misma validez y eficacia que el original**. Las emiten los órganos con competencia (en la AGE, entre otros, las **oficinas de asistencia** y los **funcionarios habilitados**). Pueden ser de papel a electrónico (**digitalización**), de electrónico a electrónico, o de electrónico a papel con CSV.
@@ -121,15 +140,17 @@ order: 11
 - **Conservación y destrucción (arts. 53 y 54):** según los plazos de los calendarios de conservación; los documentos se pueden eliminar **previo procedimiento** y si no tienen valor probatorio ni histórico.
 - **Archivo electrónico único (art. 55):** cada Administración tiene uno para los documentos de **procedimientos finalizados**.
 
-### Relaciones entre Administraciones (arts. 56 a 65)
+
+<!-- antes rd-203-2021:a5-8 -->
+## Relaciones entre Administraciones
 
 - **Sistema de Interconexión de Registros (SIR, art. 60):** infraestructura básica para **intercambiar asientos registrales** entre Administraciones (se usa con **ORVE** o **GEISER**).
 - **Transmisiones de datos y Plataforma de Intermediación de Datos (PID, arts. 61 y 62):** para **consultar los datos** que ya tiene otra Administración en lugar de pedirlos al ciudadano (derecho a **no aportar documentos** que ya obren en poder de la Administración, art. 28 Ley 39/2015). Es también el **punto de conexión con la pasarela digital única europea** (*Single Digital Gateway*, Reglamento (UE) 2018/1724).
 - **Reutilización (art. 64):** la AGE mantiene el **Directorio general de aplicaciones para su libre reutilización** a través del **Centro de Transferencia de Tecnología (CTT)**. Antes de desarrollar una aplicación nueva hay que consultar si existe una reutilizable.
 - **Adhesión a plataformas de la AGE (art. 65):** las demás Administraciones pueden adherirse a las plataformas estatales.
 
-## 2. Esquema Nacional de Interoperabilidad (ENI) · Real Decreto 4/2010
 
+<!-- antes eni:inicio -->
 - **Base legal:** hoy el **art. 156.1 de la Ley 40/2015**: el ENI comprende los **criterios y recomendaciones** de seguridad, normalización y conservación de la información, formatos y aplicaciones que deben tener en cuenta las Administraciones para **asegurar la interoperabilidad**.
 - **Interoperabilidad:** capacidad de los sistemas de información y de los procedimientos a los que dan soporte de **compartir datos y posibilitar el intercambio de información y conocimiento**.
 - **Principios específicos (art. 4):**
@@ -158,7 +179,7 @@ order: 11
 - **Documentos (arts. 21 a 24):** recuperación y **conservación** (con **metadatos**), **formatos** y **digitalización**.
 - **Conformidad (arts. 25 a 28):** sedes y registros, ciclo de vida, mecanismos de control y **publicación de conformidad**.
 
-### Normas Técnicas de Interoperabilidad (NTI, DA 1ª)
+## Normas Técnicas de Interoperabilidad (NTI, DA 1ª)
 
 Son de **obligado cumplimiento**. Las aprueba el Ministerio competente (hoy el **Ministerio para la Transformación Digital y de la Función Pública**) a propuesta de la **Comisión Sectorial de Administración Electrónica**, y se publican por **Resolución de la Secretaría de Estado de Función Pública**.
 
@@ -190,8 +211,8 @@ Son de **obligado cumplimiento**. Las aprueba el Ministerio competente (hoy el *
 - **Instrumentos de interoperabilidad (DA 1ª.4):** **Sistema de Información Administrativa (SIA)**, **Centro de Interoperabilidad Semántica (CISE)**, **Centro de Transferencia de Tecnología (CTT)** y **Directorio Común de Unidades Orgánicas y Oficinas (DIR3)**.
 - En **ciberseguridad y criptografía** el órgano competente para el ENI es el **Centro Criptológico Nacional (CCN)**, adscrito al **CNI**.
 
-## 3. Real Decreto 1112/2018 · Accesibilidad de los sitios web y aplicaciones móviles del sector público
 
+<!-- antes rd-1112-2018:inicio -->
 - **Transpone** la **Directiva (UE) 2016/2102**.
 - **Accesibilidad (art. 1):** conjunto de principios y técnicas que se deben respetar al **diseñar, construir, mantener y actualizar** webs y apps para garantizar la **igualdad y no discriminación**, en particular de las **personas con discapacidad y mayores**.
 - **Ámbito subjetivo (art. 2):** AGE, CC. AA., Entidades Locales, sector público institucional, asociaciones de Administraciones y la **Administración de Justicia**.
@@ -221,6 +242,8 @@ Son de **obligado cumplimiento**. Las aprueba el Ministerio competente (hoy el *
 !!! example "Caso práctico"
     Tu unidad publica un formulario web que no se puede rellenar con el teclado y un PDF escaneado sin texto. Incumple **operabilidad** y **perceptibilidad** (un lector de pantalla no lee la imagen). Un usuario puede presentar una **queja** y la entidad tiene **20 días hábiles** para responder; si no le satisface, **reclamación** ante la Unidad responsable de accesibilidad, que resuelve en **2 meses**.
 
+
+<!-- final -->
 ## 4. Plataformas y servicios comunes que conviene conocer
 
 | Servicio | Qué es |

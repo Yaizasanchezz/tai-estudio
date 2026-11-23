@@ -3,11 +3,73 @@ title: Título III · Las Cortes Generales
 description: Congreso y Senado, estatuto de los parlamentarios, funcionamiento, elaboración de las leyes (orgánicas, decretos legislativos, decretos-leyes, iniciativa y tramitación) y tratados internacionales (arts. 66 a 96).
 order: 4
 arts: Arts. 66–96
+texto: constitucion
+rango: tiii-a96
 ---
 
-## Idea general
+<!-- titulo a66: Qué son y qué hacen las Cortes -->
+<!-- titulo a67: Incompatibilidades y mandato representativo -->
+<!-- titulo a68: El Congreso de los Diputados -->
+<!-- titulo a69: El Senado -->
+<!-- titulo a70: Inelegibilidad e incompatibilidad -->
+<!-- titulo a71: Inviolabilidad e inmunidad parlamentaria -->
+<!-- titulo a72: Autonomía de las Cámaras -->
+<!-- titulo a73: Períodos de sesiones -->
+<!-- titulo a74: Sesiones conjuntas y decisiones de ambas Cámaras -->
+<!-- titulo a75: Pleno, Comisiones y delegación legislativa en Comisiones -->
+<!-- titulo a76: Comisiones de investigación -->
+<!-- titulo a77: Peticiones a las Cámaras -->
+<!-- titulo a78: La Diputación Permanente -->
+<!-- titulo a79: Quórum y mayorías -->
+<!-- titulo a80: Publicidad de las sesiones -->
+<!-- titulo a81: Leyes orgánicas -->
+<!-- titulo a82: Delegación legislativa -->
+<!-- titulo a83: Límites de las leyes de bases -->
+<!-- titulo a84: Oposición del Gobierno -->
+<!-- titulo a85: Decretos Legislativos -->
+<!-- titulo a86: Decretos-leyes -->
+<!-- titulo a87: Iniciativa legislativa -->
+<!-- titulo a88: Proyectos de ley -->
+<!-- titulo a89: Proposiciones de ley -->
+<!-- titulo a90: Intervención del Senado -->
+<!-- titulo a91: Sanción, promulgación y publicación -->
+<!-- titulo a92: Referéndum consultivo -->
+<!-- titulo a93: Cesión de competencias -->
+<!-- titulo a94: Tratados que necesitan autorización de las Cortes -->
+<!-- titulo a95: Tratados contrarios a la Constitución -->
+<!-- titulo a96: Los tratados forman parte del ordenamiento -->
+<!-- destacar a66: representan al pueblo español | Congreso de los Diputados y el Senado | potestad legislativa | aprueban sus Presupuestos | controlan la acción del Gobierno | Las Cortes Generales son inviolables. -->
+<!-- destacar a67: Nadie podrá ser miembro de las dos Cámaras simultáneamente | Diputado al Congreso -->
+<!-- destacar a68: un mínimo de 300 y un máximo de 400 Diputados | sufragio universal, libre, igual, directo y secreto | circunscripción electoral es la provincia | Ceuta y Melilla | un Diputado | representación mínima inicial a cada circunscripción | cuatro años | electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos -->
+<!-- destacar a69: Cámara de representación territorial | cuatro Senadores | cada isla con Cabildo o Consejo Insular | Ibiza, Formentera -->
+<!-- destacar a70: Tribunal Constitucional | altos cargos de la Administración del Estado | Defensor del Pueblo | Magistrados, Jueces y Fiscales en activo | militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo | Juntas Electorales | control judicial -->
+<!-- destacar a71: inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones | Sala de lo Penal del Tribunal Supremo | asignación -->
+<!-- destacar a72: Reglamentos | presupuestos | Estatuto del Personal de las Cortes Generales | mayoría absoluta | Presidentes y los demás miembros de sus Mesas | Presidente del Congreso -->
+<!-- destacar a73: dos períodos ordinarios de sesiones | septiembre a diciembre | febrero a junio | sesiones extraordinarias | Gobierno | Diputación Permanente | mayoría absoluta de los miembros de cualquiera de las Cámaras -->
+<!-- destacar a75: Comisiones Legislativas Permanentes -->
+<!-- destacar a76: Comisiones de investigación sobre cualquier asunto de interés público | conclusiones no serán vinculantes para los Tribunales | obligatorio comparecer -->
+<!-- destacar a77: peticiones individuales y colectivas, siempre por escrito | prohibida la presentación directa por manifestaciones ciudadanas -->
+<!-- destacar a78: Diputación Permanente | seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes -->
+<!-- destacar a79: asistencia de la mayoría de sus miembros | mayoría de los miembros presentes -->
+<!-- destacar a80: públicas | mayoría absoluta -->
+<!-- destacar a81: leyes orgánicas | desarrollo de los derechos fundamentales y de las libertades públicas | Estatutos de Autonomía y el régimen electoral general | mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto -->
+<!-- destacar a82: ley de bases | textos articulados | ley ordinaria | refundir varios textos legales en uno solo | forma expresa | materia concreta | fijación del plazo | No podrá entenderse concedida de modo implícito o por tiempo indeterminado. | subdelegación | regularizar, aclarar y armonizar -->
+<!-- destacar a83: no podrán en ningún caso | modificación de la propia ley de bases | carácter retroactivo -->
+<!-- destacar a84: Gobierno está facultado para oponerse a su tramitación -->
+<!-- destacar a85: Decretos Legislativos -->
+<!-- destacar a86: extraordinaria y urgente necesidad | disposiciones legislativas provisionales | Decretos-leyes | no podrán afectar | instituciones básicas del Estado | derechos, deberes y libertades de los ciudadanos regulados en el Título I | régimen de las Comunidades Autónomas | Derecho electoral general | Congreso de los Diputados | treinta días siguientes a su promulgación | convalidación o derogación | proyectos de ley por el procedimiento de urgencia -->
+<!-- destacar a87: Gobierno | Congreso | Senado | Asambleas de las Comunidades Autónomas | máximo de tres miembros | iniciativa popular | no menos de 500.000 firmas acreditadas | No procederá | ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia -->
+<!-- destacar a88: aprobados en Consejo de Ministros | Congreso -->
+<!-- destacar a89: Senado | Congreso -->
+<!-- destacar a90: dos meses | oponer su veto | introducir enmiendas | mayoría absoluta | ratifique por mayoría absoluta | por mayoría simple, una vez transcurridos dos meses | veinte días naturales | urgentes -->
+<!-- destacar a91: Rey sancionará en el plazo de quince días | inmediata publicación -->
+<!-- destacar a92: referéndum consultivo | convocado por el Rey | propuesta del Presidente del Gobierno | autorizada por el Congreso -->
+<!-- destacar a93: ley orgánica | atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución -->
+<!-- destacar a94: previa autorización de las Cortes Generales | carácter político | carácter militar | integridad territorial del Estado | derechos y deberes fundamentales | obligaciones financieras para la Hacienda Pública | modificación o derogación de alguna ley | inmediatamente informados -->
+<!-- destacar a95: contrarias a la Constitución exigirá la previa revisión constitucional | Gobierno o cualquiera de las Cámaras | Tribunal Constitucional -->
+<!-- destacar a96: una vez publicados oficialmente en España, formarán parte del ordenamiento interno | denuncia | mismo procedimiento previsto para su aprobación -->
 
-Las Cortes Generales son el Parlamento español. Es un parlamento **bicameral imperfecto**: tiene dos cámaras, el **Congreso de los Diputados** y el **Senado**, pero el Congreso tiene mucho más peso (investidura, moción de censura, convalidación de decretos-leyes, levantar el veto del Senado). El título tiene tres capítulos:
+Las Cortes Generales son el Parlamento. Es un parlamento **bicameral imperfecto**: dos cámaras, **Congreso** y **Senado**, pero el Congreso pesa mucho más (investidura, moción de censura, cuestión de confianza, convalidación de decretos-leyes, levantar el veto del Senado). El título tiene tres capítulos:
 
 | Capítulo | Artículos | Contenido |
 | --- | --- | --- |
@@ -15,206 +77,151 @@ Las Cortes Generales son el Parlamento español. Es un parlamento **bicameral im
 | II | 81–92 | La elaboración de las leyes |
 | III | 93–96 | Los tratados internacionales |
 
-## Capítulo I · De las Cámaras
+<!-- a66 -->
+Las Cortes **representan al pueblo español**. Sus funciones: **potestad legislativa**, **aprobar los Presupuestos**, **controlar la acción del Gobierno** y las demás que les atribuya la Constitución (truco: «legislar, presupuestar y controlar»). Son **inviolables**.
 
-### Artículo 66 · Qué son y qué hacen las Cortes
+<!-- a67 -->
+- Nadie puede ser **miembro de las dos Cámaras** a la vez, ni acumular el acta de una **Asamblea autonómica** con la de **diputado al Congreso**.
+- Los parlamentarios **no están ligados por mandato imperativo**: representan a todo el pueblo, no a sus votantes ni (jurídicamente) a su partido.
+- Las reuniones sin convocatoria reglamentaria **no vinculan** a las Cámaras ni pueden ejercer sus funciones o privilegios.
 
-1. Las Cortes Generales **representan al pueblo español** y están formadas por el **Congreso de los Diputados y el Senado**.
-2. Ejercen la **potestad legislativa** del Estado, **aprueban sus Presupuestos**, **controlan la acción del Gobierno** y tienen las demás competencias que les atribuya la Constitución.
-3. **Las Cortes Generales son inviolables.**
+Ojo: un diputado autonómico **sí** puede ser senador (los senadores designados por las CC. AA. suelen serlo).
 
-Truco para las funciones: «legislar, presupuestar y controlar».
+<!-- a68 -->
+- Entre **300 y 400** diputados; la **LOREG fija 350**.
+- Circunscripción: la **provincia**. **Ceuta y Melilla** eligen **un diputado** cada una.
+- Sufragio **universal, libre, igual, directo y secreto**, y elección con criterios de **representación proporcional** (en la práctica, el sistema **D'Hondt**).
+- Son electores y elegibles los españoles en pleno uso de sus derechos políticos; la ley reconoce el voto de los **españoles en el extranjero**.
+- Mandato de **4 años**. Las elecciones se celebran entre **30 y 60 días** desde que termina el mandato, y el nuevo Congreso se convoca dentro de los **25 días** siguientes a las elecciones.
 
-### Artículo 67 · Incompatibilidades y mandato representativo
+<!-- a69 -->
+El Senado es la **Cámara de representación territorial**.
 
-1. **Nadie podrá ser miembro de las dos Cámaras simultáneamente**, ni acumular el acta de una Asamblea de Comunidad Autónoma con la de **Diputado al Congreso**.
-2. Los miembros de las Cortes Generales **no estarán ligados por mandato imperativo**: representan a todo el pueblo, no a quienes les votaron ni a su partido (al menos jurídicamente).
-3. Las reuniones de parlamentarios que se celebren sin convocatoria reglamentaria no vincularán a las Cámaras, y no podrán ejercer sus funciones ni ostentar sus privilegios.
+| Circunscripción | Senadores |
+| --- | --- |
+| Cada provincia | **4** (sufragio de los votantes de cada una) |
+| Islas mayores (Gran Canaria, Mallorca, Tenerife) | **3** |
+| Islas o agrupaciones menores (Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma) | **1** |
+| Ceuta y Melilla | **2** cada una |
+| Comunidades Autónomas | **1** más **otro por cada millón** de habitantes, designados por su **Asamblea legislativa** |
 
-Ojo: un diputado autonómico **sí** puede ser senador (de hecho, los senadores designados por las CC. AA. suelen serlo). Lo que no puede es ser a la vez diputado autonómico y diputado al Congreso.
-
-### Artículo 68 · El Congreso de los Diputados
-
-1. El Congreso se compone de **un mínimo de 300 y un máximo de 400 Diputados**, elegidos por **sufragio universal, libre, igual, directo y secreto**, en los términos que establezca la ley. (La LOREG fija **350**).
-2. La **circunscripción electoral es la provincia**. Las poblaciones de **Ceuta y Melilla** estarán representadas cada una de ellas por **un Diputado**. La ley distribuirá el número total de Diputados, asignando una **representación mínima inicial a cada circunscripción** y distribuyendo los demás en proporción a la población.
-3. La elección se verificará en cada circunscripción atendiendo a criterios de **representación proporcional** (en la práctica, el sistema D'Hondt).
-4. El Congreso es elegido por **cuatro años**. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara.
-5. Son **electores y elegibles todos los españoles que estén en pleno uso de sus derechos políticos**. La ley reconocerá y el Estado facilitará el ejercicio del derecho de sufragio a los españoles que se encuentren fuera del territorio de España.
-6. Las elecciones tendrán lugar **entre los 30 días y 60 días** desde la terminación del mandato. El Congreso electo deberá ser convocado **dentro de los 25 días siguientes** a la celebración de las elecciones.
-
-### Artículo 69 · El Senado
-
-1. El Senado es la **Cámara de representación territorial**.
-2. En cada provincia se elegirán **cuatro Senadores** por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas.
-3. En las provincias insulares, **cada isla con Cabildo o Consejo Insular** constituirá una circunscripción: corresponden **tres Senadores a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife)** y **uno** a cada una de las siguientes islas: **Ibiza, Formentera**, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma.
+Mandato de **4 años**.
 
 !!! warning "Reforma de 19 de mayo de 2026"
-    Hasta 2026 Ibiza y Formentera formaban **una sola circunscripción** («Ibiza-Formentera») con un senador. La **cuarta reforma constitucional** (art. 69.3, BOE de 20 de mayo de 2026, por la vía del art. 167 y sin referéndum) las separa, y cada isla elige uno. La separación se aplicará en las **primeras elecciones al Senado** que se convoquen tras la reforma.
-4. Las poblaciones de **Ceuta y Melilla** elegirán cada una de ellas **dos Senadores**.
-5. Las **Comunidades Autónomas designarán además un Senador y otro más por cada millón de habitantes** de su respectivo territorio. La designación corresponde a la Asamblea legislativa de la Comunidad.
-6. El Senado es elegido por **cuatro años**.
+    Hasta 2026 Ibiza y Formentera eran **una sola circunscripción** con un senador. La **cuarta reforma constitucional** (art. 69.3, BOE de 20 de mayo de 2026, por el art. 167 y sin referéndum) las separa, y cada isla elige uno. Se aplica en las **primeras elecciones al Senado** tras la reforma.
 
-| Cámara | Circunscripción | Número | Sistema |
-| --- | --- | --- | --- |
-| Congreso | Provincia (Ceuta y Melilla: 1 cada una) | 300–400 (350 por ley) | Proporcional |
-| Senado | Provincia: 4; islas mayores: 3; resto de islas (Formentera incluida desde 2026): 1; Ceuta y Melilla: 2 | Variable (más de 260) | Mayoritario (voto limitado) + designación autonómica |
+<!-- a70 -->
+La **ley electoral** (LOREG) fija las causas de **inelegibilidad e incompatibilidad**, que alcanzan, entre otros, a los magistrados del Tribunal Constitucional, los **altos cargos** de la Administración (**salvo los miembros del Gobierno**), el Defensor del Pueblo, jueces y fiscales en activo, militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad en activo, y miembros de las Juntas Electorales. La validez de las actas y credenciales está sometida a **control judicial**.
 
-### Artículo 70 · Inelegibilidad e incompatibilidad
+Fíjate en la excepción de la letra b): un **Ministro sí puede ser diputado** (es lo habitual).
 
-1. La ley electoral determinará las causas de inelegibilidad e incompatibilidad de los parlamentarios, que comprenderán en todo caso a:
-    - a) los componentes del **Tribunal Constitucional**;
-    - b) los **altos cargos de la Administración del Estado**, con la excepción de los miembros del Gobierno;
-    - c) el **Defensor del Pueblo**;
-    - d) los **Magistrados, Jueces y Fiscales en activo**;
-    - e) los **militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo**;
-    - f) los miembros de las **Juntas Electorales**.
-2. La validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al **control judicial**, en los términos que establezca la ley electoral.
-
-Fíjate en la excepción de la letra b): un Ministro sí puede ser diputado (de hecho, es lo habitual).
-
-### Artículo 71 · Inviolabilidad e inmunidad parlamentaria
-
-1. Los Diputados y Senadores gozarán de **inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones**.
-2. Durante el período de su mandato gozarán asimismo de **inmunidad** y solo podrán ser **detenidos en caso de flagrante delito**. No podrán ser inculpados ni procesados **sin la previa autorización de la Cámara respectiva** (el llamado suplicatorio).
-3. En las causas contra Diputados y Senadores será competente la **Sala de lo Penal del Tribunal Supremo** (aforamiento).
-4. Los Diputados y Senadores percibirán una **asignación** que será fijada por las respectivas Cámaras.
-
+<!-- a71 -->
 | Prerrogativa | Qué protege |
 | --- | --- |
-| Inviolabilidad | Las opiniones expresadas en el ejercicio de su función (para siempre) |
-| Inmunidad | Frente a detenciones y procesos durante el mandato (salvo flagrante delito; suplicatorio) |
-| Aforamiento | Los juzga el Tribunal Supremo |
+| **Inviolabilidad** | Las **opiniones** expresadas en el ejercicio de sus funciones (también después del mandato) |
+| **Inmunidad** | Durante el mandato solo pueden ser **detenidos en flagrante delito**, y no pueden ser inculpados ni procesados sin **autorización de su Cámara** (el **suplicatorio**) |
+| **Aforamiento** | En causas contra ellos es competente la **Sala de lo Penal del Tribunal Supremo** |
 
-### Artículo 72 · Autonomía de las Cámaras
+Además, perciben una **asignación** fijada por cada Cámara.
 
-1. Las Cámaras establecen sus propios **Reglamentos**, aprueban autónomamente sus **presupuestos** y, de común acuerdo, regulan el **Estatuto del Personal de las Cortes Generales**. Los Reglamentos y su reforma serán sometidos a una votación final sobre su totalidad que requerirá la **mayoría absoluta**.
-2. Las Cámaras eligen sus respectivos **Presidentes y los demás miembros de sus Mesas**. Las sesiones conjuntas serán presididas por el **Presidente del Congreso** y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.
-3. Los Presidentes de las Cámaras ejercen en nombre de las mismas todos los poderes administrativos y facultades de policía en el interior de sus respectivas sedes.
+<!-- a72 -->
+Las Cámaras tienen **autonomía**: aprueban sus **Reglamentos** (la reforma o aprobación necesita **mayoría absoluta** en una votación final sobre su totalidad) y sus **presupuestos**, y regulan el **Estatuto del Personal** de las Cortes de común acuerdo. Eligen a sus **Presidentes** y Mesas. El **Presidente de cada Cámara** ejerce los poderes administrativos y de **policía** en su sede.
 
-### Artículo 73 · Períodos de sesiones
+<!-- a73 -->
+Dos **períodos ordinarios** de sesiones: **septiembre a diciembre** y **febrero a junio**. Ojo: **enero** y **julio-agosto** no son períodos ordinarios; para reunirse entonces hace falta una **sesión extraordinaria**, a petición del **Gobierno**, de la **Diputación Permanente** o de la **mayoría absoluta** de los miembros de la Cámara, con un **orden del día** determinado.
 
-1. Las Cámaras se reunirán anualmente en **dos períodos ordinarios de sesiones**: el primero, de **septiembre a diciembre**, y el segundo, de **febrero a junio**.
-2. Las Cámaras podrán reunirse en **sesiones extraordinarias** a petición del **Gobierno**, de la **Diputación Permanente** o de la **mayoría absoluta de los miembros de cualquiera de las Cámaras**. Las sesiones extraordinarias deberán convocarse sobre un orden del día determinado y serán clausuradas una vez que este haya sido agotado.
+<!-- a74 -->
+- **74.1:** **sesión conjunta** para las competencias **no legislativas** que el **Título II** atribuye a las Cortes (por ejemplo, proclamar al Rey, reconocer su inhabilitación o nombrar la Regencia).
+- **74.2:** decisiones del art. **94.1** (autorizar tratados), **145.2** (acuerdos de cooperación entre CC. AA.) y **158.2** (Fondo de Compensación Interterritorial): **mayoría de cada Cámara**. En el primer caso empieza el **Congreso**; en los otros dos, el **Senado**. Sin acuerdo, una **Comisión Mixta** paritaria intenta un texto; si no se aprueba, decide el **Congreso por mayoría absoluta**.
 
-Ojo: enero y julio-agosto no son períodos ordinarios.
+<!-- a75 -->
+Las Cámaras funcionan en **Pleno y por Comisiones**, y pueden **delegar** en las **Comisiones Legislativas Permanentes** la aprobación de proyectos o proposiciones de ley (el Pleno puede **recabar** el debate en cualquier momento). **No se puede delegar** en Comisiones: la **reforma constitucional**, las **cuestiones internacionales**, las **leyes orgánicas y de bases** y los **Presupuestos Generales del Estado**.
 
-### Artículo 74 · Sesiones conjuntas y decisiones de ambas Cámaras
+<!-- a76 -->
+**Comisiones de investigación** sobre cualquier asunto de interés público, del Congreso, del Senado o **conjuntas**. Sus conclusiones **no vinculan a los Tribunales** ni afectan a las resoluciones judiciales, aunque pueden **comunicarse al Ministerio Fiscal**. Es **obligatorio comparecer** a su requerimiento.
 
-1. Las Cámaras se reunirán en **sesión conjunta** para ejercer las competencias **no legislativas** que el **Título II** atribuye expresamente a las Cortes Generales (por ejemplo, proclamar al Rey, reconocer su inhabilitación o nombrar la Regencia).
-2. Las decisiones de las Cortes Generales previstas en los artículos **94.1** (autorizar tratados), **145.2** (acuerdos de cooperación entre CC. AA.) y **158.2** (Fondo de Compensación Interterritorial) se adoptarán por mayoría de cada una de las Cámaras. El procedimiento empezará por el Congreso, salvo en los dos últimos casos, que empezará por el Senado. Si no hay acuerdo, una **Comisión Mixta** paritaria intentará un texto común; si tampoco se aprueba, decide el **Congreso por mayoría absoluta**.
+<!-- a77 -->
+Las Cámaras reciben **peticiones individuales y colectivas**, siempre **por escrito**; está **prohibida la presentación directa por manifestaciones ciudadanas**. Pueden remitirlas al Gobierno, que está obligado a explicarse sobre su contenido.
 
-### Artículo 75 · Pleno, Comisiones y delegación legislativa en Comisiones
+<!-- a78 -->
+- En cada Cámara hay una **Diputación Permanente** de **al menos 21 miembros**, que representan a los grupos parlamentarios en proporción a su importancia numérica.
+- La **preside el Presidente de la Cámara**.
+- Funciones: pedir **sesiones extraordinarias** (art. 73); asumir las facultades de los arts. **86 (decretos-leyes) y 116 (estados excepcionales)** cuando las Cámaras estén **disueltas** o haya expirado su mandato; y **velar por los poderes de las Cámaras** cuando no estén reunidas.
+- Cuando se constituyen las nuevas Cámaras, la Diputación Permanente les **da cuenta** de lo tratado.
 
-1. Las Cámaras funcionan en **Pleno y por Comisiones**.
-2. Las Cámaras podrán delegar en las **Comisiones Legislativas Permanentes** la aprobación de proyectos o proposiciones de ley. El Pleno podrá recabar en cualquier momento el debate y votación de cualquier proyecto o proposición de ley que haya sido objeto de esta delegación.
-3. **No se puede delegar en Comisiones** la reforma constitucional, las cuestiones internacionales, las **leyes orgánicas y de bases** y los **Presupuestos Generales del Estado**.
+Ejemplo: si el Gobierno aprueba un decreto-ley con el Congreso disuelto, lo convalida la **Diputación Permanente del Congreso**.
 
-### Artículo 76 · Comisiones de investigación
-
-1. El Congreso y el Senado, y, en su caso, ambas Cámaras conjuntamente, podrán nombrar **Comisiones de investigación sobre cualquier asunto de interés público**. Sus **conclusiones no serán vinculantes para los Tribunales** ni afectarán a las resoluciones judiciales; el resultado podrá comunicarse al Ministerio Fiscal.
-2. Será **obligatorio comparecer** a requerimiento de las Cámaras. La ley regulará las sanciones por incumplir esta obligación.
-
-### Artículo 77 · Peticiones a las Cámaras
-
-1. Las Cámaras pueden recibir **peticiones individuales y colectivas, siempre por escrito**, quedando **prohibida la presentación directa por manifestaciones ciudadanas**.
-2. Las Cámaras pueden remitir al Gobierno las peticiones que reciban. El Gobierno está obligado a explicarse sobre su contenido siempre que las Cámaras lo exijan.
-
-### Artículo 78 · La Diputación Permanente
-
-1. En cada Cámara habrá una **Diputación Permanente** compuesta por un **mínimo de 21 miembros**, que representarán a los grupos parlamentarios en proporción a su importancia numérica.
-2. Estará presidida por el **Presidente de la Cámara** respectiva. Sus funciones son: convocar sesiones extraordinarias (art. 73), asumir las facultades de los artículos **86 (decretos-leyes) y 116 (estados excepcionales)** cuando las Cámaras estén disueltas o haya expirado su mandato, y **velar por los poderes de las Cámaras** cuando no estén reunidas.
-3. Expirado el mandato o en caso de disolución, las Diputaciones Permanentes **seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes**.
-4. Reunida la Cámara correspondiente, la Diputación Permanente dará cuenta de los asuntos tratados y de sus decisiones.
-
-Ejemplo: si el Gobierno aprueba un decreto-ley en pleno período electoral, con el Congreso disuelto, lo convalida la Diputación Permanente del Congreso.
-
-### Artículo 79 · Quórum y mayorías
-
-1. Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con **asistencia de la mayoría de sus miembros**.
-2. Los acuerdos, para ser válidos, deberán ser aprobados por la **mayoría de los miembros presentes**, sin perjuicio de las mayorías especiales que establezcan la Constitución o las leyes orgánicas y las que para elección de personas establezcan los Reglamentos.
-3. **El voto de Senadores y Diputados es personal e indelegable** (el voto telemático lo permiten los Reglamentos, pero lo emite el propio parlamentario).
+<!-- a79 -->
+- Para adoptar acuerdos, las Cámaras deben estar reunidas reglamentariamente y con **asistencia de la mayoría** de sus miembros.
+- Los acuerdos se aprueban, como regla, por **mayoría de los miembros presentes**.
+- El **voto es personal e indelegable** (el voto telemático lo emite el propio parlamentario).
 
 | Mayoría | Qué significa (Congreso de 350) |
 | --- | --- |
 | Simple | Más síes que noes entre los presentes |
-| Absoluta | La mitad más uno de los miembros de derecho: 176 |
-| 3/5 | 210 diputados |
-| 2/3 | 234 diputados |
+| Absoluta | La mitad más uno de los miembros de derecho: **176** |
+| 3/5 | **210** diputados |
+| 2/3 | **234** diputados |
 
-### Artículo 80 · Publicidad de las sesiones
+<!-- a80 -->
+Las sesiones plenarias son **públicas**, salvo acuerdo en contrario de cada Cámara por **mayoría absoluta** o según su Reglamento.
 
-Las sesiones plenarias de las Cámaras serán **públicas**, salvo acuerdo en contrario de cada Cámara, adoptado por **mayoría absoluta** o con arreglo al Reglamento.
+<!-- antes a81 -->
+El **Capítulo II** regula los tipos de normas con rango de ley y cómo se aprueban.
 
-## Capítulo II · De la elaboración de las leyes
+<!-- a81 -->
+- Son **leyes orgánicas** las del desarrollo de los **derechos fundamentales y libertades públicas**, las que aprueban los **Estatutos de Autonomía** y el **régimen electoral general**, y las demás previstas en la Constitución.
+- Se aprueban, modifican o derogan por **mayoría absoluta del Congreso** en una **votación final sobre el conjunto** del proyecto.
 
-### Artículo 81 · Leyes orgánicas
+Ojo: «derechos fundamentales y libertades públicas» son los de la **Sección 1.ª** (arts. 15 a 29). Para los de la Sección 2.ª basta una ley ordinaria.
 
-1. Son **leyes orgánicas** las relativas al **desarrollo de los derechos fundamentales y de las libertades públicas**, las que aprueben los **Estatutos de Autonomía y el régimen electoral general** y las demás previstas en la Constitución.
-2. La aprobación, modificación o derogación de las leyes orgánicas exigirá **mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto**.
+<!-- a82 -->
+**Delegación legislativa** en el Gobierno (el resultado son los **decretos legislativos**):
 
-Ojo: «derechos fundamentales y libertades públicas» son los de la **Sección 1ª** (arts. 15 a 29). No hace falta ley orgánica para los de la Sección 2ª.
-
-### Artículo 82 · Delegación legislativa
-
-1. Las Cortes Generales podrán **delegar en el Gobierno la potestad de dictar normas con rango de ley** sobre materias determinadas **no incluidas en el artículo 81** (no en materias de ley orgánica).
-2. La delegación deberá otorgarse mediante una **ley de bases** cuando su objeto sea la formación de **textos articulados**, o por una **ley ordinaria** cuando se trate de **refundir varios textos legales en uno solo**.
-3. La delegación habrá de otorgarse de **forma expresa**, para **materia concreta** y con **fijación del plazo** para su ejercicio. Se agota por el uso que de ella haga el Gobierno mediante la publicación de la norma correspondiente. **No podrá entenderse concedida de modo implícito o por tiempo indeterminado.** Tampoco podrá permitirse la **subdelegación** a autoridades distintas del propio Gobierno.
-4. Las leyes de bases delimitarán con precisión el objeto y alcance de la delegación y los principios y criterios que han de seguirse en su ejercicio.
-5. La autorización para refundir textos legales determinará el ámbito normativo y especificará si se circunscribe a la mera formulación de un texto único o si incluye **regularizar, aclarar y armonizar** los textos legales que han de ser refundidos.
-6. Sin perjuicio de la competencia propia de los Tribunales, las leyes de delegación podrán establecer fórmulas adicionales de control.
-
-Ejemplo muy de oposición: el **TREBEP** es el **Real Decreto Legislativo 5/2015**, un **texto refundido**: el Gobierno juntó en un solo texto el Estatuto Básico de 2007 y sus modificaciones, con autorización de una ley ordinaria.
-
-### Artículo 83 · Límites de las leyes de bases
-
-Las leyes de bases **no podrán en ningún caso**:
-
-- a) autorizar la **modificación de la propia ley de bases**;
-- b) facultar para dictar normas con **carácter retroactivo**.
-
-### Artículo 84 · Oposición del Gobierno
-
-Cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el **Gobierno está facultado para oponerse a su tramitación**. En tal supuesto, podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación.
-
-### Artículo 85 · Decretos Legislativos
-
-Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de **Decretos Legislativos**.
-
-### Artículo 86 · Decretos-leyes
-
-1. En caso de **extraordinaria y urgente necesidad**, el Gobierno podrá dictar **disposiciones legislativas provisionales** que tomarán la forma de **Decretos-leyes** y que **no podrán afectar** al ordenamiento de las **instituciones básicas del Estado**, a los **derechos, deberes y libertades de los ciudadanos regulados en el Título I**, al **régimen de las Comunidades Autónomas** ni al **Derecho electoral general**.
-2. Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al **Congreso de los Diputados**, convocado al efecto si no estuviere reunido, en el plazo de los **treinta días siguientes a su promulgación**. El Congreso habrá de pronunciarse expresamente dentro de dicho plazo sobre su **convalidación o derogación**.
-3. Durante el plazo establecido en el apartado anterior, las Cortes podrán tramitarlos como **proyectos de ley por el procedimiento de urgencia**.
-
-| | Decreto legislativo | Decreto-ley |
+| | Textos articulados | Textos refundidos |
 | --- | --- | --- |
-| Quién lo dicta | Gobierno, por delegación previa de las Cortes | Gobierno, por iniciativa propia |
-| Requisito | Ley de bases o ley de refundición previa | Extraordinaria y urgente necesidad |
-| Control | Ajustarse a la delegación (control de los tribunales) | Convalidación del Congreso en 30 días |
-| Materias prohibidas | Las de ley orgánica (art. 81) | Instituciones básicas, Título I, CC. AA., Derecho electoral general |
+| Se delega mediante | **Ley de bases** | **Ley ordinaria** |
+| Qué hace el Gobierno | Desarrolla las bases | Junta varios textos en uno |
 
-### Artículo 87 · Iniciativa legislativa
+- Nunca en materias de **ley orgánica** (art. 81).
+- Debe ser **expresa**, para **materia concreta** y con **plazo** para ejercerla. Se agota con su uso. No puede entenderse concedida de modo implícito o por tiempo indeterminado, ni **subdelegarse** a autoridades distintas del Gobierno.
 
-1. La iniciativa legislativa corresponde al **Gobierno**, al **Congreso** y al **Senado**, de acuerdo con la Constitución y los Reglamentos de las Cámaras.
-2. Las **Asambleas de las Comunidades Autónomas** podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un **máximo de tres miembros** de la Asamblea encargados de su defensa.
-3. Una ley orgánica regulará la **iniciativa popular**. En todo caso se exigirán **no menos de 500.000 firmas acreditadas**. **No procederá** dicha iniciativa en materias propias de **ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia**.
+Ejemplo muy de oposición: el **TREBEP** es el **Real Decreto Legislativo 5/2015**, un **texto refundido**.
 
-Vocabulario: si la iniciativa viene del **Gobierno** se llama **proyecto de ley**; si viene de cualquier otro (Cámaras, Asambleas autonómicas, ciudadanos), **proposición de ley**.
+<!-- a83 -->
+Las **leyes de bases** no pueden autorizar a **modificar la propia ley de bases** ni a dictar normas con **carácter retroactivo**.
 
-### Artículo 88 · Proyectos de ley
+<!-- a84 -->
+Si una **proposición de ley** o una enmienda es contraria a una **delegación legislativa en vigor**, el **Gobierno** puede **oponerse** a su tramitación. Entonces puede presentarse una proposición de ley para **derogar** total o parcialmente la ley de delegación.
 
-Los proyectos de ley serán **aprobados en Consejo de Ministros**, que los someterá al **Congreso**, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.
+<!-- a85 -->
+Las disposiciones del Gobierno que contienen **legislación delegada** se llaman **Decretos Legislativos**.
 
-### Artículo 89 · Proposiciones de ley
+<!-- a86 -->
+| | Decreto legislativo (82–85) | Decreto-ley (86) |
+| --- | --- | --- |
+| Quién lo dicta | Gobierno, por **delegación previa** de las Cortes | Gobierno, por **iniciativa propia** |
+| Requisito | Ley de bases o ley de refundición previa | **Extraordinaria y urgente necesidad** |
+| Control | Ajustarse a la delegación (control de los tribunales y fórmulas adicionales que fije la ley) | **Convalidación o derogación** por el **Congreso** en **30 días** desde su promulgación |
+| Materias prohibidas | Las de ley orgánica (art. 81) | Instituciones básicas del Estado, derechos y libertades del **Título I**, régimen de las **CC. AA.** y **Derecho electoral general** |
 
-1. La tramitación de las proposiciones de ley se regulará por los Reglamentos de las Cámaras, sin que la prioridad debida a los proyectos de ley impida el ejercicio de la iniciativa legislativa.
-2. Las proposiciones de ley que, de acuerdo con el artículo 87, tome en consideración el **Senado**, se remitirán al **Congreso** para su trámite en este como tal proposición.
+Además, en esos 30 días las Cortes pueden **tramitarlo como proyecto de ley** por el procedimiento de urgencia.
 
-### Artículo 90 · Intervención del Senado
+<!-- a87 -->
+- La **iniciativa legislativa** corresponde al **Gobierno**, al **Congreso** y al **Senado**.
+- Las **Asambleas de las CC. AA.** pueden pedir al Gobierno que adopte un proyecto o remitir a la Mesa del Congreso una proposición, delegando ante esa Cámara **un máximo de tres miembros** para defenderla.
+- **Iniciativa legislativa popular:** al menos **500.000 firmas**. No cabe en materias de **ley orgánica**, **tributarias**, de carácter **internacional** ni en la **prerrogativa de gracia** (la regula la LO 3/1984).
 
-1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso, su Presidente dará inmediata cuenta del mismo al Presidente del Senado.
-2. El Senado, en el plazo de **dos meses**, a partir del día de la recepción del texto, puede, mediante mensaje motivado, **oponer su veto** o **introducir enmiendas**. El veto deberá ser aprobado por **mayoría absoluta**. El proyecto no podrá ser sometido al Rey para sanción sin que el Congreso **ratifique por mayoría absoluta**, en caso de veto, el texto inicial, o **por mayoría simple, una vez transcurridos dos meses** desde la interposición del mismo, o se pronuncie sobre las enmiendas, aceptándolas o no por mayoría simple.
-3. El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de **veinte días naturales** en los proyectos declarados **urgentes** por el Gobierno o por el Congreso de los Diputados.
+Vocabulario: si la iniciativa viene del **Gobierno** es un **proyecto de ley**; si viene de cualquier otro, una **proposición de ley**.
+
+<!-- a88 -->
+Los **proyectos de ley** los aprueba el **Consejo de Ministros**, que los somete al **Congreso**, acompañados de una **exposición de motivos** y de los **antecedentes** necesarios.
+
+<!-- a89 -->
+La tramitación de las proposiciones de ley la regulan los **Reglamentos** de las Cámaras, sin que la **prioridad** debida a los **proyectos** de ley impida la iniciativa legislativa. Las proposiciones que el **Senado** toma en consideración se remiten al **Congreso** para su trámite como tales.
+
+<!-- a90 -->
+El Senado tiene **2 meses** (o **20 días naturales** si el Gobierno o el Congreso lo declaran **urgente**) desde que recibe el texto:
 
 ```text
 Proyecto aprobado por el Congreso
@@ -226,50 +233,34 @@ Senado (2 meses / 20 días si urgente)
    └── Veto (mayoría absoluta) ── Congreso: mayoría absoluta ya, o simple pasados 2 meses ─► Rey
 ```
 
-### Artículo 91 · Sanción, promulgación y publicación
+<!-- a91 -->
+El Rey **sanciona** las leyes aprobadas por las Cortes en **15 días**, las **promulga** y ordena su inmediata **publicación**.
 
-El **Rey sancionará en el plazo de quince días** las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su **inmediata publicación**.
+<!-- a92 -->
+- El **referéndum consultivo** sobre decisiones políticas de **especial trascendencia** lo **convoca el Rey**, mediante **propuesta del Presidente del Gobierno**, previamente **autorizada por el Congreso**.
+- Sus modalidades las regula una **ley orgánica** (LO 2/1980).
 
-### Artículo 92 · Referéndum consultivo
+Ejemplo: el referéndum sobre la permanencia en la **OTAN** (1986) fue un referéndum consultivo del art. 92.
 
-1. Las decisiones políticas de especial trascendencia podrán ser sometidas a **referéndum consultivo** de todos los ciudadanos.
-2. El referéndum será **convocado por el Rey**, mediante **propuesta del Presidente del Gobierno**, previamente **autorizada por el Congreso** de los Diputados.
-3. Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución (LO 2/1980).
+<!-- antes a93 -->
+El **Capítulo III** regula los **tratados internacionales**.
 
-Ejemplo: el referéndum sobre la permanencia en la OTAN de 1986 fue un referéndum consultivo del art. 92.
+<!-- a93 -->
+Por **ley orgánica** se puede autorizar la celebración de tratados que **atribuyan a una organización internacional** el **ejercicio de competencias derivadas de la Constitución**. Es el artículo que permitió la **adhesión de España a las Comunidades Europeas** (firmada en 1985, efectiva en 1986). Garantizar su cumplimiento corresponde a las **Cortes** o al **Gobierno**, según los casos.
 
-## Capítulo III · De los Tratados Internacionales
+<!-- a94 -->
+- **94.1:** necesitan **autorización previa de las Cortes** los tratados de carácter **político**, **militar**, que afecten a la **integridad territorial** o a los **derechos y deberes del Título I**, que impliquen **obligaciones financieras** para la Hacienda Pública o que supongan **modificar o derogar una ley** o exijan medidas legislativas.
+- **94.2:** de los demás tratados basta con **informar** inmediatamente al Congreso y al Senado.
 
-### Artículo 93 · Cesión de competencias
+<!-- a95 -->
+Un tratado **contrario a la Constitución** exige **reformarla antes**. El **Gobierno** o **cualquiera de las Cámaras** pueden pedir al **Tribunal Constitucional** que declare si existe esa contradicción (control **previo**).
 
-Mediante **ley orgánica** se podrá autorizar la celebración de tratados por los que se **atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución**. Corresponde a las Cortes Generales o al Gobierno, según los casos, la garantía del cumplimiento de estos tratados y de las resoluciones emanadas de los organismos internacionales o supranacionales titulares de la cesión.
+Ejemplo: en 1992 el Tribunal Constitucional declaró que el **Tratado de Maastricht** chocaba con el art. 13.2, y por eso se reformó la Constitución antes de ratificarlo.
 
-Es el artículo que permitió la **adhesión de España a las Comunidades Europeas (1985, efectiva en 1986)**.
+<!-- a96 -->
+Los tratados válidamente celebrados, **una vez publicados oficialmente en España**, forman parte del **ordenamiento interno**. Solo pueden **derogarse, modificarse o suspenderse** según lo que prevean ellos mismos o las normas generales del Derecho internacional. Para **denunciarlos** se sigue el mismo procedimiento que para aprobarlos (art. 94).
 
-### Artículo 94 · Tratados que necesitan autorización de las Cortes
-
-1. La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la **previa autorización de las Cortes Generales** en los siguientes casos:
-    - a) Tratados de **carácter político**.
-    - b) Tratados o convenios de **carácter militar**.
-    - c) Tratados o convenios que afecten a la **integridad territorial del Estado** o a los **derechos y deberes fundamentales** establecidos en el Título I.
-    - d) Tratados o convenios que impliquen **obligaciones financieras para la Hacienda Pública**.
-    - e) Tratados o convenios que supongan **modificación o derogación de alguna ley** o exijan medidas legislativas para su ejecución.
-2. El Congreso y el Senado serán **inmediatamente informados** de la conclusión de los restantes tratados o convenios.
-
-### Artículo 95 · Tratados contrarios a la Constitución
-
-1. La celebración de un tratado internacional que contenga estipulaciones **contrarias a la Constitución exigirá la previa revisión constitucional**.
-2. El **Gobierno o cualquiera de las Cámaras** puede requerir al **Tribunal Constitucional** para que declare si existe o no esa contradicción.
-
-Ejemplo: en 1992 el Tribunal Constitucional declaró que el Tratado de Maastricht chocaba con el art. 13.2, y por eso se reformó la Constitución antes de ratificarlo.
-
-### Artículo 96 · Los tratados forman parte del ordenamiento
-
-1. Los tratados internacionales válidamente celebrados, **una vez publicados oficialmente en España, formarán parte del ordenamiento interno**. Sus disposiciones solo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.
-2. Para la **denuncia** de los tratados y convenios internacionales se utilizará el **mismo procedimiento previsto para su aprobación** en el artículo 94.
-
-## Resumen de cifras del Título III
-
+<!-- final -->
 | Dato | Cifra |
 | --- | --- |
 | Diputados | 300–400 (350 por ley); Ceuta y Melilla, 1 cada una |

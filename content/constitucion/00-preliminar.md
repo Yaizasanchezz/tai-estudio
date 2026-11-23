@@ -3,159 +3,116 @@ title: Preámbulo y Título Preliminar
 description: Qué es la Constitución, cómo se hizo y los principios básicos del Estado (artículos 1 a 9) explicados uno a uno.
 order: 0
 arts: Preámbulo y arts. 1–9
+texto: constitucion
+rango: preambulo-a9
 ---
 
-## Antes de empezar: cómo está hecha la Constitución
+<!-- titulo a1: Estado social y democrático de Derecho -->
+<!-- titulo a2: Unidad de la Nación y derecho a la autonomía -->
+<!-- titulo a3: Las lenguas -->
+<!-- titulo a4: La bandera -->
+<!-- titulo a5: La capital -->
+<!-- titulo a6: Los partidos políticos -->
+<!-- titulo a7: Sindicatos y asociaciones empresariales -->
+<!-- titulo a8: Las Fuerzas Armadas -->
+<!-- titulo a9: Sometimiento a la Constitución y principios jurídicos -->
+<!-- destacar a1: España se constituye en un Estado social y democrático de Derecho | valores superiores | libertad, la justicia, la igualdad y el pluralismo político | soberanía nacional reside en el pueblo español | Monarquía parlamentaria -->
+<!-- destacar a2: indisoluble unidad de la Nación española | reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones | solidaridad -->
+<!-- destacar a3: castellano es la lengua española oficial del Estado | deber de conocerla | derecho a usarla -->
+<!-- destacar a4: tres franjas horizontales, roja, amarilla y roja | doble anchura | junto a la bandera de España -->
+<!-- destacar a6: pluralismo político | instrumento fundamental para la participación política -->
+<!-- destacar a9: garantiza | legalidad | jerarquía normativa | publicidad de las normas | irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales | seguridad jurídica | responsabilidad | interdicción de la arbitrariedad -->
 
-La Constitución Española de 1978 es la norma suprema del ordenamiento jurídico: todas las demás normas (leyes, reglamentos, órdenes) tienen que respetarla. Si una ley la contradice, el Tribunal Constitucional puede anularla.
+La Constitución Española de 1978 es la **norma suprema** del ordenamiento jurídico: todas las demás normas (leyes, reglamentos, órdenes) tienen que respetarla. Si una ley la contradice, el **Tribunal Constitucional** puede anularla.
 
-Se aprobó en un momento muy concreto: la Transición. Tras la muerte de Franco (1975) y la Ley para la Reforma Política (1976), las Cortes elegidas en las elecciones de junio de 1977 redactaron una Constitución de consenso entre fuerzas políticas muy distintas. Una ponencia de siete diputados (los llamados «padres de la Constitución») preparó el texto.
+Se aprobó en la Transición. Tras la muerte de Franco (1975) y la Ley para la Reforma Política (1977), las Cortes elegidas en junio de 1977 redactaron una Constitución **de consenso**. Una ponencia de siete diputados (los «padres de la Constitución») preparó el texto.
 
 | Fecha | Qué pasó |
 | --- | --- |
 | 31 de octubre de 1978 | La aprueban el Congreso y el Senado en sesiones separadas |
-| 6 de diciembre de 1978 | Referéndum: la ratifica el pueblo español (hoy es el Día de la Constitución) |
-| 27 de diciembre de 1978 | El Rey la sanciona ante las Cortes |
-| 29 de diciembre de 1978 | Se publica en el BOE y entra en vigor ese mismo día |
+| 6 de diciembre de 1978 | **Referéndum**: la ratifica el pueblo español (hoy, Día de la Constitución) |
+| 27 de diciembre de 1978 | El Rey la **sanciona** ante las Cortes |
+| 29 de diciembre de 1978 | Se publica en el BOE y **entra en vigor** ese mismo día |
 
-**Estructura:** preámbulo, 169 artículos repartidos en un Título Preliminar y diez títulos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final.
+**Estructura:** preámbulo, **169 artículos** (Título Preliminar y diez títulos), **4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final**.
 
-**Características que se preguntan:**
-
-- **Escrita y codificada:** está en un único documento.
-- **Extensa:** 169 artículos, bastante para una constitución.
-- **De consenso:** pactada entre partidos muy distintos, por eso a veces deja temas abiertos para que los regule una ley.
-- **Rígida:** para reformarla se necesitan mayorías reforzadas (Título X), más que para una ley normal.
-- **Normativa:** obliga directamente a ciudadanos y poderes públicos (art. 9.1); no es solo una declaración de intenciones.
-- **Derivada:** se inspira en otras constituciones (la alemana de 1949, la italiana de 1947, la francesa de 1958) y en la española de 1931.
+**Características que se preguntan:** escrita, **extensa**, **de consenso**, **rígida** (la reforma exige mayorías reforzadas, Título X), **normativa** (obliga directamente, art. 9.1) y **derivada** (se inspira en la alemana de 1949, la italiana de 1947, la francesa de 1958 y la española de 1931).
 
 **Reformas:** cuatro, todas por el procedimiento ordinario del art. 167 y sin referéndum:
 
-1. **1992**, art. 13.2: añade «y pasivo» para que los ciudadanos de la UE puedan ser elegidos en las elecciones municipales (lo exigía el Tratado de Maastricht).
+1. **1992**, art. 13.2: añade «y pasivo» para que los ciudadanos de la UE puedan **ser elegidos** en las elecciones municipales (lo exigía el Tratado de Maastricht).
 2. **2011**, art. 135: estabilidad presupuestaria y prioridad absoluta del pago de la deuda pública.
-3. **2024** (17 de febrero), art. 49: sustituye el término «disminuidos» por «personas con discapacidad» y refuerza sus derechos.
-4. **2026** (19 de mayo, BOE del 20), art. 69.3: **Formentera elige su propio senador**, separada de Ibiza. Se aplicará a partir de las primeras elecciones al Senado posteriores a la reforma.
+3. **2024** (Reforma de 15 de febrero, BOE y vigor el 17), art. 49: «disminuidos» pasa a ser «personas con discapacidad».
+4. **2026** (19 de mayo, BOE del 20), art. 69.3: **Formentera elige su propio senador**, separada de Ibiza.
 
 !!! warning "Novedad que puede caer"
-    La cuarta reforma es muy reciente (mayo de 2026) y ya ha salido en el examen extraordinario de julio de 2026. Si un test antiguo dice «tres reformas», está desfasado.
+    La cuarta reforma es de mayo de 2026 y ya salió en el examen extraordinario de julio de 2026. Si un test antiguo dice «tres reformas», está desfasado.
 
-## Preámbulo
+<!-- preambulo -->
+El preámbulo **no tiene artículos** ni se aplica directamente como una norma, pero sirve para **interpretar** el resto de la Constitución porque explica su finalidad. Quien proclama es **la Nación española**; las Cortes **aprueban** y el pueblo español **ratifica**.
 
-El preámbulo es el texto de introducción, antes del artículo 1. No tiene artículos numerados ni es directamente aplicable como una norma, pero sirve para interpretar el resto de la Constitución porque explica su finalidad.
+Los objetivos que enumera (justicia, libertad, seguridad, **Estado de Derecho**, **sociedad democrática avanzada**, cooperación entre los pueblos…) se preguntan en forma de «cuál de estos no aparece». La fórmula inicial («Don Juan Carlos I, Rey de España…») y la palabra «CONSTITUCIÓN» forman parte del texto publicado en el BOE.
 
-Empieza diciendo que **la Nación española** proclama su voluntad de establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran. Después enumera sus objetivos:
+<!-- antes a1 -->
+El Título Preliminar define **qué tipo de Estado es España**. Está tan protegido que para cambiarlo hace falta la **reforma agravada** del art. 168 (igual que los arts. 15 a 29 y el Título II).
 
-- Garantizar la convivencia democrática dentro de la Constitución y las leyes, conforme a un orden económico y social justo.
-- Consolidar un **Estado de Derecho** que asegure el imperio de la ley como expresión de la voluntad popular.
-- Proteger a todos los españoles y pueblos de España en el ejercicio de los derechos humanos, sus culturas y tradiciones, lenguas e instituciones.
-- Promover el progreso de la cultura y de la economía para asegurar a todos una digna calidad de vida.
-- Establecer una **sociedad democrática avanzada**.
-- Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra.
+<!-- a1 -->
+Los tres apartados se preguntan mucho:
 
-Termina con la fórmula de aprobación: las Cortes aprueban y el pueblo español ratifica la Constitución.
-
-!!! tip "Ojo en el examen"
-    Pueden preguntarte quién «proclama» (la Nación española) o cuál de una lista de objetivos no aparece en el preámbulo. Fíjate en «sociedad democrática avanzada» y «Estado de Derecho».
-
-## El Título Preliminar (artículos 1 a 9)
-
-Es la parte más importante desde el punto de vista político: define qué tipo de Estado es España. Está tan protegido que, para cambiarlo, hace falta la reforma agravada del art. 168.
-
-### Artículo 1 · Estado social y democrático de Derecho
-
-Tiene tres apartados, y los tres se preguntan mucho:
-
-1. **España se constituye en un Estado social y democrático de Derecho**, que propugna como **valores superiores** de su ordenamiento jurídico la **libertad, la justicia, la igualdad y el pluralismo político**.
-2. La **soberanía nacional reside en el pueblo español**, del que emanan los poderes del Estado.
-3. La forma política del Estado español es la **Monarquía parlamentaria**.
-
-Qué significa cada idea:
-
-- **Estado de Derecho:** el poder está sometido a la ley; nadie, ni siquiera el Gobierno, está por encima de ella.
+- **Estado de Derecho:** el poder está sometido a la ley; nadie está por encima de ella.
 - **Estado democrático:** el poder viene del pueblo, que elige a sus representantes.
-- **Estado social:** los poderes públicos no se limitan a no molestar, sino que intervienen para corregir desigualdades (sanidad, educación, pensiones).
-- **Valores superiores:** son cuatro y es la pregunta estrella. Truco: «LJIP» (Libertad, Justicia, Igualdad, Pluralismo político).
-- **Monarquía parlamentaria:** el Rey es Jefe del Estado, pero no gobierna; el Gobierno depende de la confianza del Parlamento.
+- **Estado social:** los poderes públicos intervienen para corregir desigualdades (sanidad, educación, pensiones).
+- **Valores superiores:** son **cuatro**: libertad, justicia, igualdad y pluralismo político (truco: **LJIP**).
+- **Soberanía nacional:** reside en el **pueblo español**, del que **emanan** los poderes del Estado.
+- **Monarquía parlamentaria:** el Rey es Jefe del Estado pero no gobierna; el Gobierno depende de la confianza del Congreso.
 
 !!! tip "Ojo en el examen"
-    Las trampas típicas añaden «seguridad», «legalidad» o «solidaridad» a los valores superiores. Ninguna de esas es un valor superior: la seguridad jurídica y la legalidad son principios del art. 9.3, y la solidaridad aparece en el art. 2.
+    Las trampas añaden «seguridad», «legalidad» o «solidaridad» a los valores superiores. Ninguna lo es: la seguridad jurídica y la legalidad son **principios** del art. 9.3, y la solidaridad aparece en el art. 2.
 
-### Artículo 2 · Unidad de la Nación y derecho a la autonomía
+<!-- a2 -->
+Equilibra dos ideas: España es **una sola Nación**, pero formada por **nacionalidades y regiones** con **derecho a la autonomía**, unidas por la **solidaridad**. De aquí nace el Estado de las Autonomías (Título VIII). La Constitución no dice cuáles son nacionalidades y cuáles regiones: lo han hecho después los Estatutos.
 
-La Constitución se fundamenta en la **indisoluble unidad de la Nación española**, patria común e indivisible de todos los españoles. A la vez, **reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones** que la integran y la **solidaridad** entre todas ellas.
+<!-- a3 -->
+El castellano es la única lengua que todos tienen el **deber de conocer** y el derecho a usar. Las demás lenguas son **cooficiales** en su Comunidad **según su Estatuto** (por ejemplo, el catalán en Cataluña lo es por su Estatuto, no por la Constitución directamente). La riqueza lingüística es un **patrimonio cultural** objeto de especial respeto y protección.
 
-Equilibra dos ideas: España es una sola nación, pero está formada por territorios con derecho a autogobernarse. De aquí nace el Estado de las Autonomías (desarrollado en el Título VIII). El texto no dice cuáles son «nacionalidades» y cuáles «regiones»; eso lo han hecho después los Estatutos.
+<!-- a4 -->
+La franja **amarilla** es de **doble anchura** que cada una de las rojas. Las banderas y enseñas autonómicas se usan **junto a** la de España en sus edificios públicos y actos oficiales (la regula la Ley 39/1981).
 
-### Artículo 3 · Las lenguas
+<!-- a5 -->
+Es el artículo **más corto** de la Constitución. Ojo con la palabra exacta: **villa** de Madrid.
 
-1. El **castellano es la lengua española oficial del Estado**. Todos los españoles tienen el **deber de conocerla** y el **derecho a usarla**.
-2. Las demás lenguas españolas serán también oficiales en sus respectivas Comunidades Autónomas de acuerdo con sus Estatutos.
-3. La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.
+<!-- a6 -->
+Los partidos tienen tres funciones: expresan el **pluralismo político**, concurren a formar y manifestar la **voluntad popular** y son **instrumento fundamental para la participación política**. Su creación es **libre**, pero su **estructura interna y funcionamiento deben ser democráticos**. Los regula la **Ley Orgánica 6/2002**, de Partidos Políticos.
 
-Ejemplo: el catalán es oficial en Cataluña porque lo dice su Estatuto de Autonomía, no la Constitución directamente. Fíjate en que el castellano es un **deber** de conocer; las demás lenguas, no según la Constitución.
+<!-- a7 -->
+Mismo esquema que los partidos: creación **libre** y estructura interna y funcionamiento **democráticos**. El derecho a sindicarse está en el art. 28 (Sección 1.ª, con recurso de amparo) y lo desarrolla la **LO 11/1985**, de Libertad Sindical.
 
-### Artículo 4 · La bandera
+<!-- a8 -->
+Las misiones de las Fuerzas Armadas son tres: **soberanía e independencia** de España, **integridad territorial** y **ordenamiento constitucional**. Hoy el Ejército del Aire se llama **Ejército del Aire y del Espacio**. Sus bases de organización se regulan por **ley orgánica** (LO 5/2005, de la Defensa Nacional).
 
-1. La bandera de España está formada por **tres franjas horizontales, roja, amarilla y roja**, siendo la amarilla de **doble anchura** que cada una de las rojas.
-2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas, que se usarán **junto a la bandera de España** en sus edificios públicos y actos oficiales.
+Ojo: la **Guardia Civil no** forma parte de las Fuerzas Armadas del art. 8; es una de las **Fuerzas y Cuerpos de Seguridad** del art. 104.
 
-### Artículo 5 · La capital
+<!-- a9 -->
+Es uno de los artículos más preguntados:
 
-La capital del Estado es la **villa de Madrid**. Es el artículo más corto de la Constitución.
-
-### Artículo 6 · Los partidos políticos
-
-Los partidos políticos:
-
-- Expresan el **pluralismo político**.
-- Concurren a la formación y manifestación de la voluntad popular.
-- Son **instrumento fundamental para la participación política**.
-
-Su creación y el ejercicio de su actividad son **libres** dentro del respeto a la Constitución y a la ley, y su **estructura interna y funcionamiento deberán ser democráticos**. Los regula la Ley Orgánica 6/2002 de Partidos Políticos.
-
-### Artículo 7 · Sindicatos y asociaciones empresariales
-
-Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Igual que los partidos: su creación es libre y su estructura interna y funcionamiento deben ser **democráticos**.
-
-### Artículo 8 · Las Fuerzas Armadas
-
-1. Las Fuerzas Armadas, constituidas por el **Ejército de Tierra, la Armada y el Ejército del Aire** (hoy Ejército del Aire y del Espacio), tienen como misión **garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional**.
-2. Una ley orgánica regulará las bases de la organización militar conforme a los principios de la Constitución.
-
-Ojo: la Guardia Civil no forma parte de las Fuerzas Armadas del art. 8; es un cuerpo de seguridad del Estado (art. 104).
-
-### Artículo 9 · Sometimiento a la Constitución y principios jurídicos
-
-Es uno de los artículos más preguntados. Tiene tres apartados:
-
-1. **Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.** Esto hace que la Constitución sea una norma obligatoria, no un programa.
-2. **Corresponde a los poderes públicos promover las condiciones** para que la libertad y la igualdad del individuo y de los grupos sean **reales y efectivas**; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social. Es la base del Estado social: la igualdad no solo ante la ley, sino de verdad (por eso son posibles las medidas de acción positiva).
-3. La Constitución **garantiza**:
-    - el principio de **legalidad**,
-    - la **jerarquía normativa**,
-    - la **publicidad de las normas**,
-    - la **irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales**,
-    - la **seguridad jurídica**,
-    - la **responsabilidad** de los poderes públicos,
-    - y la **interdicción de la arbitrariedad** de los poderes públicos.
-
-Ejemplos de los principios del 9.3:
+- **9.1:** la Constitución **obliga** a ciudadanos y poderes públicos: es una norma, no un programa.
+- **9.2:** base del **Estado social**: la igualdad no solo ante la ley, sino **real y efectiva**. Por eso son posibles las **medidas de acción positiva**.
+- **9.3:** la lista de **principios** que garantiza la Constitución:
 
 | Principio | En la práctica |
 | --- | --- |
-| Legalidad | La Administración solo puede actuar como le permite la ley |
+| Legalidad | La Administración solo actúa como le permite la ley |
 | Jerarquía normativa | Un reglamento no puede contradecir una ley; una ley no puede contradecir la Constitución |
-| Publicidad | Una norma no obliga hasta que se publica (en el BOE) |
-| Irretroactividad | Una sanción nueva no se aplica a hechos anteriores; una norma favorable sí puede aplicarse hacia atrás |
+| Publicidad de las normas | Una norma no obliga hasta que se publica (en el BOE) |
+| Irretroactividad | De las disposiciones **sancionadoras no favorables** o **restrictivas de derechos individuales** |
 | Seguridad jurídica | Saber a qué atenerse: normas claras y estables |
-| Responsabilidad | Si la Administración causa un daño, responde (indemniza) |
-| Interdicción de la arbitrariedad | Prohibido decidir por capricho: las decisiones deben estar motivadas |
+| Responsabilidad | Si los poderes públicos causan un daño, responden |
+| Interdicción de la arbitrariedad | Prohibido decidir por capricho: las decisiones deben estar justificadas |
 
 !!! tip "Ojo en el examen"
-    La irretroactividad que garantiza el 9.3 es solo la de las normas **sancionadoras desfavorables o restrictivas de derechos**. Las normas en general sí pueden ser retroactivas si lo dicen expresamente, y una norma sancionadora más favorable se aplica retroactivamente.
+    La irretroactividad del 9.3 es solo la de normas **sancionadoras desfavorables o restrictivas de derechos individuales**. Las demás normas pueden ser retroactivas si lo dicen, y una norma sancionadora **más favorable** sí se aplica hacia atrás.
 
-## Resumen en una tabla
-
+<!-- final -->
 | Art. | Contenido | Palabra clave |
 | --- | --- | --- |
 | 1 | Estado social y democrático de Derecho, valores superiores, soberanía, Monarquía parlamentaria | LJIP |

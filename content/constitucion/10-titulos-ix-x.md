@@ -3,143 +3,145 @@ title: Títulos IX y X · Tribunal Constitucional y reforma
 description: Composición, competencias y legitimación del Tribunal Constitucional (arts. 159 a 165), la reforma constitucional ordinaria y agravada (arts. 166 a 169) y las disposiciones finales.
 order: 10
 arts: Arts. 159–169 y disposiciones
+texto: constitucion
+rango: tix-df
 ---
 
-## Título IX · Del Tribunal Constitucional
+<!-- titulo a159: Composición -->
+<!-- titulo a160: El Presidente del TC -->
+<!-- titulo a161: Competencias -->
+<!-- titulo a162: Legitimación -->
+<!-- titulo a163: Cuestión de inconstitucionalidad -->
+<!-- titulo a164: Efectos de las sentencias -->
+<!-- titulo a165: Ley orgánica del TC -->
+<!-- titulo a166: Iniciativa de reforma -->
+<!-- titulo a167: Reforma ordinaria -->
+<!-- titulo a168: Reforma agravada -->
+<!-- titulo a169: Límites temporales -->
+<!-- destacar a159: Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados | juristas de reconocida competencia con más de quince años de ejercicio profesional | nueve años | renovarán por terceras partes cada tres | incompatible | independientes e inamovibles -->
+<!-- destacar a160: Presidente | por el Rey, a propuesta del mismo Tribunal en pleno | tres años -->
+<!-- destacar a161: suspensión | no superior a cinco meses -->
+<!-- destacar a162: recurso de inconstitucionalidad | Presidente del Gobierno | Defensor del Pueblo | 50 Diputados | 50 Senadores | las Asambleas de las mismas | recurso de amparo | toda persona natural o jurídica que invoque un interés legítimo | Ministerio Fiscal -->
+<!-- destacar a163: órgano judicial | norma con rango de ley | planteará la cuestión ante el Tribunal Constitucional | en ningún caso serán suspensivos -->
+<!-- destacar a164: valor de cosa juzgada a partir del día siguiente de su publicación | no cabe recurso alguno | plenos efectos frente a todos -->
+<!-- destacar a167: tres quintos de cada una de las Cámaras | Comisión de composición paritaria | mayoría absoluta del Senado | Congreso, por mayoría de dos tercios | referéndum | quince días | una décima parte de los miembros de cualquiera de las Cámaras -->
+<!-- destacar a168: revisión total | Título preliminar | Capítulo segundo, Sección primera del Título I | Título II | dos tercios de cada Cámara | disolución inmediata de las Cortes | ratificar la decisión | dos tercios de ambas Cámaras | referéndum para su ratificación -->
 
-El Tribunal Constitucional (TC) es el **intérprete supremo de la Constitución**. No forma parte del Poder Judicial: es un órgano independiente que solo está sometido a la Constitución y a su ley orgánica, la **LOTC (Ley Orgánica 2/1979)**. Su sede está en Madrid.
+<!-- antes a159 -->
+El **Tribunal Constitucional** (TC) es el **intérprete supremo de la Constitución**. **No forma parte del Poder Judicial**: es un órgano independiente, sometido solo a la Constitución y a su ley orgánica, la **LOTC (Ley Orgánica 2/1979)**. Su sede está en Madrid.
 
-### Artículo 159 · Composición
-
-1. El Tribunal Constitucional se compone de **12 miembros nombrados por el Rey**:
-    - **cuatro a propuesta del Congreso** por mayoría de **tres quintos** de sus miembros;
-    - **cuatro a propuesta del Senado**, con idéntica mayoría (los Senadores eligen entre los candidatos propuestos por las Asambleas de las CC. AA., según la LOTC);
-    - **dos a propuesta del Gobierno**;
-    - y **dos a propuesta del Consejo General del Poder Judicial**.
-2. Los miembros del TC deberán ser nombrados entre **Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados**, todos ellos **juristas de reconocida competencia con más de quince años de ejercicio profesional**.
-3. Los miembros del Tribunal Constitucional serán designados por un período de **nueve años** y se **renovarán por terceras partes cada tres**.
-4. La condición de miembro del TC es **incompatible** con todo mandato representativo; con los cargos políticos o administrativos; con el desempeño de funciones directivas en un partido político o en un sindicato y con el empleo al servicio de los mismos; con el ejercicio de las carreras judicial y fiscal, y con cualquier actividad profesional o mercantil. En lo demás, tendrán las incompatibilidades propias de los miembros del poder judicial.
-5. Los miembros del TC serán **independientes e inamovibles** en el ejercicio de su mandato.
-
+<!-- a159 -->
 | Propone | Número | Mayoría |
 | --- | --- | --- |
 | Congreso | 4 | 3/5 |
-| Senado | 4 | 3/5 |
+| Senado | 4 | 3/5 (entre candidatos propuestos por las Asambleas de las CC. AA., según la LOTC) |
 | Gobierno | 2 | — |
 | CGPJ | 2 | 3/5 (según la LOPJ) |
 
-Truco: «**4-4-2-2**». Renovación por tercios: cada tres años se renueva un tercio (4 magistrados): una vez los 4 del Congreso, otra los 4 del Senado y otra los 2 del Gobierno y los 2 del CGPJ.
+- Los **12 magistrados** los **nombra el Rey**. Truco: «**4-4-2-2**».
+- Deben ser **juristas de reconocida competencia** con **más de 15 años** de ejercicio profesional (magistrados, fiscales, profesores de universidad, funcionarios públicos y abogados).
+- Mandato de **9 años**, con **renovación por terceras partes cada 3 años**: una vez los 4 del Congreso, otra los 4 del Senado y otra los 2 del Gobierno y los 2 del CGPJ.
+- Su cargo es **incompatible** con cualquier mandato representativo, cargo político o administrativo, funciones directivas en partidos o sindicatos, la carrera judicial y fiscal y cualquier actividad profesional o mercantil.
+- Son **independientes e inamovibles**.
 
-### Artículo 160 · El Presidente del TC
+<!-- a160 -->
+El **Presidente** del TC lo **nombra el Rey** entre sus miembros, a propuesta del **Pleno**, por **3 años**.
 
-El **Presidente** del Tribunal Constitucional será nombrado entre sus miembros **por el Rey, a propuesta del mismo Tribunal en pleno** y por un período de **tres años**.
+<!-- a161 -->
+**Competencias del TC:**
 
-### Artículo 161 · Competencias
+- a) **Recurso de inconstitucionalidad** contra leyes y normas con fuerza de ley. Si una norma se declara inconstitucional, las sentencias ya dictadas que la aplicaron **no pierden el valor de cosa juzgada**.
+- b) **Recurso de amparo** por violación de los derechos del art. 53.2.
+- c) **Conflictos de competencia** entre el Estado y las CC. AA. o de estas entre sí.
+- d) Las demás que le atribuyan la Constitución o las leyes orgánicas (control previo de **tratados** del art. 95, conflictos en defensa de la **autonomía local**, conflictos entre **órganos constitucionales**…).
 
-1. El Tribunal Constitucional tiene jurisdicción en todo el territorio español y es competente para conocer:
-    - a) Del **recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley**. La declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia, afectará a esta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.
-    - b) Del **recurso de amparo por violación de los derechos y libertades** referidos en el artículo 53.2.
-    - c) De los **conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de estas entre sí**.
-    - d) De las demás materias que le atribuyan la Constitución o las leyes orgánicas (por ejemplo, el control previo de tratados del art. 95, los conflictos en defensa de la autonomía local o los conflictos entre órganos constitucionales).
-2. El **Gobierno podrá impugnar ante el TC las disposiciones y resoluciones adoptadas por los órganos de las CC. AA.** La impugnación producirá la **suspensión** de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo **no superior a cinco meses**.
+**161.2:** el **Gobierno** puede impugnar ante el TC disposiciones y resoluciones de las CC. AA.; la impugnación **suspende automáticamente** la norma, pero el TC debe **ratificar o levantar** la suspensión en **5 meses**.
 
-### Artículo 162 · Legitimación
-
-1. Están legitimados:
-    - a) Para interponer el **recurso de inconstitucionalidad**: el **Presidente del Gobierno**, el **Defensor del Pueblo**, **50 Diputados**, **50 Senadores**, los **órganos colegiados ejecutivos de las CC. AA.** y, en su caso, **las Asambleas de las mismas**.
-    - b) Para interponer el **recurso de amparo**: **toda persona natural o jurídica que invoque un interés legítimo**, así como el **Defensor del Pueblo** y el **Ministerio Fiscal**.
-2. En los demás casos, la ley orgánica determinará las personas y órganos legitimados.
-
+<!-- a162 -->
 | Recurso | Legitimados | Plazo (LOTC) |
 | --- | --- | --- |
-| De inconstitucionalidad | Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores, gobiernos y parlamentos autonómicos | **3 meses** desde la publicación de la ley (9 meses en algunos casos con comisión bilateral) |
-| De amparo | Personas con interés legítimo, Defensor del Pueblo, Ministerio Fiscal | Normalmente 20 o 30 días según el acto recurrido |
+| **De inconstitucionalidad** | **Presidente del Gobierno**, **Defensor del Pueblo**, **50 diputados**, **50 senadores** y los órganos colegiados ejecutivos y las Asambleas de las CC. AA. | **3 meses** desde la publicación de la ley (9 meses en algunos casos con comisión bilateral) |
+| **De amparo** | Toda persona natural o jurídica con **interés legítimo**, el **Defensor del Pueblo** y el **Ministerio Fiscal** | Según el acto recurrido (3 meses, 20 o 30 días) |
 
 !!! tip "Ojo en el examen"
     El **Ministerio Fiscal** puede interponer el recurso de **amparo**, pero **no** el de **inconstitucionalidad**. El **Defensor del Pueblo** puede los **dos**. Los ciudadanos no pueden interponer el recurso de inconstitucionalidad.
 
-### Artículo 163 · Cuestión de inconstitucionalidad
+<!-- a163 -->
+**Cuestión de inconstitucionalidad:** si un **juez**, al resolver un caso, considera que una **norma con rango de ley** aplicable y de cuya validez depende el fallo puede ser inconstitucional, **plantea la cuestión** al TC. Sus efectos **nunca son suspensivos**.
 
-Cuando un **órgano judicial** considere, en algún proceso, que una **norma con rango de ley**, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, **planteará la cuestión ante el Tribunal Constitucional** en los supuestos, en la forma y con los efectos que establezca la ley, que **en ningún caso serán suspensivos**.
+Diferencia: el **recurso** lo interponen ciertos órganos políticos, de forma directa y con plazo; la **cuestión** la plantea un **juez** con dudas sobre un caso concreto, en cualquier momento.
 
-Diferencia: el **recurso** lo interponen ciertos órganos políticos de forma directa y con plazo; la **cuestión** la plantea un **juez** que tiene dudas mientras resuelve un caso concreto, en cualquier momento.
+<!-- a164 -->
+- Las sentencias del TC se publican en el **BOE** con los votos particulares, si los hay.
+- Tienen el valor de **cosa juzgada** a partir del **día siguiente a su publicación** y **no cabe recurso** contra ellas.
+- Las que declaran la inconstitucionalidad de una ley tienen **plenos efectos frente a todos** (*erga omnes*).
+- Salvo que el fallo diga otra cosa, **subsiste la vigencia** de la ley en la parte no afectada.
 
-### Artículo 164 · Efectos de las sentencias
+<!-- a165 -->
+Una **ley orgánica** regula el funcionamiento del TC, el estatuto de sus miembros y el procedimiento: la **LOTC (LO 2/1979)**.
 
-1. Las sentencias del Tribunal Constitucional se publicarán en el **Boletín Oficial del Estado** con los votos particulares, si los hubiere. Tienen el **valor de cosa juzgada a partir del día siguiente de su publicación** y **no cabe recurso alguno** contra ellas. Las que declaren la inconstitucionalidad de una ley o de una norma con fuerza de ley y todas las que no se limiten a la estimación subjetiva de un derecho tienen **plenos efectos frente a todos**.
-2. Salvo que en el fallo se disponga otra cosa, subsistirá la vigencia de la ley en la parte no afectada por la inconstitucionalidad.
+<!-- antes a166 -->
+El **Título X** regula la **reforma constitucional**: por eso se dice que la Constitución es **rígida**.
 
-### Artículo 165 · Ley orgánica del TC
+<!-- a166 -->
+La iniciativa de reforma se ejerce según el **art. 87.1 y 2**: **Gobierno, Congreso, Senado y Asambleas de las CC. AA.** **No cabe la iniciativa popular** (que está en el 87.3, excluido).
 
-Una **ley orgánica** regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones (**LOTC, LO 2/1979**).
+<!-- a167 -->
+**Reforma ordinaria:**
 
-## Título X · De la reforma constitucional
+1. Aprobación por **3/5 de cada Cámara**.
+2. Si no hay acuerdo, una **Comisión paritaria** de diputados y senadores presenta un texto, que se vota de nuevo.
+3. Si aun así no se aprueba, basta la **mayoría absoluta del Senado** y **2/3 del Congreso**.
+4. **Referéndum** solo si lo pide **1/10** de los miembros de **cualquiera de las Cámaras** en los **15 días** siguientes a su aprobación.
 
-### Artículo 166 · Iniciativa de reforma
+Por esta vía se hicieron las **cuatro reformas**: 1992, 2011, 2024 y 2026, todas sin referéndum.
 
-**La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87.** Es decir: **Gobierno, Congreso, Senado y Asambleas de las CC. AA.**
-
-**No cabe la iniciativa popular** (que está en el 87.3, excluido).
-
-### Artículo 167 · Reforma ordinaria
-
-1. Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de **tres quintos de cada una de las Cámaras**. Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una **Comisión de composición paritaria** de Diputados y Senadores, que presentará un texto que será votado por el Congreso y el Senado.
-2. De no lograrse la aprobación mediante el procedimiento del apartado anterior, y siempre que el texto hubiere obtenido el voto favorable de la **mayoría absoluta del Senado**, el **Congreso, por mayoría de dos tercios**, podrá aprobar la reforma.
-3. Aprobada la reforma por las Cortes Generales, será sometida a **referéndum** para su ratificación cuando así lo soliciten, dentro de los **quince días** siguientes a su aprobación, **una décima parte de los miembros de cualquiera de las Cámaras**.
-
-### Artículo 168 · Reforma agravada
-
-1. Cuando se propusiere la **revisión total** de la Constitución o una parcial que afecte al **Título preliminar**, al **Capítulo segundo, Sección primera del Título I**, o al **Título II**, se procederá a la aprobación del principio por mayoría de **dos tercios de cada Cámara**, y a la **disolución inmediata de las Cortes**.
-2. Las Cámaras elegidas deberán **ratificar la decisión** y proceder al estudio del nuevo texto constitucional, que deberá ser aprobado por mayoría de **dos tercios de ambas Cámaras**.
-3. Aprobada la reforma por las Cortes Generales, será sometida a **referéndum para su ratificación** (obligatorio).
-
+<!-- a168 -->
 | | Ordinaria (art. 167) | Agravada (art. 168) |
 | --- | --- | --- |
-| Qué partes | Todo lo que no esté en el 168 | Revisión total, Título Preliminar, Sección 1ª del Cap. II del Título I, Título II |
-| Mayoría | 3/5 de cada Cámara (o 2/3 del Congreso + absoluta del Senado) | 2/3 de cada Cámara, dos veces |
-| Disolución de las Cortes | No | Sí, tras aprobar el principio |
-| Referéndum | Solo si lo pide 1/10 de una Cámara en 15 días | Siempre |
+| Qué partes | Todo lo que no esté en el 168 | **Revisión total**, **Título Preliminar**, **Sección 1.ª del Capítulo II del Título I** y **Título II** |
+| Mayoría | 3/5 de cada Cámara (o 2/3 del Congreso + absoluta del Senado) | **2/3 de cada Cámara**, dos veces |
+| Disolución de las Cortes | No | **Sí**, tras aprobar el principio |
+| Referéndum | Solo si lo pide 1/10 de una Cámara en 15 días | **Siempre** |
 | Ejemplos | 1992, 2011, 2024 y 2026 | Nunca se ha usado |
 
-Truco: «Preliminar, Derechos fundamentales y Corona» (las tres partes protegidas, más la revisión total).
+Pasos de la agravada: aprobación **del principio** por 2/3 de cada Cámara → **disolución inmediata** de las Cortes → las nuevas Cámaras **ratifican** la decisión y estudian el nuevo texto, que deben aprobar por **2/3 de ambas** → **referéndum** de ratificación.
 
-### Artículo 169 · Límites temporales
+Truco: «Preliminar, Derechos fundamentales y Corona» (más la revisión total).
 
-**No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116** (alarma, excepción y sitio).
+<!-- a169 -->
+**Límite temporal:** no puede **iniciarse** una reforma **en tiempo de guerra** ni durante los estados del **art. 116** (alarma, excepción y sitio).
 
-## Disposiciones adicionales, transitorias, derogatoria y final
+<!-- antes primera -->
+#### Disposiciones adicionales
 
-### Disposiciones adicionales (4)
+- **Primera:** **ampara y respeta los derechos históricos de los territorios forales**; su actualización se hace en el marco de la Constitución y de los Estatutos (base del régimen foral del País Vasco y de Navarra: concierto y convenio económico).
+- **Segunda:** la mayoría de edad del art. 12 no perjudica las situaciones de los **derechos forales** en el Derecho privado.
+- **Tercera:** modificar el **régimen económico y fiscal de Canarias** requiere **informe previo** de la Comunidad.
+- **Cuarta:** donde haya más de una **Audiencia Territorial**, los Estatutos pueden mantenerlas.
 
-- **Primera:** la Constitución **ampara y respeta los derechos históricos de los territorios forales**. Su actualización se hará en el marco de la Constitución y de los Estatutos (base del régimen foral del País Vasco y de Navarra: concierto y convenio económico).
-- **Segunda:** la declaración de mayoría de edad del art. 12 no perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado.
-- **Tercera:** la modificación del **régimen económico y fiscal del archipiélago canario** requerirá informe previo de la Comunidad Autónoma.
-- **Cuarta:** en las CC. AA. donde tengan su sede más de una Audiencia Territorial, los Estatutos podrán mantener las existentes, distribuyendo las competencias entre ellas.
-
-### Disposiciones transitorias (9)
+<!-- antes primera-2 -->
+#### Disposiciones transitorias
 
 Regularon el paso al nuevo sistema. Las más preguntadas:
 
-- **Segunda:** los territorios que en el pasado hubiesen **plebiscitado afirmativamente proyectos de Estatuto de autonomía** (Cataluña, País Vasco y Galicia, durante la II República) podían acceder directamente a la autonomía plena.
+- **Segunda:** los territorios que en el pasado habían **plebiscitado afirmativamente Estatutos de autonomía** (Cataluña, País Vasco y Galicia, durante la II República) podían acceder directamente a la autonomía plena.
 - **Cuarta:** la posible incorporación de **Navarra** al régimen autonómico vasco.
-- **Quinta:** **Ceuta y Melilla** podrán constituirse en Comunidades Autónomas si así lo deciden sus Ayuntamientos y lo autorizan las Cortes por ley orgánica.
-- **Novena:** la primera renovación del Tribunal Constitucional.
+- **Quinta:** **Ceuta y Melilla** pueden constituirse en Comunidades Autónomas si lo deciden sus Ayuntamientos y lo autorizan las Cortes por **ley orgánica** (al final, en 1995, se aprobaron sus Estatutos como ciudades autónomas).
+- **Novena:** la primera **renovación** del Tribunal Constitucional.
 
-### Disposición derogatoria
+<!-- dd -->
+Deroga expresamente, entre otras, la **Ley para la Reforma Política** (Ley 1/1977) y las **Leyes Fundamentales del franquismo**, y en general **cuantas disposiciones se opongan** a la Constitución.
 
-Deroga expresamente, entre otras, la **Ley para la Reforma Política** (1977) y las **Leyes Fundamentales del franquismo**, y en general **cuantas disposiciones se opongan** a la Constitución.
+<!-- df -->
+La Constitución **entró en vigor el 29 de diciembre de 1978**, día de su publicación en el BOE. Se publicó también en las **demás lenguas de España**.
 
-### Disposición final
-
-**La Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el Boletín Oficial del Estado** (29 de diciembre de 1978). Se publicará también en las demás lenguas de España.
-
-## Resumen
-
+<!-- final -->
 | Tema | Dato clave |
 | --- | --- |
 | TC | 12 magistrados (4-4-2-2), 9 años, renovación por tercios cada 3 |
 | Requisitos | Juristas con más de 15 años de ejercicio |
-| Presidente del TC | Elegido por el Pleno, nombrado por el Rey, 3 años |
+| Presidente del TC | Propuesto por el Pleno, nombrado por el Rey, 3 años |
 | Impugnación del Gobierno (161.2) | Suspensión automática; el TC ratifica o levanta en 5 meses |
 | Inconstitucionalidad | Presidente del Gobierno, Defensor del Pueblo, 50 diputados, 50 senadores, órganos autonómicos |
 | Amparo | Personas con interés legítimo, Defensor del Pueblo, Ministerio Fiscal |

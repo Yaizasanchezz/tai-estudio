@@ -2,21 +2,22 @@
 title: Igualdad · LO 3/2007, LO 1/2004, Ley 15/2022 y Ley 4/2023
 description: Igualdad efectiva de mujeres y hombres, violencia de género, igualdad de trato y no discriminación, y derechos de las personas trans y LGTBI, con lo que más se pregunta de cada ley.
 order: 8
+texto: lo-3-2007, lo-1-2004, ley-15-2022, ley-4-2023
 ---
 
 !!! tip "Cómo estudiar este bloque"
     El tema de **políticas de igualdad** del temario TAI junta cuatro leyes. Lo más rentable: las **definiciones** (discriminación directa, indirecta, acoso…), los **órganos** (Comisión Interministerial, Unidades de Igualdad, Delegación del Gobierno, Observatorio, Autoridad Independiente) y las **cifras** (40/60 %, 50 trabajadores, plazos y multas).
 
-## 1. Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres
 
-### Objeto y ámbito (arts. 1 y 2)
+<!-- antes lo-3-2007:a1 -->
+## Objeto y ámbito
 
 - **Objeto:** hacer efectivo el derecho de **igualdad de trato y de oportunidades** entre mujeres y hombres, en particular mediante la **eliminación de la discriminación de la mujer**, en desarrollo de los **arts. 9.2 y 14 de la Constitución**.
 - **Ámbito:** **todas las personas** gozan de estos derechos, y las obligaciones se aplican a **toda persona física o jurídica** que se encuentre o actúe en **territorio español**, sea cual sea su nacionalidad.
 - **Transpone** las Directivas europeas de igualdad (2002/73/CE y 2004/113/CE).
 
-### Título I · Principio de igualdad y tutela contra la discriminación (arts. 3 a 13)
 
+<!-- antes lo-3-2007:a3 -->
 | Concepto | Definición |
 | --- | --- |
 | **Igualdad de trato** (art. 3) | **Ausencia de toda discriminación, directa o indirecta, por razón de sexo**, especialmente por **maternidad**, obligaciones familiares y **estado civil** |
@@ -37,8 +38,8 @@ order: 8
 !!! example "Ejemplo de discriminación indirecta"
     Una convocatoria exige una estatura mínima de 1,80 m para un puesto administrativo. Parece neutra, pero excluye a muchas más mujeres que hombres y no está justificada por las funciones: es **discriminación indirecta**.
 
-### Título II · Políticas públicas para la igualdad (arts. 14 a 35)
 
+<!-- antes lo-3-2007:a14 -->
 - **Criterios de actuación de los poderes públicos (art. 14):** compromiso con la igualdad; integración de la igualdad en todas las políticas; **participación equilibrada** en candidaturas electorales y toma de decisiones; **erradicación de la violencia de género**; atención a las mujeres de colectivos vulnerables; **protección de la maternidad**; **conciliación y corresponsabilidad**; **lenguaje no sexista** en el ámbito administrativo…
 - **Transversalidad (art. 15):** el principio de igualdad **informa con carácter transversal** la actuación de **todos** los poderes públicos (*mainstreaming* de género): en las normas, en los presupuestos y en todas las políticas.
 - **Nombramientos (art. 16):** se procurará la **presencia equilibrada** en los cargos de responsabilidad.
@@ -49,18 +50,18 @@ order: 8
 - **Sociedad de la información (art. 28):** los programas públicos de desarrollo de la sociedad de la información deben incorporar la igualdad y promover la **plena incorporación de las mujeres** y su acceso a las TIC (aquí entra la **brecha digital de género**).
 - **Contratos (arts. 33 y 34)** y **subvenciones (art. 35):** pueden incluir condiciones especiales de ejecución y criterios para promover la igualdad.
 
-### Título III · Medios de comunicación (arts. 36 a 41)
 
+<!-- antes lo-3-2007:a36 -->
 Los medios de titularidad pública (**RTVE**, **Agencia EFE**) deben transmitir una imagen **igualitaria, plural y no estereotipada** y usar un **lenguaje no sexista**. La **publicidad** que comporte una conducta discriminatoria se considera **ilícita**.
 
-### Título IV · Derecho al trabajo en igualdad de oportunidades (arts. 42 a 50)
 
+<!-- antes lo-3-2007:a42 -->
 - **Planes de igualdad en las empresas (art. 45):** obligatorios en empresas de **50 o más trabajadores**; también cuando lo diga el **convenio** o lo acuerde la autoridad laboral en un procedimiento sancionador. Voluntarios para las demás.
 - **Concepto (art. 46):** **conjunto ordenado de medidas**, adoptadas **después de un diagnóstico de situación**, para alcanzar la igualdad y eliminar la discriminación. Fijan **objetivos, estrategias y sistemas de seguimiento y evaluación**. Se inscriben en un **registro**.
 - **Distintivo «Igualdad en la Empresa» (art. 50):** lo concede el Ministerio competente a las empresas que destaquen en la aplicación de políticas de igualdad.
 
-### Título V · Igualdad en el empleo público (arts. 51 a 68) — **el más preguntado**
 
+<!-- antes lo-3-2007:a51 -->
 **Criterios para todas las Administraciones (art. 51):** remover obstáculos en el acceso y la carrera; facilitar la **conciliación** sin menoscabo de la promoción; **formación en igualdad**; **presencia equilibrada en los órganos de selección y valoración**; protección frente al **acoso sexual y por razón de sexo**; eliminar la **discriminación retributiva**; **evaluar periódicamente** la efectividad de la igualdad.
 
 **Medidas en la AGE:**
@@ -83,34 +84,34 @@ Los medios de titularidad pública (**RTVE**, **Agencia EFE**) deben transmitir 
 
 Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fuerzas y Cuerpos de Seguridad del Estado**.
 
-### Títulos VI y VII · Bienes y servicios y responsabilidad social
 
+<!-- lo-3-2007:tvi -->
 - **Bienes y servicios (arts. 69 a 72):** prohibida la discriminación en su oferta al público. No se puede preguntar por el **embarazo** salvo por razones de salud. En los **seguros**, el sexo **no puede generar diferencias** en primas y prestaciones, y los costes del embarazo y el parto tampoco.
 - **Responsabilidad social (arts. 73 a 75):** acciones **voluntarias** de las empresas; las sociedades obligadas a presentar cuenta de pérdidas y ganancias no abreviada **procurarán** una presencia equilibrada en sus consejos de administración.
 
-### Título VIII · Órganos (arts. 76 a 78)
 
+<!-- antes lo-3-2007:a76 -->
 | Órgano | Qué es |
 | --- | --- |
 | **Comisión Interministerial de Igualdad entre mujeres y hombres** (art. 76) | **Órgano colegiado** que **coordina** las políticas de igualdad de los Ministerios |
 | **Unidades de Igualdad** (art. 77) | En **todos los Ministerios** se encomienda a un **órgano directivo** las funciones de igualdad: recabar estadísticas, elaborar estudios, **asesorar en el informe de impacto de género**, proponer formación y **velar por el cumplimiento** de la ley |
 | **Consejo de Participación de la Mujer** (art. 78) | **Órgano colegiado de consulta y asesoramiento**, cauce de participación de las organizaciones de mujeres |
 
-### La cifra clave: composición equilibrada (DA 1ª)
+## La cifra clave: composición equilibrada (DA 1ª)
 
 **Composición equilibrada** = las personas de cada sexo **no superan el 60 % ni son menos del 40 %** del conjunto.
 
 !!! warning "No confundas"
     **40 %** aparece dos veces: es el **mínimo de cada sexo** en la composición equilibrada (DA 1ª) y la **reserva mínima de plazas para mujeres** en los cursos de formación para puestos directivos de la AGE (art. 60.2).
 
-### Reformas posteriores
+## Reformas posteriores
 
 - **Real Decreto-ley 6/2019:** equiparación progresiva de los permisos de ambos progenitores (hoy 19 semanas cada uno en el TREBEP).
 - **Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres:** extiende la **paridad** a las **listas electorales** (alternancia de sexos), al **Consejo de Ministros**, a los **consejos de administración** de grandes empresas y a otros órganos.
 
-## 2. Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género
 
-### Objeto (art. 1)
+<!-- antes lo-1-2004:a1 -->
+## Objeto
 
 - Actuar contra la violencia que, **como manifestación de la discriminación, la desigualdad y las relaciones de poder de los hombres sobre las mujeres**, se ejerce sobre estas por parte de **quienes sean o hayan sido sus cónyuges** o estén o hayan estado ligados a ellas por **relaciones similares de afectividad, aun sin convivencia**.
 - Comprende **todo acto de violencia física y psicológica**, incluidas las agresiones a la libertad sexual, las amenazas, las coacciones y la privación arbitraria de libertad.
@@ -120,7 +121,7 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 !!! tip "La clave del concepto"
     Para esta ley, violencia de género es la que sufre una **mujer** a manos de su **pareja o expareja** (hombre), **aunque no hayan convivido**. Otras violencias contra las mujeres (agresiones sexuales por desconocidos, por ejemplo) tienen su propia regulación, como la **LO 10/2022 de garantía integral de la libertad sexual**.
 
-### Estructura
+## Estructura
 
 | Título | Contenido |
 | --- | --- |
@@ -131,7 +132,9 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 | **IV** · Tutela penal | Agravación de las penas por lesiones, malos tratos, amenazas y coacciones cuando la víctima es o ha sido esposa o pareja |
 | **V** · Tutela judicial | **Juzgados de Violencia sobre la Mujer**, **Fiscal contra la Violencia sobre la Mujer**, medidas de protección |
 
-### Derechos de las víctimas (Título II)
+
+<!-- lo-1-2004:tii -->
+## Derechos de las víctimas (Título II)
 
 - **Información (art. 18):** plena información y asesoramiento, **accesible** para mujeres con discapacidad y para quienes desconocen el castellano.
 - **Atención integral (art. 19):** servicios de **atención, emergencia, apoyo y acogida y recuperación integral**, organizados por las **CC. AA. y Entidades Locales** con atención **permanente**, actuación **urgente**, especialización y **multidisciplinariedad**. Incluyen atención psicológica, apoyo social, educativo e inserción laboral. También tienen derecho los **menores** del entorno.
@@ -142,7 +145,9 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 - **Ayudas sociales (art. 27):** si carecen de rentas superiores al **75 % del SMI**, ayuda de **pago único** equivalente a **6 meses de subsidio por desempleo** (**12** si tiene discapacidad ≥ 33 %; hasta **18** con responsabilidades familiares y **24** si además hay discapacidad).
 - **Vivienda (art. 28):** colectivo **prioritario** en el acceso a viviendas protegidas y residencias públicas para mayores.
 
-### Tutela institucional (Título III)
+
+<!-- lo-1-2004:tiii -->
+## Tutela institucional (Título III)
 
 | Órgano | Qué hace |
 | --- | --- |
@@ -150,15 +155,17 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 | **Observatorio Estatal de Violencia sobre la Mujer** (art. 30) | **Órgano colegiado** de **asesoramiento, evaluación**, estudios y propuestas. Remite **cada año** un informe al Gobierno y a las CC. AA. |
 | **Fuerzas y Cuerpos de Seguridad** (art. 31) | **Unidades especializadas** en prevención y control de las medidas judiciales, con colaboración de las **Policías Locales** |
 
-### Tutela judicial (Título V)
+
+<!-- lo-1-2004:tv -->
+## Tutela judicial (Título V)
 
 - **Juzgados de Violencia sobre la Mujer:** uno o más **en cada partido judicial**, con sede en su capital (art. 87 bis LOPJ). Conocen de los asuntos **penales** de violencia de género y de los **civiles** conexos (separación, divorcio, custodia…).
 - **Orden de protección:** la resuelve el **Juez de Violencia sobre la Mujer** (o el de **guardia**) según el art. **544 ter de la LECrim**.
 - **Medidas de protección:** **salida del domicilio**, **alejamiento**, **suspensión de las comunicaciones**, suspensión de la **patria potestad o custodia**, del **régimen de visitas** y del derecho a la **tenencia de armas**. El juez debe pronunciarse sobre ellas **siempre**.
 - **Fiscal contra la Violencia sobre la Mujer:** con **Secciones** especializadas en cada Fiscalía.
 
-## 3. Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación
 
+<!-- antes ley-15-2022:inicio -->
 - **Ámbito subjetivo (art. 2):** **toda persona**, con independencia de su nacionalidad, edad o situación de residencia. **Causas de discriminación:** nacimiento, origen racial o étnico, sexo, religión, convicción u opinión, edad, **discapacidad**, orientación o identidad sexual, expresión de género, **enfermedad o condición de salud**, **estado serológico** y/o predisposición genética, **lengua**, **situación socioeconómica** o cualquier otra circunstancia personal o social.
 - Obliga al **sector público** y a los **particulares** que actúen en España.
 - **Ámbitos (art. 3):** empleo, educación, sanidad, servicios sociales, vivienda, bienes y servicios, seguridad ciudadana, justicia, medios de comunicación e **internet**, deporte, **inteligencia artificial**…
@@ -195,8 +202,8 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 
 Si la infracción la comete un **empleado público** en el ejercicio de su cargo, la sanción se impone en su **grado máximo**. El procedimiento debe resolverse en **6 meses**.
 
-## 4. Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI
 
+<!-- antes ley-4-2023:inicio -->
 - **Objeto:** garantizar la igualdad real y efectiva de las personas **lesbianas, gais, bisexuales, trans e intersexuales (LGTBI)**.
 - **Definiciones (art. 3):** orientación sexual, identidad sexual, **expresión de género**, persona trans, persona intersexual, familia LGTBI, discriminación, acoso, **LGTBIfobia**…
 - **Órganos y políticas:** **Consejo de Participación de las Personas LGTBI** (art. 9) y **Estrategia estatal** para la igualdad de trato de las personas LGTBI (art. 10).
@@ -220,6 +227,8 @@ Si la infracción la comete un **empleado público** en el ejercicio de su cargo
 
 **Régimen sancionador:** leves (apercibimiento o multa de **200 a 2.000 €**), graves (**2.001 a 10.000 €**) y muy graves (**10.001 a 150.000 €**), con posibles sanciones accesorias. Prescripción de las infracciones: **3 años** (muy graves), **2** (graves) y **9 meses** (leves).
 
+
+<!-- final -->
 ## Resumen comparativo
 
 | | LO 3/2007 | LO 1/2004 | Ley 15/2022 | Ley 4/2023 |

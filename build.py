@@ -131,6 +131,9 @@ SEARCH: list[dict] = []
 
 def index_html_sections(page_title: str, url: str, body: str, kind: str, limit: int = 700) -> None:
     """Divide el HTML por h2/h3 y añade cada sección al índice de búsqueda."""
+    # en las páginas anotadas, el texto oficial ya se indexa en su página de texto oficial
+    body = re.sub(r'<div class="oficial">.*?</div>', "", body, flags=re.S)
+    body = re.sub(r'<details class="oficial-final">.*?</details>', "", body, flags=re.S)
     parts = re.split(r'(<h[23][^>]*id="[^"]+"[^>]*>.*?</h[23]>)', body, flags=re.S)
     current = {"s": "", "a": "", "x": ""}
     intro = parts[0]
@@ -144,6 +147,8 @@ def index_html_sections(page_title: str, url: str, body: str, kind: str, limit: 
             "a": m.group(1) if m else "",
         }
         text = squash(strip_tags(parts[i + 1] if i + 1 < len(parts) else ""))
+        if not text and 'class="oficial-h' in h:
+            continue
         SEARCH.append({"t": page_title, "s": current["s"], "u": f"{url}#{current['a']}", "k": kind, "x": text[:limit]})
 
 
@@ -254,6 +259,8 @@ def load_collection(folder: Path) -> list[dict]:
     pages = []
     for f in sorted(folder.glob("*.md")):
         meta, text = front_matter(f.read_text(encoding="utf-8"))
+        if meta.get("texto"):
+            text = compose_annotated(meta, text)
         body, toc = render_md(text)
         pages.append({"slug": f.stem, "meta": meta, "body": body, "toc": toc,
                       "title": meta.get("title", f.stem), "order": float(meta.get("order", 99))})
@@ -305,6 +312,160 @@ def render_law_text(law_meta: dict, url: str, explained_url: str | None) -> None
     render("ley_texto.html", url, law=law_meta, data=data, toc=law_toc(data) if data else [],
            explained_url=explained_url,
            boe_url=f"https://www.boe.es/buscar/act.php?id={law_meta['id']}" if law_meta.get("id") else law_meta.get("url"))
+
+
+# ---------------------------------------------------------------------------
+# Páginas anotadas: texto oficial del BOE (en negro) + notas propias (en rojo)
+# ---------------------------------------------------------------------------
+# Formato del .md (front matter `texto: slug[, slug…]` y opcional `rango: a30-a55`):
+#   texto libre al principio            -> nota de introducción
+#   <!-- a30 -->                        -> nota después del art. 30 (de la primera norma)
+#   <!-- antes a39 -->                  -> nota antes del art. 39 (tras el encabezado anterior)
+#   <!-- lopdgdd:a5 -->                 -> nota del art. 5 de otra norma de la página
+#   <!-- antes lo-3-1981:inicio -->     -> nota antes del texto de una norma
+#   <!-- final -->                      -> nota al final de la página
+#   <!-- titulo a30: Defensa de España --> etiqueta propia junto al título del artículo
+#   <!-- destacar a31: frase | frase --> frases del texto oficial que se resaltan en negrita
+NOTE_RE = re.compile(r"^<!--\s*(antes\s+)?((?:[a-z0-9-]+:)?[a-z0-9-]+)\s*-->\s*$")
+META_RE = re.compile(r"^<!--\s*(titulo|destacar)\s+((?:[a-z0-9-]+:)?[a-z0-9-]+)\s*:\s*(.*?)\s*-->\s*$")
+LAWS_BY_SLUG: dict[str, dict] = {}
+
+
+def parse_annotations(text: str, default_law: str) -> tuple[dict, dict, dict]:
+    notes: dict[tuple, list[str]] = {}
+    titles: dict[tuple, str] = {}
+    marks: dict[tuple, list[str]] = {}
+    key = (default_law, "intro", False)
+    buf: list[str] = []
+
+    def flush():
+        body = "\n".join(buf).strip()
+        if body:
+            notes.setdefault(key, []).append(body)
+        buf.clear()
+
+    def k(ref):
+        law, _, bid = ref.rpartition(":")
+        return law or default_law, bid
+
+    for line in text.splitlines():
+        m = META_RE.match(line.strip())
+        if m:
+            law, bid = k(m.group(2))
+            if m.group(1) == "titulo":
+                titles[(law, bid)] = m.group(3)
+            else:
+                marks[(law, bid)] = [x.strip() for x in m.group(3).split("|") if x.strip()]
+            continue
+        m = NOTE_RE.match(line.strip())
+        if m and not line.strip().startswith("<!-- include"):
+            flush()
+            law, bid = k(m.group(2))
+            key = (law, bid, bool(m.group(1)))
+            continue
+        buf.append(line)
+    flush()
+    return notes, titles, marks
+
+
+def note_md(parts: list[str], cls: str = "") -> str:
+    body = "\n\n".join(parts)
+    # los encabezados de las notas no entran en el índice de la página
+    body = re.sub(r"(?m)^#{2,3} ", "#### ", body)
+    return f'\n\n<div class="nota{(" " + cls) if cls else ""}" markdown="1">\n\n{body}\n\n</div>\n\n'
+
+
+def heading_text(html: str) -> str:
+    parts = [squash(strip_tags(x)) for x in re.findall(r"<p[^>]*>(.*?)</p>", html, flags=re.S)]
+    return " · ".join(p for p in parts if p)
+
+
+def emphasize(html: str, phrases: list[str]) -> str:
+    for ph in phrases:
+        i = html.find(ph)
+        if i >= 0:
+            html = html[:i] + "<strong>" + ph + "</strong>" + html[i + len(ph):]
+    return html
+
+
+def compose_annotated(meta: dict, text: str) -> str:
+    """Devuelve el markdown completo de una página anotada."""
+    slugs = [x.strip() for x in str(meta["texto"]).split(",") if x.strip()]
+    notes, titles, marks = parse_annotations(text, slugs[0])
+    used = set()
+
+    def take(law, bid, before):
+        key = (law, bid, before)
+        used.add(key)
+        return notes.get(key, [])
+
+    out = []
+    intro = take(slugs[0], "intro", False)
+    if intro:
+        out.append(note_md(intro, "nota-intro"))
+    rng = str(meta.get("rango", "")).split("-", 1) if meta.get("rango") else None
+    for slug in slugs:
+        law = LAWS_BY_SLUG[slug]
+        data = boe_law(law["id"]) if law.get("id") else None
+        if len(slugs) > 1:
+            out.append(f'\n\n## {law["nombre"]} {{#{slug}}}\n\n')
+        if take(slug, "inicio", True):
+            out.append(note_md(notes[(slug, "inicio", True)]))
+        if not data:
+            out.append(f'\n\n<p class="oficial-falta">Esta norma no se publica en el BOE (es europea): su texto oficial está en <a href="{law.get("url", "")}" target="_blank" rel="noopener">EUR-Lex ↗</a>. Abajo, las explicaciones.</p>\n\n')
+            rest = [k for k in notes if k[0] == slug and k not in used]
+            for key in rest:
+                out.append(note_md(take(*key)))
+            continue
+        blocks = [b for b in data["bloques"] if b["tipo"] in ("encabezado", "precepto", "preambulo")]
+        if not rng or rng[0] != "preambulo":
+            blocks = [b for b in blocks if b["tipo"] != "preambulo"]
+        if rng:
+            ids = [b["id"] for b in blocks]
+            a, z = ids.index(rng[0]), ids.index(rng[1])
+            blocks = blocks[a:z + 1]
+        finals: list[str] = []
+        in_final = False
+        for b in blocks:
+            bid = b["id"]
+            is_art = b["tipo"] == "precepto"
+            noted = any((slug, bid, x) in notes for x in (True, False))
+            if is_art and not bid.startswith("a") and not rng and not noted:
+                in_final = True
+            pre = take(slug, bid, True)
+            if b["tipo"] == "encabezado":
+                level = "##" if re.match(r"(TÍTULO|LIBRO|PARTE)", b.get("titulo") or "") or len(slugs) == 1 else "###"
+                if len(slugs) > 1:
+                    level = "###"
+                hid = bid if len(slugs) == 1 else f"{slug}-{bid}"
+                chunk = f'\n\n{level} {heading_text(b["html"])} {{#{hid} .oficial-h}}\n\n'
+                chunk += note_md(pre) if pre else ""
+                chunk += note_md(take(slug, bid, False)) if (slug, bid, False) in notes else ""
+                out.append(chunk)
+                continue
+            body = re.sub(r'^\s*<p class="articulo">.*?</p>', "", b["html"], count=1, flags=re.S)
+            body = emphasize(body, marks.get((slug, bid), []))
+            label = titles.get((slug, bid))
+            head_txt = squash(strip_tags(re.search(r'<p class="articulo">(.*?)</p>', b["html"], flags=re.S).group(1))) if '<p class="articulo">' in b["html"] else (b["titulo"] or ("Preámbulo" if b["tipo"] == "preambulo" else ""))
+            lab = f' <span class="nota-label">{label}</span>' if label else ""
+            hid = bid if len(slugs) == 1 else f"{slug}-{bid}"
+            chunk = ""
+            if pre:
+                chunk += note_md(pre)
+            chunk += f'\n\n### {head_txt}{lab} {{#{hid} .oficial-h}}\n\n<div class="oficial">\n{body}\n</div>\n\n'
+            after = take(slug, bid, False)
+            if after:
+                chunk += note_md(after)
+            (finals if in_final and not noted else out).append(chunk)
+        if finals:
+            out.append('\n\n<details class="oficial-final" markdown="1">\n<summary>Disposiciones adicionales, transitorias, derogatorias y finales (texto oficial)</summary>\n\n' + "".join(finals) + "\n\n</details>\n\n")
+    final = take(slugs[0], "final", False)
+    if final:
+        out.append(note_md(final, "nota-final"))
+    left = [k for k in notes if k not in used]
+    if left:
+        raise SystemExit(f"Notas sin destino en {meta.get('title')}: {left[:5]}")
+    return "".join(out)
 
 
 def build_constitucion(leyes: list[dict]) -> list[dict]:
@@ -737,6 +898,7 @@ def main() -> None:
         shutil.rmtree(DIST)
     DIST.mkdir()
     leyes = read_json(DATA / "leyes.json", {"leyes": []})["leyes"]
+    LAWS_BY_SLUG.update({l["slug"]: l for l in leyes})
 
     temario = build_temario()
     ce_pages = build_constitucion(leyes)

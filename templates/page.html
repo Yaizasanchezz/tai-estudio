@@ -32,6 +32,7 @@
     {% endif %}
 
     <div class="prose">
+      {% if page.meta.texto %}<p class="legend-notes"><span class="lg-oficial">Texto en negro: texto oficial del BOE</span><span class="lg-nota">En rojo: explicaciones (no forman parte de la norma)</span></p>{% endif %}
       {{ page.body|safe }}
     </div>
 

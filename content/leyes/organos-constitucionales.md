@@ -2,14 +2,15 @@
 title: Tribunal Constitucional, Defensor del Pueblo y estados excepcionales · LO 2/1979, LO 3/1981 y LO 4/1981
 description: Composición y procesos del Tribunal Constitucional, el Defensor del Pueblo y la tramitación de quejas, y los estados de alarma, excepción y sitio, con todos los plazos.
 order: 4.5
+texto: lo-2-1979, lo-3-1981, lo-4-1981
 ---
 
 !!! tip "Cómo encaja con la Constitución"
     Estas tres leyes orgánicas **desarrollan** artículos que ya viste en la [Constitución explicada]({{base}}constitucion/): el **Título IX** (TC, arts. 159 a 165), el **art. 54** (Defensor del Pueblo) y el **art. 116** (estados excepcionales). La Constitución da las líneas maestras; aquí están los **detalles y plazos** que también se preguntan.
 
-## 1. Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional (LOTC)
 
-### Naturaleza y competencias (arts. 1 a 4)
+<!-- antes lo-2-1979:aprimero -->
+## Naturaleza y competencias
 
 - **Intérprete supremo de la Constitución**, **independiente** de los demás órganos constitucionales y sometido **solo a la Constitución y a su Ley Orgánica**. Es **único en su orden** y tiene jurisdicción en **todo el territorio** (art. 1).
 - **Competencias (art. 2):**
@@ -26,7 +27,9 @@ order: 4.5
 - Puede dictar **reglamentos** sobre su funcionamiento (aprobados en **Pleno** y publicados en el BOE).
 - Elabora su **presupuesto**, que es una **sección independiente** de los Presupuestos Generales del Estado (art. 10.3).
 
-### Composición y organización (arts. 5 a 26)
+
+<!-- antes lo-2-1979:aquinto -->
+## Composición y organización
 
 | Aspecto | Dato |
 | --- | --- |
@@ -45,7 +48,9 @@ order: 4.5
 - **Remuneración de transición:** si han estado al menos **3 años**, cobran **1 año** más tras el cese (art. 25).
 - Si una **Sala** quiere apartarse de la **doctrina** del Tribunal, decide el **Pleno** (art. 13).
 
-### Procesos de inconstitucionalidad (arts. 27 a 40)
+
+<!-- antes lo-2-1979:aveintisiete -->
+## Procesos de inconstitucionalidad
 
 **Objeto (art. 27.2):** Estatutos de Autonomía y demás **leyes orgánicas**; las demás **leyes, disposiciones normativas y actos con fuerza de ley** del Estado (incluidos decretos-leyes y decretos legislativos); los **tratados**; los **Reglamentos de las Cámaras** y de las Cortes; y las **leyes y normas con fuerza de ley de las CC. AA.** y los reglamentos de sus asambleas.
 
@@ -68,7 +73,9 @@ order: 4.5
 !!! example "Ejemplo"
     Un juzgado de lo contencioso duda de que una ley autonómica de tasas sea constitucional y su sentencia depende de ella: **cuestión** de inconstitucionalidad. Si 50 Diputados creen que una ley recién publicada vulnera la Constitución: **recurso** de inconstitucionalidad en **3 meses**.
 
-### Recurso de amparo (arts. 41 a 58)
+
+<!-- antes lo-2-1979:acuarentayuno -->
+## Recurso de amparo
 
 - **Derechos protegidos:** los de los **arts. 14 a 29** CE y la **objeción de conciencia** del **art. 30**. Es un recurso **subsidiario**: primero hay que acudir a los tribunales ordinarios.
 - **Frente a qué y en qué plazo:**
@@ -84,7 +91,9 @@ order: 4.5
 - **Sentencia (arts. 53 a 55):** **otorga** o **deniega** el amparo. Si lo otorga: declara la **nulidad** del acto, **reconoce el derecho** y **restablece** al recurrente en su integridad. Si la lesión la causa la propia **ley**, la Sala **eleva la cuestión al Pleno** (la llamada **autocuestión** de inconstitucionalidad).
 - **Suspensión (art. 56):** el amparo **no suspende** el acto impugnado, pero la Sala puede suspenderlo si la ejecución haría perder al amparo su finalidad.
 
-### Conflictos (arts. 59 a 75 quinquies)
+
+<!-- antes lo-2-1979:acincuentaynueve -->
+## Conflictos
 
 | Conflicto | Partes y plazos |
 | --- | --- |
@@ -93,13 +102,15 @@ order: 4.5
 | **Entre órganos constitucionales** (arts. 73 a 75) | **Gobierno, Congreso, Senado y CGPJ**. El órgano afectado, por acuerdo de su **Pleno**, requiere al otro en **1 mes** desde que conoce la decisión; si no rectifica en **1 mes**, plantea el conflicto en otro **mes** |
 | **En defensa de la autonomía local** (arts. 75 bis a 75 quinquies, añadidos por la **LO 7/1999**) | **Municipios y provincias** frente a **leyes** del Estado o de una CA. Legitimados: el municipio o provincia **destinatario único** de la ley; **1/7 de los municipios** del ámbito que representen **1/6 de la población**; o **la mitad de las provincias** con **la mitad de la población**. Necesitan acuerdo del **Pleno** por **mayoría absoluta** y un **dictamen** (preceptivo, no vinculante) del **Consejo de Estado** u órgano consultivo autonómico |
 
-### Otros procesos
+## Otros procesos
 
 - **Impugnación del art. 161.2 CE (arts. 76 y 77):** el **Gobierno** impugna **disposiciones sin fuerza de ley y resoluciones** de las CC. AA. en **2 meses**. Produce la **suspensión** automática, que el TC debe **ratificar o levantar en un plazo no superior a 5 meses**.
 - **Control previo de los tratados (art. 78):** el **Gobierno** o **cualquiera de las Cámaras** pueden pedir al TC que declare si un tratado **ya fijado pero aún no consentido** contradice la Constitución. Su declaración es **vinculante** (art. 95 CE). Ejemplo: la **Declaración 1/1992** sobre el **Tratado de Maastricht**, que obligó a la reforma del art. 13.2 CE.
 - **Recurso previo contra Estatutos de Autonomía (art. 79, recuperado por la LO 12/2015):** contra el texto definitivo aprobado por las Cortes. Plazo de **3 días** desde su publicación en el **Boletín Oficial de las Cortes Generales**; **suspende** los trámites siguientes (incluido el **referéndum**) y se resuelve en **6 meses improrrogables**.
 
-### Ejecución de sus resoluciones (art. 92, reforma de la LO 15/2015)
+
+<!-- antes lo-2-1979:anoventaydos -->
+## Ejecución de sus resoluciones
 
 El TC vela por el cumplimiento de sus resoluciones y, si se incumplen, puede:
 
@@ -108,9 +119,9 @@ El TC vela por el cumplimiento de sus resoluciones y, si se incumplen, puede:
 - Acordar la **ejecución sustitutoria**, con la colaboración del **Gobierno**.
 - Deducir testimonio para exigir la **responsabilidad penal**.
 
-## 2. Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo
 
-### Naturaleza y elección (arts. 1 a 4)
+<!-- antes lo-3-1981:aprimero -->
+## Naturaleza y elección
 
 - **Alto comisionado de las Cortes Generales** para la **defensa de los derechos del Título I** de la Constitución, a cuyo efecto **supervisa la actividad de la Administración**, dando cuenta a las Cortes (art. 1 y art. 54 CE).
 - **Mandato: 5 años.** Se relaciona con las Cortes a través de los **Presidentes del Congreso y del Senado** y de la **Comisión Mixta Congreso-Senado** de Relaciones con el Defensor del Pueblo.
@@ -127,7 +138,9 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 
 - Los **Presidentes de ambas Cámaras** firman el nombramiento, que se publica en el **BOE**; toma posesión ante las **Mesas de ambas Cámaras** reunidas conjuntamente.
 
-### Cese, prerrogativas e incompatibilidades (arts. 5 a 8)
+
+<!-- antes lo-3-1981:aquinto -->
+## Cese, prerrogativas e incompatibilidades
 
 - **Cese:** renuncia, expiración del mandato, muerte o incapacidad sobrevenida, **notoria negligencia** o **condena firme por delito doloso**. En los tres primeros casos lo declara el **Presidente del Congreso**; en los demás, las **3/5 de cada Cámara**, previa audiencia. El nuevo procedimiento empieza en **1 mes**.
 - Mientras tanto, lo sustituyen **interinamente** sus **Adjuntos**, por su orden.
@@ -135,7 +148,9 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 - **Incompatible** con todo **mandato representativo**, cargo político, **servicio activo** en una Administración, **afiliación a un partido** o funciones directivas en partidos, sindicatos, asociaciones o fundaciones, la **carrera judicial o fiscal** y cualquier actividad profesional, liberal, mercantil o laboral. Debe cesar en ellas en **10 días** desde su nombramiento.
 - **Adjuntos:** un **Adjunto Primero** y un **Adjunto Segundo**, que lo nombra y separa el Defensor **previa conformidad de las Cámaras** (de la Comisión Mixta). Le sustituyen por su orden y tienen sus mismas prerrogativas e incompatibilidades.
 
-### Competencias y quejas (arts. 9 a 22)
+
+<!-- antes lo-3-1981:anoveno -->
+## Competencias y quejas
 
 - **Investiga** de oficio o a petición de parte los actos y resoluciones de la **Administración pública** y sus agentes, a la luz del **art. 103.1 CE** y los derechos del Título I. Llega a **ministros, autoridades, funcionarios** y a cualquier persona al servicio de las Administraciones.
 - **Quién puede acudir (art. 10):** **toda persona física o jurídica** con **interés legítimo**, **sin restricción**: no importa la **nacionalidad, residencia, sexo, minoría de edad, incapacidad legal** ni estar **internado en prisión**. También los **Diputados y Senadores** individualmente y las comisiones parlamentarias. **No pueden** presentar quejas las **autoridades administrativas** en asuntos de su competencia.
@@ -155,7 +170,9 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 | Colaboración (arts. 19 a 22) | Todos los poderes públicos deben **auxiliarle con carácter preferente y urgente**; puede **personarse en cualquier centro** y acceder a cualquier expediente. Puede pedir **documentos secretos**: solo el **Consejo de Ministros** puede acordar no remitirlos |
 | Funcionario afectado (art. 20) | Responde por escrito en el plazo que se le fije (**no inferior a 10 días**) |
 
-### Resoluciones (arts. 23 a 33)
+
+<!-- antes lo-3-1981:aveintitres -->
+## Resoluciones
 
 - **No puede modificar ni anular actos administrativos** (no es un órgano decisorio), pero puede **sugerir** cambios de criterio y **proponer la modificación de normas** que provoquen situaciones injustas (art. 28).
 - Formula **advertencias, recomendaciones, recordatorios de deberes legales y sugerencias**; las autoridades deben **responder por escrito en 1 mes** (art. 30). Si no actúan, lo pone en conocimiento del **Ministro** y, en último término, lo incluye en su **informe** con los nombres de los responsables.
@@ -163,15 +180,15 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 - Si conoce **hechos delictivos**, lo comunica al **Fiscal General del Estado** (art. 25). Puede ejercer de oficio la **acción de responsabilidad** contra autoridades y funcionarios (art. 26).
 - **Informe anual** a las **Cortes Generales**, presentado en periodo ordinario de sesiones, **sin datos personales** de los interesados y con la **liquidación del presupuesto**; un **resumen oral** ante los **Plenos** de ambas Cámaras. Puede presentar **informes extraordinarios** (art. 32 y 33).
 
-### Medios y otras funciones
+## Medios y otras funciones
 
 - Su personal se considera **personal al servicio de las Cortes**; su presupuesto es una partida de los **Presupuestos de las Cortes Generales** (art. 37).
 - **Mecanismo Nacional de Prevención de la Tortura** (DF única, añadida por la **LO 1/2009**): el Defensor ejerce esta función conforme al Protocolo facultativo de la ONU, con un **Consejo Asesor**.
 - Por otras leyes, recibe las resoluciones del **CTBG** (Ley 19/2013) y las de la **AEPD** sobre Administraciones públicas (LOPDGDD).
 
-## 3. Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio
 
-### Disposiciones comunes (arts. 1 a 3)
+<!-- antes lo-4-1981:aprimero -->
+## Disposiciones comunes
 
 - Se declaran cuando **circunstancias extraordinarias** hacen **imposible mantener la normalidad** con los **poderes ordinarios**.
 - Las medidas y la duración serán las **estrictamente indispensables** y se aplicarán de forma **proporcionada**.
@@ -179,7 +196,7 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 - La declaración se **publica de inmediato en el BOE** y entra en vigor **en ese mismo instante**; su difusión es **obligatoria** en los medios públicos (y en los privados que se determinen).
 - Los actos dictados durante su vigencia son **impugnables** ante los tribunales y quien sufra daños tiene derecho a **indemnización**.
 
-### Comparativa de los tres estados
+## Comparativa de los tres estados
 
 | | **Alarma** (arts. 4 a 12) | **Excepción** (arts. 13 a 31) | **Sitio** (arts. 32 a 36) |
 | --- | --- | --- | --- |
@@ -194,7 +211,9 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 !!! warning "Cuidado con la competencia autonómica"
     En el estado de **alarma**, el Presidente autonómico **puede solicitarlo**, pero **solo lo declara el Gobierno**. Y la autoridad competente es el Gobierno, aunque puede **delegar** en el Presidente de la Comunidad cuando afecte solo a su territorio.
 
-### Estado de alarma: medidas (arts. 9 a 12)
+
+<!-- antes lo-4-1981:anoveno -->
+## Estado de alarma: medidas
 
 - Todas las **autoridades civiles**, las **policías autonómicas y locales** y los empleados públicos del territorio quedan **bajo las órdenes directas** de la autoridad competente, que puede imponerles **servicios extraordinarios**.
 - Medidas posibles (art. 11): **limitar la circulación o permanencia** de personas o vehículos en horas y lugares determinados; **requisas temporales** de bienes y **prestaciones personales obligatorias**; **intervenir y ocupar transitoriamente** industrias o locales (**excepto domicilios privados**); **limitar o racionar** servicios y artículos de primera necesidad; garantizar el **abastecimiento**.
@@ -205,18 +224,24 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 !!! example "Ejemplo reciente"
     El **estado de alarma de marzo de 2020** por la COVID-19 (RD 463/2020) limitó la circulación de personas. El **TC (STC 148/2021)** declaró inconstitucional ese **confinamiento general**, al entender que **no limitaba sino que suspendía** la libertad de circulación, lo que exigía el **estado de excepción**. También lo es, por la STC 183/2021, parte de la prórroga de 6 meses del segundo estado de alarma.
 
-### Estado de excepción: procedimiento y medidas (arts. 13 a 31)
+
+<!-- antes lo-4-1981:atrece -->
+## Estado de excepción: procedimiento y medidas
 
 - **Solicitud del Gobierno al Congreso** con: los **derechos cuya suspensión** se pide (solo los del art. 55.1), las **medidas**, el **ámbito territorial**, la **duración** (máximo **30 días**) y la **cuantía máxima de las sanciones**. El Congreso puede **aprobarla tal cual o modificarla**.
 - **Medidas** (según los derechos suspendidos): **detención** de personas sospechosas de alterar el orden público **hasta 10 días**, comunicándolo al juez en **24 horas**; **registros domiciliarios** (con orden escrita y testigos: dos vecinos); **intervención de comunicaciones**; control de **transportes**; prohibir la circulación, exigir identificación, **fijar residencia** o exigir **aviso de desplazamientos con 2 días de antelación**; **suspender publicaciones y emisiones** y **secuestrar publicaciones** (**nunca censura previa**); someter a autorización o **prohibir reuniones y manifestaciones** (no las orgánicas de partidos, sindicatos y asociaciones empresariales); **prohibir huelgas**; control de **extranjeros** (incluida la expulsión); **incautación de armas**; intervención y **cierre de industrias** o locales; protección de instalaciones.
 - El Gobierno puede **ponerle fin anticipadamente** por decreto, dando cuenta al Congreso.
 
-### Estado de sitio (arts. 32 a 36)
+
+<!-- antes lo-4-1981:atreintaydos -->
+## Estado de sitio
 
 - El Gobierno, que **dirige la política militar y de defensa** (art. 97 CE), asume **todas las facultades extraordinarias** y designa la **autoridad militar** que ejecuta las medidas mediante **bandos**.
 - El **Congreso** puede determinar los **delitos** que quedan sometidos a la **jurisdicción militar**.
 - Las **autoridades civiles** conservan las facultades no atribuidas a la militar.
 
+
+<!-- final -->
 ## Resumen de cifras
 
 | Qué | Dato |

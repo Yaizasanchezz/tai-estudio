@@ -2,6 +2,7 @@
 title: Firma electrónica y servicios de confianza · Reglamento eIDAS y Ley 6/2020
 description: Tipos de firma y sus efectos, sellos, sellos de tiempo, certificados, prestadores cualificados, eIDAS 2 y la Cartera Europea de Identidad Digital, la Ley 6/2020 y cómo funciona técnicamente la firma.
 order: 13
+texto: ley-6-2020, eidas
 ---
 
 !!! tip "Jurídico y técnico a la vez"
@@ -16,14 +17,16 @@ order: 13
 | **Ley 6/2020, de 11 de noviembre**, reguladora de determinados aspectos de los **servicios electrónicos de confianza** | **Complementa** el eIDAS en España. **Deroga la Ley 59/2003 de firma electrónica**. En vigor desde el **13 de noviembre de 2020** |
 | **Leyes 39/2015 y 40/2015** y **RD 203/2021** | Sistemas de identificación y firma **de los interesados y de las Administraciones** (ver [Administración electrónica]({{base}}leyes/administracion-electronica/)) |
 
-## 1. Reglamento eIDAS
 
-### Las dos partes del reglamento
+<!-- antes eidas:inicio -->
+## Las dos partes del reglamento
 
 1. **Identificación electrónica (eID):** **reconocimiento mutuo** entre Estados de los **sistemas de identificación electrónica notificados** a la Comisión. España ha notificado el **DNIe** y **Cl@ve**. Los sistemas tienen **niveles de seguridad**: **bajo**, **sustancial** y **alto**; el reconocimiento es obligatorio para los de nivel **sustancial o alto** cuando un servicio público en línea exige ese nivel.
 2. **Servicios de confianza:** firmas, sellos, sellos de tiempo, entrega electrónica certificada y autenticación de sitios web, con sus **prestadores**.
 
-### Conceptos básicos (art. 3)
+
+<!-- antes eidas:a3 -->
+## Conceptos básicos
 
 | Concepto | Definición |
 | --- | --- |
@@ -38,7 +41,7 @@ order: 13
 | **Servicio de confianza** | Servicio electrónico, normalmente **remunerado**, de creación, verificación y validación de **firmas, sellos, sellos de tiempo, entregas certificadas** y sus certificados; de **autenticación de sitios web**; y de **preservación** de firmas y sellos |
 | **Prestador cualificado** | Prestador al que el **organismo de supervisión** ha concedido la **cualificación** y figura en la **lista de confianza** |
 
-### Los tres tipos de firma
+## Los tres tipos de firma
 
 | Tipo | Requisitos | Efectos |
 | --- | --- | --- |
@@ -49,7 +52,7 @@ order: 13
 !!! warning "La pregunta trampa"
     **Solo la firma cualificada** equivale **automáticamente** a la manuscrita. La avanzada **no**: tiene efectos y puede ser prueba, pero sin esa equivalencia legal. Y la simple **tampoco puede ser rechazada** solo por ser electrónica.
 
-### Otros servicios de confianza
+## Otros servicios de confianza
 
 - **Sello electrónico** (arts. 35 a 40): para **personas jurídicas**. El **sello cualificado** goza de **presunción de integridad** de los datos y de **corrección del origen**. Las Administraciones lo usan en la **actuación automatizada** (art. 42 Ley 40/2015).
 - **Sello de tiempo electrónico** (arts. 41 y 42): el **cualificado** tiene **presunción de exactitud de la fecha y hora** que indica y de **integridad** de los datos a los que se vinculan. Debe estar vinculado a una **hora UTC** exacta.
@@ -57,25 +60,27 @@ order: 13
 - **Autenticación de sitios web** (art. 45): **certificados cualificados de autenticación de sitio web (QWAC)**, que permiten saber que un sitio pertenece a quien dice. Lo usan las **sedes electrónicas**.
 - **Validación y preservación** de firmas y sellos cualificados (arts. 32 a 34 y 39 y 40): verificar su validez y **prolongar su fiabilidad** a largo plazo.
 
-### Prestadores y supervisión
+## Prestadores y supervisión
 
 - Cada Estado designa un **organismo de supervisión**; en España, el **Ministerio para la Transformación Digital y de la Función Pública** (a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial).
 - Los **prestadores cualificados** se someten a una **auditoría** de un **organismo de evaluación de la conformidad** al menos **cada 24 meses**, y figuran en la **lista de confianza** (*Trusted List*, **TSL**) que publica cada Estado. Pueden usar la **etiqueta de confianza «UE»**.
 - Los **no cualificados** no necesitan autorización previa.
 
-### eIDAS 2 · Reglamento (UE) 2024/1183
+## eIDAS 2 · Reglamento (UE) 2024/1183
 
 - Crea el **Marco Europeo de Identidad Digital**.
 - **Cartera Europea de Identidad Digital** (*EUDI Wallet*): una **aplicación** que cada Estado debe ofrecer a sus ciudadanos, **gratuita y voluntaria**, para **identificarse**, **guardar y compartir** atributos verificados (permiso de conducir, títulos, recetas…) de forma **selectiva** y **firmar con firma cualificada**.
 - **Nuevos servicios de confianza:** **declaración electrónica de atributos** (cualificada o expedida por un organismo público), **archivo electrónico**, **libros mayores electrónicos** (registros distribuidos tipo *blockchain*) y **gestión remota de dispositivos cualificados** de creación de firma.
 
-## 2. Ley 6/2020, de servicios electrónicos de confianza
 
+<!-- antes ley-6-2020:inicio -->
 - **Objeto (art. 1):** regular **determinados aspectos** de los servicios electrónicos de confianza como **complemento del eIDAS**.
 - **Ámbito (art. 2):** prestadores **públicos y privados establecidos en España** (y los de otros Estados con establecimiento permanente aquí, si no los supervisa otra autoridad de la UE).
 - **Documentos electrónicos (art. 3):** los **públicos, administrativos y privados** tienen el **valor y eficacia** que corresponda a su naturaleza. En un juicio, si se usó un **servicio cualificado**, se **presume** que el documento reúne la característica cuestionada (integridad, fecha, autoría…) y **la carga de la prueba** pasa a quien lo impugne (art. 326.4 LEC, con multa de 300 a 1.200 € si la impugnación es temeraria).
 
-### Certificados (arts. 4 a 7)
+
+<!-- antes ley-6-2020:a4 -->
+## Certificados
 
 - **Extinción:** por **caducidad** al expirar su vigencia o por **revocación**.
 - **Vigencia máxima de los certificados cualificados: 5 años.**
@@ -84,7 +89,9 @@ order: 13
 - **Identidad del titular (art. 6):** personas físicas por **nombre, apellidos y DNI/NIE/NIF**, o mediante un **seudónimo** que conste como tal (el prestador debe conocer la identidad real). Personas jurídicas por **razón social y NIF**.
 - **Comprobación de identidad (art. 7):** exige **personación** con DNI, pasaporte u otro medio admitido, **o** identificación **a distancia** por **videoidentificación** con seguridad equivalente (regulada por **Orden ETD/465/2021**). Si hay **relación previa** con el prestador en la que ya se identificó presencialmente, puede no exigirse de nuevo (si no han pasado más de **5 años**).
 
-### Obligaciones de los prestadores (arts. 9 a 13)
+
+<!-- antes ley-6-2020:a9 -->
+## Obligaciones de los prestadores
 
 - Publicar **información veraz**.
 - **No almacenar ni copiar los datos de creación de firma** (la clave privada) del titular, **salvo** que los gestione **en su nombre** (firma en la nube), con sistemas fiables bajo el **control exclusivo** del titular.
@@ -97,7 +104,9 @@ order: 13
 - **No cualificados (art. 12):** **sin verificación previa**, pero deben **comunicar** su actividad al Ministerio en **3 meses** desde que la inician.
 - **Seguridad (art. 13):** notificar al Ministerio las **violaciones de seguridad** (además de a la AEPD si afectan a datos personales) y ampliar la información en **1 mes**.
 
-### Supervisión y sanciones (arts. 14 a 20)
+
+<!-- antes ley-6-2020:a1-6 -->
+## Supervisión y sanciones
 
 - **Órgano de supervisión:** el **Ministerio** competente en transformación digital, que inspecciona y mantiene la **lista de confianza**. El procedimiento de **cualificación** se resuelve en **6 meses** (silencio **desestimatorio**).
 - **Infracciones:** **muy graves** (reincidencia en graves en 2 años; expedir certificados cualificados sin comprobar la identidad cuando afecta a la mayoría de los emitidos…), **graves** (obstruir la inspección, presentarse como cualificado sin serlo, copiar claves privadas, no conservar la información, no notificar incidentes, no revocar certificados, carecer del seguro…) y **leves** (información no veraz, no comunicar el inicio de actividad…).
@@ -110,7 +119,9 @@ order: 13
 
 Puede sustituirse por un **apercibimiento** (art. 19 bis). Las muy graves las impone el **Ministro** y las graves y leves la **Secretaría de Estado de Digitalización e IA**. El procedimiento dura como máximo **9 meses**.
 
-### Disposiciones adicionales clave
+
+<!-- final -->
+## Disposiciones adicionales clave
 
 - **DA 2ª:** **todos los sistemas de identificación, firma y sello** de las **Leyes 39/2015 y 40/2015** tienen **plenos efectos jurídicos** (por ejemplo, **Cl@ve** o el **CSV**).
 - **DA 3ª · DNI electrónico:** permite **acreditar electrónicamente la identidad** y **firmar** documentos. **Todas las personas** y entidades deben **reconocer su eficacia**. El **Ministerio del Interior** (Dirección General de la Policía) cumple las obligaciones de un prestador cualificado.

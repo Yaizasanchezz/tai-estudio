@@ -2,6 +2,7 @@
 title: Ley 19/2013 · Transparencia, acceso a la información y buen gobierno (y Gobierno Abierto y Agenda 2030)
 description: Los tres pilares de la ley (publicidad activa, derecho de acceso y buen gobierno), el Consejo de Transparencia y Buen Gobierno, y los conceptos de Gobierno Abierto y Agenda 2030 que completan el tema.
 order: 6
+texto: ley-19-2013
 ---
 
 !!! tip "Qué entra"
@@ -19,9 +20,9 @@ Se basa en el **art. 105.b) de la Constitución**: la ley regulará el acceso de
 
 **Entrada en vigor (DF 9ª):** el título de **buen gobierno**, al **día siguiente** de su publicación (11/12/2013). La **transparencia y el Consejo**, al **año** (10/12/2014). Las **CC. AA. y Entidades Locales** tuvieron **2 años** para adaptarse (10/12/2015).
 
-## Título I · Transparencia de la actividad pública
 
-### Artículos 2 a 4 · ¿A quién obliga?
+<!-- antes a2 -->
+## Artículos 2 a 4 · ¿A quién obliga?
 
 **Sujetos obligados (art. 2):**
 
@@ -40,7 +41,9 @@ Se basa en el **art. 105.b) de la Constitución**: la ley regulará el acceso de
 
 **Obligación de suministrar información (art. 4):** quienes presten **servicios públicos** o ejerzan potestades administrativas (concesionarios, adjudicatarios de contratos) deben dar a la Administración, **previo requerimiento**, la información necesaria para que esta cumpla la ley.
 
-### Artículos 5 a 11 · Publicidad activa
+
+<!-- antes a5 -->
+## Artículos 5 a 11 · Publicidad activa
 
 **Principios (art. 5):** información **periódica y actualizada**, publicada en las **sedes electrónicas o páginas web**, de forma **clara, estructurada y entendible**, preferiblemente en **formatos reutilizables**, **gratuita** y **accesible** para personas con discapacidad. Se aplican los límites del art. 14 y la protección de datos (si hay datos especialmente protegidos, se **disocian** antes de publicar).
 
@@ -57,7 +60,9 @@ Se basa en el **art. 105.b) de la Constitución**: la ley regulará el acceso de
 !!! example "Ejemplo"
     En el Portal de la Transparencia puedes consultar cuánto cobra un Secretario de Estado, los contratos de un Ministerio o las subvenciones concedidas, sin pedir nada a nadie: eso es **publicidad activa**.
 
-### Artículos 12 a 22 · El derecho de acceso a la información pública
+
+<!-- antes a12 -->
+## Artículos 12 a 22 · El derecho de acceso a la información pública
 
 - **Titulares (art. 12):** **todas las personas** (no hace falta ser español, ni interesado, ni motivar).
 - **Información pública (art. 13):** contenidos o documentos, **cualquiera que sea su formato o soporte**, que estén en poder de los sujetos obligados y hayan sido **elaborados o adquiridos en el ejercicio de sus funciones**.
@@ -109,15 +114,17 @@ Solicitud ──► (concretar en 10 días si es imprecisa) ──► (alegacion
 !!! example "Ejemplo"
     Pides a tu Ministerio cuántos puestos TAI tiene en teletrabajo. Si en **1 mes** no te contestan, se entiende **denegado**. Puedes reclamar al **CTBG** en **1 mes** (gratis y sin abogado) o ir directamente al contencioso en **2 meses** (6 si es silencio, según la LJCA).
 
-### Artículos 23 y 24 · Impugnación
+
+<!-- antes a23 -->
+## Artículos 23 y 24 · Impugnación
 
 - La **reclamación ante el Consejo de Transparencia y Buen Gobierno (CTBG)** es **potestativa**, **sustituye a los recursos administrativos** y es **previa** al contencioso.
 - Plazo para presentarla: **1 mes** desde la notificación o desde que se produce el silencio. El CTBG resuelve en **3 meses**; si no, se entiende **desestimada**. Sus resoluciones se publican (disociadas) y se comunican al **Defensor del Pueblo**.
 - Contra las resoluciones de la **Casa del Rey, Congreso, Senado, TC, CGPJ, Banco de España, Consejo de Estado, Defensor del Pueblo, Tribunal de Cuentas y CES** solo cabe **recurso contencioso-administrativo** (no reclamación al CTBG).
 - En las **CC. AA. y Entidades Locales** resuelve el órgano independiente autonómico, o el CTBG si la Comunidad lo encomienda por **convenio** (DA 4ª). En Madrid es el **Consejo de Transparencia y Protección de Datos**.
 
-## Título II · Buen gobierno (arts. 25 a 32)
 
+<!-- antes a25 -->
 - **Ámbito (art. 25):** **miembros del Gobierno, Secretarios de Estado y demás altos cargos** de la AGE y su sector público, y los **altos cargos autonómicos y locales** (incluidos los miembros de las **Juntas de Gobierno locales**).
 - **Principios (art. 26):**
     - **Generales:** transparencia; dedicación al servicio público; **imparcialidad**; trato igual sin discriminación; diligencia; conducta digna; asunción de **responsabilidad**.
@@ -137,8 +144,8 @@ Solicitud ──► (concretar en 10 días si es imprecisa) ──► (alegacion
 !!! warning "No lo confundas con la Ley 40/2015"
     La prescripción general de la Ley 40/2015 es 3–2–6 meses (infracciones). La de **buen gobierno** es más larga: **5–3–1**.
 
-## Título III · El Consejo de Transparencia y Buen Gobierno (arts. 33 a 40)
 
+<!-- antes a33 -->
 - **Naturaleza:** **autoridad administrativa independiente** con **personalidad jurídica propia**, que actúa con **autonomía y plena independencia**. Está adscrita al Ministerio con competencias en **Función Pública** (originalmente, Hacienda y Administraciones Públicas).
 - **Fines (art. 34):** promover la transparencia, velar por la publicidad activa, salvaguardar el derecho de acceso y garantizar el buen gobierno.
 - **Órganos (art. 35):** la **Comisión de Transparencia y Buen Gobierno** y el **Presidente** (que preside también la Comisión).
@@ -146,6 +153,8 @@ Solicitud ──► (concretar en 10 días si es imprecisa) ──► (alegacion
 - **Presidente (art. 37):** nombrado por **Real Decreto** por un mandato **no renovable de 5 años**, entre personas de reconocido prestigio, previa comparecencia ante la Comisión del **Congreso**, que debe **refrendar** el nombramiento por **mayoría absoluta** en **1 mes**. Resuelve las **reclamaciones** del art. 24, adopta **criterios interpretativos** y vela por la publicidad activa.
 - **Funciones (art. 38):** recomendaciones, asesoramiento, informe preceptivo de los proyectos normativos estatales de transparencia, **memoria anual** a las **Cortes Generales**, formación y colaboración con órganos análogos.
 
+
+<!-- final -->
 ## Gobierno Abierto
 
 **Concepto:** forma de gobernar basada en la **transparencia**, la **participación** y la **colaboración** con la ciudadanía, a la que se suma la **rendición de cuentas**. El término lo popularizó el **memorándum de Barack Obama de 2009** sobre transparencia y gobierno abierto.

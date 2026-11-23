@@ -2,6 +2,7 @@
 title: Protección de datos · RGPD (Reglamento UE 2016/679) y LOPDGDD (LO 3/2018)
 description: Conceptos, principios, bases de legitimación, derechos, obligaciones del responsable y del encargado, delegado de protección de datos, brechas, transferencias, AEPD, sanciones y derechos digitales.
 order: 10
+texto: rgpd, lopdgdd
 ---
 
 !!! tip "Es doble materia"
@@ -19,6 +20,7 @@ order: 10
 
 **Fundamento constitucional:** **art. 18.4 CE** («la ley limitará el uso de la informática para garantizar el honor y la intimidad…»). El TC (**STC 292/2000**) configuró la protección de datos como un **derecho fundamental autónomo**, distinto de la intimidad. También el **art. 8 de la Carta de Derechos Fundamentales de la UE**.
 
+<!-- antes rgpd:a2 -->
 ## Ámbito de aplicación
 
 - **Material (RGPD art. 2):** tratamiento **total o parcialmente automatizado** de datos personales y el **no automatizado** de datos contenidos o destinados a un **fichero**.
@@ -27,7 +29,9 @@ order: 10
 
 **Datos de personas fallecidas (LOPDGDD art. 3):** familiares, personas vinculadas de hecho y herederos pueden pedir acceso, rectificación o supresión, **salvo que el fallecido lo prohibiera** (los herederos pueden acceder siempre a los datos **patrimoniales**).
 
-## Definiciones clave (RGPD art. 4)
+
+<!-- antes rgpd:a4 -->
+## Definiciones clave
 
 | Concepto | Definición |
 | --- | --- |
@@ -50,7 +54,9 @@ order: 10
 !!! example "Responsable y encargado en tu día a día"
     El Ministerio que gestiona las becas es el **responsable**: decide para qué y cómo se tratan los datos. La empresa contratada para mantener el servidor donde están es la **encargada**: solo los trata siguiendo sus instrucciones, en virtud de un **contrato de encargo** (art. 28 RGPD).
 
-## Principios (RGPD art. 5)
+
+<!-- antes rgpd:a5 -->
+## Principios
 
 | Principio | Qué exige |
 | --- | --- |
@@ -64,7 +70,9 @@ order: 10
 
 **LOPDGDD:** la **exactitud** no es imputable al responsable si los datos los aportó el propio interesado o vienen de un registro público (art. 4). **Deber de confidencialidad** (art. 5) de todos los que intervienen en el tratamiento, que **se mantiene aunque termine la relación**.
 
-## Licitud del tratamiento: las 6 bases (RGPD art. 6)
+
+<!-- antes rgpd:a6 -->
+## Licitud del tratamiento: las 6 bases
 
 1. **Consentimiento** del interesado para uno o varios fines específicos.
 2. Ejecución de un **contrato** o medidas precontractuales a petición del interesado.
@@ -83,6 +91,7 @@ order: 10
 - Si es para varias finalidades, debe constar **para todas ellas**. No se puede condicionar un contrato a consentir tratamientos no relacionados con él.
 - **Menores:** el RGPD fija **16 años** para los servicios de la sociedad de la información y permite bajarlo hasta **13**. **En España: 14 años** (LOPDGDD art. 7). Por debajo, consentimiento del titular de la **patria potestad o tutela**.
 
+<!-- antes rgpd:a9 -->
 ## Categorías especiales y datos penales
 
 **Categorías especiales (RGPD art. 9):** datos que revelen **origen étnico o racial**, **opiniones políticas**, **convicciones religiosas o filosóficas**, **afiliación sindical**, **datos genéticos**, **datos biométricos** dirigidos a identificar unívocamente a una persona, datos de **salud** y datos sobre **vida sexual u orientación sexual**.
@@ -92,7 +101,9 @@ order: 10
 
 **Datos penales (RGPD art. 10 y LOPDGDD art. 10):** solo bajo control de una autoridad pública o si lo autoriza el Derecho de la UE o una norma con rango de ley.
 
-## Derechos de los interesados (RGPD arts. 12 a 22 y LOPDGDD arts. 11 a 18)
+
+<!-- antes rgpd:a12 -->
+## Derechos de los interesados
 
 **Reglas comunes (RGPD art. 12 y LOPDGDD art. 12):**
 
@@ -119,7 +130,9 @@ order: 10
 
 **Bloqueo (LOPDGDD art. 32):** al **rectificar o suprimir**, el responsable debe **bloquear** los datos: identificarlos y reservarlos impidiendo su tratamiento, salvo para ponerlos a disposición de **jueces, Ministerio Fiscal o Administraciones** (incluidas las autoridades de protección de datos) durante el **plazo de prescripción** de las responsabilidades. Después, **destruirlos**.
 
-## Responsable y encargado (RGPD arts. 24 a 31)
+
+<!-- antes rgpd:a24 -->
+## Responsable y encargado
 
 - **Responsabilidad del responsable (art. 24):** aplicar medidas técnicas y organizativas apropiadas **según el riesgo** y poder demostrarlo.
 - **Protección de datos desde el diseño y por defecto (art. 25):**
@@ -131,13 +144,17 @@ order: 10
 - **Registro de las actividades de tratamiento (art. 30):** sustituye a la antigua **inscripción de ficheros** en la AEPD. Recoge fines, categorías de interesados y datos, destinatarios, transferencias, plazos de supresión y medidas de seguridad. **Excepción:** organizaciones de **menos de 250 empleados**, salvo que el tratamiento suponga riesgo, no sea ocasional o incluya categorías especiales o datos penales.
 - **Inventario público (LOPDGDD art. 31.2):** las Administraciones y demás sujetos del art. 77.1 **publican por medios electrónicos** un **inventario de sus actividades de tratamiento** con su base legal.
 
-## Seguridad y brechas (RGPD arts. 32 a 34)
+
+<!-- antes rgpd:a32 -->
+## Seguridad y brechas
 
 - **Seguridad del tratamiento (art. 32):** medidas apropiadas al riesgo, como la **seudonimización y el cifrado**, la capacidad de garantizar la **confidencialidad, integridad, disponibilidad y resiliencia** permanentes, la capacidad de **restaurar** la disponibilidad tras un incidente y un proceso de **verificación y evaluación** periódica. En el sector público, las medidas se corresponden con las del **Esquema Nacional de Seguridad** (LOPDGDD DA 1ª).
 - **Notificación de la brecha a la autoridad (art. 33):** **sin dilación indebida** y, si es posible, **en las 72 horas** siguientes a tener constancia, **salvo que sea improbable** que constituya un riesgo para los derechos de las personas. Si se hace más tarde, hay que justificar el retraso. El **encargado** debe notificar al responsable **sin dilación**. Hay que **documentar** todas las brechas.
 - **Comunicación al interesado (art. 34):** **sin dilación** cuando sea probable que la brecha entrañe un **alto riesgo** para sus derechos. No hace falta si los datos estaban **cifrados** (ininteligibles), si se han tomado medidas que eliminan el alto riesgo o si supone un esfuerzo desproporcionado (en ese caso, comunicación pública).
 
-## Evaluación de impacto (EIPD) y consulta previa (RGPD arts. 35 y 36)
+
+<!-- antes rgpd:a35 -->
+## Evaluación de impacto (EIPD) y consulta previa
 
 - **EIPD:** obligatoria cuando sea probable que un tratamiento entrañe un **alto riesgo**, en particular en:
     - **Evaluación sistemática y exhaustiva** de aspectos personales basada en tratamiento automatizado (perfiles) con efectos jurídicos.
@@ -146,6 +163,7 @@ order: 10
 - La AEPD publica listas de tratamientos que requieren EIPD. El responsable debe recabar el asesoramiento del **DPD**.
 - **Consulta previa (art. 36):** si la EIPD muestra un alto riesgo que el responsable **no puede mitigar**, debe consultar a la autoridad de control antes de tratar.
 
+<!-- antes rgpd:a37 -->
 ## Delegado de protección de datos (DPD o DPO)
 
 **Obligatorio (RGPD art. 37)** cuando:
@@ -162,11 +180,15 @@ order: 10
 - **Funciones (art. 39):** **informar y asesorar**, **supervisar** el cumplimiento, asesorar en la **EIPD**, **cooperar** con la autoridad de control y ser su **punto de contacto**.
 - **Reclamaciones (LOPDGDD art. 37):** el interesado **puede** dirigirse primero al DPD, que debe responder en **2 meses**. Si reclama ante la AEPD, esta puede remitir la reclamación al DPD para que responda en **1 mes**.
 
-## Códigos de conducta y certificación (RGPD arts. 40 a 43)
+
+<!-- antes rgpd:a40 -->
+## Códigos de conducta y certificación
 
 Los **códigos de conducta** (aprobados por la autoridad de control, con un organismo de supervisión) y los **mecanismos de certificación**, **sellos y marcas** sirven para **demostrar el cumplimiento**.
 
-## Transferencias internacionales (RGPD arts. 44 a 50)
+
+<!-- antes rgpd:a44 -->
+## Transferencias internacionales
 
 Transferir datos **fuera del Espacio Económico Europeo** solo se puede si:
 
@@ -174,6 +196,7 @@ Transferir datos **fuera del Espacio Económico Europeo** solo se puede si:
 2. O hay **garantías adecuadas** (art. 46): **cláusulas contractuales tipo** aprobadas por la Comisión, **normas corporativas vinculantes** (BCR, art. 47), códigos de conducta, certificaciones…
 3. O se da una **excepción** para situaciones específicas (art. 49): consentimiento explícito informado, ejecución de un contrato, interés público importante, reclamaciones, intereses vitales…
 
+<!-- antes rgpd:a51 -->
 ## Autoridades de control
 
 - **Comité Europeo de Protección de Datos (CEPD / EDPB, art. 68):** **organismo de la Unión** con personalidad jurídica, formado por el jefe de una autoridad de cada Estado y el **Supervisor Europeo de Protección de Datos**. Garantiza la **aplicación coherente** del RGPD con directrices y dictámenes.
@@ -199,6 +222,7 @@ Transferir datos **fuera del Espacio Económico Europeo** solo se puede si:
 - **Apercibimiento** con medidas correctivas: **6 meses**.
 - Puede haber **actuaciones previas de investigación**.
 
+<!-- antes lopdgdd:a7-2 -->
 ## Régimen sancionador
 
 **Multas del RGPD (art. 83):**
@@ -222,7 +246,9 @@ Las sanciones de más de **1 millón de euros** a personas jurídicas impuestas 
 !!! warning "Las Administraciones no pagan multas (art. 77 LOPDGDD)"
     A los **órganos constitucionales**, **tribunales**, **AGE, CC. AA. y Entidades Locales**, organismos públicos, autoridades independientes, **Banco de España**, corporaciones de Derecho público, fundaciones del sector público, **Universidades públicas**, consorcios y grupos parlamentarios y políticos **no se les imponen multas**: la autoridad dicta una resolución que **declara la infracción** y fija medidas correctoras, puede proponer **actuaciones disciplinarias** y, si hay responsabilidad de autoridades o directivos que ignoraron informes técnicos, una **amonestación** publicada en el boletín oficial. Las resoluciones se comunican al **Defensor del Pueblo** y se publican en la web de la AEPD.
 
-## Tratamientos concretos de la LOPDGDD (Título IV)
+
+<!-- antes lopdgdd:ti-4 -->
+## Tratamientos concretos (Título IV)
 
 - **Datos de contacto** de empresarios individuales y profesionales (art. 19): presunción de interés legítimo.
 - **Sistemas de información crediticia** («ficheros de morosos», art. 20): deudas **ciertas, vencidas y exigibles** no reclamadas, informando al deudor de la posible inclusión, mientras persista el impago y con un máximo de **5 años** desde el vencimiento.
@@ -240,8 +266,8 @@ Las sanciones de más de **1 millón de euros** a personas jurídicas impuestas 
 | Si no tiene documento | Solo **nombre y apellidos** |
 | **Nunca** | Nombre y apellidos **junto con** el número completo |
 
-## Título X · Garantía de los derechos digitales (arts. 79 a 97)
 
+<!-- antes lopdgdd:a7-11 -->
 | Derecho | Contenido |
 | --- | --- |
 | **Neutralidad de Internet** (art. 80) | Los proveedores ofrecen una oferta transparente sin discriminación técnica o económica |
@@ -263,6 +289,8 @@ Las sanciones de más de **1 millón de euros** a personas jurídicas impuestas 
 !!! example "Caso práctico"
     Tu unidad publica en la sede electrónica la lista de admitidos de un proceso con nombre, apellidos y DNI completo. Error: debería publicarse con **nombre, apellidos y 4 cifras aleatorias del DNI** (DA 7ª). Si además se ha filtrado un Excel con datos de salud de los aspirantes, hay una **brecha**: el responsable debe notificarla a la **AEPD en 72 horas** y, por ser datos de salud (**alto riesgo**), comunicarla también a los afectados.
 
+
+<!-- final -->
 ## Resumen de cifras
 
 | Qué | Dato |

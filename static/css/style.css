@@ -647,3 +647,33 @@ html[data-opo="tai"] .opo-btn[data-opo-switch="tai"], html[data-opo="aux"] .opo-
 @media (min-width: 640px) { .cheat-sec td:first-child { white-space: nowrap; } }
 .psy-opts .xq-opt.is-key { border-color: var(--good); background: color-mix(in srgb, var(--good) 14%, var(--surface)); }
 .psy-opts .xq-opt.is-wrong { border-color: var(--bad); background: color-mix(in srgb, var(--bad) 12%, var(--surface)); }
+
+/* ---------- Texto oficial + notas propias (Constitución y Leyes explicadas) ---------- */
+:root { --note-text: #9f1239; --note-bg: #fff1f3; --note-border: #e11d48; }
+[data-theme="dark"] { --note-text: #fda4af; --note-bg: #3a1b24; --note-border: #fb7185; }
+.legend-notes { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; font-size: .88rem; margin: 0 0 1.4em; padding: 10px 14px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--surface-2); }
+.legend-notes .lg-oficial { color: var(--text); font-weight: 700; }
+.legend-notes .lg-nota { color: var(--note-text); font-weight: 700; border-left: 4px solid var(--note-border); padding-left: 8px; }
+.prose .oficial-h { scroll-margin-top: 90px; }
+.prose h2.oficial-h { font-size: 1.2rem; text-align: center; margin-top: 2.2em; }
+.prose h3.oficial-h { font-family: var(--font-body, inherit); font-size: 1.08rem; font-weight: 800; margin: 1.9em 0 .5em; }
+.prose .oficial p { margin: 0 0 .65em; }
+.prose .oficial blockquote { margin: .6em 0 1em; padding: 6px 12px; border-left: 3px solid var(--border-strong); color: var(--muted); font-size: .84rem; }
+.nota { color: var(--note-text); background: var(--note-bg); border-left: 4px solid var(--note-border); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 10px 16px; margin: .9em 0 1.4em; }
+.nota::before { content: "Explicación"; display: block; font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; opacity: .85; margin-bottom: .35em; }
+.nota.nota-intro::before { content: "Explicación · idea general"; }
+.nota.nota-final::before { content: "Explicación · resumen"; }
+.nota p:last-child, .nota ul:last-child, .nota ol:last-child { margin-bottom: 0; }
+.nota h4 { color: var(--note-text); font-size: 1rem; margin: 1em 0 .4em; }
+.nota strong, .nota a { color: inherit; }
+.nota a { text-decoration: underline; }
+.nota table, .nota th, .nota td { color: var(--note-text); border-color: color-mix(in srgb, var(--note-border) 30%, transparent); }
+.nota .table-wrap { background: transparent; }
+.nota code { color: inherit; }
+.nota .admonition { color: var(--note-text); background: transparent; border-color: color-mix(in srgb, var(--note-border) 35%, transparent); }
+.nota .admonition-title { color: var(--note-text) !important; }
+.nota-label { color: var(--note-text); font-weight: 600; font-size: .92em; }
+.oficial-falta { font-size: .9rem; color: var(--muted); }
+details.oficial-final { margin: 2em 0; border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 8px 14px; }
+details.oficial-final > summary { cursor: pointer; font-weight: 700; }
+.nota h4 { font-family: var(--font-body); font-weight: 800; }

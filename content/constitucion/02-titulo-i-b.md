@@ -3,202 +3,194 @@ title: Título I (2) · Derechos de los ciudadanos, principios rectores y garant
 description: Derechos y deberes de los ciudadanos (arts. 30 a 38), principios rectores de la política social y económica (39 a 52), garantías (53 y 54) y suspensión de derechos (55).
 order: 2
 arts: Arts. 30–55
+texto: constitucion
+rango: s2-a55
 ---
 
-## Sección 2ª · De los derechos y deberes de los ciudadanos (arts. 30 a 38)
+<!-- titulo a30: Defensa de España, objeción de conciencia y servicio civil -->
+<!-- titulo a31: Deber de contribuir y sistema tributario -->
+<!-- titulo a32: Matrimonio -->
+<!-- titulo a33: Propiedad privada y herencia -->
+<!-- titulo a34: Derecho de fundación -->
+<!-- titulo a35: Derecho al trabajo -->
+<!-- titulo a36: Colegios profesionales -->
+<!-- titulo a37: Negociación colectiva y conflicto colectivo -->
+<!-- titulo a38: Libertad de empresa -->
+<!-- titulo a39: Protección de la familia y de la infancia -->
+<!-- titulo a40: Progreso social, empleo y condiciones de trabajo -->
+<!-- titulo a41: Seguridad Social -->
+<!-- titulo a42: Trabajadores en el extranjero -->
+<!-- titulo a43: Protección de la salud -->
+<!-- titulo a44: Acceso a la cultura y a la ciencia -->
+<!-- titulo a45: Medio ambiente -->
+<!-- titulo a46: Patrimonio histórico, cultural y artístico -->
+<!-- titulo a47: Vivienda -->
+<!-- titulo a48: Participación de la juventud -->
+<!-- titulo a49: Personas con discapacidad (reformado en 2024) -->
+<!-- titulo a50: Tercera edad -->
+<!-- titulo a51: Consumidores y usuarios -->
+<!-- titulo a52: Organizaciones profesionales -->
+<!-- titulo a53: Sistema de garantías -->
+<!-- titulo a54: El Defensor del Pueblo -->
+<!-- titulo a55: Suspensión general e individual -->
+<!-- destacar a30: derecho y el deber de defender a España | objeción de conciencia | servicio civil | grave riesgo, catástrofe o calamidad pública -->
+<!-- destacar a31: Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica | igualdad y progresividad | confiscatorio | asignación equitativa de los recursos públicos | eficiencia y economía -->
+<!-- destacar a32: matrimonio con plena igualdad jurídica -->
+<!-- destacar a33: derecho a la propiedad privada y a la herencia | función social -->
+<!-- destacar a35: deber de trabajar y el derecho al trabajo | remuneración suficiente | sin que en ningún caso pueda hacerse discriminación por razón de sexo | estatuto de los trabajadores -->
+<!-- destacar a36: Colegios Profesionales | democráticos -->
+<!-- destacar a37: negociación colectiva laboral | fuerza vinculante de los convenios | medidas de conflicto colectivo -->
+<!-- destacar a38: libertad de empresa en el marco de la economía de mercado -->
+<!-- destacar a39: protección social, económica y jurídica de la familia | investigación de la paternidad -->
+<!-- destacar a40: distribución de la renta regional y personal más equitativa | pleno empleo | formación y readaptación profesionales | seguridad e higiene en el trabajo | descanso necesario | vacaciones periódicas retribuidas -->
+<!-- destacar a41: régimen público de Seguridad Social para todos los ciudadanos | desempleo -->
+<!-- destacar a42: trabajadores españoles en el extranjero -->
+<!-- destacar a43: derecho a la protección de la salud | salud pública | deporte -->
+<!-- destacar a44: acceso a la cultura | ciencia y la investigación científica y técnica -->
+<!-- destacar a45: derecho a disfrutar de un medio ambiente adecuado | deber de conservarlo | utilización racional de todos los recursos naturales -->
+<!-- destacar a46: patrimonio histórico, cultural y artístico -->
+<!-- destacar a47: vivienda digna y adecuada | impedir la especulación | plusvalías -->
+<!-- destacar a48: participación libre y eficaz de la juventud -->
+<!-- destacar a49: personas con discapacidad | libertad e igualdad reales y efectivas | plena autonomía personal y la inclusión social | mujeres y los menores con discapacidad -->
+<!-- destacar a50: pensiones adecuadas y periódicamente actualizadas | tercera edad -->
+<!-- destacar a52: organizaciones profesionales -->
+<!-- destacar a53: procedimiento basado en los principios de preferencia y sumariedad | recurso de amparo ante el Tribunal Constitucional -->
+<!-- destacar a54: Defensor del Pueblo | alto comisionado de las Cortes Generales | supervisar la actividad de la Administración -->
+<!-- destacar a55: necesaria intervención judicial y el adecuado control parlamentario | bandas armadas o elementos terroristas | responsabilidad penal -->
 
-Estos derechos tienen una protección menor que los de la Sección 1ª: se regulan por **ley ordinaria** (no orgánica) que debe respetar su **contenido esencial**, y **no tienen recurso de amparo** (salvo la objeción de conciencia del 30.2). Si una ley los vulnera, se puede ir al Tribunal Constitucional con un recurso de inconstitucionalidad.
+<!-- antes a30 -->
+Los derechos de la **Sección 2.ª** tienen una protección menor que los de la 1.ª: se regulan por **ley ordinaria** (no orgánica) que debe respetar su **contenido esencial**, y **no tienen recurso de amparo** (salvo la objeción de conciencia del 30.2). Si una ley los vulnera, cabe el **recurso de inconstitucionalidad**.
 
-### Artículo 30 · Defensa de España, objeción de conciencia y servicio civil
+<!-- a30 -->
+La **objeción de conciencia (30.2)** es el único derecho de la Sección 2.ª protegido con **recurso de amparo** (art. 53.2). El servicio militar obligatorio está **suspendido desde 2001**, aunque la Constitución no lo prohíbe. El 30.4 permite a la ley imponer deberes a los ciudadanos en casos de **grave riesgo, catástrofe o calamidad pública** (la base de la protección civil).
 
-1. Los españoles tienen el **derecho y el deber de defender a España**.
-2. La ley fijará las obligaciones militares de los españoles y regulará, con las debidas garantías, la **objeción de conciencia**, así como las demás causas de exención del servicio militar obligatorio, pudiendo imponer, en su caso, una prestación social sustitutoria.
-3. Podrá establecerse un **servicio civil** para el cumplimiento de fines de interés general.
-4. Mediante ley podrán regularse los deberes de los ciudadanos en los casos de **grave riesgo, catástrofe o calamidad pública**.
+<!-- a31 -->
+- **31.1:** el sistema tributario se inspira en **igualdad y progresividad** y **nunca** puede ser **confiscatorio**. Progresividad: quien más tiene paga **proporcionalmente** más (como en el IRPF por tramos).
+- **31.2:** el gasto público debe ser **equitativo, eficiente y económico**.
+- **31.3:** **principio de reserva de ley tributaria**: los tributos y demás prestaciones públicas solo pueden establecerse **con arreglo a la ley**.
 
-Datos clave: la **objeción de conciencia (30.2) es el único derecho de la Sección 2ª protegido con recurso de amparo**. El servicio militar obligatorio está suspendido desde 2001, aunque la Constitución no lo prohíbe.
+<!-- a32 -->
+La **Ley 13/2005** permitió el matrimonio entre personas del mismo sexo y el Tribunal Constitucional la declaró conforme a este artículo (**STC 198/2012**).
 
-### Artículo 31 · Deber de contribuir y sistema tributario
+<!-- a33 -->
+La propiedad no es absoluta: su **función social** delimita su contenido. El **33.3** es la base de la **expropiación forzosa**: solo por **utilidad pública o interés social**, con **indemnización** y conforme a las leyes.
 
-1. **Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica** mediante un sistema tributario justo inspirado en los principios de **igualdad y progresividad** que, en ningún caso, tendrá alcance **confiscatorio**.
-2. El gasto público realizará una **asignación equitativa de los recursos públicos**, y su programación y ejecución responderán a los criterios de **eficiencia y economía**.
-3. Solo podrán establecerse prestaciones personales o patrimoniales de carácter público **con arreglo a la ley** (principio de reserva de ley tributaria).
+<!-- a34 -->
+Las fundaciones se crean para **fines de interés general**. Al remitir al art. 22.2 y 22.4, les aplica dos reglas de las asociaciones: son **ilegales** si persiguen fines o usan medios **delictivos**, y solo pueden **disolverse o suspenderse por resolución judicial** motivada. Las regula la Ley 50/2002.
 
-Progresividad: quien más tiene, paga proporcionalmente más (como en el IRPF por tramos).
+<!-- a35 -->
+El trabajo es a la vez **deber y derecho**, con libre elección de profesión, promoción y **remuneración suficiente**, sin discriminación por **sexo**. El **35.2** manda aprobar un **Estatuto de los Trabajadores** (hoy, el Real Decreto Legislativo 2/2015).
 
-### Artículo 32 · Matrimonio
+<!-- a36 -->
+Los **colegios profesionales** (de abogados, médicos, ingenieros…) los regula la ley, y su estructura y funcionamiento deben ser **democráticos**, como los partidos (art. 6) y los sindicatos (art. 7).
 
-1. El hombre y la mujer tienen derecho a contraer **matrimonio con plena igualdad jurídica**.
-2. La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y disolución y sus efectos.
+<!-- a37 -->
+- **37.1:** negociación colectiva y **fuerza vinculante de los convenios**.
+- **37.2:** **medidas de conflicto colectivo** (por ejemplo, el cierre patronal), garantizando los **servicios esenciales**. Es uno de los derechos que pueden **suspenderse** en los estados de excepción y sitio (art. 55.1).
+- Ojo: la **huelga** no está aquí, sino en el **28.2** (Sección 1.ª, con amparo).
 
-La Ley 13/2005 permitió el matrimonio entre personas del mismo sexo y el Tribunal Constitucional la declaró conforme a este artículo (STC 198/2012).
+<!-- a38 -->
+Reconoce la **libertad de empresa en el marco de la economía de mercado**. Los poderes públicos la garantizan y protegen, de acuerdo con las exigencias de la economía general y, en su caso, de la **planificación** (art. 131).
 
-### Artículo 33 · Propiedad privada y herencia
+<!-- antes a39 -->
+Los **principios rectores** (Capítulo III) no son derechos que se puedan exigir directamente ante un juez, sino **mandatos a los poderes públicos**. Según el art. 53.3, «informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos» y solo pueden alegarse ante los tribunales **de acuerdo con las leyes que los desarrollen**.
 
-1. Se reconoce el **derecho a la propiedad privada y a la herencia**.
-2. La **función social** de estos derechos delimitará su contenido, de acuerdo con las leyes.
-3. Nadie podrá ser privado de sus bienes y derechos sino por **causa justificada de utilidad pública o interés social**, mediante la correspondiente **indemnización** y de conformidad con lo dispuesto por las leyes. Es la base de la **expropiación forzosa**.
+<!-- a39 -->
+Protección de la **familia**, de los **hijos** (iguales ante la ley con independencia de su filiación) y de las **madres** (cualquiera que sea su estado civil). La ley posibilita la **investigación de la paternidad**. Los niños gozan de la protección de los **acuerdos internacionales** que velan por sus derechos.
 
-### Artículo 34 · Derecho de fundación
+<!-- a40 -->
+- **40.1:** distribución de la renta más **equitativa** y política orientada al **pleno empleo**.
+- **40.2:** formación profesional, **seguridad e higiene en el trabajo**, **limitación de la jornada**, **vacaciones periódicas retribuidas** y centros adecuados.
 
-Se reconoce el **derecho de fundación para fines de interés general**, con arreglo a la ley. Se aplican también los apartados 2 y 4 del art. 22 (ilegalidad por fines delictivos y disolución solo judicial).
+<!-- a41 -->
+Los poderes públicos mantienen un **régimen público de Seguridad Social para todos los ciudadanos**, con prestaciones suficientes, **especialmente en caso de desempleo**. La asistencia y prestaciones **complementarias** son **libres**.
 
-### Artículo 35 · Derecho al trabajo
+<!-- a42 -->
+El Estado vela por los derechos económicos y sociales de los **trabajadores españoles en el extranjero** y orienta su política hacia su **retorno**.
 
-1. Todos los españoles tienen el **deber de trabajar y el derecho al trabajo**, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una **remuneración suficiente** para satisfacer sus necesidades y las de su familia, **sin que en ningún caso pueda hacerse discriminación por razón de sexo**.
-2. La ley regulará un **estatuto de los trabajadores**.
+<!-- a43 -->
+Reconoce el **derecho a la protección de la salud**: los poderes públicos organizan y tutelan la **salud pública** con medidas preventivas y prestaciones. También fomentan la **educación sanitaria**, la **educación física** y el **deporte**, y la adecuada utilización del **ocio**.
 
-### Artículo 36 · Colegios profesionales
+<!-- a44 -->
+**Acceso a la cultura** para todos, y promoción de la **ciencia** y la **investigación científica y técnica** en beneficio del interés general.
 
-La ley regulará las peculiaridades propias del régimen jurídico de los **Colegios Profesionales** y el ejercicio de las profesiones tituladas. La estructura interna y el funcionamiento de los Colegios deberán ser **democráticos**.
+<!-- a45 -->
+Derecho a un **medio ambiente adecuado** y **deber de conservarlo**. Quien lo viole puede recibir **sanciones penales o, en su caso, administrativas**, y tiene la **obligación de reparar el daño**.
 
-### Artículo 37 · Negociación colectiva y conflicto colectivo
+<!-- a46 -->
+Los poderes públicos conservan y promueven el **patrimonio histórico, cultural y artístico** de los pueblos de España, **cualquiera que sea su titularidad** (público o privado). La ley penal sanciona los atentados contra él.
 
-1. La ley garantizará el derecho a la **negociación colectiva laboral** entre los representantes de los trabajadores y empresarios, así como la **fuerza vinculante de los convenios**.
-2. Se reconoce el derecho de los trabajadores y empresarios a adoptar **medidas de conflicto colectivo**. La ley que regule su ejercicio incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad.
+<!-- a47 -->
+Derecho a una **vivienda digna y adecuada**. Los poderes públicos deben **impedir la especulación**, y la comunidad **participa en las plusvalías** que genere la acción urbanística de los entes públicos.
 
-El 37.2 (medidas de conflicto colectivo, como el cierre patronal) es uno de los derechos que se pueden **suspender** en estados de excepción y sitio (art. 55.1).
+<!-- a48 -->
+Participación **libre y eficaz** de la **juventud** en el desarrollo político, social, económico y cultural.
 
-### Artículo 38 · Libertad de empresa
-
-Se reconoce la **libertad de empresa en el marco de la economía de mercado**. Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.
-
-## Capítulo III · Principios rectores de la política social y económica (arts. 39 a 52)
-
-No son derechos que se puedan exigir directamente ante un juez, sino **mandatos a los poderes públicos**. Según el art. 53.3, «informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos» y solo podrán alegarse ante los tribunales de acuerdo con las leyes que los desarrollen.
-
-### Artículo 39 · Protección de la familia y de la infancia
-
-1. Los poderes públicos aseguran la **protección social, económica y jurídica de la familia**.
-2. Aseguran la **protección integral de los hijos, iguales ante la ley con independencia de su filiación**, y de las madres, cualquiera que sea su estado civil. La ley posibilitará la **investigación de la paternidad**.
-3. Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en que legalmente proceda.
-4. Los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos.
-
-### Artículo 40 · Progreso social, empleo y condiciones de trabajo
-
-1. Los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una **distribución de la renta regional y personal más equitativa**, en el marco de una política de estabilidad económica. De manera especial realizarán una política orientada al **pleno empleo**.
-2. Fomentarán una política que garantice la **formación y readaptación profesionales**; velarán por la **seguridad e higiene en el trabajo** y garantizarán el **descanso necesario**, mediante la limitación de la jornada laboral, las **vacaciones periódicas retribuidas** y la promoción de centros adecuados.
-
-### Artículo 41 · Seguridad Social
-
-Los poderes públicos mantendrán un **régimen público de Seguridad Social para todos los ciudadanos**, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de **desempleo**. La asistencia y prestaciones complementarias serán libres.
-
-### Artículo 42 · Trabajadores en el extranjero
-
-El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los **trabajadores españoles en el extranjero** y orientará su política hacia su retorno.
-
-### Artículo 43 · Protección de la salud
-
-1. Se reconoce el **derecho a la protección de la salud**.
-2. Compete a los poderes públicos organizar y tutelar la **salud pública** a través de medidas preventivas y de las prestaciones y servicios necesarios.
-3. Los poderes públicos fomentarán la educación sanitaria, la educación física y el **deporte**, y facilitarán la adecuada utilización del ocio.
-
-### Artículo 44 · Acceso a la cultura y a la ciencia
-
-1. Los poderes públicos promoverán y tutelarán el **acceso a la cultura**, a la que todos tienen derecho.
-2. Promoverán la **ciencia y la investigación científica y técnica** en beneficio del interés general.
-
-### Artículo 45 · Medio ambiente
-
-1. Todos tienen el **derecho a disfrutar de un medio ambiente adecuado** para el desarrollo de la persona, así como el **deber de conservarlo**.
-2. Los poderes públicos velarán por la **utilización racional de todos los recursos naturales**.
-3. Para quienes violen lo dispuesto, se establecerán **sanciones penales o administrativas** y la obligación de reparar el daño causado.
-
-### Artículo 46 · Patrimonio histórico, cultural y artístico
-
-Los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del **patrimonio histórico, cultural y artístico** de los pueblos de España. La ley penal sancionará los atentados contra este patrimonio.
-
-### Artículo 47 · Vivienda
-
-Todos los españoles tienen derecho a disfrutar de una **vivienda digna y adecuada**. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para **impedir la especulación**. La comunidad participará en las **plusvalías** que genere la acción urbanística de los entes públicos.
-
-### Artículo 48 · Participación de la juventud
-
-Los poderes públicos promoverán las condiciones para la **participación libre y eficaz de la juventud** en el desarrollo político, social, económico y cultural.
-
-### Artículo 49 · Personas con discapacidad (reformado en 2024)
-
-Es el artículo modificado en la **reforma de 17 de febrero de 2024**. Antes hablaba de «disminuidos físicos, sensoriales y psíquicos»; ahora:
-
-1. Las **personas con discapacidad** ejercen los derechos previstos en este Título en condiciones de **libertad e igualdad reales y efectivas**.
-2. Los poderes públicos impulsarán las políticas que garanticen la **plena autonomía personal y la inclusión social** de las personas con discapacidad, en entornos universalmente accesibles. Fomentarán la participación de sus organizaciones. Se atenderán particularmente las necesidades específicas de las **mujeres y los menores con discapacidad**.
+<!-- a49 -->
+Es el artículo modificado por la **Reforma de 15 de febrero de 2024** (BOE y entrada en vigor el 17 de febrero). Antes hablaba de «disminuidos físicos, sensoriales y psíquicos»; ahora habla de **personas con discapacidad**, que ejercen sus derechos en condiciones de **libertad e igualdad reales y efectivas**, y menciona expresamente a las **mujeres y los menores** con discapacidad.
 
 !!! tip "Ojo en el examen"
-    Cae mucho. Recuerda: es la **tercera** reforma (la cuarta, de 2026, cambió el art. 69.3 para dar un senador a Formentera), se hizo por el procedimiento del **art. 167** y cambió el lenguaje a «personas con discapacidad».
+    Es la **tercera** reforma (la cuarta, de 2026, cambió el art. 69.3 para dar un senador a Formentera). Se hizo por el procedimiento del **art. 167**, sin referéndum.
 
-### Artículo 50 · Tercera edad
+<!-- a50 -->
+**Pensiones adecuadas y periódicamente actualizadas** para la **tercera edad**, y promoción de su bienestar con servicios sociales (salud, vivienda, cultura y ocio), **con independencia de las obligaciones familiares**.
 
-Los poderes públicos garantizarán, mediante **pensiones adecuadas y periódicamente actualizadas**, la suficiencia económica a los ciudadanos durante la **tercera edad**. Independientemente de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, vivienda, cultura y ocio.
+<!-- a51 -->
+**Defensa de los consumidores y usuarios**: su **seguridad**, su **salud** y sus **legítimos intereses económicos**, información y educación, y sus organizaciones. La ley regula el comercio interior y el régimen de autorización de productos comerciales.
 
-### Artículo 51 · Consumidores y usuarios
+<!-- a52 -->
+Las **organizaciones profesionales** que contribuyen a defender intereses económicos propios (por ejemplo, las agrarias) se regulan por ley, con estructura y funcionamiento **democráticos**.
 
-1. Los poderes públicos garantizarán la **defensa de los consumidores y usuarios**, protegiendo su seguridad, su salud y sus legítimos intereses económicos.
-2. Promoverán la información y la educación de los consumidores y usuarios y fomentarán sus organizaciones.
-3. La ley regulará el comercio interior y el régimen de autorización de productos comerciales.
+<!-- antes a53 -->
+El **Capítulo IV** recoge las garantías de los derechos y el **Defensor del Pueblo**.
 
-### Artículo 52 · Organizaciones profesionales
-
-La ley regulará las **organizaciones profesionales** que contribuyan a la defensa de los intereses económicos que les sean propios. Su estructura interna y funcionamiento deberán ser democráticos.
-
-## Capítulo IV · De las garantías de las libertades y derechos fundamentales (arts. 53 y 54)
-
-### Artículo 53 · Sistema de garantías
-
+<!-- a53 -->
 Es la clave para entender todo el Título I. Distingue tres niveles de protección:
-
-1. **Todos los derechos y libertades del Capítulo II (arts. 14 a 38) vinculan a todos los poderes públicos.** Solo **por ley**, que en todo caso deberá **respetar su contenido esencial**, podrá regularse su ejercicio. Se tutelan con el **recurso de inconstitucionalidad** contra las leyes que no lo respeten.
-2. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el **artículo 14 y la Sección 1ª del Capítulo II** ante los tribunales ordinarios por un **procedimiento basado en los principios de preferencia y sumariedad** y, en su caso, a través del **recurso de amparo ante el Tribunal Constitucional**. Este último recurso también es aplicable a la **objeción de conciencia del artículo 30**.
-3. El reconocimiento, el respeto y la protección de los **principios del Capítulo III** informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
 
 | Derechos | Garantía |
 | --- | --- |
-| Art. 14 + arts. 15–29 + objeción de conciencia (30.2) | Ley orgánica + procedimiento preferente y sumario + recurso de amparo |
-| Arts. 30–38 | Ley (ordinaria) que respete el contenido esencial + recurso de inconstitucionalidad |
-| Arts. 39–52 | Informan la actuación pública; alegables según sus leyes de desarrollo |
+| Art. 14, arts. 15–29 y objeción de conciencia (30.2) | Vinculan a todos los poderes, ley que respete su contenido esencial, **procedimiento preferente y sumario** y **recurso de amparo**. Los de la **Sección 1.ª** (15–29) se desarrollan además por **ley orgánica** (art. 81) |
+| Arts. 30–38 | Vinculan a todos los poderes; **ley** (ordinaria) que respete el **contenido esencial**; **recurso de inconstitucionalidad** |
+| Arts. 39–52 | Informan la legislación, la práctica judicial y la actuación pública; alegables ante los jueces **según sus leyes de desarrollo** |
 
-### Artículo 54 · El Defensor del Pueblo
-
-Una ley orgánica regulará la institución del **Defensor del Pueblo**, como **alto comisionado de las Cortes Generales**, designado por estas para la **defensa de los derechos del Título I**, a cuyo efecto podrá **supervisar la actividad de la Administración**, dando cuenta a las Cortes Generales.
-
+<!-- a54 -->
 Lo desarrolla la **LO 3/1981**:
 
-- Lo eligen las Cortes por **5 años**, con mayoría de **3/5** de cada Cámara.
-- No está sujeto a mandato imperativo ni recibe instrucciones de ninguna autoridad.
-- Tiene dos adjuntos.
+- Es **alto comisionado de las Cortes Generales** para la defensa de los derechos del Título I, y puede **supervisar la actividad de la Administración**.
+- Mandato de **5 años**. Lo propone una **Comisión Mixta** Congreso-Senado; lo elige el **Congreso por 3/5** y después lo **ratifica el Senado por 3/5** en 20 días (si no se logra, basta la **mayoría absoluta** del Senado).
+- No está sujeto a **mandato imperativo** ni recibe instrucciones de ninguna autoridad. Tiene **dos adjuntos**.
 - Presenta un **informe anual** a las Cortes.
 - Está legitimado para interponer **recurso de inconstitucionalidad** y **recurso de amparo** (art. 162).
-- Sus resoluciones no son vinculantes: hace recomendaciones, sugerencias y recordatorios de deberes legales.
+- Sus resoluciones **no son vinculantes**: hace recomendaciones, sugerencias y recordatorios de deberes legales.
 
-Ejemplo: si la Administración tarda dos años en resolver tu solicitud de dependencia, puedes presentar una queja gratuita al Defensor del Pueblo, que investigará y pedirá explicaciones al organismo.
+Ejemplo: si la Administración tarda dos años en resolver tu solicitud de dependencia, puedes presentar una **queja gratuita** al Defensor del Pueblo, que investigará y pedirá explicaciones.
 
-## Capítulo V · De la suspensión de los derechos y libertades (art. 55)
+<!-- antes a55 -->
+El **Capítulo V** regula cuándo pueden **suspenderse** algunos derechos.
 
-### Artículo 55 · Suspensión general e individual
-
-**1. Suspensión general.** Los derechos de los artículos **17, 18.2 y 18.3, 19, 20.1 a) y d) y 20.5, 21, 28.2 y 37.2** podrán ser suspendidos cuando se acuerde la declaración del **estado de excepción o de sitio**. Se exceptúa el **17.3** (derechos del detenido) en el estado de excepción.
+<!-- a55 -->
+**55.1 · Suspensión general** (en los estados de **excepción** o de **sitio**):
 
 | Artículo | Qué se suspende |
 | --- | --- |
-| 17 | Libertad y seguridad (plazo de detención) |
+| 17 | Libertad y seguridad (el **17.3**, derechos del detenido, no se suspende en el estado de excepción) |
 | 18.2 | Inviolabilidad del domicilio |
 | 18.3 | Secreto de las comunicaciones |
 | 19 | Libertad de residencia y circulación |
-| 20.1 a) y d) | Libertad de expresión y de información |
-| 20.5 | Prohibición de secuestro de publicaciones sin resolución judicial |
+| 20.1 a) y d) y 20.5 | Libertad de expresión e información y prohibición del secuestro sin resolución judicial |
 | 21 | Reunión y manifestación |
 | 28.2 | Huelga |
 | 37.2 | Medidas de conflicto colectivo |
 
-**2. Suspensión individual.** Una ley orgánica podrá determinar la forma y los casos en que, de forma individual y con la **necesaria intervención judicial y el adecuado control parlamentario**, los derechos de los artículos **17.2 y 18.2 y 3** pueden ser suspendidos para personas determinadas, en relación con las investigaciones correspondientes a la actuación de **bandas armadas o elementos terroristas**. La utilización injustificada o abusiva de estas facultades producirá **responsabilidad penal**.
+**55.2 · Suspensión individual:** una **ley orgánica** puede suspender para personas concretas, en investigaciones de **bandas armadas o elementos terroristas**, los derechos de los arts. **17.2** (plazo de detención) y **18.2 y 18.3**, con **intervención judicial** y **control parlamentario**. El uso injustificado o abusivo genera **responsabilidad penal**.
 
 !!! tip "Ojo en el examen"
-    En el **estado de alarma no se suspende ningún derecho** (solo se pueden limitar). La lista del 55.1 no incluye la vida (15), la libertad religiosa (16), la tutela judicial (24) ni la participación política (23): esos nunca se suspenden.
+    En el **estado de alarma no se suspende ningún derecho** (solo se pueden limitar). La lista del 55.1 no incluye la vida (15), la libertad religiosa (16), la tutela judicial (24) ni la participación política (23).
 
-## Resumen rápido
-
+<!-- final -->
 | Bloque | Artículos | Palabra clave |
 | --- | --- | --- |
-| Sección 2ª | 30–38 | Defensa, tributos, matrimonio, propiedad, fundación, trabajo, colegios, negociación colectiva, libertad de empresa |
+| Sección 2.ª | 30–38 | Defensa, tributos, matrimonio, propiedad, fundación, trabajo, colegios, negociación colectiva, libertad de empresa |
 | Principios rectores | 39–52 | Familia, empleo, Seguridad Social, salud, cultura, medio ambiente, patrimonio, vivienda, juventud, discapacidad, tercera edad, consumidores |
 | Garantías | 53–54 | Tres niveles de protección y Defensor del Pueblo |
-| Suspensión | 55 | General (excepción/sitio) e individual (terrorismo) |
+| Suspensión | 55 | General (excepción y sitio) e individual (terrorismo) |

@@ -32,7 +32,7 @@ a solicitud     acumulación    prueba,          desistimiento,     y ejecución
 
 | Fase | Lo esencial | Más en… |
 | --- | --- | --- |
-| **Iniciación** | **De oficio** (propia iniciativa, orden superior, petición razonada de otros órganos o **denuncia**) o **a solicitud del interesado**. Si la solicitud tiene defectos, **10 días para subsanar** (ampliables 5). Se pueden adoptar **medidas provisionales** | [Arts. 54 a 69]({{base}}leyes/ley-39-2015/#título-iv-el-procedimiento-administrativo-común-arts-53-a-105) |
+| **Iniciación** | **De oficio** (propia iniciativa, orden superior, petición razonada de otros órganos o **denuncia**) o **a solicitud del interesado**. Si la solicitud tiene defectos, **10 días para subsanar** (ampliables 5). Se pueden adoptar **medidas provisionales** | [Arts. 54 a 69]({{base}}leyes/ley-39-2015/#tiv) |
 | **Ordenación** | Se impulsa **de oficio** en todos sus trámites, por **orden de incoación** en asuntos de naturaleza homogénea. Se pueden acumular procedimientos | Arts. 70 a 74 |
 | **Instrucción** | Actos para determinar los hechos: **alegaciones** (en cualquier momento antes de la audiencia), **prueba** (10 a 30 días), **informes** (10 días; como regla, **facultativos y no vinculantes**), **audiencia** a los interesados (**10 a 15 días**) e **información pública** (mínimo **20 días**) | Arts. 75 a 83 |
 | **Finalización** | **Resolución** (decide todas las cuestiones y debe ser congruente), **desistimiento** (de la solicitud), **renuncia** (al derecho), **imposibilidad material** y **caducidad** (paralización por causa del interesado: aviso + **3 meses**) | Arts. 84 a 95 |
@@ -68,7 +68,7 @@ a solicitud     acumulación    prueba,          desistimiento,     y ejecución
 | Interponer | **1 mes** (si el acto es expreso) | **1 mes** (si es expreso) | **4 años** (error de hecho) o **3 meses** |
 | Resolver | **3 meses** | **1 mes** | **3 meses** |
 
-El recurso **no suspende** la ejecución del acto, como regla. Los actos de los **tribunales de oposiciones** se recurren en **alzada**. Detalles en [Ley 39/2015: revisión de los actos]({{base}}leyes/ley-39-2015/#título-v-revisión-de-los-actos-en-vía-administrativa-arts-106-a-126).
+El recurso **no suspende** la ejecución del acto, como regla. Los actos de los **tribunales de oposiciones** se recurren en **alzada**. Detalles en [Ley 39/2015: revisión de los actos]({{base}}leyes/ley-39-2015/#tv).
 
 ## 4. El recurso contencioso-administrativo (Ley 29/1998, LJCA)
 

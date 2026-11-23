@@ -2,6 +2,7 @@
 title: TREBEP · Texto refundido del Estatuto Básico del Empleado Público (RDLeg 5/2015)
 description: Clases de personal, derechos, retribuciones, negociación colectiva, jornada y permisos, código de conducta, acceso, pérdida de la condición, provisión, situaciones administrativas y régimen disciplinario, explicados artículo a artículo.
 order: 7
+texto: trebep
 ---
 
 !!! tip "Por qué es tan importante"
@@ -14,8 +15,8 @@ order: 7
 - **Desarrollo en la AGE:** el **libro segundo del Real Decreto-ley 6/2023**, de 19 de diciembre, regula la planificación estratégica, el acceso, la **evaluación del desempeño**, la **carrera profesional** y el **personal directivo** en la Administración del Estado.
 - **Estructura:** 100 artículos en **8 títulos**: I Objeto y ámbito · II Clases de personal · III Derechos y deberes · IV Adquisición y pérdida de la relación de servicio · V Ordenación de la actividad profesional · VI Situaciones administrativas · VII Régimen disciplinario · VIII Cooperación entre Administraciones.
 
-## Título I · Objeto y ámbito (arts. 1 a 7)
 
+<!-- antes a1 -->
 **Objeto (art. 1):** establecer las **bases del régimen estatutario de los funcionarios** y determinar las **normas aplicables al personal laboral**. Recoge **fundamentos de actuación** como el servicio a los ciudadanos, la **igualdad, mérito y capacidad**, el sometimiento a la ley, la igualdad entre mujeres y hombres, la **objetividad, profesionalidad e imparcialidad garantizadas con la inamovilidad**, la transparencia, la evaluación y la **negociación colectiva**.
 
 **Ámbito (art. 2):** se aplica al personal funcionario y, en lo que proceda, al laboral de:
@@ -41,8 +42,8 @@ El **personal docente** y el **personal estatutario de los Servicios de Salud** 
 
 **Personal laboral (art. 7):** legislación laboral, convenios y los preceptos del TREBEP que lo digan. Pero en los **permisos de nacimiento, adopción, del otro progenitor, lactancia y parental** se rige por el **TREBEP**, no por el Estatuto de los Trabajadores.
 
-## Título II · Clases de personal (arts. 8 a 13)
 
+<!-- antes a8 -->
 **Empleados públicos (art. 8):** quienes desempeñan **funciones retribuidas** en las Administraciones Públicas al servicio de los intereses generales. Son **cuatro clases**:
 
 | Clase | Vínculo | Claves |
@@ -69,20 +70,24 @@ El **personal docente** y el **personal estatutario de los Servicios de Salud** 
 !!! example "Ejemplo"
     Un TAI que aprueba la oposición es **funcionario de carrera** del Subgrupo **C1**. Si un Ministerio nombra a alguien para cubrir la baja de un compañero, es **interino por sustitución**. El asesor de prensa del Ministro es **personal eventual**: si el Ministro cesa, él cesa también.
 
-## Título III · Derechos, deberes y código de conducta (arts. 14 a 54)
 
-### Derechos individuales (art. 14)
+<!-- antes a14 -->
+## Derechos individuales
 
 Inamovilidad en la condición de funcionario de carrera · desempeño efectivo de las funciones propias · **progresión en la carrera** y promoción interna · percibir **retribuciones e indemnizaciones** · participar en los objetivos de su unidad · **defensa jurídica** y protección por la Administración en procedimientos derivados del ejercicio legítimo de sus funciones · **formación continua**, preferentemente en horario laboral · respeto a su **intimidad**, orientación e identidad sexual, expresión de género, imagen y dignidad, especialmente frente al **acoso** · **no discriminación** · **conciliación** · **intimidad en el uso de dispositivos digitales** y **desconexión digital** (añadido por la LOPDGDD) · **libertad de expresión** dentro de la ley · protección en **seguridad y salud** · vacaciones, descansos, permisos y licencias · jubilación · prestaciones de Seguridad Social · **libre asociación profesional**.
 
-### Derechos individuales ejercidos colectivamente (art. 15)
+
+<!-- antes a15 -->
+## Derechos individuales ejercidos colectivamente
 
 **Libertad sindical** · **negociación colectiva** · **huelga**, garantizando los servicios esenciales · **conflictos colectivos** · **reunión**.
 
 !!! warning "Trampa típica"
     La **libre asociación profesional** es un derecho **individual** (art. 14.p). La **libertad sindical** y la **huelga** son derechos individuales **ejercidos colectivamente** (art. 15).
 
-### Carrera profesional y evaluación del desempeño (arts. 16 a 20)
+
+<!-- antes a16 -->
+## Carrera profesional y evaluación del desempeño
 
 **Carrera profesional (art. 16):** conjunto ordenado de oportunidades de ascenso y expectativas de progreso. Modalidades:
 
@@ -97,7 +102,9 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 - **Promoción interna (art. 18):** hay que tener los requisitos de acceso, **al menos 2 años de servicio activo** en el Subgrupo inferior y superar las pruebas.
 - **Evaluación del desempeño (art. 20):** procedimiento que **mide y valora la conducta profesional y el rendimiento o logro de resultados**. Criterios: **transparencia, objetividad, imparcialidad y no discriminación**. Tiene efectos en la carrera horizontal, la formación, la provisión de puestos y el complemento de productividad. La continuidad en un puesto obtenido por **concurso** puede quedar vinculada a ella.
 
-### Retribuciones (arts. 21 a 30)
+
+<!-- antes a21 -->
+## Retribuciones
 
 **Las cuantías básicas** y el incremento global de las complementarias se fijan cada año en la **Ley de Presupuestos Generales del Estado** (art. 21).
 
@@ -116,7 +123,9 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 !!! tip "En la AGE"
     El **complemento de destino** corresponde al **nivel del puesto** (del 1 al 30). Desde el **RD-ley 6/2023** (disposición transitoria 6.ª), los intervalos son: **A1** 24–30, **A2** 20–26, **B** 18–24, **C1** 16–22 y **C2** 14–18. Esto lo regula la normativa estatal, no el TREBEP, pero es útil para situarte.
 
-### Negociación colectiva, representación y reunión (arts. 31 a 46)
+
+<!-- antes a31 -->
+## Negociación colectiva, representación y reunión
 
 - **Negociación colectiva (art. 33):** principios de **legalidad, cobertura presupuestaria, obligatoriedad, buena fe negocial, publicidad y transparencia**. En las Mesas están los representantes de la Administración y los sindicatos **más representativos** a nivel estatal y autonómico y los que tengan el **10 %** o más de los representantes en su ámbito.
 - **Mesas (arts. 34 a 36):**
@@ -141,7 +150,9 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 - **Solución extrajudicial (art. 45):** **mediación** (obligatoria si la pide una parte; la propuesta puede aceptarse o no) y **arbitraje** (voluntario; la decisión vincula).
 - **Derecho de reunión (art. 46):** pueden convocar los sindicatos, los Delegados, las Juntas, los Comités de Empresa y los empleados en número **no inferior al 40 %** del colectivo convocado. Fuera de las horas de trabajo, salvo acuerdo.
 
-### Jornada, teletrabajo, permisos y vacaciones (arts. 47 a 51)
+
+<!-- antes a47 -->
+## Jornada, teletrabajo, permisos y vacaciones
 
 - **Jornada (art. 47):** la fija cada Administración; puede ser completa o parcial. Hay medidas de **flexibilización horaria** para quien cuide de hijos **menores de 12 años** o de familiares dependientes.
 - **Teletrabajo (art. 47 bis, añadido por el RDL 29/2020):** prestación de servicios **a distancia**, fuera de las dependencias de la Administración, mediante **TIC**. Debe ser **expresamente autorizado**, es **compatible con la presencialidad**, **voluntario y reversible** (salvo casos excepcionales). Mismos derechos y deberes. La Administración **proporciona y mantiene los medios tecnológicos**.
@@ -187,7 +198,9 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 !!! example "Ejemplo"
     Ingresan a tu madre (1.er grado) para una operación con reposo domiciliario: tienes **5 días hábiles**. Si es tu abuela (2.º grado): **4**. Si te casas: **15 días**. Si te mudas dentro de la misma ciudad: **1 día**.
 
-### Deberes y código de conducta (arts. 52 a 54)
+
+<!-- antes a52 -->
+## Deberes y código de conducta
 
 **Art. 52:** los empleados públicos deben desempeñar con **diligencia** sus tareas y velar por los intereses generales, con sujeción a la Constitución, según los principios de **objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural y medioambiental y respeto a la igualdad entre mujeres y hombres**. Estos principios **informan la interpretación del régimen disciplinario**.
 
@@ -206,9 +219,9 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 | Dedicación al servicio público y **neutralidad** | Atender en la **lengua oficial** que solicite el ciudadano |
 | Guardar **secreto** de las materias clasificadas y **discreción** | |
 
-## Título IV · Acceso y pérdida de la relación de servicio (arts. 55 a 68)
 
-### Principios y requisitos (arts. 55 a 59)
+<!-- antes a55 -->
+## Principios y requisitos
 
 **Principios rectores (art. 55):** los constitucionales de **igualdad, mérito y capacidad** y además: **publicidad** de convocatorias y bases; **transparencia**; **imparcialidad y profesionalidad** de los órganos de selección; **independencia y discrecionalidad técnica** de estos; **adecuación** entre las pruebas y las funciones; y **agilidad**, sin perjuicio de la objetividad.
 
@@ -231,7 +244,9 @@ Pueden exigirse otros requisitos específicos si guardan **relación objetiva y 
 
 **Personas con discapacidad (art. 59):** cupo **no inferior al 7 %** de las vacantes de la oferta, de forma que al menos el **2 %** sea para personas con **discapacidad intelectual**, hasta alcanzar progresivamente el **2 % de los efectivos** de cada Administración. Deben superar el proceso y acreditar la discapacidad y su compatibilidad con las tareas. Se hacen **adaptaciones y ajustes razonables** de tiempos y medios.
 
-### Órganos y sistemas selectivos (arts. 60 a 62)
+
+<!-- antes a60 -->
+## Órganos y sistemas selectivos
 
 - **Órganos de selección (art. 60):** **colegiados**, con **imparcialidad y profesionalidad**, y tendiendo a la **paridad** entre mujeres y hombres. **No pueden formar parte** el personal de elección o designación política, los **interinos** y el **personal eventual**. Se pertenece **a título individual**.
 - **Sistemas selectivos (art. 61):**
@@ -246,7 +261,9 @@ Pueden exigirse otros requisitos específicos si guardan **relación objetiva y 
     3. **Acatamiento** de la Constitución (y del Estatuto de Autonomía, en su caso) y del ordenamiento jurídico.
     4. **Toma de posesión** en plazo.
 
-### Pérdida de la condición de funcionario (arts. 63 a 68)
+
+<!-- antes a63 -->
+## Pérdida de la condición de funcionario
 
 | Causa | Claves |
 | --- | --- |
@@ -258,8 +275,8 @@ Pueden exigirse otros requisitos específicos si guardan **relación objetiva y 
 
 **Rehabilitación (art. 68):** si se perdió por **nacionalidad** o **incapacidad permanente**, al desaparecer la causa **se concede** al pedirla. Si fue por **inhabilitación**, los órganos de gobierno pueden concederla **excepcionalmente**; el **silencio es desestimatorio**.
 
-## Título V · Ordenación de la actividad profesional (arts. 69 a 84)
 
+<!-- antes a69 -->
 - **Planificación (art. 69):** **Planes de ordenación de recursos humanos** con análisis de necesidades, medidas de movilidad, promoción, formación y previsión de incorporaciones.
 - **Oferta de empleo público (art. 70):** recoge las necesidades con asignación presupuestaria que deban cubrirse con **nuevo ingreso**. Obliga a convocar las plazas comprometidas **y hasta un 10 % adicional**. Se aprueba **anualmente**, se **publica** en el diario oficial y su ejecución debe hacerse en el plazo **improrrogable de 3 años**.
 - **Registros de personal (art. 71):** cada Administración tiene el suyo (en la AGE, el **Registro Central de Personal**).
@@ -288,8 +305,8 @@ Los funcionarios del **C1** con la titulación exigida pueden promocionar al **G
 - **Movilidad por violencia de género, sexual o terrorista (art. 82):** derecho a traslado a otro puesto de su cuerpo de análogas características, **sin necesidad de que sea una vacante de necesaria cobertura** (en violencia de género o sexual). Se considera **traslado forzoso**.
 - **Movilidad entre Administraciones (art. 84):** mediante convenios de **Conferencia Sectorial**. Quien obtiene destino en otra Administración queda en situación de **servicio en otras Administraciones Públicas**.
 
-## Título VI · Situaciones administrativas (arts. 85 a 92)
 
+<!-- antes a85 -->
 El art. 85 enumera **cinco**: **servicio activo**, **servicios especiales**, **servicio en otras Administraciones Públicas**, **excedencia** y **suspensión de funciones**. Las leyes de Función Pública pueden crear otras (por ejemplo, la **expectativa de destino** o la **excedencia forzosa**).
 
 | Situación | Cuándo | Efectos |
@@ -313,8 +330,8 @@ El art. 85 enumera **cinco**: **servicio activo**, **servicios especiales**, **s
 !!! warning "Las cifras que más se confunden"
     Excedencia por interés particular: **5 años** de servicios previos. Por cuidado de familiares: hasta **3 años**, con **reserva del puesto 2 años**. Por violencia de género: **reserva 6 meses** (hasta **18**) y **2 meses** cobrando íntegro. Suspensión: pierde el puesto si **supera 6 meses**; la firme disciplinaria, **máximo 6 años**.
 
-## Título VII · Régimen disciplinario (arts. 93 a 98)
 
+<!-- antes a93 -->
 - **Responsabilidad (art. 93):** se aplica a **funcionarios y personal laboral**. Quien **induce** a otro a cometer una falta tiene la misma responsabilidad. También responden quienes **encubren** faltas muy graves o graves consumadas si causan daño grave.
 - **Principios (art. 94):** **legalidad y tipicidad**, **irretroactividad** de lo desfavorable y retroactividad de lo favorable, **proporcionalidad**, **culpabilidad** y **presunción de inocencia**. Si hay **indicios de delito**, se **suspende** el procedimiento y se comunica al **Ministerio Fiscal**. Los hechos probados por sentencia firme **vinculan** a la Administración.
 
@@ -369,11 +386,13 @@ Las faltas prescriben desde que se cometen (o desde que cesan, si son continuada
 - **Separación** entre la fase **instructora** y la **sancionadora** (órganos distintos).
 - **Suspensión provisional:** máximo **6 meses** (salvo paralización imputable al interesado). Durante ella cobra las **retribuciones básicas** y las prestaciones por hijo a cargo. Si se convierte en firme, devuelve lo percibido y el tiempo se abona; si no, se le restituye todo y computa como servicio activo.
 
-## Título VIII · Cooperación (arts. 99 y 100)
 
+<!-- antes a99 -->
 - **Conferencia Sectorial de Administración Pública:** órgano de cooperación entre la AGE, las CC. AA., Ceuta, Melilla y la Administración Local (representada por la **FEMP**).
 - **Comisión de Coordinación del Empleo Público:** órgano **técnico** dependiente de la Conferencia Sectorial; coordina la política de personal e informa los proyectos de legislación básica.
 
+
+<!-- final -->
 ## Disposiciones adicionales que caen
 
 - **DA 1ª:** los arts. **52, 53, 54, 55 y 59** (código de conducta, principios de acceso y discapacidad) se aplican también a las entidades del sector público no incluidas en el art. 2.

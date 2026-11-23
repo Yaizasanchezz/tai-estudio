@@ -2,6 +2,7 @@
 title: Ley 7/1985 · Bases del Régimen Local
 description: La Administración local explicada: entidades que la integran, el municipio (territorio, población, padrón y vecinos), sus órganos y competencias, los servicios mínimos según la población, la provincia, la isla, comarcas, áreas metropolitanas, mancomunidades y municipios de gran población.
 order: 5
+texto: ley-7-1985
 ---
 
 !!! tip "Qué pide el temario"
@@ -14,14 +15,12 @@ order: 5
 - **Art. 141 CE:** la **provincia** es una entidad local con personalidad jurídica propia, determinada por la **agrupación de municipios** y división territorial para los fines del Estado. Su alteración requiere **ley orgánica**. Su gobierno corresponde a las **Diputaciones** u otras corporaciones representativas. En los archipiélagos, las **islas** tienen su propia administración en forma de **Cabildos o Consejos**.
 - **Art. 142 CE:** las Haciendas locales deben disponer de medios suficientes (tributos propios y participación en los del Estado y las CC. AA.).
 
-## Título I · Disposiciones generales (arts. 1 a 10)
 
-### Artículo 1 · Autonomía local
-
+<!-- a1 -->
 Los **municipios** son las **entidades básicas de la organización territorial** del Estado y **cauces inmediatos de participación ciudadana**. La **provincia** y la **isla** gozan de idéntica autonomía para sus intereses.
 
-### Artículo 3 · Entidades locales
 
+<!-- a3 -->
 | Entidades locales **territoriales** | Otras entidades locales |
 | --- | --- |
 | **El Municipio** | **Comarcas** u otras entidades que agrupen varios municipios (las crean las CC. AA.) |
@@ -31,24 +30,28 @@ Los **municipios** son las **entidades básicas de la organización territorial*
 !!! warning "Dato que cae"
     Las entidades locales **territoriales** son **tres**: municipio, provincia e isla. Comarcas, áreas metropolitanas y mancomunidades son entidades locales, pero **no territoriales**.
 
-### Artículo 4 · Potestades
 
+<!-- a4 -->
 A los municipios, provincias e islas les corresponden, entre otras: potestad **reglamentaria y de autoorganización**; **tributaria y financiera**; de **programación o planificación**; **expropiatoria** y de investigación, deslinde y recuperación de oficio de sus bienes; **presunción de legitimidad y ejecutividad** de sus actos; **ejecución forzosa y sancionadora**; **revisión de oficio**; y las prerrogativas de la Hacienda Pública, incluida la **inembargabilidad** de sus bienes.
 
-### Artículos 5 a 10 · Principios
+
+<!-- antes a5 -->
+## Artículos 5 a 10 · Principios
 
 Las entidades locales se rigen por la LBRL, la legislación autonómica y sus propias ordenanzas; sirven con **objetividad** los intereses públicos y actúan según los principios de **eficacia, descentralización, desconcentración y coordinación**. Las relaciones con el Estado y las CC. AA. se basan en la **información mutua, colaboración, coordinación y respeto** a sus ámbitos competenciales.
 
-## Título II · El municipio (arts. 11 a 30)
 
-### Artículos 11 a 14 · Concepto y territorio
+<!-- antes a11 -->
+## Artículos 11 a 14 · Concepto y territorio
 
 - **Elementos del municipio:** **territorio**, **población** y **organización**.
 - **Término municipal:** territorio donde el Ayuntamiento ejerce sus competencias. **Cada municipio pertenece a una sola provincia.**
 - **Creación y supresión de municipios:** según la legislación **autonómica**, con audiencia de los municipios y **dictamen del Consejo de Estado** u órgano consultivo autonómico. Nunca puede alterar los límites provinciales. Solo pueden crearse nuevos municipios sobre **núcleos de población diferenciados de al menos 4.000 habitantes** y financieramente sostenibles.
 - **Fusión:** los municipios **colindantes de la misma provincia** pueden fusionarse por **convenio** aprobado por mayoría simple de cada Pleno; el nuevo municipio no puede segregarse en **10 años** y recibe ventajas de financiación.
 
-### Artículos 15 a 18 · Población, padrón y vecinos
+
+<!-- antes a15 -->
+## Artículos 15 a 18 · Población, padrón y vecinos
 
 - **Obligación de empadronarse (art. 15):** toda persona que viva en España debe inscribirse en el **Padrón del municipio** donde resida habitualmente; quien viva en varios, en el que habite **más tiempo al año**. Los inscritos son la **población** del municipio y tienen la condición de **vecinos**, que se adquiere **en el momento de la inscripción**.
 - **El Padrón (art. 16):** registro administrativo donde constan los vecinos. Sus datos **prueban la residencia y el domicilio habitual**, y sus certificaciones son **documento público y fehaciente** a efectos administrativos. Los **extranjeros no comunitarios sin residencia de larga duración** deben **renovar** su inscripción **cada 2 años** (si no, caduca sin necesidad de audiencia).
@@ -60,7 +63,9 @@ Las entidades locales se rigen por la LBRL, la legislación autonómica y sus pr
 !!! example "Ejemplo"
     Si vives entre semana en Illescas por trabajo y los fines de semana y vacaciones en Alcorcón, debes empadronarte donde pases **más tiempo al año**. El certificado de empadronamiento que descargas en la sede electrónica del Ayuntamiento es un **documento público** que prueba tu domicilio.
 
-### Artículos 19 a 24 bis · Organización municipal (régimen común)
+
+<!-- antes a19 -->
+## Artículos 19 a 24 bis · Organización municipal (régimen común)
 
 El **gobierno y la administración** municipal corresponden al **Ayuntamiento**, formado por el **Alcalde y los Concejales**, salvo en los municipios de **concejo abierto** (donde gobiernan el Alcalde y la **Asamblea vecinal** de todos los electores). Los concejales se eligen por sufragio universal, igual, libre, directo y secreto; el Alcalde, **por los concejales o por los vecinos** según la LOREG.
 
@@ -117,7 +122,9 @@ El **gobierno y la administración** municipal corresponden al **Ayuntamiento**,
 
 **Órganos territoriales (art. 24) y desconcentración (art. 24 bis):** los municipios pueden crear **órganos de gestión desconcentrada** (juntas de distrito) y las CC. AA. pueden regular **entidades de ámbito territorial inferior al municipio** (pedanías, parroquias, concejos).
 
-### Artículos 25 a 28 · Competencias municipales
+
+<!-- antes a25 -->
+## Artículos 25 a 28 · Competencias municipales
 
 **Tres tipos de competencias (art. 7 de la ley):**
 
@@ -149,8 +156,8 @@ En los municipios de **menos de 20.000 habitantes**, la **Diputación coordina**
 
 **Delegación de competencias (art. 27):** el Estado y las CC. AA. pueden delegar en los municipios para mejorar la eficiencia y evitar duplicidades. La delegación fija alcance, condiciones y **duración (mínimo 5 años)**, va con **financiación suficiente** (si no, es **nula**) y requiere la **aceptación del municipio**. Ejemplos de materias delegables: servicios sociales, escuelas infantiles, instalaciones culturales y deportivas, inspección de comercios, turismo, espectáculos, recaudación de tributos, **oficinas unificadas de información y tramitación**.
 
-## Título III · La provincia (arts. 31 a 38)
 
+<!-- antes a31 -->
 - **Concepto (art. 31):** entidad local determinada por la **agrupación de municipios**, con personalidad jurídica propia. Sus fines son garantizar la **solidaridad y el equilibrio intermunicipal**: asegurar la **prestación integral de los servicios municipales** en todo su territorio y participar en la coordinación con la C. A. y el Estado. Su gobierno corresponde a la **Diputación**.
 - **Órganos (art. 32):** en **todas** las Diputaciones hay **Presidente, Vicepresidentes, Junta de Gobierno y Pleno**, además de comisiones informativas.
 - **Pleno (art. 33):** **Presidente y Diputados**. Aprueba la organización, **ordenanzas**, **presupuestos**, **planes provinciales**, plantilla y RPT; controla a los órganos de gobierno; declara la lesividad; vota la moción de censura y la cuestión de confianza del Presidente.
@@ -161,14 +168,14 @@ En los municipios de **menos de 20.000 habitantes**, la **Diputación coordina**
 !!! example "Ejemplo TAI"
     Muchos ayuntamientos pequeños de Toledo usan la **sede electrónica y el registro** que les presta la Diputación Provincial: es una competencia propia de la Diputación para municipios de menos de 20.000 habitantes.
 
-### Diputados provinciales y CC. AA. uniprovinciales
+## Diputados provinciales y CC. AA. uniprovinciales
 
 - Los **diputados provinciales** no se eligen directamente: los designan los **concejales** de cada partido judicial según los resultados municipales (LOREG).
 - En las **CC. AA. uniprovinciales** (Madrid, Asturias, Cantabria, La Rioja, Murcia, Navarra y Baleares en parte) **no hay Diputación**: la Comunidad Autónoma asume sus competencias.
 - En el **País Vasco** existen las **Diputaciones Forales** y las **Juntas Generales** de cada territorio histórico.
 
-## Título IV · Otras entidades locales (arts. 41 a 45)
 
+<!-- antes a41 -->
 | Entidad | Rasgos |
 | --- | --- |
 | **Islas** (art. 41) | Los **Cabildos Insulares** canarios son los órganos de gobierno, administración y representación de cada isla; los **Consejos Insulares** de Baleares. Se rigen supletoriamente por las normas de las Diputaciones y asumen sus competencias |
@@ -177,8 +184,8 @@ En los municipios de **menos de 20.000 habitantes**, la **Diputación coordina**
 | **Mancomunidades** (art. 44) | **Asociaciones voluntarias de municipios** para ejecutar en común **obras y servicios** concretos. Tienen personalidad jurídica y **estatutos propios** que elaboran los concejales de todos los municipios promotores en asamblea, informa la Diputación y aprueban **todos los Plenos**. Pueden incluir municipios de distintas CC. AA. Ejemplo: mancomunidades de recogida de basuras |
 | **Entidades de ámbito territorial inferior al municipio** (art. 24 bis y DT 4ª) | Pedanías, parroquias rurales o concejos: hoy solo como formas de **organización desconcentrada** sin personalidad jurídica, salvo las que ya existían |
 
-## Título V · Régimen de funcionamiento (arts. 46 a 70 ter)
 
+<!-- antes a46 -->
 - **Sesiones del Pleno (art. 46):** **ordinarias** con periodicidad según la población: **cada mes** en municipios de **más de 20.000 habitantes** y en las Diputaciones; **cada 2 meses** en los de **5.001 a 20.000**; **cada 3 meses** en los de **hasta 5.000**. **Extraordinarias** cuando lo decida el Presidente o lo pida **una cuarta parte** del número legal de miembros (sin que nadie pueda pedir más de tres al año). Quórum de constitución: **un tercio** del número legal, y nunca menos de **tres**, con el Presidente y el Secretario presentes durante toda la sesión. Las sesiones son **públicas**.
 - **Mayorías (art. 47):** los acuerdos se adoptan, como regla, por **mayoría simple** de los presentes. Exigen **mayoría absoluta** del número legal de miembros, entre otros: creación y supresión de municipios y alteración de términos, cambio de denominación y capitalidad, aprobación y modificación del **reglamento orgánico**, transferencia de funciones a otras Administraciones, cesión gratuita de bienes, aprobación del planeamiento general y adopción de bandera o escudo.
 - **Ordenanzas (art. 49):** **aprobación inicial** por el Pleno → **información pública y audiencia** durante **30 días** para reclamaciones → resolución de reclamaciones y **aprobación definitiva** por el Pleno (si no hay reclamaciones, el acuerdo inicial se entiende definitivo). Entran en vigor tras publicarse **íntegramente** en el **Boletín Oficial de la Provincia** y transcurrir **15 días hábiles** desde la comunicación al Estado y la C. A. (art. 70.2).
@@ -186,8 +193,8 @@ En los municipios de **menos de 20.000 habitantes**, la **Diputación coordina**
 - **Impugnación por el Estado o la C. A. (arts. 65 a 67):** si un acto local infringe el ordenamiento, el Estado o la C. A. pueden **requerir** a la entidad local (en los **15 días hábiles** siguientes a recibir el acuerdo) que lo anule en un plazo máximo de **1 mes**, e impugnarlo después ante el contencioso; o impugnarlo directamente. Si el acto **atenta gravemente contra el interés general de España**, el **Delegado del Gobierno** requiere su anulación al Presidente de la Corporación (en **10 días**; el Presidente tiene como máximo **5 días**), puede **suspenderlo** en los **10 días** siguientes y debe **impugnarlo** en otros **10 días**.
 - **Participación (arts. 69 a 70 ter):** información a los vecinos, publicidad de las sesiones, **iniciativa popular** (firmada por un porcentaje de vecinos según la población: **20 %** hasta 5.000 habitantes, **15 %** de 5.001 a 20.000 y **10 %** a partir de 20.001), y **consultas populares** sobre asuntos de competencia municipal, que requieren mayoría absoluta del Pleno y **autorización del Gobierno**. Los Ayuntamientos deben impulsar el uso de las **TIC** para la participación y los trámites.
 
-## Título X · Municipios de gran población (arts. 121 a 138)
 
+<!-- antes a121 -->
 **A quién se aplica (art. 121):**
 
 1. Municipios de **más de 250.000 habitantes**.
@@ -206,10 +213,14 @@ Una vez en el régimen, siguen en él **aunque pierdan población**.
 !!! example "Ejemplo"
     **Madrid** tiene además su propio régimen especial (**Ley 22/2006 de Capitalidad y Régimen Especial de Madrid**), y **Barcelona** el suyo (Ley 1/2006). **Alcorcón** se rige por el régimen de gran población desde 2005 por acuerdo de la Asamblea de Madrid.
 
-## Funcionarios con habilitación nacional (art. 92 bis)
+
+<!-- antes a92bis -->
+## Funcionarios con habilitación nacional
 
 Son los funcionarios que ocupan los puestos de **Secretaría, Intervención-Tesorería** en todas las Entidades Locales. Se dividen en tres subescalas: **Secretaría** (fe pública y asesoramiento legal preceptivo), **Intervención-Tesorería** (control y fiscalización interna, contabilidad, tesorería y recaudación) y **Secretaría-Intervención** (ambas funciones en municipios pequeños). Los selecciona el **Estado** (Ministerio de Política Territorial y Función Pública).
 
+
+<!-- final -->
 ## Resumen de cifras
 
 | Qué | Dato |

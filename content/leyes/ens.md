@@ -2,6 +2,7 @@
 title: ENS · Esquema Nacional de Seguridad (RD 311/2022)
 description: Principios básicos, requisitos mínimos, roles, categorización de sistemas, las 73 medidas del anexo II, auditoría, conformidad y respuesta a incidentes, con el vocabulario del CCN.
 order: 12
+texto: ens
 ---
 
 !!! tip "Lo que más cae"
@@ -15,14 +16,18 @@ order: 12
 - **Títulos competenciales:** art. **149.1.18.ª** (bases del régimen jurídico de las AA. PP.), **21.ª** (telecomunicaciones) y **29.ª** (seguridad pública) de la Constitución.
 - **Adecuación:** los sistemas existentes tuvieron **24 meses** para adaptarse (hasta mayo de 2024); los **nuevos** aplican el ENS **desde su concepción**.
 
-## Ámbito de aplicación (art. 2)
+
+<!-- antes a2 -->
+## Ámbito de aplicación
 
 - **Todo el sector público** (art. 2 Ley 40/2015).
 - Los sistemas que tratan **información clasificada** (con medidas complementarias).
 - **Novedad del 2022:** también las **entidades del sector privado** que **presten servicios o provean soluciones** a las entidades públicas, que deben tener **política de seguridad**. Los **pliegos** deben exigir la conformidad con el ENS (declaraciones o certificaciones), también en la **cadena de suministro**.
 - **Datos personales (art. 3):** se aplican además el **RGPD y la LOPDGDD**. **Prevalecen** las medidas derivadas del **análisis de riesgos** y la **EIPD** del RGPD si son más exigentes.
 
-## Los 7 principios básicos (arts. 5 a 11)
+
+<!-- antes a5 -->
+## Los 7 principios básicos
 
 | Principio | Idea clave |
 | --- | --- |
@@ -34,7 +39,9 @@ order: 12
 | **Reevaluación periódica** (art. 10) | **Reevaluar y actualizar** las medidas según evolucionen los riesgos |
 | **Diferenciación de responsabilidades** (art. 11) | Distinguir **responsable de la información, del servicio, de la seguridad y del sistema**. La responsabilidad de la **seguridad** está **separada** de la de la **explotación** |
 
-## Política de seguridad y los 15 requisitos mínimos (art. 12)
+
+<!-- antes a1-4 -->
+## Política de seguridad y los 15 requisitos mínimos
 
 **Política de seguridad:** conjunto de **directrices** que rigen cómo una organización gestiona y protege su información y servicios. Contiene, al menos: **objetivos o misión**, **marco regulatorio**, **roles** de seguridad (deberes, responsabilidades, designación y renovación), **comités** de seguridad, directrices de la **documentación** y los **riesgos derivados del tratamiento de datos personales**.
 
@@ -62,7 +69,9 @@ order: 12
 
 Los requisitos se exigen **en proporción a los riesgos** de cada sistema; alguno puede obviarse en sistemas sin riesgos significativos.
 
-## Los cuatro responsables (arts. 11 y 13)
+
+<!-- antes a1-3 -->
+## Los cuatro responsables
 
 | Rol | Qué hace |
 | --- | --- |
@@ -77,7 +86,9 @@ Los requisitos se exigen **en proporción a los riesgos** de cada sistema; algun
 - En los **servicios externalizados**, el prestador designa un **POC** (Punto o Persona de Contacto) de seguridad, aunque la **responsabilidad última** sigue siendo de la entidad pública.
 - **Valoración y categoría (art. 41):** la **valoración** de cada dimensión la hacen los **responsables de la información y del servicio**; la **determinación de la categoría** del sistema, el **responsable de la seguridad**.
 
-## Categorización de los sistemas (art. 40 y anexo I)
+
+<!-- antes a4-2 -->
+## Categorización de los sistemas
 
 **Las 5 dimensiones de la seguridad:**
 
@@ -108,7 +119,9 @@ La categoría se **reevalúa anualmente** o cuando haya cambios significativos. 
 !!! example "Ejemplo de categorización"
     Un sistema de gestión de nóminas: confidencialidad **MEDIO** (datos económicos), integridad **MEDIO**, trazabilidad **BAJO**, autenticidad **MEDIO**, disponibilidad **BAJO** (puede esperar un día). Ninguna dimensión es ALTO y alguna es MEDIO → **categoría MEDIA**. Necesitará una **auditoría de certificación**, no basta la autoevaluación.
 
-## Las medidas de seguridad (art. 28 y anexo II)
+
+<!-- antes a2-10 -->
+## Las medidas de seguridad
 
 Se dividen en **tres grupos** y suman **73 medidas**:
 
@@ -149,7 +162,9 @@ Se dividen en **tres grupos** y suman **73 medidas**:
 - **Declaración de Aplicabilidad:** documento **firmado por el responsable de la seguridad** con la relación de medidas seleccionadas. Las medidas son **mínimos** ampliables y pueden sustituirse por **medidas compensatorias** justificadas.
 - **Perfiles de cumplimiento específicos (art. 30):** conjuntos de medidas adaptados a colectivos concretos (por ejemplo, para **Entidades Locales** o **universidades**) que publica el CCN.
 
-## Auditoría y conformidad (arts. 31 y 38)
+
+<!-- antes a3-3 -->
+## Auditoría y conformidad
 
 - **Auditoría regular ordinaria:** **al menos cada 2 años** (prorrogable **3 meses** por fuerza mayor). **Extraordinaria** cuando haya **modificaciones sustanciales**, y entonces reinicia el cómputo de los 2 años.
 - El **informe de auditoría** se presenta al **responsable del sistema** y al **responsable de la seguridad**; este lo analiza y propone medidas correctoras al responsable del sistema. En categoría **ALTA**, el responsable del sistema puede **suspender** el servicio hasta subsanar las deficiencias graves.
@@ -162,7 +177,9 @@ Se dividen en **tres grupos** y suman **73 medidas**:
 
 Las declaraciones y certificaciones, con su **distintivo de conformidad**, se **publican** en los portales o sedes.
 
-## Incidentes de seguridad (arts. 25, 33 y 34)
+
+<!-- antes a2-7 -->
+## Incidentes de seguridad
 
 - Cada entidad dispone de **procedimientos de gestión de incidentes**: mecanismos de **detección**, criterios de **clasificación**, análisis y resolución, comunicación y **registro**.
 - **CCN-CERT:** la capacidad de respuesta a incidentes del **Centro Criptológico Nacional** (adscrito al **CNI**), que coordina la respuesta técnica de los **CSIRT** del sector público. Las entidades públicas le **notifican** los incidentes de **impacto significativo**.
@@ -172,6 +189,8 @@ Las declaraciones y certificaciones, con su **distintivo de conformidad**, se **
 - **Operadores de servicios esenciales y proveedores de servicios digitales:** se rigen además por el **RDL 12/2018** (que transpuso la Directiva **NIS**) y el **RD 43/2021**.
 - **Informe del Estado de la Seguridad (art. 32):** lo elabora la **Comisión Sectorial de Administración Electrónica** con la herramienta **INES** del CCN.
 
+
+<!-- final -->
 ## Otros elementos del ENS
 
 - **Guías CCN-STIC:** las series **800** desarrollan el ENS (p. ej., la **CCN-STIC 803** de valoración de sistemas, la **804** de guía de implantación, la **808** de verificación del cumplimiento).

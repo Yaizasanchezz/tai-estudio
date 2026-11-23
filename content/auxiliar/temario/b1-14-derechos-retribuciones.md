@@ -7,7 +7,7 @@ order: 114
 !!! tip "Qué pide el programa"
     Derechos y deberes de los funcionarios · La carrera administrativa · Promoción interna · El sistema de retribuciones e indemnizaciones · Régimen disciplinario · El régimen de la Seguridad Social de los funcionarios.
 
-    **Desarrollo del TREBEP:** [Título III: derechos, deberes y código de conducta]({{base}}leyes/trebep/#título-iii-derechos-deberes-y-código-de-conducta-arts-14-a-54) y [Título VII: régimen disciplinario]({{base}}leyes/trebep/#título-vii-régimen-disciplinario-arts-93-a-98). Aquí tienes lo esencial y lo propio de la AGE.
+    **Desarrollo del TREBEP:** [Título III: derechos, deberes y código de conducta]({{base}}leyes/trebep/#tiii) y [Título VII: régimen disciplinario]({{base}}leyes/trebep/#tvii). Aquí tienes lo esencial y lo propio de la AGE.
 
 ## 1. Derechos (arts. 14 y 15 TREBEP)
 
