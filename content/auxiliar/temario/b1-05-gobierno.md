@@ -44,14 +44,14 @@ Es el **órgano colegiado** del Gobierno (en la práctica, «el Gobierno» que s
 
 **Funciones (art. 5 Ley 50/1997):** aprobar los **proyectos de ley** y remitirlos al Congreso (o al Senado); aprobar el **proyecto de Ley de Presupuestos**; aprobar los **Reales Decretos-leyes** y **Reales Decretos Legislativos**; acordar negociar y firmar **tratados**; declarar los estados de **alarma** y de **excepción** (este, con autorización del Congreso) y proponer el de sitio; disponer la **emisión de deuda pública**; aprobar los **reglamentos** para el desarrollo de las leyes; crear, modificar y suprimir **órganos directivos** de los Ministerios.
 
-**Órganos de colaboración y apoyo:** las **Comisiones Delegadas del Gobierno** (por ejemplo, para Asuntos Económicos), la **Comisión General de Secretarios de Estado y Subsecretarios** (prepara los Consejos de Ministros) y el **Secretariado del Gobierno**; además, los **Gabinetes**.
+Las **Comisiones Delegadas del Gobierno** (por ejemplo, para Asuntos Económicos) son, como el Consejo de Ministros, **órganos colegiados del Gobierno** (arts. 1.3 y 6 Ley 50/1997). **Órganos de colaboración y apoyo:** los **Secretarios de Estado**, la **Comisión General de Secretarios de Estado y Subsecretarios** (prepara los Consejos de Ministros), el **Secretariado del Gobierno** y los **Gabinetes**.
 
 **Formas de las decisiones (art. 24 Ley 50/1997):**
 
 | Forma | Qué aprueba |
 | --- | --- |
 | **Real Decreto Legislativo** y **Real Decreto-ley** | Normas con rango de ley (arts. 82 y 86 CE) |
-| **Real Decreto del Presidente del Gobierno** | Lo que corresponde al Presidente (por ejemplo, la estructura de los Ministerios) |
+| **Real Decreto del Presidente del Gobierno** | Lo que corresponde al Presidente (por ejemplo, **crear, modificar y suprimir Ministerios y Secretarías de Estado**). La estructura interna de cada Ministerio se aprueba por **Real Decreto del Consejo de Ministros** |
 | **Real Decreto acordado en Consejo de Ministros** | Reglamentos y decisiones del Consejo que deban tener esa forma |
 | **Acuerdo del Consejo de Ministros** | Las demás decisiones del Consejo |
 | **Acuerdo de Comisión Delegada** | Toma la forma de **Orden** del Ministro competente o del Ministro de la Presidencia |
@@ -83,7 +83,7 @@ El Gobierno cesante **continúa en funciones** hasta la toma de posesión del nu
 
 Además, el Gobierno se somete a **preguntas, interpelaciones** y comparecencias (arts. 109 a 111).
 
-**Responsabilidad penal (art. 102):** la del Presidente y los demás miembros del Gobierno se exige ante la **Sala de lo Penal del Tribunal Supremo**. Si la acusación es por **traición** o cualquier **delito contra la seguridad del Estado** en el ejercicio de sus funciones, solo puede plantearse a iniciativa de **1/4 de los Diputados** y con la aprobación de la **mayoría absoluta** del Congreso. A estos casos **no se aplica el indulto**.
+**Responsabilidad penal (art. 102):** la del Presidente y los demás miembros del Gobierno se exige ante la **Sala de lo Penal del Tribunal Supremo**. Si la acusación es por **traición** o cualquier **delito contra la seguridad del Estado** en el ejercicio de sus funciones, solo puede plantearse a iniciativa de **1/4 de los Diputados** y con la aprobación de la **mayoría absoluta** del Congreso. La prerrogativa de gracia (indulto) **no se aplica a ninguno** de los supuestos del art. 102 (art. 102.3).
 
 ## 6. Gobierno y Administración (arts. 103 a 106)
 

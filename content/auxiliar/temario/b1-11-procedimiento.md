@@ -78,7 +78,7 @@ Cuando se agota la vía administrativa, el ciudadano puede ir a los **juzgados y
 
 Se puede recurrir contra:
 
-- Las **disposiciones de carácter general** (reglamentos) y los **actos expresos y presuntos** que **pongan fin a la vía administrativa**, sean **definitivos** o de **trámite cualificados** (deciden el fondo, impiden continuar o producen indefensión).
+- Las **disposiciones de carácter general** (reglamentos) y los **actos expresos y presuntos** que **pongan fin a la vía administrativa**, sean **definitivos** o de **trámite cualificados** (deciden directa o indirectamente el fondo, impiden continuar el procedimiento o producen indefensión o **perjuicio irreparable** a derechos o intereses legítimos).
 - La **inactividad** de la Administración (no realizar una prestación concreta a la que está obligada).
 - Las actuaciones materiales en **vía de hecho** (actuar sin cobertura jurídica).
 

@@ -87,7 +87,7 @@ La Corona es **hereditaria** en los sucesores de **S. M. Don Juan Carlos I de Bo
 3. En el mismo grado, el **varón a la mujer**.
 4. En el mismo sexo, la persona de **más edad** a la de menos.
 
-- El heredero tiene el título de **Príncipe o Princesa de Asturias** desde su nacimiento. Hoy es **Leonor de Borbón**, que juró la Constitución ante las Cortes el **31 de octubre de 2023**, al cumplir 18 años.
+- El heredero tiene la dignidad de **Príncipe o Princesa de Asturias** desde su nacimiento **o desde que se produzca el hecho que origine el llamamiento** (art. 57.2). Hoy es **Leonor de Borbón**, que juró la Constitución ante las Cortes el **31 de octubre de 2023**, al cumplir 18 años.
 - Si se extinguen todas las líneas, las **Cortes Generales** proveen a la sucesión.
 - Quienes tengan derecho a la sucesión y se casen **contra la expresa prohibición del Rey y de las Cortes** quedan excluidos, junto con sus descendientes.
 - Las **abdicaciones, renuncias** y dudas sobre la sucesión se resuelven por **ley orgánica** (así se hizo con la abdicación de Juan Carlos I, LO 3/2014; Felipe VI fue proclamado el **19 de junio de 2014**).
@@ -103,7 +103,7 @@ La Corona es **hereditaria** en los sucesores de **S. M. Don Juan Carlos I de Bo
 - Para ser Regente hay que ser **español y mayor de edad**. La Regencia se ejerce **por mandato constitucional y en nombre del Rey**.
 - **Tutor del Rey menor (art. 60):** quien haya designado el **Rey difunto en su testamento** (mayor de edad y español de nacimiento); si no, el **padre o la madre** mientras sigan viudos; si no, lo nombran las **Cortes**. Los cargos de **Regente y tutor no pueden acumularse**, salvo en el padre, la madre o ascendientes directos del Rey.
 
-**Juramento (art. 61):** al ser proclamado ante las Cortes, el Rey jura desempeñar fielmente sus funciones, **guardar y hacer guardar la Constitución y las leyes** y respetar los derechos de los ciudadanos y de las Comunidades Autónomas. Igual jura el Príncipe heredero al alcanzar la mayoría de edad y el Regente al asumir sus funciones.
+**Juramento (art. 61):** al ser proclamado ante las Cortes, el Rey jura desempeñar fielmente sus funciones, **guardar y hacer guardar la Constitución y las leyes** y respetar los derechos de los ciudadanos y de las Comunidades Autónomas. El Príncipe heredero al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones, prestan el mismo juramento **y además el de fidelidad al Rey** (art. 61.2).
 
 ## Resumen
 

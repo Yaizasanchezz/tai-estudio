@@ -44,8 +44,8 @@ Se abre con **Windows + E** o desde su icono (una carpeta amarilla) en la barra 
 
 ### «Este equipo» y «Acceso rápido»
 
-- **Este equipo:** muestra las **unidades** (disco local **C:**, otras particiones, memorias **USB**, unidades de red) con su espacio libre, y las **carpetas del usuario** (**Escritorio, Descargas, Documentos, Imágenes, Música y Vídeos**).
-- **Acceso rápido:** lista de **carpetas ancladas** para llegar a ellas con un clic (Escritorio, Descargas, Documentos e Imágenes por defecto; se pueden **anclar** otras con el botón derecho > **Anclar a Acceso rápido**). En Windows 11 aparece en la página **Inicio** del Explorador, junto a **Favoritos** y **Recientes**.
+- **Este equipo:** muestra las **unidades** (disco local **C:**, otras particiones, memorias **USB**, unidades de red) con su espacio libre. Desde Windows 11 22H2, las **carpetas del usuario** (Escritorio, Descargas, Documentos, Imágenes, Música y Vídeos) **ya no aparecen en Este equipo**: están ancladas en **Acceso rápido**.
+- **Acceso rápido:** lista de **carpetas ancladas** para llegar a ellas con un clic (por defecto, las seis carpetas del usuario: Escritorio, Descargas, Documentos, Imágenes, Música y Vídeos; se pueden **anclar** otras con el botón derecho > **Anclar a Acceso rápido**). En Windows 11 aparece en la página **Inicio** del Explorador, junto a **Favoritos** y **Recientes**.
 
 ### Vistas, ordenar y agrupar
 
@@ -68,7 +68,7 @@ Se abre con **Windows + E** o desde su icono (una carpeta amarilla) en la barra 
 | **Eliminar** | **Supr**: va a la **Papelera de reciclaje** (se puede **restaurar**). **Mayús + Supr**: se elimina **definitivamente**. Lo borrado de memorias USB o unidades de red no pasa por la Papelera |
 | **Propiedades** | **Alt + Intro** o botón derecho > Propiedades (tamaño, ubicación, fechas, atributos **Solo lectura** y **Oculto**) |
 | **Comprimir** | Botón derecho > **Comprimir en archivo ZIP** (las versiones recientes permiten también 7z y TAR); **Extraer todo** para descomprimir |
-| **Abrir con otra aplicación** | Botón derecho > **Abrir con** > **Elegir otra aplicación** (con «Usar siempre» se convierte en la predeterminada). También en Configuración > Aplicaciones > **Aplicaciones predeterminadas** |
+| **Abrir con otra aplicación** | Botón derecho > **Abrir con** > **Elegir otra aplicación** (con el botón **Siempre** se convierte en la predeterminada; **Solo una vez** la usa solo esa vez). También en Configuración > Aplicaciones > **Aplicaciones predeterminadas** |
 | **Crear acceso directo** | Botón derecho > Mostrar más opciones > Crear acceso directo, o arrastrar con **Alt** |
 
 **Arrastrar y soltar:** en la **misma unidad**, **mueve**; a **otra unidad**, **copia**. Con **Ctrl** se fuerza **copiar**, con **Mayús** **mover** y con **Alt** se crea un **acceso directo**.
@@ -95,7 +95,7 @@ Pequeños programas que vienen con Windows:
 | **Reloj** | Alarmas, temporizador, cronómetro y sesiones de concentración |
 | **Mapa de caracteres** | Insertar símbolos especiales |
 | **Conexión a Escritorio remoto** | Controlar otro equipo |
-| **Herramientas de accesibilidad** | **Lupa**, **Narrador**, **Teclado en pantalla**, reconocimiento de voz |
+| **Herramientas de accesibilidad** | **Lupa**, **Narrador**, **Teclado en pantalla** y **Acceso por voz** (sustituye al antiguo Reconocimiento de voz de Windows) |
 
 **WordPad** se eliminó en la versión **24H2** de Windows 11.
 
@@ -128,6 +128,6 @@ Pequeños programas que vienen con Windows:
 | Arrastrar a otra unidad | Copia (en la misma, mueve) |
 | Comodín de varios caracteres | * |
 | Carpetas ancladas | Acceso rápido |
-| Unidades y carpetas del usuario | Este equipo |
+| Unidades del equipo | Este equipo (las carpetas del usuario, en Acceso rápido) |
 | Capturas de pantalla | Recortes (Windows + Mayús + S) |
 | Finalizar un proceso | Administrador de tareas (Ctrl + Mayús + Esc) |

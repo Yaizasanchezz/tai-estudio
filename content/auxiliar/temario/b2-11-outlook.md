@@ -47,7 +47,7 @@ order: 211
 | **Responder a todos** | **Ctrl + Mayús + R** | Contesta al remitente y a **todos los destinatarios** (Para y CC, nunca a los CCO) |
 | **Reenviar** | **Ctrl + F** | Envía el mensaje **a otras personas**, **con sus adjuntos**; el asunto empieza por **RV:** |
 
-**Cambiar de vista:** **Ctrl + 1** Correo, **Ctrl + 2** Calendario, **Ctrl + 3** Contactos, **Ctrl + 4** Tareas.
+**Cambiar de vista:** **Ctrl + 1** Correo, **Ctrl + 2** Calendario, **Ctrl + 3** Contactos, **Ctrl + 4** Tareas (en **Outlook clásico**). Ojo: en el **nuevo Outlook** para Windows algunos atajos cambian (Ctrl + 3 abre Copilot y Ctrl + 4 Personas, y la ayuda en español da Ctrl + D para Responder).
 
 ## 4. Creación de mensajes
 

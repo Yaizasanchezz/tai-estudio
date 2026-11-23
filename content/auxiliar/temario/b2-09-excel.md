@@ -93,7 +93,7 @@ El formato **solo cambia cómo se ve**: el valor real sigue siendo 0,758.
 | **Fecha y hora** | **HOY**, **AHORA**, FECHA, **AÑO**, **MES**, **DIA**, DIASEM, DIAS, DIAS.LAB, SIFECHA | Trabajar con fechas |
 | **Información** | ESBLANCO, ESNUMERO, **ESTEXTO**, ESERROR | Comprobar el tipo de contenido |
 | **Matrices dinámicas** (365) | **FILTRAR**, **ORDENAR**, ORDENARPOR, **UNICOS**, SECUENCIA, LET | Devuelven **varios resultados** que se «desbordan» a las celdas vecinas |
-| **Expresiones regulares** (365, nuevas) | **REGEXPRUEBA** (comprueba si el texto coincide con un **patrón**: VERDADERO/FALSO), REGEXEXTRAER, REGEXREEMPLAZAR | Trabajar con patrones de texto |
+| **Expresiones regulares** (365, nuevas) | **REGEXPRUEBA** (comprueba si el texto coincide con un **patrón**: VERDADERO/FALSO), **REGEXREEMPLAZAR** y la de **extraer** (REGEXEXTRACT en inglés; comprueba su nombre en tu Excel escribiendo =REGEX) | Trabajar con patrones de texto |
 
 **Ejemplos:**
 
@@ -141,7 +141,7 @@ El formato **solo cambia cómo se ve**: el valor real sigue siendo 0,758.
 | **F4** | Referencia absoluta / repetir | **Ctrl + Mayús + L** | **Filtros** |
 | **Alt + Intro** | Salto de línea en la celda | **Alt + F1** / **F11** | Gráfico incrustado / en hoja nueva |
 | **Ctrl + Inicio** | Ir a **A1** | **Mayús + F11** | Nueva hoja |
-| **Ctrl + Fin** | Última celda con datos | **Ctrl + Av Pág / Re Pág** | Hoja siguiente / anterior |
+| **Ctrl + Fin** | Última celda **usada** de la hoja (última fila y última columna usadas) | **Ctrl + Av Pág / Re Pág** | Hoja siguiente / anterior |
 | **Ctrl + flechas** | Ir al extremo de los datos | **Ctrl + Alt + V** | Pegado especial |
 | **Ctrl + N / K / S** | Negrita / cursiva / subrayado (en español) | **Ctrl + G** | Guardar (en español) |
 | **F9** | Recalcular | **Mayús + F3** | Insertar función |

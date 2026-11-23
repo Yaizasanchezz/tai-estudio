@@ -61,7 +61,7 @@ A estos principios se suman la **innovación pública** y el uso de la **tecnolo
 !!! tip "El ODS del Gobierno Abierto"
     El **ODS 16** (paz, justicia e instituciones sólidas) es el que conecta con este tema: incluye metas sobre **instituciones eficaces y transparentes que rindan cuentas**, **acceso público a la información** y **reducción de la corrupción**.
 
-**En España:** el **Plan de Acción para la Implementación de la Agenda 2030** (2018) y la **Estrategia de Desarrollo Sostenible 2030** (aprobada en 2021). La coordinación corresponde al Ministerio con competencias en **Agenda 2030** (hoy, Derechos Sociales, Consumo y Agenda 2030). Cada año se presenta ante la ONU un informe de progreso.
+**En España:** el **Plan de Acción para la Implementación de la Agenda 2030** (2018) y la **Estrategia de Desarrollo Sostenible 2030** (aprobada en 2021). La coordinación corresponde al Ministerio con competencias en **Agenda 2030** (hoy, Derechos Sociales, Consumo y Agenda 2030). El Gobierno elabora cada año un **Informe de Progreso**; ante la ONU (Foro Político de Alto Nivel) España presenta **Exámenes Nacionales Voluntarios**, que no son anuales (2018, 2021 y 2024).
 
 ## Resumen
 

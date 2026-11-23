@@ -102,7 +102,7 @@
     "Este equipo."
    ],
    "correcta": 3,
-   "explicacion": "**Este equipo** muestra las unidades y las carpetas del usuario; **Acceso rápido**, las carpetas **ancladas**."
+   "explicacion": "**Este equipo** muestra las unidades (desde Windows 11 22H2, las carpetas del usuario están en **Acceso rápido**); **Acceso rápido**, las carpetas **ancladas**."
   },
   {
    "id": "o009",
@@ -414,7 +414,7 @@
     "Comprueba si una fórmula tiene errores."
    ],
    "correcta": 1,
-   "explicacion": "Es una de las funciones de **expresiones regulares** recientes de Excel 365: **REGEXPRUEBA** (comprobar), **REGEXEXTRAER** (extraer) y **REGEXREEMPLAZAR** (reemplazar)."
+   "explicacion": "Es una de las funciones de **expresiones regulares** recientes de Excel 365: **REGEXPRUEBA** (comprobar), la de **extraer** (REGEXEXTRACT en inglés) y **REGEXREEMPLAZAR** (reemplazar)."
   },
   {
    "id": "o033",

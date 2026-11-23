@@ -11,7 +11,7 @@ order: 107
 
 ## 1. Estructura y objeto
 
-La ley tiene **tres títulos**: **I. Transparencia** (publicidad activa y derecho de acceso), **II. Buen gobierno** y **III. Consejo de Transparencia y Buen Gobierno**. Su objeto (art. 1) es **ampliar y reforzar la transparencia** de la actividad pública, **regular y garantizar el derecho de acceso** a la información y establecer las **obligaciones de buen gobierno** de los responsables públicos.
+La ley tiene un **Título preliminar** (objeto, art. 1) y **tres títulos**: **I. Transparencia de la actividad pública** (publicidad activa y derecho de acceso), **II. Buen gobierno** y **III. Consejo de Transparencia y Buen Gobierno**. Su objeto (art. 1) es **ampliar y reforzar la transparencia** de la actividad pública, **regular y garantizar el derecho de acceso** a la información y establecer las **obligaciones de buen gobierno** de los responsables públicos.
 
 ## 2. A quién obliga
 

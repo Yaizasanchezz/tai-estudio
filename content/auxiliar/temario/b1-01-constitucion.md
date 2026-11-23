@@ -97,7 +97,7 @@ Los **deberes** que recoge la Constitución: defender España (30), contribuir a
 | Derechos | Qué protección tienen |
 | --- | --- |
 | **Todo el Capítulo II** (arts. 14 a 38) | Vinculan a **todos los poderes públicos**; solo por **ley** (que respete su **contenido esencial**) puede regularse su ejercicio; protección por el **recurso de inconstitucionalidad** (art. 53.1) |
-| **Art. 14 + Sección 1ª + objeción de conciencia (art. 30.2)** | Además: **procedimiento preferente y sumario** ante los tribunales ordinarios y **recurso de amparo** ante el Tribunal Constitucional (art. 53.2). Su desarrollo exige **ley orgánica** (art. 81) |
+| **Art. 14 + Sección 1ª + objeción de conciencia (art. 30.2)** | Además: **procedimiento preferente y sumario** ante los tribunales ordinarios y **recurso de amparo** ante el Tribunal Constitucional (art. 53.2). El desarrollo de los derechos de la **Sección 1ª** exige **ley orgánica** (art. 81); el art. 14 y la objeción de conciencia no entran en esa reserva |
 | **Capítulo III** (principios rectores) | Informan la legislación, la práctica judicial y la actuación de los poderes públicos; solo se pueden **alegar ante la jurisdicción ordinaria** según las leyes que los desarrollen (art. 53.3) |
 
 **Art. 54:** el **Defensor del Pueblo**, alto comisionado de las Cortes Generales, defiende los derechos del Título I supervisando a la Administración (lo ves en el [tema 3]({{base}}auxiliar/temario/b1-03-cortes-defensor/)).

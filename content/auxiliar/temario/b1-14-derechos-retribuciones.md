@@ -97,7 +97,7 @@ Las cuantías se fijan cada año en la **Ley de Presupuestos Generales del Estad
 | --- | --- |
 | **Separación del servicio** | Solo **muy graves** (funcionarios) |
 | **Despido disciplinario** | Solo muy graves (personal laboral) |
-| **Suspensión firme de funciones** | Máximo **6 años**. En la AGE: muy graves, de **más de 3 hasta 6 años**; graves, **hasta 3 años** |
+| **Suspensión firme de funciones** | Máximo **6 años**. En la AGE: muy graves, **de 3 a 6 años** (no inferior a tres ni superior a seis); graves, **hasta 3 años** |
 | **Traslado forzoso** con o sin cambio de localidad | Muy graves o graves; impide volver a la localidad de origen un tiempo |
 | **Demérito** | Penalización en la carrera |
 | **Apercibimiento** | **Leves** |

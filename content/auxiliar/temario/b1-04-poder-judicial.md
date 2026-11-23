@@ -50,13 +50,13 @@ Los **órdenes jurisdiccionales** son cuatro: **civil**, **penal**, **contencios
 | **Total** | **20 vocales + Presidente** | Nombrados por el **Rey** por **5 años**; no pueden ser reelegidos |
 
 !!! example "Actualidad"
-    El CGPJ estuvo más de cinco años **en funciones** (2018–2024) por falta de acuerdo en las Cortes. Se renovó en **julio de 2024**, tras la reforma de la LOPJ por la **LO 3/2024**, y en septiembre de 2024 eligió presidenta a **Isabel Perelló**, la primera mujer al frente del Tribunal Supremo y del CGPJ. Esa reforma también le encargó proponer un nuevo sistema de elección de los vocales judiciales.
+    El CGPJ estuvo más de cinco años **en funciones** (2018–2024) por falta de acuerdo en las Cortes. Se renovó en **julio de 2024** (los vocales tomaron posesión el 25 de julio), en el mismo acuerdo que dio lugar a la reforma de la LOPJ por la **LO 3/2024, de 2 de agosto**, y en septiembre de 2024 eligió presidenta a **Isabel Perelló**, la primera mujer al frente del Tribunal Supremo y del CGPJ. Esa reforma también le encargó proponer un nuevo sistema de elección de los vocales judiciales.
 
 ### Organización
 
 - **Presidente**, **Vicepresidente** (que lo es también del Tribunal Supremo) y **Secretario General**.
 - **Pleno:** todos los miembros. Elige al Presidente, propone los nombramientos de mayor nivel (Presidente del TS, magistrados del TS, presidentes de Tribunales Superiores y Audiencias…), propone a los **dos magistrados del TC** que le corresponden y aprueba los reglamentos.
-- **Comisión Permanente**, **Comisión Disciplinaria**, **Comisión de Igualdad** y **Comisión de Asuntos Económicos**; la LO 3/2024 añadió una **Comisión de Calificación**.
+- **Comisión Permanente**, **de Calificación** (añadida por la LO 3/2024), **Disciplinaria**, **de Asuntos Económicos**, **de Igualdad** y **de Supervisión y Control de Protección de Datos** (añadida por la LO 1/2025).
 - Órganos técnicos: el **Promotor de la Acción Disciplinaria**, el **Servicio de Inspección**, el **Gabinete Técnico**, la **Escuela Judicial** y el **Centro de Documentación Judicial (CENDOJ)**, que publica la jurisprudencia.
 
 ## 3. El Tribunal Supremo
@@ -85,7 +85,7 @@ El Estado se organiza territorialmente, a efectos judiciales, en **municipios, p
 | **Tribunales Superiores de Justicia** | **Cada Comunidad Autónoma** | **Culminan la organización judicial** en su territorio (art. 152 CE). Salas de lo **Civil y Penal**, **Contencioso-administrativo** y **Social** |
 | **Audiencias Provinciales** | **Cada provincia** (sede en la capital) | Orden **civil** y **penal**: sobre todo recursos de apelación y enjuiciamiento de delitos graves |
 | **Tribunales de Instancia** | **Cada partido judicial** (sede en su capital) | Sustituyen a los antiguos **juzgados unipersonales**, que pasan a ser **secciones**: civil, instrucción (o sección única civil y de instrucción), familia, mercantil, **violencia sobre la mujer**, penal, contencioso-administrativo, social, menores, vigilancia penitenciaria… |
-| **Jueces de paz** | **Municipios** sin Tribunal de Instancia | Asuntos civiles de muy escasa cuantía y actos de conciliación. Les asisten las nuevas **Oficinas de Justicia en los municipios**, que además acercan trámites de justicia a los vecinos |
+| **Jueces de paz** | **Municipios** sin Tribunal de Instancia | En lo **civil**, los procesos de muy escasa cuantía que fije la ley y actos de conciliación; en lo **penal**, los procesos por **delito leve** que les atribuya la ley (art. 100 LOPJ, redacción LO 1/2025). Les asisten las nuevas **Oficinas de Justicia en los municipios**, que además acercan trámites de justicia a los vecinos |
 
 **Calendario de los Tribunales de Instancia (LO 1/2025):** se implantaron en tres fases: **1 de julio de 2025**, **1 de octubre de 2025** y **31 de diciembre de 2025**. Desde entonces ya no existen los «Juzgados de Primera Instancia n.º 3»: existe la **Sección Civil del Tribunal de Instancia**, con sus plazas. Cada Tribunal de Instancia tiene una **Oficina Judicial** de apoyo, dirigida por los **Letrados de la Administración de Justicia**.
 

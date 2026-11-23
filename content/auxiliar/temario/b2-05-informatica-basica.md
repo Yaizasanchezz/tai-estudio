@@ -78,7 +78,7 @@ La velocidad se mide en **GHz**; los procesadores actuales tienen **varios núcl
 | **De aplicación** | Para que el usuario haga tareas | Word, Excel, Access, Outlook, navegadores |
 | **De programación** | Para crear programas | Editores, compiladores, lenguajes (Java, Python…) |
 
-**Según su licencia:** **propietario** (de pago, con código cerrado: Windows, Microsoft 365), **libre** (se puede usar, estudiar, modificar y distribuir: Linux, LibreOffice, Firefox), **de código abierto** (*open source*), **freeware** (gratuito pero cerrado) y **shareware** (prueba limitada).
+**Según su licencia:** **propietario** (código cerrado y uso limitado por la licencia del fabricante, sea de pago o gratuito: Windows, Microsoft 365), **libre** (se puede usar, estudiar, modificar y distribuir: Linux, LibreOffice, Firefox), **de código abierto** (*open source*), **freeware** (gratuito pero cerrado) y **shareware** (prueba limitada).
 
 **Ofimática:** programas para el trabajo de oficina: procesador de textos (**Word**), hoja de cálculo (**Excel**), base de datos (**Access**), presentaciones (**PowerPoint**) y correo (**Outlook**). **Microsoft 365** es la suscripción que los incluye junto a servicios en la nube (**OneDrive**, **Teams**, **SharePoint**, **To Do**, **Copilot**…).
 
@@ -151,7 +151,7 @@ La regla **3-2-1**: **3** copias, en **2** soportes distintos y **1** fuera de l
 
 - **Antivirus** (en Windows 11, **Microsoft Defender**) y **cortafuegos** (*firewall*).
 - **Actualizar** el sistema y los programas (Windows Update).
-- **Contraseñas robustas** (largas, con mayúsculas, minúsculas, números y símbolos; distintas para cada servicio) y **autenticación multifactor** (algo que sabes + algo que tienes + algo que eres).
+- **Contraseñas robustas** (largas, con mayúsculas, minúsculas, números y símbolos; distintas para cada servicio) y **autenticación multifactor** (combinar **dos o más** factores de tipos distintos: algo que sabes, algo que tienes, algo que eres).
 - **Copias de seguridad** periódicas.
 - **Cifrado** de discos (**BitLocker** en Windows) y conexiones seguras (**HTTPS**, **VPN**).
 - **Desconfiar** de adjuntos y enlaces inesperados; **bloquear el equipo** al levantarse (**Windows + L**).

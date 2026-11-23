@@ -85,7 +85,7 @@ order: 103
 | **Requisitos** | **Español mayor de edad** en pleno disfrute de sus derechos civiles y políticos |
 | **Adjuntos** | **Dos**: Adjunto Primero y Adjunto Segundo, en quienes puede delegar |
 | **Estatuto** | No está sujeto a **mandato imperativo** ni recibe instrucciones; es **inviolable** y goza de inmunidad; aforado ante el **Tribunal Supremo** |
-| **Cese** | Renuncia, expiración del mandato, muerte o incapacidad sobrevenida, **negligencia notoria** o condena por delito doloso (estos dos últimos, por **3/5** de cada Cámara) |
+| **Cese** | Renuncia, expiración del mandato, muerte, incapacidad sobrevenida, **negligencia notoria** o condena firme por delito doloso. Muerte, renuncia y expiración: declara la vacante el **Presidente del Congreso**; incapacidad sobrevenida, negligencia notoria y condena: **3/5 de cada Cámara**, con debate y audiencia del interesado (art. 5 LO 3/1981) |
 | **Quién puede presentar quejas** | **Toda persona natural o jurídica** que invoque un interés legítimo, **sin restricción** por nacionalidad, residencia, sexo, minoría de edad, incapacidad, internamiento o relación de dependencia con la Administración. También diputados, senadores y comisiones parlamentarias |
 | **Cómo** | Por escrito razonado, firmado, con nombre, apellidos y domicilio, en el plazo de **1 año** desde que se conocen los hechos. Es **gratuito** y **no necesita abogado ni procurador** |
 | **Qué puede hacer** | Investigar, hacer **recomendaciones, advertencias y sugerencias** (no anula actos), interponer **recursos de inconstitucionalidad y de amparo** y presentar a las Cortes un **informe anual** (y extraordinarios cuando haga falta) |

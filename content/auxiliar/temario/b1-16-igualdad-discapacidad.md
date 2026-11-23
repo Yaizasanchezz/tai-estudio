@@ -52,13 +52,13 @@ En el empleo público, el TREBEP incluye la **orientación e identidad sexual, l
 
 ## 4. Discapacidad
 
-**Art. 49 CE (reformado el 17 de febrero de 2024):** las **personas con discapacidad** ejercen los derechos del Título I en condiciones de **libertad e igualdad reales y efectivas**; los poderes públicos impulsan su **autonomía personal** e **inclusión social** con **accesibilidad universal**, y atienden particularmente las necesidades específicas de las **mujeres y los menores** con discapacidad.
+**Art. 49 CE** (Reforma **de 15 de febrero de 2024**, publicada y en vigor el **17 de febrero**): las **personas con discapacidad** ejercen los derechos del Título I en condiciones de **libertad e igualdad reales y efectivas**; los poderes públicos impulsan su **autonomía personal** e **inclusión social** con **accesibilidad universal**, y atienden particularmente las necesidades específicas de las **mujeres y los menores** con discapacidad.
 
 **Real Decreto Legislativo 1/2013, Ley General de derechos de las personas con discapacidad y de su inclusión social:**
 
-- Se considera persona con discapacidad, a todos los efectos, a quien tiene reconocido un grado de discapacidad **igual o superior al 33 %**.
+- Además de la definición general (art. 4.1), se considera persona con discapacidad, **a los efectos de esta ley**, a quien tiene reconocido un grado de discapacidad **igual o superior al 33 %**. Desde la **Ley 4/2026**, la dependencia de **grado I** se asimila a un **33 %** y la de **grados II y III** a un **65 %**, solo en los ámbitos que prevea la ley (no en el tributario).
 - **Principios:** dignidad, **vida independiente**, no discriminación, igualdad de oportunidades, **normalización**, **accesibilidad universal**, **diseño universal**, participación, **diálogo civil** y **transversalidad**.
-- **Conceptos clave:** **inclusión social** (la sociedad da a todas las personas con discapacidad las **oportunidades y recursos** para participar plenamente), **accesibilidad universal** (entornos y servicios utilizables por todas las personas), **diseño universal** (pensar desde el origen para todos) y **ajustes razonables** (adaptaciones para un caso concreto sin carga desproporcionada).
+- **Conceptos clave:** **inclusión** (desde la Ley 4/2026: proceso o estado irrenunciable que asegura, desde la valoración positiva de la diversidad humana, la **presencia, participación y progreso plenos** de todas las personas en todas las esferas de la vida, incompatible con la segregación o la exclusión), **accesibilidad universal** (entornos y servicios utilizables por todas las personas), **diseño universal** (pensar desde el origen para todos) y **ajustes razonables** (adaptaciones para un caso concreto sin carga desproporcionada).
 - **Empleo:** reserva del **2 %** en empresas de **50 o más** trabajadores; en el empleo público, cupo de al menos el **7 %** (2 % para discapacidad intelectual).
 - **Infracciones:** leves, graves y muy graves (por ejemplo, es **muy grave** generar **deliberadamente un grave perjuicio económico o profesional**). Multas de **301 € a 1.000.000 €**.
 
@@ -66,17 +66,17 @@ En el empleo público, el TREBEP incluye la **orientación e identidad sexual, l
 
 **Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia:**
 
-- **Dependencia:** estado de carácter **permanente** en que se encuentran quienes, por razones de edad, enfermedad o discapacidad, necesitan la ayuda de otras personas para las **actividades básicas de la vida diaria**.
+- **Dependencia:** estado de carácter **permanente** en el que las personas, por dificultades que afectan a su autonomía, precisan **cuidados y apoyos** de otras personas o ayudas importantes para realizar **actividades de la vida diaria** (la Ley 4/2026 eliminó el adjetivo «básicas»). Puede estar asociada a la edad, la discapacidad o la enfermedad, y originarse o agravarse por factores sociales o contextuales.
 - Crea el **Sistema para la Autonomía y Atención a la Dependencia (SAAD)**, con tres niveles de protección: **mínimo** (lo financia el Estado), **acordado** (Estado y CC. AA.) y **adicional** (CC. AA.).
 - **Grados (art. 26):**
 
 | Grado | Nombre | Necesita ayuda… |
 | --- | --- | --- |
-| **I** | Dependencia **moderada** | Para varias actividades básicas **al menos una vez al día** |
+| **I** | Dependencia **moderada** | Para varias actividades de la vida diaria **al menos una vez al día** (o apoyo intermitente o limitado) |
 | **II** | Dependencia **severa** | **Dos o tres veces al día**, sin apoyo permanente |
 | **III** | **Gran dependencia** | **Varias veces al día** y apoyo **indispensable y continuo** |
 
-- **Prestaciones:** **servicios** (prevención, **teleasistencia**, **ayuda a domicilio**, centros de día y de noche, atención residencial) y **prestaciones económicas** (vinculada al servicio, para **cuidados en el entorno familiar** y de **asistencia personal**). Los servicios tienen prioridad.
+- **Prestaciones:** **servicios** (prevención, promoción de la autonomía personal, **teleasistencia**, **ayuda a domicilio**, **asistencia personal**, centros de día y de noche, **cuidados y apoyos en viviendas**, atención residencial y **productos de apoyo**; catálogo ampliado por la Ley 4/2026) y **prestaciones económicas** (vinculada al servicio, para **cuidados en el entorno familiar** y para el servicio de **asistencia personal**). Los servicios tienen prioridad.
 - **Titulares:** españoles con residencia en España de **5 años**, **2** de ellos inmediatamente anteriores a la solicitud.
 - El grado se **revisa** a instancia del interesado o de oficio por mejoría, empeoramiento o error.
 
@@ -90,5 +90,5 @@ En el empleo público, el TREBEP incluye la **orientación e identidad sexual, l
 | Rectificación registral del sexo | Desde los 16 años por solicitud (Ley 4/2023) |
 | Autoridad de igualdad de trato | Creada por la Ley 15/2022 |
 | Discapacidad reconocida | ≥ 33 % |
-| Reforma del art. 49 CE | 17-2-2024 |
+| Reforma del art. 49 CE | De 15-2-2024 (BOE y vigor: 17-2-2024) |
 | Grados de dependencia | I moderada, II severa, III gran dependencia |

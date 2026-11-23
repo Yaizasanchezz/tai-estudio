@@ -123,7 +123,7 @@ Los puestos se proveen mediante procedimientos basados en los principios de **ig
 | **Excedencia por cuidado de familiares** (art. 89.4) | Cuidar a cada **hijo** (hasta los 3 años) o a un **familiar** hasta el segundo grado que no pueda valerse por sí mismo (máximo **3 años**) | **Computa** a efectos de trienios, carrera y derechos pasivos. Reserva del **mismo puesto** durante **2 años**; después, de un puesto en la misma localidad y retribución |
 | **Excedencia por razón de violencia de género** o violencia sexual (art. 89.5) | Para hacer efectiva su protección | Sin necesidad de servicios previos ni plazo de permanencia. Reserva del puesto los **6 primeros meses** (ampliables a 18). Cobran las retribuciones íntegras los **2 primeros meses** |
 | **Excedencia por violencia terrorista** (art. 89.6) | Víctimas de terrorismo y familiares | Condiciones similares a la anterior |
-| **Suspensión de funciones** (art. 90) | **Provisional** (durante un expediente o procedimiento penal) o **firme** (por sanción o sentencia) | Privado del ejercicio de funciones y derechos. La **firme** no puede superar **6 años**. Si supera **6 meses**, se **pierde el puesto** |
+| **Suspensión de funciones** (art. 90) | **Provisional** (durante un expediente o procedimiento penal) o **firme** (por sanción o sentencia) | Privado del ejercicio de funciones y derechos. La **firme por sanción disciplinaria** no puede superar **6 años** (la impuesta por sentencia penal dura lo que fije la condena). Si supera **6 meses**, se **pierde el puesto** |
 
 En la AGE, el RD 365/1995 añade la **expectativa de destino** (funcionarios afectados por planes de empleo, durante 1 año) y la **excedencia forzosa**.
 
@@ -142,4 +142,4 @@ En la AGE, el RD 365/1995 añade la **expectativa de destino** (funcionarios afe
 | No pueden ser tribunal | Personal de elección política, interinos y eventuales |
 | Sistema normal de provisión | Concurso |
 | Excedencia por interés particular | 5 años de servicios previos |
-| Suspensión firme | Máximo 6 años; pierde el puesto si supera 6 meses |
+| Suspensión firme | Por sanción disciplinaria, máximo 6 años; pierde el puesto si supera 6 meses |

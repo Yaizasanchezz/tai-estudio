@@ -42,7 +42,7 @@ order: 208
 
 **Formato de párrafo:** **alineación** (izquierda, centrada, derecha, justificada), **sangrías** (izquierda, derecha, primera línea, francesa), **interlineado** (sencillo, 1,5, doble…) y espaciado anterior y posterior, **viñetas y numeración**, **bordes y sombreado**, **tabulaciones** (izquierda, centrada, derecha, decimal, barra).
 
-**Copiar formato** (la brocha, **Ctrl + Mayús + C** / **Ctrl + Mayús + V**): aplica el formato de un texto a otro. Doble clic en la brocha para aplicarlo varias veces.
+**Copiar formato** (la brocha; con teclado, **Ctrl + Mayús + C** / **Ctrl + Mayús + V**, aunque la ayuda de Microsoft en español indica **Ctrl + Alt + C** / **Ctrl + Alt + V**: pruébalo en tu Word): aplica el formato de un texto a otro. Doble clic en la brocha para aplicarlo varias veces.
 
 **Estilos:** conjuntos de formato con nombre (**Normal**, **Título 1**, **Título 2**…). Son la clave para estructurar bien un documento: permiten el **panel de navegación**, la **tabla de contenido automática** y la **accesibilidad**.
 

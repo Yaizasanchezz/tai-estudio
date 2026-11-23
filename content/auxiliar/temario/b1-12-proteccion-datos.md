@@ -74,7 +74,7 @@ La LOPDGDD añade el **deber de confidencialidad** de todos los que intervienen 
 | **Evaluación de impacto (EIPD)** | Cuando el tratamiento suponga un **alto riesgo** |
 | **Delegado de Protección de Datos (DPD)** | **Obligatorio** para las **autoridades y organismos públicos**; su nombramiento se comunica a la AEPD en **10 días** |
 
-**Sanciones:** las multas del RGPD llegan hasta **20 millones de euros o el 4 %** de la facturación mundial. A las **Administraciones Públicas** no se les imponen multas: se les dirige un **apercibimiento** y se pueden proponer actuaciones disciplinarias (art. 77 LOPDGDD).
+**Sanciones:** las multas del RGPD llegan hasta **20 millones de euros o el 4 %** de la facturación mundial. A las **Administraciones Públicas** no se les imponen multas: la autoridad dicta resolución **declarando la infracción** y fijando las **medidas** para que cese o se corrija, y puede proponer actuaciones disciplinarias (art. 77 LOPDGDD; desde la Ley 11/2023 ya no se habla de «apercibimiento»).
 
 **Derechos digitales (Título X LOPDGDD):** neutralidad de Internet, acceso universal, seguridad digital, educación digital, **desconexión digital** de los trabajadores, intimidad frente a la **videovigilancia** y la **geolocalización** en el trabajo, **testamento digital**, derecho al olvido en buscadores y redes sociales…
 
@@ -87,4 +87,4 @@ La LOPDGDD añade el **deber de confidencialidad** de todos los que intervienen 
 | Plazo para responder a un derecho | 1 mes (+2) |
 | Notificar una brecha | 72 horas |
 | DPD en la Administración | Obligatorio |
-| Multas a las Administraciones | No: apercibimiento |
+| Multas a las Administraciones | No: resolución que declara la infracción y fija medidas correctoras |

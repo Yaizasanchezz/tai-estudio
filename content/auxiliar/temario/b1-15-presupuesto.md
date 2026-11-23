@@ -11,7 +11,7 @@ order: 115
 
 ## 1. Qué son los Presupuestos Generales del Estado
 
-**Art. 32 LGP:** los PGE son la **expresión cifrada, conjunta y sistemática** de los **derechos** (ingresos) que se prevé liquidar y de las **obligaciones** (gastos) que como máximo se pueden reconocer durante el ejercicio por el sector público estatal.
+**Art. 32 LGP:** los PGE constituyen la **expresión cifrada, conjunta y sistemática de los derechos y obligaciones a liquidar durante el ejercicio** por cada uno de los órganos y entidades que forman parte del **sector público estatal**. (Que los gastos son un **máximo** lo dice el art. 33.2.a: las obligaciones que, **como máximo**, pueden reconocerse.)
 
 Dicho de otra forma: los **gastos** son un **límite máximo** (no se puede gastar más de lo autorizado), mientras que los **ingresos** son una **previsión** (se pueden recaudar más o menos).
 
@@ -69,14 +69,14 @@ Políticas de Gasto)
 
 ## 4. La estructura (arts. 39 a 41 LGP)
 
-Cada gasto se puede leer de cuatro maneras:
+El art. 40 LGP estructura los gastos con tres clasificaciones (**orgánica**, **por programas** y **económica**) y además los identifica **funcionalmente**; la distribución **territorial** solo aparece en el anexo de inversiones reales:
 
 | Clasificación | Responde a… | Cómo se divide |
 | --- | --- | --- |
 | **Orgánica** | **¿Quién** gasta? | Secciones (Ministerios, órganos constitucionales…) y servicios o centros gestores |
-| **Por programas** (funcional) | **¿Para qué** se gasta? | Áreas de gasto → políticas de gasto → grupos de programas → **programas** |
+| **Por programas** (y su identificación funcional, art. 40.2) | **¿Para qué** se gasta? | Áreas de gasto → políticas de gasto → grupos de programas → **programas** |
 | **Económica** | **¿En qué** se gasta? | **Capítulos**, artículos, conceptos y subconceptos |
-| **Territorial** | **¿Dónde?** | Solo para las **inversiones** reales (por Comunidad y provincia) |
+| Territorialización (no es una clasificación de la LGP) | **¿Dónde?** | Solo en el anexo de **inversiones** reales (por Comunidad y provincia) |
 
 **Clasificación económica:**
 
@@ -92,7 +92,7 @@ Cada gasto se puede leer de cuatro maneras:
 | 8 | **Activos financieros** | **Activos financieros** |
 | 9 | **Pasivos financieros** (amortización de deuda) | **Pasivos financieros** (nueva deuda) |
 
-- Capítulos **1 a 5** de gastos (1 a 5 de ingresos): **operaciones corrientes**. Capítulos **6 y 7**: **operaciones de capital**. Juntos, **operaciones no financieras**. Capítulos **8 y 9**: **operaciones financieras**.
+- Capítulos **1 a 4** de gastos (1 a 5 de ingresos): **operaciones corrientes**; el **5** de gastos es el **Fondo de Contingencia**, que la LGP agrupa aparte (art. 40.1.c). Capítulos **6 y 7**: **operaciones de capital**. Juntos, **operaciones no financieras**. Capítulos **8 y 9**: **operaciones financieras**.
 - **Fondo de contingencia** (art. 50 LGP): dotación del **2 %** del gasto no financiero para necesidades **imprevistas** y no discrecionales.
 
 !!! example "Así lo preguntaron en 2026"
@@ -132,7 +132,7 @@ Cada gasto se puede leer de cuatro maneras:
 | Presentación al Congreso | Al menos 3 meses antes de que expiren (antes del 1 de octubre) |
 | Si no se aprueban | Prórroga automática (situación actual: PGE de 2023 prorrogados) |
 | Escenarios plurianuales | Ministerio de Hacienda |
-| Clasificaciones del gasto | Orgánica, por programas, económica y territorial |
+| Clasificaciones del gasto (art. 40 LGP) | Orgánica, por programas y económica (más la identificación funcional) |
 | Capítulo 1 de gastos | Gastos de personal |
 | Capítulo 6 de ingresos | Enajenación de inversiones reales (capital) |
 | Fases del gasto y documentos | Aprobación (A), compromiso (D), reconocimiento de la obligación y propuesta de pago (OK), ordenación y pago |
