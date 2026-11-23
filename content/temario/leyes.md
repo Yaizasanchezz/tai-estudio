@@ -21,7 +21,7 @@ Este bloque completa el bloque I del temario: Gobierno y AGE, empleo público, t
 
 Los Subsecretarios ostentan la representación ordinaria del Ministerio y dirigen sus servicios comunes. Los Secretarios generales técnicos dependen del Subsecretario y se ocupan de producción normativa, asistencia jurídica y publicaciones. Los titulares de órganos directivos se nombran por criterios de competencia profesional.
 
-**Sector público institucional:** organismos autónomos, entidades públicas empresariales, agencias estatales, autoridades administrativas independientes (como la AEPD o la CNMC), sociedades mercantiles estatales, consorcios, fundaciones y fondos sin personalidad jurídica.
+**Sector público institucional:** organismos autónomos, entidades públicas empresariales, agencias estatales, autoridades administrativas independientes (como la AEPD o la CNMC), sociedades mercantiles estatales, consorcios, fundaciones del sector público, fondos sin personalidad jurídica y universidades públicas no transferidas.
 
 **Administración local (Ley 7/1985, LBRL):**
 
@@ -30,7 +30,7 @@ Los Subsecretarios ostentan la representación ordinaria del Ministerio y dirige
 - Órganos municipales: Alcalde, Tenientes de Alcalde y Pleno en todos; Junta de Gobierno Local obligatoria en municipios de más de 5.000 habitantes.
 - Órganos de la provincia: Presidente, Vicepresidentes, Junta de Gobierno y Pleno de la Diputación.
 
-Ejemplo práctico: si trabajas como TAI en la Subdelegación del Gobierno en Toledo, dependes orgánicamente de la Delegación del Gobierno en Castilla-La Mancha, que depende del Ministerio de Política Territorial.
+Ejemplo práctico: si trabajas como TAI en la Subdelegación del Gobierno en Toledo, dependes de la Delegación del Gobierno en Castilla-La Mancha (el Subdelegado está bajo la inmediata dependencia del Delegado); los Delegados del Gobierno dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia (art. 72.3 Ley 40/2015).
 
 ## 2.2 Empleo público (TREBEP, RDL 5/2015)
 
@@ -43,7 +43,7 @@ Ejemplo práctico: si trabajas como TAI en la Subdelegación del Gobierno en Tol
 
 - **Grupos (art. 76):** A (A1, A2), B, C (C1, C2) y agrupaciones profesionales sin titulación. TAI es **C1** (Bachiller o Técnico).
 - **Situaciones administrativas (art. 85):** servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.
-- **Excedencias:** voluntaria por interés particular, por agrupación familiar, por cuidado de familiares (máx. 3 años por cada hijo o familiar) y por razón de violencia de género.
+- **Excedencias:** voluntaria por interés particular, por agrupación familiar, por cuidado de familiares (máx. 3 años por cada hijo o familiar), por razón de violencia de género o de violencia sexual y por razón de violencia terrorista.
 - **Derechos individuales (art. 14):** inamovilidad, carrera profesional, retribuciones, formación, conciliación, libertad de expresión, entre otros. **Deberes (arts. 52–54):** código de conducta, con principios éticos y de conducta.
 - **Retribuciones:** básicas (sueldo, trienios y pagas extraordinarias) y complementarias (complemento de destino, complemento específico, productividad y gratificaciones).
 - **Carrera:** horizontal (progresar sin cambiar de puesto), vertical (ascender de puesto), promoción interna vertical (a un grupo superior) y horizontal (a otro cuerpo del mismo subgrupo).
@@ -109,7 +109,7 @@ Ejemplo práctico: un TAI detecta que una base de datos con DNI de ciudadanos qu
 - **Cómputo de plazos (art. 30):** los días se entienden **hábiles**, excluidos sábados, domingos y festivos. Los meses y años, de fecha a fecha. El registro electrónico está abierto 24 h; lo presentado en día inhábil se entiende presentado a las 00:00 del siguiente día hábil.
 - **Notificaciones electrónicas (arts. 41–43):** se practican en la sede electrónica o en la Dirección Electrónica Habilitada única (DEHú). Se entienden **rechazadas si pasan 10 días naturales** sin acceder.
 - **Plazo para resolver (art. 21):** el que fije la norma, con un máximo de 6 meses salvo ley; si no se fija, **3 meses**.
-- **Silencio (art. 24):** en procedimientos iniciados a solicitud, la regla general es el **silencio estimatorio**. Es desestimatorio en el derecho de petición, en la transferencia de facultades sobre el dominio público, en materia medioambiental, en responsabilidad patrimonial y en la impugnación de actos (salvo el recurso de alzada contra una desestimación por silencio).
+- **Silencio (art. 24):** en procedimientos iniciados a solicitud, la regla general es el **silencio estimatorio**. Es desestimatorio en el derecho de petición, cuando la estimación transfiera facultades sobre el dominio público o el servicio público, en actividades que puedan dañar el medio ambiente, en responsabilidad patrimonial, en la impugnación de actos y disposiciones y en la revisión de oficio iniciada a solicitud del interesado (salvo el recurso de alzada contra una desestimación por silencio, que se entiende estimado si no se resuelve).
 - **Fases del procedimiento:** iniciación (de oficio o a solicitud), ordenación, instrucción (alegaciones, prueba, informes y trámite de audiencia de 10 a 15 días) y finalización (resolución, desistimiento, renuncia, caducidad, terminación convencional o imposibilidad material).
 - **Invalidez:** nulidad de pleno derecho (art. 47: lesión de derechos susceptibles de amparo, órgano manifiestamente incompetente por materia o territorio, contenido imposible, constitutivo de delito, prescindir total y absolutamente del procedimiento, entre otros) y anulabilidad (art. 48: cualquier infracción del ordenamiento jurídico).
 - **Revisión de oficio:** de actos nulos en cualquier momento, con dictamen favorable del Consejo de Estado (art. 106). De actos anulables favorables, por declaración de lesividad en 4 años e impugnación ante la jurisdicción contencioso-administrativa (art. 107).

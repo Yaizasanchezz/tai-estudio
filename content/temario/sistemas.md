@@ -7,7 +7,7 @@ order: 5
 ## IV.1 Administración del sistema operativo y del software de base
 
 - **Tareas:** alta y baja de usuarios y grupos, permisos, instalación y actualización de software y parches, gestión de servicios, planificación de tareas, monitorización de recursos, análisis de logs, copias de seguridad y documentación.
-- **Linux:** gestión de paquetes con `apt` (Debian/Ubuntu) o `dnf`/`yum` (Red Hat); servicios con `systemctl start|stop|enable|status`; logs con `journalctl` y en /var/log; tareas programadas con **cron** (`crontab -e`); usuarios con `useradd`, `usermod`, `passwd`; ficheros /etc/passwd, /etc/shadow (contraseñas cifradas) y /etc/group.
+- **Linux:** gestión de paquetes con `apt` (Debian/Ubuntu) o `dnf`/`yum` (Red Hat); servicios con `systemctl start|stop|enable|status`; logs con `journalctl` y en /var/log; tareas programadas con **cron** (`crontab -e`); usuarios con `useradd`, `usermod`, `passwd`; ficheros /etc/passwd, /etc/shadow (hashes de las contraseñas, con salt) y /etc/group.
 - **Formato cron:** minuto, hora, día del mes, mes, día de la semana. `30 2 * * 1-5 /opt/backup.sh` ejecuta la copia a las 02:30 de lunes a viernes.
 - **Windows Server:** Active Directory (dominios, unidades organizativas, directivas de grupo o GPO), servicios, Visor de eventos, Programador de tareas, PowerShell, WSUS para actualizaciones.
 - **Software de base:** controladores, firmware, servidores web y de aplicaciones (Apache, Nginx, IIS, Tomcat), máquinas virtuales Java, bases de datos.
@@ -114,7 +114,7 @@ Ejemplo práctico: Ana quiere enviar a Luis un PDF firmado y confidencial. Firma
 Truco para recordar las capas de abajo arriba: "**F**ísica, **E**nlace, **R**ed, **T**ransporte, **S**esión, **P**resentación, **A**plicación" → "Fe-Re-Tra-Se-Pre-A".
 
 - **TCP:** orientado a conexión, fiable (acuses de recibo, retransmisión, control de flujo con ventana deslizante, control de congestión). Conexión en tres pasos (*three-way handshake*): **SYN → SYN-ACK → ACK**; cierre con FIN. **UDP:** sin conexión, sin garantías, más rápido (DNS, DHCP, VoIP, streaming, SNMP).
-- **Puertos bien conocidos (0–1023):** 20/21 FTP, 22 SSH/SFTP, 23 Telnet, 25 SMTP, 53 DNS, 67/68 DHCP, 80 HTTP, 110 POP3, 123 NTP, 143 IMAP, 161/162 SNMP, 389 LDAP, 443 HTTPS, 445 SMB, 3306 MySQL, 3389 RDP, 5432 PostgreSQL.
+- **Puertos bien conocidos (0–1023):** 20/21 FTP, 22 SSH/SFTP, 23 Telnet, 25 SMTP, 53 DNS, 67/68 DHCP, 80 HTTP, 110 POP3, 123 NTP, 143 IMAP, 161/162 SNMP, 389 LDAP, 443 HTTPS, 445 SMB. **Puertos registrados (1024–49151):** 3306 MySQL, 3389 RDP, 5432 PostgreSQL.
 - **IPv4:** 32 bits. Clases históricas: A (1–126, /8), B (128–191, /16), C (192–223, /24), D (224–239, multicast), E (240–255, experimental). 127.0.0.0/8 es loopback.
 - **Rangos privados (RFC 1918):** 10.0.0.0/8, 172.16.0.0/12 (172.16 a 172.31) y 192.168.0.0/16. Se traducen a IP pública con **NAT/PAT**.
 - **IPv6:** 128 bits en 8 grupos hexadecimales de 16 bits; se omiten los ceros a la izquierda y una sola secuencia de grupos a cero se sustituye por `::`. Sin broadcast (usa multicast y anycast); autoconfiguración SLAAC; ::1 es loopback; fe80::/10 son direcciones de enlace local.

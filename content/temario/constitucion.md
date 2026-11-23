@@ -59,7 +59,7 @@ Derechos de la Sección 1ª que más se preguntan: vida e integridad (15, abolid
 **Garantías (art. 53):**
 
 - 53.1: todos los derechos del Capítulo II vinculan a los poderes públicos; solo una ley puede regularlos respetando su contenido esencial.
-- 53.2: los arts. 14 a 29 y la objeción de conciencia (30.2) se protegen con un procedimiento preferente y sumario ante los tribunales ordinarios y con el **recurso de amparo** ante el TC.
+- 53.2: los arts. 14 a 29 se protegen con un procedimiento preferente y sumario ante los tribunales ordinarios y con el **recurso de amparo** ante el TC; la objeción de conciencia (art. 30) solo tiene el recurso de amparo.
 - 53.3: los principios rectores (Capítulo III) informan la legislación y la actuación de los poderes públicos.
 
 **Suspensión (art. 55):**
@@ -89,7 +89,7 @@ Representan al pueblo español, ejercen la potestad legislativa, aprueban los Pr
 
 |  | Congreso | Senado |
 | --- | --- | --- |
-| Composición | Entre 300 y 400 diputados (la LOREG fija 350) | 4 por provincia; 3 en Gran Canaria, Mallorca y Tenerife; 1 en el resto de islas o agrupaciones; 2 en Ceuta y 2 en Melilla; más los designados por las CC. AA. (1 + 1 por cada millón de habitantes) |
+| Composición | Entre 300 y 400 diputados (la LOREG fija 350) | 4 por provincia; 3 en Gran Canaria, Mallorca y Tenerife; 1 en cada una de las demás islas (Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma); 2 en Ceuta y 2 en Melilla; más los designados por las CC. AA. (1 + 1 por cada millón de habitantes) |
 | Circunscripción | Provincia (Ceuta y Melilla, 1 diputado cada una) | Provincia / isla |
 | Sistema | Proporcional (D'Hondt) | Mayoritario (voto limitado) |
 | Mandato | 4 años | 4 años |

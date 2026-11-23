@@ -7,7 +7,7 @@ order: 3
 ## II.1 Informática básica y representación de la información
 
 - **Sistemas de numeración:** binario (base 2), octal (base 8), decimal (base 10) y hexadecimal (base 16: 0–9 y A–F). Cada dígito hexadecimal equivale a 4 bits y cada octal a 3 bits.
-- **Unidades:** bit, byte (8 bits). Sistema internacional: 1 kB = 1.000 bytes, 1 MB = 10⁶. Sistema binario IEC: 1 KiB = 1.024 bytes, 1 MiB = 1.024 KiB. Orden: kilo, mega, giga, tera, peta, exa, zetta, yotta.
+- **Unidades:** bit, byte (8 bits). Sistema internacional: 1 kB = 1.000 bytes, 1 MB = 10⁶. Sistema binario IEC: 1 KiB = 1.024 bytes, 1 MiB = 1.024 KiB. Orden: kilo, mega, giga, tera, peta, exa, zetta, yotta, ronna y quetta (estos dos últimos, añadidos al SI en 2022).
 - **Enteros con signo:** signo-magnitud, complemento a 1 y **complemento a 2** (el habitual: rango con n bits de −2ⁿ⁻¹ a 2ⁿ⁻¹−1; con 8 bits, de −128 a 127).
 - **Coma flotante IEEE 754:** simple precisión, 32 bits (1 signo, 8 exponente, 23 mantisa); doble precisión, 64 bits (1, 11, 52).
 - **Códigos de caracteres:** ASCII (7 bits, 128 caracteres), ASCII extendido / ISO-8859-1 (8 bits), **Unicode** con codificaciones UTF-8 (1 a 4 bytes, compatible con ASCII), UTF-16 y UTF-32. Códigos detectores de errores: paridad, CRC, Hamming (corrige 1 bit).

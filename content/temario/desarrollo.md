@@ -23,7 +23,7 @@ order: 4
 | FNBC | Todo determinante es clave candidata |
 | 4FN y 5FN | Sin dependencias multivaluadas ni de reunión |
 
-Ejemplo resuelto: la tabla PEDIDO(num_pedido, cod_producto, nombre_producto, cantidad, dni_cliente, nombre_cliente) con clave (num_pedido, cod_producto) no está en 2FN, porque nombre_producto depende solo de cod_producto. Se descompone en PRODUCTO(cod_producto, nombre_producto), PEDIDO(num_pedido, dni_cliente) y LINEA_PEDIDO(num_pedido, cod_producto, cantidad). Para llegar a 3FN, nombre_cliente sale a CLIENTE(dni_cliente, nombre_cliente), porque depende de dni_cliente y no de la clave del pedido.
+Ejemplo resuelto: la tabla PEDIDO(num_pedido, cod_producto, nombre_producto, cantidad, dni_cliente, nombre_cliente) con clave (num_pedido, cod_producto) no está en 2FN, porque nombre_producto depende solo de cod_producto. Se descompone en PRODUCTO(cod_producto, nombre_producto), PEDIDO(num_pedido, dni_cliente, nombre_cliente) y LINEA_PEDIDO(num_pedido, cod_producto, cantidad). Para llegar a 3FN, nombre_cliente sale a CLIENTE(dni_cliente, nombre_cliente), porque depende de dni_cliente y no de la clave del pedido (dependencia transitiva), y PEDIDO queda (num_pedido, dni_cliente).
 
 ## III.2 Lenguajes de programación
 
@@ -105,7 +105,7 @@ Ejemplo práctico: en una aplicación de expedientes, "Tramitar expediente" siem
 |  | Java / Jakarta EE | .NET |
 | --- | --- | --- |
 | Compilación | Código fuente → bytecode (.class) → JVM con compilador JIT | C#, VB.NET o F# → CIL → CLR con JIT |
-| Kits | JDK (desarrollo) incluye JRE (ejecución) | .NET SDK y runtime; .NET 8/9 multiplataforma |
+| Kits | JDK (desarrollo) incluye JRE (ejecución) | .NET SDK y runtime; .NET 10 (LTS, noviembre de 2025) multiplataforma; .NET 8 y 9 sin soporte desde el 10-11-2026 |
 | Web | Servlets, JSP, JSF, JAX-RS (REST), Spring Boot | ASP.NET Core (MVC, Razor Pages, Web API, Blazor) |
 | Persistencia | JPA (Hibernate), JDBC | Entity Framework Core, ADO.NET |
 | Componentes | EJB, CDI (inyección de dependencias), JMS (mensajería) | Inyección de dependencias integrada |
@@ -142,7 +142,7 @@ Ejemplo práctico: `<p id="aviso" class="rojo">` con las reglas `#aviso { color:
 - **Obligaciones:** declaración de accesibilidad en cada web, mecanismo de comunicación y quejas, revisiones periódicas. El Observatorio de Accesibilidad Web (OAW) supervisa la AGE.
 - **Buenas prácticas:** texto alternativo en imágenes (atributo `alt`), contraste mínimo de 4,5:1 en texto normal (AA), navegación completa con teclado, etiquetas `<label>` en formularios, no transmitir información solo con el color, subtítulos en vídeos, atributos ARIA solo cuando el HTML no basta.
 - **Usabilidad:** las 10 heurísticas de Nielsen (visibilidad del estado del sistema, prevención de errores, consistencia, control del usuario…), ISO 9241-11 (eficacia, eficiencia y satisfacción), diseño centrado en el usuario, pruebas con usuarios.
-- **Seguridad (OWASP Top 10):** control de acceso roto, fallos criptográficos, **inyección** (SQL, comandos), diseño inseguro, configuración incorrecta, componentes vulnerables, fallos de autenticación, fallos de integridad, fallos de registro y monitorización, SSRF. Defensas: consultas parametrizadas, validación de entradas, codificación de salidas (contra XSS), tokens anti-CSRF, contraseñas con hash y *salt* (bcrypt, Argon2), principio de mínimo privilegio.
+- **Seguridad (OWASP Top 10):** (edición **2025**) control de acceso roto (que ahora incluye el SSRF), configuración de seguridad incorrecta, fallos en la **cadena de suministro** de software, fallos criptográficos, **inyección** (SQL, comandos), diseño inseguro, fallos de autenticación, fallos de integridad de software o datos, fallos de registro y alertas, y gestión incorrecta de condiciones excepcionales. (La edición 2021, que aún sale en tests antiguos, incluía «componentes vulnerables» y el SSRF como categoría propia.) Defensas: consultas parametrizadas, validación de entradas, codificación de salidas (contra XSS), tokens anti-CSRF, contraseñas con hash y *salt* (bcrypt, Argon2), principio de mínimo privilegio.
 
 Ejemplo práctico de inyección SQL. El código vulnerable `"SELECT * FROM usuarios WHERE nombre = '" + nombre + "'"` permite entrar escribiendo `' OR '1'='1`. La solución es una consulta parametrizada:
 
