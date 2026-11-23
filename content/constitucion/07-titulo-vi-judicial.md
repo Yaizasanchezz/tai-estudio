@@ -80,7 +80,7 @@ Los daños causados por **error judicial** y por el **funcionamiento anormal** d
 <!-- a125 -->
 - **Acción popular:** cualquier ciudadano puede personarse como acusación en ciertos procesos penales aunque no sea la víctima.
 - **Jurado:** ciudadanos que juzgan determinados delitos (LO 5/1995), por ejemplo homicidios.
-- **Tribunales consuetudinarios y tradicionales:** (art. 19 LOPJ): el **Tribunal de las Aguas de la Vega Valenciana**, el **Consejo de Hombres Buenos de Murcia**, el **Juzgado Privativo de Aguas de Orihuela y Pueblos de su Marco** y el **Tribunal del Comuner del Rollet de Gràcia de l'Horta d'Aldaia** (estos dos últimos, desde la LO 10/2021).
+- **Tribunales consuetudinarios y tradicionales (art. 19 LOPJ):** el **Tribunal de las Aguas de la Vega Valenciana**, el **Consejo de Hombres Buenos de Murcia**, el **Juzgado Privativo de Aguas de Orihuela y Pueblos de su Marco** y el **Tribunal del Comuner del Rollet de Gràcia de l'Horta d'Aldaia** (estos dos últimos, desde la LO 10/2021).
 
 <!-- a126 -->
 La **policía judicial** depende de los **jueces, tribunales y Ministerio Fiscal** en sus funciones de **averiguación del delito** y descubrimiento y aseguramiento del delincuente.
