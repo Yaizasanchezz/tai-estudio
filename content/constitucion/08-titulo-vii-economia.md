@@ -41,7 +41,7 @@ Los poderes públicos atienden a la modernización de **todos los sectores econ�
 
 <!-- a131 -->
 - El Estado, **mediante ley**, puede **planificar** la actividad económica general para atender necesidades colectivas, equilibrar el desarrollo regional y sectorial y estimular el crecimiento de la renta y la riqueza.
-- El **Gobierno** elabora los proyectos de planificación, con las previsiones de las **Comunidades Autónomas** y el asesoramiento de sindicatos y organizaciones profesionales, empresariales y económicas, a través de un **Consejo** (hoy, el **Consejo Económico y Social**).
+- El **Gobierno** elabora los proyectos de planificación, con las previsiones de las **Comunidades Autónomas** y el asesoramiento de sindicatos y organizaciones profesionales, empresariales y económicas, a través de un **Consejo** cuya composición y funciones fijará una ley. Ese Consejo de planificación no se ha llegado a crear; el **Consejo Económico y Social** (Ley 21/1991) se considera normalmente un órgano consultivo distinto.
 
 <!-- a132 -->
 Los bienes de **dominio público** se rigen por los principios de:

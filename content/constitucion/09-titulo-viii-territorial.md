@@ -154,7 +154,7 @@ El **149.1.18.ª** es la base de las leyes 39/2015 y 40/2015 y del TREBEP: por e
 <!-- a150 -->
 | Apartado | Tipo de ley | Qué hace |
 | --- | --- | --- |
-| 150.1 | **Ley marco** | Las Cortes atribuyen a las CC. AA. la facultad de dictar **normas legislativas** en materias estatales, dentro de unos principios, bases y directrices. Puede preverse control de las Cortes |
+| 150.1 | **Ley marco** | Las Cortes atribuyen a las CC. AA. la facultad de dictar **normas legislativas** en materias estatales, dentro de unos principios, bases y directrices. Cada ley marco **debe establecer** la modalidad de control de las Cortes (sin perjuicio de la competencia de los Tribunales) |
 | 150.2 | **Ley orgánica de transferencia o delegación** | El Estado transfiere o delega **facultades** de materias de titularidad estatal susceptibles de ello, con los **medios financieros** |
 | 150.3 | **Ley de armonización** | El Estado fija principios para **armonizar** las normas autonómicas, aun en materias de su competencia, cuando lo exija el interés general. La **apreciación de esa necesidad** la hacen las Cortes por **mayoría absoluta de cada Cámara** (no la aprobación de la ley) |
 

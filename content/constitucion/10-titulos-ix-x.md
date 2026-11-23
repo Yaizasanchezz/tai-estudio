@@ -69,7 +69,7 @@ El **Presidente** del TC lo **nombra el Rey** entre sus miembros, a propuesta de
 <!-- a163 -->
 **Cuestión de inconstitucionalidad:** si un **juez**, al resolver un caso, considera que una **norma con rango de ley** aplicable y de cuya validez depende el fallo puede ser inconstitucional, **plantea la cuestión** al TC. Sus efectos **nunca son suspensivos**.
 
-Diferencia: el **recurso** lo interponen ciertos órganos políticos, de forma directa y con plazo; la **cuestión** la plantea un **juez** con dudas sobre un caso concreto, en cualquier momento.
+Diferencia: el **recurso** lo interponen ciertos órganos políticos, de forma directa y con plazo; la **cuestión** la plantea un **juez** con dudas sobre un caso concreto, **una vez concluso el procedimiento y dentro del plazo para dictar sentencia** (art. 35.2 LOTC), sin plazo de caducidad desde la publicación de la ley.
 
 <!-- a164 -->
 - Las sentencias del TC se publican en el **BOE** con los votos particulares, si los hay.

@@ -101,7 +101,7 @@ El Senado es la **Cámara de representación territorial**.
 | --- | --- |
 | Cada provincia | **4** (sufragio de los votantes de cada una) |
 | Islas mayores (Gran Canaria, Mallorca, Tenerife) | **3** |
-| Islas o agrupaciones menores (Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma) | **1** |
+| Resto de islas con Cabildo o Consejo Insular (Ibiza, Formentera, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma) | **1** |
 | Ceuta y Melilla | **2** cada una |
 | Comunidades Autónomas | **1** más **otro por cada millón** de habitantes, designados por su **Asamblea legislativa** |
 
@@ -141,7 +141,7 @@ Las Cámaras funcionan en **Pleno y por Comisiones**, y pueden **delegar** en la
 **Comisiones de investigación** sobre cualquier asunto de interés público, del Congreso, del Senado o **conjuntas**. Sus conclusiones **no vinculan a los Tribunales** ni afectan a las resoluciones judiciales, aunque pueden **comunicarse al Ministerio Fiscal**. Es **obligatorio comparecer** a su requerimiento.
 
 <!-- a77 -->
-Las Cámaras reciben **peticiones individuales y colectivas**, siempre **por escrito**; está **prohibida la presentación directa por manifestaciones ciudadanas**. Pueden remitirlas al Gobierno, que está obligado a explicarse sobre su contenido.
+Las Cámaras reciben **peticiones individuales y colectivas**, siempre **por escrito**; está **prohibida la presentación directa por manifestaciones ciudadanas**. Pueden remitirlas al Gobierno, que está obligado a explicarse sobre su contenido **siempre que las Cámaras lo exijan**.
 
 <!-- a78 -->
 - En cada Cámara hay una **Diputación Permanente** de **al menos 21 miembros**, que representan a los grupos parlamentarios en proporción a su importancia numérica.
