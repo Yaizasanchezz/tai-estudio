@@ -155,7 +155,7 @@ texto: rd-203-2021, eni, rd-1112-2018
 - **Interoperabilidad:** capacidad de los sistemas de información y de los procedimientos a los que dan soporte de **compartir datos y posibilitar el intercambio de información y conocimiento**.
 - **Principios específicos (art. 4):**
     1. **La interoperabilidad como cualidad integral**: presente **desde la concepción** y durante **todo el ciclo de vida** (planificación, diseño, adquisición, construcción, despliegue, explotación, publicación, conservación…).
-    2. **Carácter multidimensional**: dimensiones **organizativa, semántica y técnica** (el art. 6 las enumera; doctrinalmente se añade la **temporal**, relativa a la conservación).
+    2. **Carácter multidimensional**: dimensiones **organizativa, semántica y técnica**, «sin olvidar la **dimensión temporal**», que garantiza el acceso a la información a lo largo del tiempo (las cuatro aparecen en el propio art. 6).
     3. **Enfoque de soluciones multilaterales**: compartir, reutilizar y colaborar.
 
 | Dimensión | Qué asegura | Ejemplos |

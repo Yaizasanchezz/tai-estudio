@@ -32,7 +32,7 @@ Atender al público es una de las tareas principales de un Auxiliar Administrati
 | --- | --- |
 | **a) Recepción y acogida** | Recibir a los ciudadanos y facilitarles la **orientación y ayuda** que precisen **en el momento inicial de su visita**, en especial la relativa a la **localización** de dependencias y funcionarios |
 | **b) Orientación e información** | Información práctica sobre **trámites, requisitos y documentación** para los proyectos o actuaciones que el ciudadano quiera hacer. **Nunca puede entrañar una interpretación normativa** ni consideraciones jurídicas o económicas |
-| **c) Gestión** | Tramitar procedimientos cuando sea posible en la misma oficina, por ejemplo **recibir la documentación** inicial de un expediente o hacer la **compulsa** (hoy, copias auténticas) |
+| **c) Gestión** | **Recepción de la documentación inicial** de un expediente (cuando así se haya dispuesto reglamentariamente) y las **actuaciones de trámite y resolución** de las cuestiones cuya **urgencia y simplicidad** exijan una respuesta inmediata |
 | **d) Recepción de iniciativas o sugerencias** | De los **ciudadanos** y también de los **empleados públicos**, para mejorar la calidad de los servicios |
 | **e) Recepción de quejas y reclamaciones** | Por **tardanzas, desatenciones** u otro anormal funcionamiento de los servicios |
 | **f) Petición** | **Asistencia** a los ciudadanos para ejercer el **derecho de petición** |
@@ -89,7 +89,7 @@ Regula las condiciones de **accesibilidad y no discriminación** de las personas
 | **Señalización** (art. 7) | Información en al menos **dos** de estas formas: **visual, acústica o táctil** (altorrelieve y **braille**); **bucles de inducción magnética** en la megafonía; alarmas **sonoras y visuales** |
 | **Puestos de atención** (art. 8) | **Mostradores a distintas alturas** (una parte a altura de mesa), sin cristales que dificulten la comunicación o la **lectura labial**, con **bucle magnético**; telefonía de texto y, si es posible, videotelefonía |
 | **Sistemas interactivos** (art. 9) | Información también sonora, alto contraste, **braille**, opción de «uso fácil» en las pantallas táctiles |
-| **Impresos y documentos** (arts. 12 y 13) | Formatos alternativos (**letra ampliada, braille**) a petición, **lenguaje simple** sin siglas, versiones simplificadas, espacios amplios para rellenar |
+| **Impresos y documentos** (arts. 12 y 13) | Formatos alternativos (**letra ampliada, braille**) a petición y espacios amplios para rellenar. El contenido, en **lenguaje simple y directo, sin siglas ni abreviaturas, con versiones simplificadas** de los documentos más habituales (art. 13.1; **desde el 2-1-2027** remite a los requisitos del **art. 10 del Reglamento de accesibilidad cognitiva, RD 707/2026**) |
 | **Personal** (art. 14) | **Formación** sobre discapacidad y sobre el uso de los medios de apoyo |
 
 ### Pautas prácticas de atención

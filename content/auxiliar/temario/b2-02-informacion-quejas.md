@@ -29,7 +29,7 @@ La información administrativa se clasifica en **general** y **particular**:
 
 | Órgano | Función |
 | --- | --- |
-| **Unidades departamentales de información** (art. 5) | En cada Ministerio, dirigida por un **Subdirector general** o asimilado; coordina las oficinas del departamento, gestiona y difunde la información y elabora la **catalogación de procedimientos** |
+| **Unidades departamentales de información** (art. 5) | En cada Ministerio, dirigida por un **Subdirector general** o asimilado; dirige las oficinas de información del departamento, mantiene la base de datos de información administrativa, distribuye y difunde la información y lleva la **catalogación de publicaciones informativas** |
 | **Centro de Información Administrativa (CIA)** (art. 6) | Información sobre **toda la AGE**, especialmente **por teléfono** (el **060**) y por Internet. Hoy lo gestiona la **Dirección General de Gobernanza Pública** del Ministerio para la Transformación Digital y de la Función Pública (RD 210/2024) |
 | **Oficinas de información y atención al ciudadano** (arts. 7 a 9) | **Centrales** (en la sede de cada Ministerio) y **periféricas** (en **Delegaciones y Subdelegaciones** del Gobierno); además, oficinas **sectoriales** en organismos y servicios provinciales |
 | **Oficinas integradas** (art. 10) | Mediante **convenio**, una oficina puede informar sobre **otras Administraciones** o integrar servicios de varias (ver [tema II-4]({{base}}auxiliar/temario/b2-04-administracion-electronica/)) |
@@ -44,7 +44,7 @@ Los arts. 11 a 13 (comisiones de información administrativa) los derogó el RD 
 ## 3. Quejas y reclamaciones (RD 951/2005, arts. 14 a 19)
 
 - **Qué son:** el cauce para que los ciudadanos formulen **quejas** por las **tardanzas, desatenciones** o cualquier otro **funcionamiento anormal** de los servicios, y **sugerencias** de mejora.
-- **Unidades responsables (art. 14):** cada órgano u organismo designa una unidad que recibe, tramita y contesta; su ubicación debe estar **señalizada** y ser **accesible**.
+- **Unidades responsables (art. 14):** cada órgano u organismo designa una unidad que recibe, tramita y contesta. Su ubicación debe estar **señalizada de forma visible** y ser **la más accesible** (art. 15.1).
 - **Presentación (art. 15):** **presencial** (en un formulario que ayuda a rellenar el funcionario si se desea), por **correo postal** o por **medios electrónicos** (con firma electrónica). El ciudadano recibe **constancia** de su presentación.
 - **Contestación (art. 16):** la unidad responsable informa al ciudadano de las actuaciones realizadas en el plazo de **20 días hábiles**. Si hace falta que aclare algo, se le dan **10 días hábiles** (y el plazo se suspende). Si no recibe respuesta, puede dirigirse a la **Inspección General de Servicios** del departamento.
 - **Seguimiento (arts. 17 y 18):** las Inspecciones Generales de Servicios supervisan las quejas; en **enero** de cada año, la unidad responsable remite un informe global del año anterior.

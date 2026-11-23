@@ -21,7 +21,7 @@ texto: ley-6-2020, eidas
 <!-- antes eidas:inicio -->
 ## Las dos partes del reglamento
 
-1. **Identificación electrónica (eID):** **reconocimiento mutuo** entre Estados de los **sistemas de identificación electrónica notificados** a la Comisión. España ha notificado el **DNIe** y **Cl@ve**. Los sistemas tienen **niveles de seguridad**: **bajo**, **sustancial** y **alto**; el reconocimiento es obligatorio para los de nivel **sustancial o alto** cuando un servicio público en línea exige ese nivel.
+1. **Identificación electrónica (eID):** **reconocimiento mutuo** entre Estados de los **sistemas de identificación electrónica notificados** a la Comisión. España ha notificado el **DNIe** (nivel **alto**, publicado en el DOUE el 7-11-2018; reconocimiento obligatorio desde el 7-11-2019). **Cl@ve no es un sistema notificado**: es la plataforma a través de la cual las Administraciones españolas se integran con el **nodo eIDAS** para aceptar las identidades notificadas de otros Estados. Los sistemas tienen **niveles de seguridad**: **bajo**, **sustancial** y **alto**; el reconocimiento es obligatorio para los de nivel **sustancial o alto** cuando un servicio público en línea exige ese nivel.
 2. **Servicios de confianza:** firmas, sellos, sellos de tiempo, entrega electrónica certificada y autenticación de sitios web, con sus **prestadores**.
 
 

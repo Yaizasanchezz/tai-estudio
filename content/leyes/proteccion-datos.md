@@ -13,7 +13,7 @@ texto: rgpd, lopdgdd
 | | **RGPD** | **LOPDGDD** |
 | --- | --- | --- |
 | Norma | **Reglamento (UE) 2016/679**, del Parlamento Europeo y del Consejo, de **27 de abril de 2016** | **Ley Orgánica 3/2018, de 5 de diciembre**, de Protección de Datos Personales y garantía de los derechos digitales |
-| Vigencia | En vigor desde el **25 de mayo de 2016**; **aplicable desde el 25 de mayo de 2018** | En vigor desde el **7 de diciembre de 2018** |
+| Vigencia | En vigor desde el **24 de mayo de 2016** (a los 20 días de su publicación en el DOUE el 4-5-2016; muchos manuales dicen el 25); **aplicable desde el 25 de mayo de 2018** | En vigor desde el **7 de diciembre de 2018** |
 | Naturaleza | **Directamente aplicable** en todos los Estados miembros, sin transposición | **Adapta y completa** el RGPD en España y añade los **derechos digitales** (Título X) |
 | Estructura | **99 artículos** en **11 capítulos** y **173 considerandos** | **97 artículos** en **10 títulos** |
 | Sustituye a | La Directiva 95/46/CE | La LO 15/1999 (LOPD) |
