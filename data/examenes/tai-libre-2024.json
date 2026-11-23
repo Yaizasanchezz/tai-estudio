@@ -199,7 +199,7 @@
       "No podrá ser superior a seis años."
      ],
      "respuesta": "c",
-     "explicacion": "La vigencia de los certificados reconocidos (cualificados) **no puede superar 5 años** (Ley 6/2020 y antes Ley 59/2003). En el DNIe, de hecho, los certificados duran 5 años como máximo."
+     "explicacion": "La plantilla da la c: en 2024 el art. 12.1 del RD 1553/2005 decía que la vigencia de los certificados del DNI «no podrá ser superior a cinco años», el mismo tope general de los certificados cualificados (art. 4.2 de la Ley 6/2020). **Ojo, ha cambiado:** el **RD 255/2025**, que regula hoy el DNI, fija en su art. 11.3 una validez de **dos años**."
     },
     {
      "n": "14",
@@ -1214,7 +1214,7 @@
       "Shovel."
      ],
      "respuesta": "a",
-     "explicacion": "**QualWeb** es un validador automático de accesibilidad (basado en WCAG/ACT) que usa también el Observatorio de Accesibilidad Web. Las demás no son herramientas de accesibilidad conocidas."
+     "explicacion": "**QualWeb** es un validador automático de accesibilidad basado en WCAG y en las reglas ACT del W3C. Las demás no son herramientas de accesibilidad conocidas."
     },
     {
      "n": "6",
@@ -1631,7 +1631,7 @@
       "FTPS no contiene comandos estandarizados para manipular directorios o listar atributos, mientras que SFTP sí."
      ],
      "respuesta": "b",
-     "explicacion": "Es incorrecta: ambos admiten **usuario y contraseña** y también certificados o claves (SFTP con **claves SSH**, FTPS con **certificados X.509**). Lo demás es cierto: SFTP usa el puerto 22 y un solo canal; FTPS (FTP sobre TLS) usa canal de control y de datos."
+     "explicacion": "Es incorrecta: ambos admiten **usuario y contraseña** y también certificados o claves (SFTP con **claves SSH**, FTPS con **certificados X.509**). La a y la c son ciertas: SFTP usa el puerto 22 y un solo canal, y FTPS (FTP sobre TLS) usa un canal de control y otro de datos. La d, que la plantilla también da por buena, simplifica: FTP sí tiene comandos estándar para directorios (MKD, RMD, LIST), aunque el formato del listado no se normalizó hasta MLSD (RFC 3659)."
     },
     {
      "n": "12",

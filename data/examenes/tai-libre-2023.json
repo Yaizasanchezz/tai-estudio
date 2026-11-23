@@ -169,7 +169,7 @@
       "Permanente cuando el titular haya cumplido los sesenta años."
      ],
      "respuesta": "a",
-     "explicacion": "RD 1553/2005: el DNI vale **2 años** si el titular no ha cumplido **5**; **5 años** entre los 5 y los 30; **10 años** entre los 30 y los 70; y es **permanente** desde los **70**."
+     "explicacion": "En el examen se aplicaba el RD 1553/2005; hoy lo regula el **RD 255/2025** (art. 7.1), que lo derogó: el DNI vale **2 años** si el titular no ha cumplido **5**; **5 años** entre los 5 y los 30; **10 años** entre los 30 y los 70; y **más de diez años** desde los **70**, con fecha de caducidad (ya no se expide como «permanente»; los permanentes ya expedidos siguen valiendo)."
     },
     {
      "n": "12",
@@ -247,7 +247,7 @@
       "MONICA, Gestor de logs para responder ante incidentes y amenazas."
      ],
      "respuesta": "b",
-     "explicacion": "**ELENA** es el **simulador de técnicas de cibervigilancia** del CCN. **CLARA** audita el cumplimiento técnico, **GLORIA** es la plataforma de gestión de logs y correlación de eventos (SIEM) y **MÓNICA** gestiona eventos e información de seguridad: las opciones c y d están cruzadas."
+     "explicacion": "**ELENA** es el **simulador de técnicas de cibervigilancia** del CCN. Las opciones c y d están **cruzadas**: **GLORIA** es el gestor de logs para responder ante incidentes y amenazas (correlación de eventos) y **MÓNICA** es la de gestión de eventos e información de seguridad. La a tampoco vale: la protección y trazabilidad del dato es **CARLA**; **CLARA** analiza el cumplimiento técnico del ENS en los equipos."
     },
     {
      "n": "18",
@@ -286,7 +286,7 @@
       "Un framework javascript especialmente indicado para trabajar con bases de datos no relacionales."
      ],
      "respuesta": "a",
-     "explicacion": "Las **WCAG** (*Web Content Accessibility Guidelines*) son las pautas de accesibilidad del contenido web del **W3C** (WAI). La versión de referencia en la norma EN 301 549 es la **2.1 AA**."
+     "explicacion": "Las **WCAG** (*Web Content Accessibility Guidelines*) son las pautas de accesibilidad del contenido web del **W3C** (WAI). La norma armonizada **EN 301 549 v3.2.1** remite a las **WCAG 2.1 nivel AA**; la versión más reciente de las pautas es la **WCAG 2.2** (W3C, octubre de 2023)."
     },
     {
      "n": "21",
@@ -429,7 +429,7 @@
       "macOS Ventura"
      ],
      "respuesta": "d",
-     "explicacion": "Orden: Sierra (2016), Big Sur (2020), Monterey (2021) y **Ventura (2022)**, la más reciente de las cuatro en el momento del examen (después vinieron Sonoma, Sequoia y Tahoe)."
+     "explicacion": "Orden: Sierra (2016), Big Sur (2020), Monterey (2021) y **Ventura (2022)**, la más reciente de las cuatro en el momento del examen (después vinieron Sonoma en 2023, Sequoia en 2024, Tahoe en 2025 y versiones posteriores)."
     },
     {
      "n": "32",
@@ -1640,7 +1640,7 @@
       "802.11be"
      ],
      "respuesta": "d",
-     "explicacion": "**802.11be (Wi-Fi 7)** funciona en **2,4, 5 y 6 GHz**. El 802.11ax original (Wi-Fi 6) usa 2,4 y 5 GHz, y su extensión a 6 GHz se comercializa como **Wi-Fi 6E**; el 802.11ac solo usa 5 GHz."
+     "explicacion": "**802.11be (Wi-Fi 7)** funciona en **2,4, 5 y 6 GHz**. Ojo: el propio estándar IEEE 802.11ax también abarca la banda de 6 GHz, pero solo los equipos certificados **Wi-Fi 6E** la usan; los Wi-Fi 6 «a secas» trabajan en 2,4 y 5 GHz. El 802.11ac solo usa 5 GHz."
     },
     {
      "n": "13",
@@ -1718,7 +1718,7 @@
       "SADA"
      ],
      "respuesta": "c",
-     "explicacion": "**ADA** es la plataforma de **análisis avanzado de malware** del CCN-CERT. Otras herramientas del CCN son **MARTA** (análisis multimotor), **REYES** (ciberamenazas), **LUCÍA** (incidentes), **CARMEN**, **INES** y **PILAR**."
+     "explicacion": "**ADA** es la plataforma de **análisis avanzado de malware** del CCN-CERT. Otras herramientas del CCN son **MARTA** (análisis avanzado de ficheros), **MARIA** (análisis estático multimotor), **REYES** (ciberamenazas), **LUCÍA** (incidentes), **CARMEN**, **INES** y **PILAR**."
     },
     {
      "n": "19",
