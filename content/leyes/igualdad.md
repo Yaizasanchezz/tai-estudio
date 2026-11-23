@@ -87,6 +87,7 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 
 <!-- lo-3-2007:tvi -->
 - **Bienes y servicios (arts. 69 a 72):** prohibida la discriminación en su oferta al público. No se puede preguntar por el **embarazo** salvo por razones de salud. En los **seguros**, el sexo **no puede generar diferencias** en primas y prestaciones, y los costes del embarazo y el parto tampoco.
+<!-- lo-3-2007:tvii -->
 - **Responsabilidad social (arts. 73 a 75):** acciones **voluntarias** de las empresas; las sociedades obligadas a presentar cuenta de pérdidas y ganancias no abreviada **procurarán** una presencia equilibrada en sus consejos de administración.
 
 
@@ -130,7 +131,7 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 | **II** · Derechos de las mujeres víctimas | Información, atención integral, asistencia jurídica, derechos laborales, de funcionarias y económicos |
 | **III** · Tutela institucional | Delegación del Gobierno, Observatorio Estatal, unidades especializadas de las FCS, planes de colaboración |
 | **IV** · Tutela penal | Agravación de las penas por lesiones, malos tratos, amenazas y coacciones cuando la víctima es o ha sido esposa o pareja |
-| **V** · Tutela judicial | **Juzgados de Violencia sobre la Mujer**, **Fiscal contra la Violencia sobre la Mujer**, medidas de protección |
+| **V** · Tutela judicial | **Secciones de Violencia sobre la Mujer** (antes Juzgados), **Fiscal contra la Violencia sobre la Mujer**, medidas de protección |
 
 
 <!-- lo-1-2004:tii -->
@@ -142,7 +143,7 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 - **Derechos laborales (art. 21):** reducción o reordenación del tiempo de trabajo, **movilidad geográfica**, cambio de centro, **suspensión con reserva del puesto** y **extinción** del contrato (con derecho a desempleo). Las ausencias justificadas por los servicios sociales o de salud son **justificadas y remuneradas**.
 - **Acreditación (art. 23):** **sentencia condenatoria**, **orden de protección** u otra resolución judicial con medida cautelar, **informe del Ministerio Fiscal**, o **informe de los servicios sociales, especializados o de acogida**.
 - **Funcionarias (arts. 24 a 26):** derecho a la reducción o reordenación del tiempo de trabajo, a la **movilidad geográfica** y a la **excedencia** (lo desarrolla el TREBEP: arts. 49.d, 82 y 89.5). Las ausencias son justificadas.
-- **Ayudas sociales (art. 27):** si carecen de rentas superiores al **75 % del SMI**, ayuda de **pago único** equivalente a **6 meses de subsidio por desempleo** (**12** si tiene discapacidad ≥ 33 %; hasta **18** con responsabilidades familiares y **24** si además hay discapacidad).
+- **Ayudas sociales (art. 27):** si carecen de rentas superiores al **75 % del SMI**, ayuda de **pago único** equivalente a **6 meses de subsidio por desempleo** (**12** si tiene discapacidad ≥ 33 %; hasta **18** con responsabilidades familiares y **24** si, además, la víctima **o alguno de los familiares que conviven con ella** tiene una discapacidad ≥ 33 %).
 - **Vivienda (art. 28):** colectivo **prioritario** en el acceso a viviendas protegidas y residencias públicas para mayores.
 
 
@@ -159,8 +160,8 @@ Los arts. 65 a 68 extienden estas normas a las **Fuerzas Armadas** y a las **Fue
 <!-- lo-1-2004:tv -->
 ## Tutela judicial (Título V)
 
-- **Juzgados de Violencia sobre la Mujer:** uno o más **en cada partido judicial**, con sede en su capital (art. 87 bis LOPJ). Conocen de los asuntos **penales** de violencia de género y de los **civiles** conexos (separación, divorcio, custodia…).
-- **Orden de protección:** la resuelve el **Juez de Violencia sobre la Mujer** (o el de **guardia**) según el art. **544 ter de la LECrim**.
+- **Secciones de Violencia sobre la Mujer** de los **Tribunales de Instancia** (antes, Juzgados de Violencia sobre la Mujer; transformados por la LO 1/2025): extienden su jurisdicción a todo el **partido judicial** (o a varios de la misma provincia) (art. 89 LOPJ). Conocen de los asuntos **penales** de violencia de género —y, desde el 3-10-2025, también de los delitos de violencia sexual contra mujeres, mutilación genital, matrimonio forzado, acoso con connotación sexual y trata con fines de explotación sexual— y de los **civiles** conexos (separación, divorcio, custodia…).
+- **Orden de protección:** la resuelve el juez de la **Sección de Violencia sobre la Mujer** del Tribunal de Instancia (o el de **guardia**) según el art. **544 ter de la LECrim**.
 - **Medidas de protección:** **salida del domicilio**, **alejamiento**, **suspensión de las comunicaciones**, suspensión de la **patria potestad o custodia**, del **régimen de visitas** y del derecho a la **tenencia de armas**. El juez debe pronunciarse sobre ellas **siempre**.
 - **Fiscal contra la Violencia sobre la Mujer:** con **Secciones** especializadas en cada Fiscalía.
 
@@ -234,6 +235,6 @@ Si la infracción la comete un **empleado público** en el ejercicio de su cargo
 | | LO 3/2007 | LO 1/2004 | Ley 15/2022 | Ley 4/2023 |
 | --- | --- | --- | --- | --- |
 | **Materia** | Igualdad de mujeres y hombres | Violencia de género (pareja o expareja) | Igualdad de trato y no discriminación por cualquier causa | Personas trans y LGTBI |
-| **Órgano clave** | Comisión Interministerial, Unidades de Igualdad, Consejo de Participación de la Mujer | Delegación del Gobierno, Observatorio Estatal, Juzgados de Violencia sobre la Mujer | Autoridad Independiente para la Igualdad de Trato | Consejo de Participación de las Personas LGTBI |
+| **Órgano clave** | Comisión Interministerial, Unidades de Igualdad, Consejo de Participación de la Mujer | Delegación del Gobierno, Observatorio Estatal, Secciones de Violencia sobre la Mujer (antes Juzgados) | Autoridad Independiente para la Igualdad de Trato | Consejo de Participación de las Personas LGTBI |
 | **Cifra estrella** | 40–60 % (composición equilibrada) | Ayuda de 6 meses de subsidio | Multas hasta 500.000 € | Rectificación registral desde los 16 años |
 | **Prueba** | Inversión de la carga (no penal) | — | Inversión de la carga | Inversión de la carga |

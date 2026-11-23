@@ -69,7 +69,7 @@ Ejemplo práctico: un ciudadano pide por la sede electrónica el gasto en licenc
 | Norma | Lo esencial |
 | --- | --- |
 | LO 3/2007, igualdad efectiva de mujeres y hombres | Composición equilibrada: ningún sexo por encima del 60 % ni por debajo del 40 %. Planes de igualdad, informes de impacto de género, acoso sexual y por razón de sexo |
-| LO 1/2004, violencia de género | Medidas de sensibilización, Juzgados de Violencia sobre la Mujer y derechos laborales de las víctimas (también de las funcionarias) |
+| LO 1/2004, violencia de género | Medidas de sensibilización, Secciones de Violencia sobre la Mujer de los Tribunales de Instancia (antes Juzgados) y derechos laborales de las víctimas (también de las funcionarias) |
 | Ley 15/2022, igualdad de trato y no discriminación | Prohíbe la discriminación por cualquier circunstancia personal o social; crea la Autoridad Independiente para la Igualdad de Trato |
 | Ley 4/2023, personas trans y derechos LGTBI | Rectificación registral del sexo, medidas contra la discriminación LGTBI en todos los ámbitos |
 | RDL 1/2013, derechos de las personas con discapacidad | Persona con discapacidad legal: grado ≥33 %. Igualdad de oportunidades, accesibilidad universal y ajustes razonables |

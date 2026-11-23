@@ -132,7 +132,7 @@ El **gobierno y la administración** municipal corresponden al **Ayuntamiento**,
 2. **Delegadas:** el Estado o la C. A. delegan su ejercicio (art. 27).
 3. **Distintas de las propias y delegadas:** solo si no ponen en riesgo la sostenibilidad financiera y no hay duplicidad, con informes previos de la Administración competente y de la que tutela las finanzas.
 
-**Materias de competencia propia (art. 25.2), entre otras:** **urbanismo** (planeamiento, gestión, ejecución y disciplina) y vivienda protegida; **medio ambiente urbano** (parques, residuos, contaminación acústica y lumínica); **agua potable** y alcantarillado; **infraestructura viaria**; atención inmediata a personas en **riesgo de exclusión social**; **policía local, protección civil e incendios**; **tráfico, estacionamiento y transporte colectivo urbano**; turismo local; **ferias, mercados y comercio ambulante**; **salubridad pública**; **cementerios**; **deporte**; **cultura**; vigilancia de la escolaridad obligatoria y mantenimiento de colegios de infantil y primaria; **participación ciudadana en el uso de las TIC**; **igualdad y lucha contra la violencia de género**; y comunidades de energía.
+**Materias de competencia propia (art. 25.2), entre otras:** **urbanismo** (planeamiento, gestión, ejecución y disciplina) y vivienda protegida; **medio ambiente urbano** (parques, residuos, contaminación acústica y lumínica); **agua potable** y alcantarillado; **infraestructura viaria**; atención inmediata a personas en **riesgo de exclusión social**; **policía local, protección civil e incendios**; **tráfico, estacionamiento y transporte colectivo urbano**; turismo local; **ferias, mercados y comercio ambulante**; **salubridad pública**; **cementerios**; **deporte**; **cultura**; vigilancia de la escolaridad obligatoria y mantenimiento de colegios de infantil y primaria; **participación ciudadana en el uso de las TIC**; **igualdad y lucha contra la violencia de género**; comunidades de energía y transición energética (letra p); e **igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad** (letra q, añadida por la Ley 4/2026).
 
 **Servicios mínimos obligatorios según la población (art. 26):**
 
@@ -171,7 +171,7 @@ En los municipios de **menos de 20.000 habitantes**, la **Diputación coordina**
 ## Diputados provinciales y CC. AA. uniprovinciales
 
 - Los **diputados provinciales** no se eligen directamente: los designan los **concejales** de cada partido judicial según los resultados municipales (LOREG).
-- En las **CC. AA. uniprovinciales** (Madrid, Asturias, Cantabria, La Rioja, Murcia, Navarra y Baleares en parte) **no hay Diputación**: la Comunidad Autónoma asume sus competencias.
+- En las **CC. AA. uniprovinciales** (Madrid, Asturias, Cantabria, La Rioja, Murcia y Navarra) **no hay Diputación**: la Comunidad Autónoma asume sus competencias. En **Baleares** (también uniprovincial) tampoco hay Diputación: sus funciones las asumen los **Consejos Insulares** de cada isla (art. 41.3).
 - En el **País Vasco** existen las **Diputaciones Forales** y las **Juntas Generales** de cada territorio histórico.
 
 
@@ -217,7 +217,7 @@ Una vez en el régimen, siguen en él **aunque pierdan población**.
 <!-- antes a92bis -->
 ## Funcionarios con habilitación nacional
 
-Son los funcionarios que ocupan los puestos de **Secretaría, Intervención-Tesorería** en todas las Entidades Locales. Se dividen en tres subescalas: **Secretaría** (fe pública y asesoramiento legal preceptivo), **Intervención-Tesorería** (control y fiscalización interna, contabilidad, tesorería y recaudación) y **Secretaría-Intervención** (ambas funciones en municipios pequeños). Los selecciona el **Estado** (Ministerio de Política Territorial y Función Pública).
+Son los funcionarios que ocupan los puestos de **Secretaría, Intervención-Tesorería** en todas las Entidades Locales. Se dividen en tres subescalas: **Secretaría** (fe pública y asesoramiento legal preceptivo), **Intervención-Tesorería** (control y fiscalización interna, contabilidad, tesorería y recaudación) y **Secretaría-Intervención** (ambas funciones en municipios pequeños). Su oferta de empleo, selección, formación y habilitación corresponden al **Estado**, a través del Ministerio competente en Función Pública (el art. 92 bis.5 conserva el nombre antiguo «Ministerio de Hacienda y Administraciones Públicas»).
 
 
 <!-- final -->

@@ -138,11 +138,11 @@ Solicitud ──► (concretar en 10 días si es imprecisa) ──► (alegacion
     - **Graves:** **declaración del incumplimiento y publicación en el BOE** y/o pérdida de la **indemnización por cese**.
     - **Muy graves:** las anteriores más **destitución** e **inhabilitación para ser alto cargo durante 5 a 10 años**.
     - Por infracciones económicas, además, **restituir** lo percibido indebidamente e **indemnizar** a la Hacienda Pública.
-- **Procedimiento (art. 31):** de oficio. Para **miembros del Gobierno y Secretarios de Estado**, incoa y sanciona el **Consejo de Ministros**; para otros altos cargos de la AGE, el **Ministro de Hacienda** (hoy Hacienda/Función Pública). Instruye la **Oficina de Conflictos de Intereses**.
+- **Procedimiento (art. 31):** de oficio. Para **miembros del Gobierno y Secretarios de Estado**, incoa y sanciona el **Consejo de Ministros**; para otros altos cargos de la AGE, el **Ministro de Hacienda y Administraciones Públicas** según el texto de la ley; hoy, el **Ministro competente en Función Pública** (Ministerio para la Transformación Digital y de la Función Pública, del que depende la Oficina de Conflictos de Intereses). Instruye la **Oficina de Conflictos de Intereses**.
 - **Prescripción (art. 32):** infracciones y sanciones **muy graves 5 años, graves 3 años, leves 1 año**.
 
 !!! warning "No lo confundas con la Ley 40/2015"
-    La prescripción general de la Ley 40/2015 es 3–2–6 meses (infracciones). La de **buen gobierno** es más larga: **5–3–1**.
+    La prescripción general de la Ley 40/2015 es de **3 años, 2 años y 6 meses** (infracciones muy graves, graves y leves). La de **buen gobierno** es más larga: **5–3–1**.
 
 
 <!-- antes a33 -->

@@ -100,7 +100,7 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 
 - La **horizontal** y la **vertical** pueden simultanearse.
 - **Promoción interna (art. 18):** hay que tener los requisitos de acceso, **al menos 2 años de servicio activo** en el Subgrupo inferior y superar las pruebas.
-- **Evaluación del desempeño (art. 20):** procedimiento que **mide y valora la conducta profesional y el rendimiento o logro de resultados**. Criterios: **transparencia, objetividad, imparcialidad y no discriminación**. Tiene efectos en la carrera horizontal, la formación, la provisión de puestos y el complemento de productividad. La continuidad en un puesto obtenido por **concurso** puede quedar vinculada a ella.
+- **Evaluación del desempeño (art. 20):** procedimiento que **mide y valora la conducta profesional y el rendimiento o logro de resultados**. Criterios: **transparencia, objetividad, imparcialidad y no discriminación**. Tiene efectos en la carrera horizontal, la formación, la provisión de puestos y el complemento de productividad. La continuidad en un puesto obtenido por **concurso** quedará vinculada a la evaluación del desempeño, con audiencia al interesado y resolución motivada.
 
 
 <!-- antes a21 -->
@@ -178,7 +178,7 @@ Inamovilidad en la condición de funcionario de carrera · desempeño efectivo d
 | **Matrimonio** o registro de **pareja de hecho** | **15 días** |
 | Actos preparatorios de **donación de órganos o tejidos** | Tiempo indispensable |
 
-**Permisos del art. 49** (conciliación y violencia), en la redacción del **Real Decreto-ley 9/2025**:
+**Permisos del art. 49** (conciliación y violencia), en la redacción del **Real Decreto-ley 9/2025** (letras a, b, c y g) y de la **Ley 4/2026** (letra e, hijo con cáncer o enfermedad grave):
 
 | Permiso | Duración y reglas |
 | --- | --- |

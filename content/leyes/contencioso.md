@@ -12,7 +12,7 @@ texto: ley-29-1998
 
 Cuando la Administración ha dicho su última palabra (**se agota la vía administrativa**) y el ciudadano no está de acuerdo, puede acudir a los **jueces del orden contencioso-administrativo**. Es la garantía del art. 106 CE: **los tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa**, y del art. 24 CE, la **tutela judicial efectiva**.
 
-La ley se aprobó el **13 de julio de 1998** y se ha reformado mucho; la última gran reforma es la **LO 1/2025**, de eficiencia del Servicio Público de Justicia, que cambia los «Secretarios judiciales» por **letrados de la Administración de Justicia** y convierte los Juzgados en **Secciones de los Tribunales de Instancia**.
+La ley se aprobó el **13 de julio de 1998** y se ha reformado mucho; la última gran reforma es la **LO 1/2025**, de eficiencia del Servicio Público de Justicia, que convierte los Juzgados en **Secciones de los Tribunales de Instancia** (y los Juzgados Centrales en Secciones del **Tribunal Central de Instancia**). El cambio de «Secretarios judiciales» por **letrados de la Administración de Justicia** viene de la **LO 7/2015** (desde el 1-10-2015).
 
 
 <!-- a1 -->
@@ -110,7 +110,7 @@ Son **parte demandada**: la **Administración** contra cuya actividad se recurre
 La **representación y defensa de las Administraciones** se rige por la LOPJ y la **Ley 52/1997 de Asistencia Jurídica al Estado** (en la AGE, la **Abogacía del Estado**).
 
 !!! example "Ejemplo TAI"
-    Ya eres TAI y te deniegan un complemento que crees que te corresponde. Puedes recurrir tú misma ante el Juzgado, sin abogado ni procurador, porque es una cuestión de personal que no implica tu separación del servicio. Si lo que recurres es una sanción de **separación del servicio**, necesitarías abogado.
+    Ya eres TAI y te deniegan un complemento que crees que te corresponde. Puedes recurrir tú misma ante el juzgado o tribunal competente, sin abogado ni procurador, porque es una cuestión de personal que no implica tu separación del servicio. Si lo que recurres es una sanción de **separación del servicio**, necesitarías abogado.
 
 
 <!-- a25 -->
@@ -176,7 +176,7 @@ Los jueces resuelven **dentro de los límites de las pretensiones** de las parte
 | **Protección de derechos fundamentales** (art. 115) | **10 días** |
 
 !!! warning "Ojo con agosto"
-    Para los plazos procesales (como los 2 meses del contencioso), **agosto es inhábil** según la LOPJ. En cambio, para los plazos administrativos de la Ley 39/2015 agosto es un mes normal, salvo que una norma lo declare inhábil (como hacen las bases de tu oposición).
+    Durante **agosto no corre** el plazo para interponer el recurso contencioso-administrativo ni ningún otro plazo de la Ley 29/1998, **salvo en el procedimiento de protección de derechos fundamentales**, en el que agosto es hábil (art. 128.2 LJCA). En cambio, para los plazos administrativos de la Ley 39/2015 agosto es un mes normal, salvo que una norma lo declare inhábil (como hacen las bases de tu oposición).
 
 
 <!-- antes a45 -->
@@ -208,7 +208,7 @@ Se usa en los **Juzgados** (y Juzgados Centrales) para: **cuestiones de personal
 - **Protección de los derechos fundamentales** (arts. 114 a 122): es el **amparo judicial** del art. 53.2 CE. Tramitación **preferente** y plazo de interposición de **10 días**. Si no se resuelve a favor, después cabe el **recurso de amparo** ante el TC.
 - **Cuestión de ilegalidad** (arts. 123 a 126).
 - **Procedimiento en casos de suspensión administrativa previa** de acuerdos (art. 127).
-- **Autorizaciones** para que las autoridades de protección de datos pidan la suspensión de transferencias internacionales (art. 122 ter).
+- **Autorización judicial** solicitada por una autoridad de protección de datos para que el tribunal se pronuncie sobre la **conformidad con el Derecho de la UE de una decisión de la Comisión Europea** en materia de transferencia internacional de datos (art. 122 ter).
 
 
 <!-- antes a79 -->

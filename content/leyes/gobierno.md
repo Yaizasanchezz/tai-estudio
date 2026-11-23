@@ -67,7 +67,7 @@ Pueden asistir los **Secretarios de Estado** y, excepcionalmente, otros altos ca
 - Sus **deliberaciones son secretas**.
 
 !!! example "Ejemplos reales"
-    La **Comisión Delegada del Gobierno para Asuntos Económicos** o la de **Política de Inteligencia**.
+    La **Comisión Delegada del Gobierno para Asuntos Económicos** o la de **Asuntos de Inteligencia**.
 
 
 <!-- antes a7 -->
@@ -90,7 +90,7 @@ Para ser miembro del Gobierno hay que ser **español**, **mayor de edad**, disfr
 
 - El **Presidente** se nombra y cesa según la **Constitución** (investidura, art. 99 CE).
 - **Vicepresidentes y Ministros:** nombrados y separados **por el Rey, a propuesta del Presidente**. Desde la LO 2/2024, en su conjunto **cada sexo debe suponer al menos el 40 %**.
-- La separación de un Vicepresidente o de un Ministro sin cartera **extingue ese órgano** (salvo que se nombre a otro en sustitución).
+- La separación de un **Ministro sin cartera** extingue ese órgano; la de un **Vicepresidente** también, salvo que a la vez se nombre a otro Vicepresidente en sustitución.
 - **Suplencia del Presidente:** los **Vicepresidentes** por su orden y, si no hay, los **Ministros según el orden de precedencia** de los Departamentos.
 - **Suplencia de los Ministros:** la determina un **Real Decreto del Presidente**, y debe recaer **siempre en otro miembro del Gobierno**.
 
@@ -160,7 +160,7 @@ Las leyes y reglamentos del Gobierno que impongan **nuevas obligaciones** a quie
 | --- | --- |
 | **Real Decreto Legislativo** | Textos articulados o refundidos por delegación de las Cortes (art. 82 CE) |
 | **Real Decreto-ley** | Normas por extraordinaria y urgente necesidad (art. 86 CE) |
-| **Real Decreto del Presidente del Gobierno** | Disposiciones y actos atribuidos al Presidente (por ejemplo, la estructura de los Ministerios) |
+| **Real Decreto del Presidente del Gobierno** | Disposiciones y actos atribuidos al Presidente (por ejemplo, crear, modificar o suprimir Ministerios y Secretarías de Estado, o la estructura de la Presidencia del Gobierno) |
 | **Real Decreto acordado en Consejo de Ministros** | Reglamentos de competencia del Consejo y resoluciones que deban adoptar esa forma |
 | **Acuerdo del Consejo de Ministros** | Decisiones del Consejo que no requieren Real Decreto |
 | **Acuerdo de Comisión Delegada** | Revisten la forma de **Orden** del Ministro competente o del Ministro de la Presidencia |
@@ -175,7 +175,7 @@ Las leyes y reglamentos del Gobierno que impongan **nuevas obligaciones** a quie
 - **Plan Anual Normativo (art. 25):** recoge las iniciativas del año siguiente; lo coordina el **Ministerio de la Presidencia** y se aprueba **antes del 30 de abril**. Si una norma no estaba en el Plan, hay que justificarlo.
 - **Procedimiento (art. 26):**
     1. Estudios y consultas previos.
-    2. **Consulta pública** en el portal web **antes** de redactar el texto, durante al menos **15 días naturales** (se puede omitir en normas presupuestarias u organizativas, por razones graves de interés público, si no hay impacto significativo, en regulaciones parciales o en tramitación urgente).
+    2. **Consulta pública** en el portal web **antes** de redactar el texto, durante al menos **15 días naturales** (se puede omitir en normas presupuestarias u organizativas, por razones graves de interés público, si no hay impacto significativo en la actividad económica, si no impone obligaciones relevantes a los destinatarios, en regulaciones parciales o en tramitación urgente).
     3. **Memoria del Análisis de Impacto Normativo (MAIN)**, obligatoria: oportunidad y alternativas, contenido y análisis jurídico, **distribución de competencias**, **impacto económico y presupuestario** (con **test pyme**), **cargas administrativas**, **impacto de género**, resumen de la consulta pública e **impacto por cambio climático**.
     4. Anteproyectos de ley y decretos legislativos: primera vuelta al **Consejo de Ministros** (previo paso por la Comisión General) para decidir los trámites.
     5. **Informes**: los preceptivos en **10 días** (o **1 mes** si se piden a otra Administración u órgano independiente). Siempre, informe de la **Secretaría General Técnica**. Si afecta a organización, personal o procedimientos de la AGE, aprobación previa del Ministerio de **Hacienda y Función Pública**; si afecta a competencias autonómicas, informe del Ministerio de **Política Territorial**.

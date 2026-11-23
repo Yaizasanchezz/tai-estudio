@@ -44,7 +44,7 @@ texto: lo-2-1979, lo-3-1981, lo-4-1981
 | Continuidad | Siguen en funciones hasta que **tomen posesión** sus sucesores; el Presidente pide la renovación **4 meses antes** de que expiren los mandatos |
 
 - **Incompatibilidades (art. 19):** con el cargo de **Defensor del Pueblo**, **Diputado o Senador**, cualquier **cargo político o administrativo**, la **carrera judicial o fiscal**, empleos en **tribunales**, funciones **directivas en partidos, sindicatos o asociaciones** y cualquier **actividad profesional o mercantil**. Deben cesar en la actividad incompatible en **10 días** desde la propuesta.
-- **Cese (art. 23):** renuncia aceptada, expiración del plazo, incapacidad, incompatibilidad sobrevenida, falta de diligencia, violación de la reserva, responsabilidad civil por dolo o condena por delito doloso. Lo decreta el **Presidente** (renuncia, expiración, fallecimiento) o el **Pleno** (por mayoría simple en incapacidad e incompatibilidad y por **3/4** en los demás).
+- **Cese (art. 23):** renuncia aceptada, expiración del plazo, incapacidad, incompatibilidad sobrevenida, falta de diligencia, violación de la reserva, responsabilidad civil por dolo o condena por delito doloso **o por culpa grave**. Lo decreta el **Presidente** (renuncia, expiración, fallecimiento) o el **Pleno** (por mayoría simple en incapacidad e incompatibilidad y por **3/4** en los demás).
 - **Remuneración de transición:** si han estado al menos **3 años**, cobran **1 año** más tras el cese (art. 25).
 - Si una **Sala** quiere apartarse de la **doctrina** del Tribunal, decide el **Pleno** (art. 13).
 
@@ -142,7 +142,7 @@ Si no se alcanza: nuevas propuestas en ≤ 1 mes → 3/5 del Congreso + MAYORÍA
 <!-- antes lo-3-1981:aquinto -->
 ## Cese, prerrogativas e incompatibilidades
 
-- **Cese:** renuncia, expiración del mandato, muerte o incapacidad sobrevenida, **notoria negligencia** o **condena firme por delito doloso**. En los tres primeros casos lo declara el **Presidente del Congreso**; en los demás, las **3/5 de cada Cámara**, previa audiencia. El nuevo procedimiento empieza en **1 mes**.
+- **Cese:** renuncia, expiración del mandato, muerte o incapacidad sobrevenida, **notoria negligencia** o **condena firme por delito doloso**. En los casos de **muerte, renuncia y expiración del mandato** declara la vacante el **Presidente del Congreso**; en los demás (**incapacidad sobrevenida**, negligencia notoria y condena), deciden las **3/5 de los componentes de cada Cámara**, mediante debate y previa audiencia del interesado. El nuevo procedimiento empieza en **1 mes**.
 - Mientras tanto, lo sustituyen **interinamente** sus **Adjuntos**, por su orden.
 - **Prerrogativas:** **no está sujeto a mandato imperativo** ni recibe **instrucciones**; tiene **inviolabilidad** por sus opiniones y actos en el ejercicio del cargo; solo puede ser **detenido en flagrante delito**, y su inculpación, prisión y juicio corresponden a la **Sala de lo Penal del Tribunal Supremo**.
 - **Incompatible** con todo **mandato representativo**, cargo político, **servicio activo** en una Administración, **afiliación a un partido** o funciones directivas en partidos, sindicatos, asociaciones o fundaciones, la **carrera judicial o fiscal** y cualquier actividad profesional, liberal, mercantil o laboral. Debe cesar en ellas en **10 días** desde su nombramiento.

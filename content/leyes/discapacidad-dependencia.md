@@ -17,7 +17,7 @@ Reformado el **17 de febrero de 2024** (la tercera reforma constitucional): sust
 <!-- antes rdl-1-2013:inicio -->
 ## Qué refunde
 
-Une en un texto tres leyes anteriores: la **LISMI** (Ley 13/1982 de integración social de los minusválidos), la **LIONDAU** (Ley 51/2003 de igualdad de oportunidades, no discriminación y accesibilidad universal) y la **Ley 49/2007** de infracciones y sanciones en esta materia. Se inspira en la **Convención Internacional sobre los Derechos de las Personas con Discapacidad** (ONU, **2006**, ratificada por España en **2008**).
+Une en un texto tres leyes anteriores: la **LISMI** (Ley 13/1982 de integración social de los minusválidos), la **LIONDAU** (Ley 51/2003 de igualdad de oportunidades, no discriminación y accesibilidad universal) y la **Ley 49/2007** de infracciones y sanciones en esta materia. Se inspira en la **Convención Internacional sobre los Derechos de las Personas con Discapacidad** (ONU, **2006**; España la ratificó por instrumento de **23 de noviembre de 2007**, publicado en el BOE el 21-4-2008, y está en vigor para España desde el **3 de mayo de 2008**).
 
 **Reforma reciente:** la **Ley 4/2026, de 1 de octubre**, modifica esta ley y la de dependencia para extender y reforzar los derechos de inclusión, autonomía y accesibilidad conforme al nuevo art. 49 CE (por ejemplo, añade el respeto al derecho a la familia y al hogar, la protección reforzada de mujeres y niñas y niños con discapacidad, y la atención integral y comunitaria en **salud mental**).
 
@@ -41,12 +41,12 @@ Une en un texto tres leyes anteriores: la **LISMI** (Ley 13/1982 de integración
 | **Discriminación por asociación** | Trato discriminatorio por la **relación con otra persona** con discapacidad |
 | **Acoso** | Conducta no deseada relacionada con la discapacidad que atenta contra la dignidad o crea un entorno intimidatorio, hostil, degradante, humillante u ofensivo |
 | **Medidas de acción positiva** | Medidas específicas para **evitar o compensar** las desventajas de la discapacidad |
-| **Vida independiente** | La persona ejerce el **poder de decisión sobre su propia existencia** y participa en su comunidad |
+| **Vida independiente** | Derecho fundado en la autodeterminación y el control sobre la propia vida que garantiza la libertad real de decidir **cómo, dónde y con quién vivir**, con los apoyos necesarios |
 | **Normalización** | Poder llevar una vida en igualdad, accediendo a **los mismos lugares, bienes y servicios** que cualquier otra persona |
-| **Inclusión social** | La sociedad da a todas las personas con discapacidad las oportunidades y recursos para participar plenamente |
+| **Inclusión** | Proceso o estado irrenunciable que asegura la presencia, participación y progreso plenos de todas las personas; es **incompatible con cualquier forma de segregación**, discriminación o exclusión |
 | **Accesibilidad universal** | Condición que deben cumplir **entornos, procesos, bienes, productos y servicios** (y objetos, herramientas y dispositivos) para ser **comprensibles, utilizables y practicables por todas las personas** con seguridad, comodidad y autonomía. **Incluye la accesibilidad cognitiva** (lectura fácil, pictogramas, sistemas aumentativos). Presupone el **diseño universal** |
 | **Diseño universal o para todas las personas** | Concebir **desde el origen** entornos, productos, programas o dispositivos que puedan usar todas las personas **sin necesidad de adaptación** (no excluye los productos de apoyo) |
-| **Ajustes razonables** | Modificaciones y adaptaciones necesarias y adecuadas del ambiente físico, social y actitudinal, **que no impongan una carga desproporcionada o indebida**, para un caso particular |
+| **Ajustes razonables** | Modificaciones y adaptaciones necesarias y adecuadas del entorno **físico, cognitivo, comunicativo, social y actitudinal**, **que no impongan una carga desproporcionada o indebida**, para un caso particular. **No realizarlos** es discriminación por razón de discapacidad |
 | **Diálogo civil** | Las organizaciones de personas con discapacidad y sus familias **participan** en las políticas que les afectan |
 | **Transversalidad** | Las políticas de discapacidad no se limitan a planes específicos: se integran en **todas** las políticas generales |
 
@@ -65,7 +65,7 @@ Respeto a la **dignidad**, la **autonomía individual** (incluida la libertad de
 
 - Son personas con discapacidad quienes presentan **deficiencias físicas, mentales, intelectuales o sensoriales previsiblemente permanentes** que, al interactuar con barreras, pueden impedir su participación plena.
 - Además, a efectos de esta ley, quienes tengan reconocido un **grado de discapacidad igual o superior al 33 %**.
-- Se **asimilan** al 33 % (para ciertos efectos) los pensionistas de la Seguridad Social con **incapacidad permanente total, absoluta o gran invalidez**, y los de clases pasivas jubilados por incapacidad.
+- Se **asimilan** al **33 %** las personas con **dependencia reconocida de grado I**, y al **65 %** las de **grado II y III** (en los ámbitos que prevea la ley; nunca en el tributario). Además, a ciertos efectos de esta ley, se consideran con discapacidad ≥ 33 % los pensionistas de la Seguridad Social con **incapacidad permanente total, absoluta o gran invalidez** y los de clases pasivas jubilados o retirados por incapacidad.
 - Las Administraciones deben usar los términos **«persona con discapacidad» o «personas con discapacidad»**.
 - El reconocimiento del grado tiene **validez en todo el territorio nacional**.
 
@@ -73,7 +73,7 @@ Respeto a la **dignidad**, la **autonomía individual** (incluida la libertad de
 <!-- antes rdl-1-2013:a5 -->
 ## Ámbitos de la igualdad y la accesibilidad
 
-Telecomunicaciones y **sociedad de la información**; espacios públicos urbanizados, infraestructuras y edificación; **transportes**; bienes y servicios a disposición del público; **relaciones con las Administraciones Públicas**; Administración de Justicia; patrimonio cultural; empleo.
+Telecomunicaciones y **sociedad de la información**; espacios públicos urbanizados, infraestructuras y edificación; **transportes**; bienes y servicios a disposición del público; **relaciones con las Administraciones Públicas** (incluido el acceso a las prestaciones públicas y a sus resoluciones); Administración de Justicia; **participación en la vida pública y en los procesos electorales**; patrimonio cultural; empleo.
 
 
 <!-- rdl-1-2013:ti -->
@@ -82,7 +82,7 @@ Telecomunicaciones y **sociedad de la información**; espacios públicos urbaniz
 - **Igualdad (art. 7)**, protección de la **salud**, **atención integral**, **educación inclusiva** (gratuita y con los apoyos necesarios).
 - **Accesibilidad (arts. 22 a 34):** condiciones básicas de accesibilidad en todos los ámbitos, también en las **relaciones con las Administraciones** (art. 28) y la **accesibilidad cognitiva** (art. 29 bis). Tarjetas de **estacionamiento**, reserva de **viviendas** accesibles.
 - **Empleo (arts. 35 a 47):**
-    - Tipos de empleo: **ordinario** (en empresas y Administraciones, incluido el **empleo con apoyo**), **protegido** (en **centros especiales de empleo** y **enclaves laborales**) y **autónomo**.
+    - Tipos de empleo: **ordinario** (en empresas y Administraciones, incluidos los servicios de **empleo con apoyo** y de empleo personalizado), **protegido** (en **empresas para la inclusión laboral de las personas con discapacidad, EIDIS** —antes centros especiales de empleo—, con al menos un **70 %** de plantilla con discapacidad, y en **enclaves laborales**) y **autónomo**.
     - **Cuota de reserva (art. 42):** las empresas públicas y privadas de **50 o más trabajadores** deben tener al menos un **2 %** de trabajadores con discapacidad (con **medidas alternativas** excepcionales). En el **empleo público**, el cupo lo fija el **TREBEP**: al menos el **7 %** de las vacantes, con un **2 %** para discapacidad intelectual.
 - **Protección social (arts. 48 a 52)** y **participación** en la vida política y pública (arts. 53 y 54).
 
@@ -92,11 +92,11 @@ Telecomunicaciones y **sociedad de la información**; espacios públicos urbaniz
 | --- | --- |
 | **Consejo Nacional de la Discapacidad** (art. 55) | **Órgano colegiado interministerial, consultivo**, donde colaboran el **movimiento asociativo** de las personas con discapacidad y la AGE para definir y coordinar las políticas públicas |
 | **Oficina de Atención a la Discapacidad** (art. 56) | Órgano **permanente y especializado** del Consejo Nacional para promover la igualdad, la no discriminación y la accesibilidad |
-| **Observatorio Estatal de la Discapacidad** (art. 73) | **Instrumento técnico** de la AGE (a través de la Dirección General de Derechos de las Personas con Discapacidad) que recopila y difunde información; elabora un **informe anual** que eleva al Consejo Nacional |
+| **Observatorio Estatal de la Discapacidad** (art. 73) | Recopila, sistematiza, genera y difunde información sobre la discapacidad y apoya técnicamente el seguimiento de las estrategias; es **centro asesor del Real Patronato sobre Discapacidad**; elabora un **informe anual** que eleva al Consejo Nacional |
 
 ## Garantías y régimen sancionador
 
-- **Arbitraje** (art. 74) para resolver quejas en materia de igualdad y accesibilidad, **voluntario** y **vinculante**.
+- **Arbitraje** (art. 74): las reclamaciones de **personas consumidoras y usuarias** con discapacidad en materia de igualdad y no discriminación **en el ámbito de consumo** pueden someterse **voluntariamente** al **Sistema Arbitral de Consumo**.
 - **Tutela judicial** y protección contra **represalias**; **inversión de la carga de la prueba** (art. 77).
 - **Infracciones** leves, graves y muy graves; **multas de 301 € a 1.000.000 €** (leves hasta **30.000 €**, graves hasta **90.000 €**).
 - **Prescripción:** infracciones **1 / 3 / 4 años**; sanciones **1 / 4 / 5 años** (leves / graves / muy graves).
@@ -111,9 +111,9 @@ Es la llamada **«Ley de Dependencia»**. Crea el **Sistema para la Autonomía y
 
 | Concepto | Definición |
 | --- | --- |
-| **Autonomía** | Capacidad de controlar, afrontar y **tomar decisiones personales** sobre cómo vivir y de realizar las actividades básicas de la vida diaria |
-| **Dependencia** | Estado de **carácter permanente** en que se encuentran quienes, por **edad, enfermedad o discapacidad**, necesitan la **atención de otra persona** o ayudas importantes para las actividades básicas de la vida diaria |
-| **Actividades Básicas de la Vida Diaria (ABVD)** | Las tareas más elementales: **cuidado personal**, actividades domésticas básicas, **movilidad esencial**, reconocer personas y objetos, orientarse, entender y ejecutar órdenes sencillas |
+| **Autonomía** | Capacidad de controlar, afrontar y **tomar decisiones personales** sobre cómo vivir y de realizar las actividades de la vida diaria |
+| **Dependencia** | Estado de **carácter permanente** en que se encuentran quienes, por **edad, enfermedad o discapacidad**, necesitan la **atención de otra persona** o ayudas importantes para las actividades de la vida diaria |
+| **Actividades de la vida diaria (AVD)** (antes «básicas», ABVD; cambio de la Ley 4/2026) | Tareas que permiten desenvolverse con autonomía: reconocer personas y objetos, orientarse, entender y ejecutar órdenes o tareas sencillas, **cuidado personal**, actividades domésticas, **movilidad dentro y fuera del hogar**, **comunicación e interacciones**, **gestión y cuidado de la salud**, **gestión de la economía doméstica**… |
 | **Cuidados no profesionales** | Los que presta la **familia o el entorno** en el domicilio |
 | **Cuidados profesionales** | Los que presta una institución, entidad o profesional autónomo |
 | **Asistencia personal** | Servicio de un **asistente personal** que colabora en las tareas cotidianas para fomentar la **vida independiente** |
@@ -128,7 +128,7 @@ Los **españoles** que:
 1. Estén en situación de dependencia en alguno de los **grados**.
 2. **Residan en España** y lo hayan hecho durante **5 años**, de los cuales **2 inmediatamente anteriores** a la solicitud (en menores de 5 años, se exige a quien tenga su guarda).
 
-Los extranjeros, según la Ley de Extranjería y los tratados. Los **menores de 3 años** tienen una regulación específica (DA 13ª).
+Los extranjeros, según la Ley de Extranjería y los tratados. Los **menores de 6 años** tienen una regulación específica, con escala de valoración propia (art. 5.1.b y DA 13ª). Quedan exentos de los requisitos de nacionalidad y de 5 años de residencia los solicitantes y beneficiarios de asilo o protección subsidiaria y los beneficiarios de protección temporal.
 
 
 <!-- antes ley-39-2006:a6 -->
@@ -146,8 +146,8 @@ Los extranjeros, según la Ley de Extranjería y los tratados. Los **menores de 
 
 | Grado | Nombre | Cuándo |
 | --- | --- | --- |
-| **Grado I** | **Dependencia moderada** | Necesita ayuda para varias ABVD **al menos una vez al día**, o apoyo intermitente o limitado |
-| **Grado II** | **Dependencia severa** | Necesita ayuda para varias ABVD **dos o tres veces al día**, pero no el apoyo permanente de un cuidador |
+| **Grado I** | **Dependencia moderada** | Necesita ayuda para varias AVD **al menos una vez al día**, o apoyo intermitente o limitado |
+| **Grado II** | **Dependencia severa** | Necesita ayuda para varias AVD **dos o tres veces al día**, pero no el apoyo permanente de una persona cuidadora, **o tiene necesidades de apoyo extenso** para su autonomía personal |
 | **Grado III** | **Gran dependencia** | Necesita ayuda **varias veces al día** y, por su pérdida total de autonomía, el **apoyo indispensable y continuo** de otra persona |
 
 !!! tip "Truco"
@@ -159,7 +159,7 @@ Los extranjeros, según la Ley de Extranjería y los tratados. Los **menores de 
 
 - **Valoración (art. 27):** la hacen los **órganos de valoración de las CC. AA.** (siempre **públicos**), aplicando un **baremo** acordado en el Consejo Territorial y aprobado por el **Gobierno mediante Real Decreto**. Su referente es la **Clasificación Internacional del Funcionamiento, la Discapacidad y la Salud (CIF)** de la **OMS**. No se puede usar otro procedimiento.
 - **Procedimiento (art. 28):** se inicia **a instancia** del interesado o su representante. Lo resuelve la **Administración autonómica** de la residencia del solicitante, y la resolución tiene **validez en todo el Estado**. La valoración, la prescripción y la gestión de las prestaciones económicas **no pueden delegarse, contratarse ni concertarse** con entidades privadas.
-- **Plazo:** **6 meses** desde la solicitud hasta la resolución de reconocimiento de la prestación (DF 1ª).
+- **Plazo:** **3 meses** como máximo desde la solicitud hasta la resolución de reconocimiento de la prestación (art. 28.1 y DF 1ª.2, en la redacción de la Ley 4/2026 y del RDL 36/2026). Si pasan 3 meses sin resolución expresa notificada, el derecho de acceso a las prestaciones se genera desde ese momento (DF 1ª.3).
 - **Plan / Programa Individual de Atención (PIA, art. 29):** lo establecen los servicios sociales públicos, con **participación** del beneficiario y su familia, para elegir los servicios o prestaciones más adecuados a su grado. Se revisa a instancia del interesado, de oficio o por cambio de comunidad.
 - **Revisión (art. 30):** del grado, por mejoría, empeoramiento o error de diagnóstico.
 
@@ -167,27 +167,29 @@ Los extranjeros, según la Ley de Extranjería y los tratados. Los **menores de 
 <!-- antes ley-39-2006:a14 -->
 ## Prestaciones
 
-**Regla de prioridad (art. 14):** los **servicios** del catálogo son **prioritarios**; las **prestaciones económicas** son subsidiarias. La **prioridad** en el acceso la marcan el **grado** y, a igual grado, la **capacidad económica**. Las prestaciones económicas son **inembargables**.
+**Regla de prioridad (art. 14):** los **servicios** del catálogo son **prioritarios**; las **prestaciones económicas** son subsidiarias. La **prioridad** en el acceso la marcan el **grado**; a igual grado, el **tiempo de espera** desde la solicitud; y, a igual grado y espera, la **capacidad económica**. Las prestaciones económicas son **inembargables**.
 
-**Catálogo de servicios (art. 15):**
+**Catálogo de servicios (art. 15.1, redacción de la Ley 4/2026):** son **nueve**.
 
 | Servicio | Contenido |
 | --- | --- |
-| **Prevención y promoción de la autonomía personal** | Programas para prevenir o retrasar la dependencia |
-| **Teleasistencia** | Atención a distancia mediante **TIC** ante situaciones de emergencia, inseguridad o soledad |
-| **Ayuda a domicilio** | Atención de las **necesidades del hogar** y **cuidados personales** |
-| **Centro de Día y de Noche** | Centro de Día para **mayores**, para **menores de 65 años**, de **atención especializada**, y **Centro de Noche** |
-| **Atención residencial** | **Residencias** de personas mayores dependientes y **centros** según el tipo de discapacidad |
-
-La **Ley 4/2026** añade además el **servicio de asistencia personal** (art. 23 bis) y el **servicio de cuidados y apoyos en viviendas** (art. 24 bis), para que las personas puedan desarrollar un **proyecto de vida independiente** en viviendas ordinarias de su comunidad.
+| a) **Prevención** de la situación de dependencia | Programas para prevenir o retrasar la dependencia |
+| b) **Promoción de la autonomía personal** (art. 21 bis) | Ahora separado del anterior |
+| c) **Teleasistencia** | Atención a distancia mediante **TIC** ante situaciones de emergencia, inseguridad o soledad |
+| d) **Ayuda a domicilio** | Atención de las **necesidades del hogar** y **cuidados personales** |
+| e) **Asistencia personal** (art. 23 bis) | Apoyo personalizado para la **vida independiente** |
+| f) **Centro de Día y de Noche** | Centro de Día para **mayores**, para **menores de 65 años**, de **atención especializada**, y **Centro de Noche** |
+| g) **Cuidados y apoyos en viviendas** (art. 24 bis) | Para desarrollar un **proyecto de vida independiente** en viviendas ordinarias de su comunidad |
+| h) **Atención residencial** | **Residencias** de personas mayores dependientes y **centros** según el tipo de discapacidad |
+| i) **Provisión de productos de apoyo** (art. 25 bis) | Préstamo o cesión temporal de productos de apoyo para la autonomía personal |
 
 **Prestaciones económicas:**
 
 | Prestación | Cuándo |
 | --- | --- |
 | **Vinculada al servicio** (art. 17) | Periódica, **solo cuando no es posible** acceder a un servicio público o concertado; vinculada a la **adquisición de un servicio** |
-| **Para cuidados en el entorno familiar** (art. 18) | **Excepcional**, cuando la persona es atendida por su familia y hay condiciones adecuadas de convivencia y vivienda. El cuidador se da de **alta en la Seguridad Social** |
-| **De asistencia personal** (art. 19) | Para contratar una **asistencia personal** que facilite el acceso a la **educación y el trabajo** y una vida más autónoma |
+| **Para cuidados en el entorno familiar** (art. 18) | Se reconoce **cuando la persona en situación de dependencia lo desee**, esté atendida por su entorno familiar o relacional y haya condiciones adecuadas de convivencia y habitabilidad (la Ley 4/2026 le quitó el carácter «excepcional»). La Seguridad Social del cuidador se regula en la DA 4ª |
+| **De asistencia personal** (art. 19) | Para contratar una **asistencia personal** durante las horas fijadas en el PIA, orientada a la **vida independiente**, para personas dependientes **en cualquiera de sus grados** |
 | **Para cuidados y apoyos en viviendas** (art. 19 bis, Ley 4/2026) | Para contratar el servicio del art. 24 bis |
 
 - **Derechos de las personas cuidadoras (art. 4 bis, Ley 4/2026):** información, **acompañamiento y formación** para el cuidado y el autocuidado; la **persona cuidadora principal** es colectivo prioritario de empleo y tiene medidas de **conciliación** y de continuidad de la atención si enferma.
@@ -211,7 +213,7 @@ Infracciones leves, graves y muy graves (por ejemplo, impedir el acceso a servic
 | Qué | Dato |
 | --- | --- |
 | Reforma del art. 49 CE | 17 de febrero de 2024 |
-| Convención de la ONU | 2006 (ratificada por España en 2008) |
+| Convención de la ONU | 2006 (en vigor para España desde el 3-5-2008) |
 | Grado mínimo de discapacidad | 33 % |
 | Cuota de reserva en empresas | 2 % en empresas de 50 o más trabajadores |
 | Cupo en el empleo público (TREBEP) | ≥ 7 %, con ≥ 2 % para discapacidad intelectual |
@@ -219,6 +221,6 @@ Infracciones leves, graves y muy graves (por ejemplo, impedir el acceso a servic
 | Grados de dependencia | 3 (moderada, severa, gran dependencia) |
 | Residencia para ser titular de dependencia | 5 años, 2 inmediatamente anteriores |
 | Niveles de protección del SAAD | 3 (mínimo, acordado, adicional) |
-| Resolver la dependencia | 6 meses |
+| Resolver la dependencia | 3 meses |
 | Baremo | Aprobado por Real Decreto, basado en la CIF de la OMS |
 | Prescripción (ambas leyes) | Infracciones 1/3/4 años; sanciones 1/4/5 años |
