@@ -11,6 +11,337 @@
    "examen": "tai-libre-2026-extraordinario",
    "parte": "p1",
    "n": "2"
+  },
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "2"
+  }
+ ],
+ "a31": [
+  {
+   "pregunta": "Según el artículo 31.1 de la Constitución, todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de:",
+   "opciones": [
+    "Generalidad y progresividad.",
+    "Igualdad y progresividad.",
+    "Legalidad y proporcionalidad.",
+    "Igualdad y equidad."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 31.1 CE: sistema tributario justo inspirado en los principios de **igualdad y progresividad** que, **en ningún caso**, tendrá **alcance confiscatorio**."
+  },
+  {
+   "pregunta": "Según el artículo 31.2 de la Constitución, la programación y ejecución del gasto público responderán a los criterios de:",
+   "opciones": [
+    "Eficiencia y economía.",
+    "Eficacia y economía.",
+    "Eficacia y eficiencia.",
+    "Transparencia y eficiencia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 31.2 CE: el gasto público realizará una **asignación equitativa** de los recursos públicos, y su programación y ejecución responderán a los criterios de **eficiencia y economía**. No confundir con la **eficacia** del art. 103.1 (principio de actuación de la Administración)."
+  }
+ ],
+ "a32": [
+  {
+   "pregunta": "Según el artículo 32.2 de la Constitución, las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges y las causas de separación y disolución y sus efectos serán regulados por:",
+   "opciones": [
+    "La ley.",
+    "Una ley orgánica.",
+    "Los tratados internacionales ratificados por España.",
+    "La ley y, en su caso, los Estatutos de Autonomía."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 32.2 CE: «**La ley** regulará las formas de matrimonio…». No exige ley orgánica. El 32.1 reconoce al hombre y a la mujer el derecho a contraer matrimonio con **plena igualdad jurídica**."
+  }
+ ],
+ "a33": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "1"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 33.3 de la Constitución, nadie podrá ser privado de sus bienes y derechos sino:",
+   "opciones": [
+    "Por causa de utilidad pública, sin indemnización cuando concurra interés social.",
+    "Por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.",
+    "En virtud de resolución judicial firme, previa audiencia del interesado.",
+    "Por causa de interés general, previo pago del justiprecio que fije una ley orgánica."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 33.3 CE (base de la **expropiación forzosa**): causa justificada de **utilidad pública o interés social**, **con indemnización** y conforme a las leyes. La función social delimita el contenido de la propiedad y la herencia (33.2)."
+  }
+ ],
+ "a34": [
+  {
+   "pregunta": "Según el artículo 34.2 de la Constitución, regirá también para las fundaciones lo dispuesto en el artículo 22, apartados:",
+   "opciones": [
+    "1 y 3.",
+    "3 y 5.",
+    "2 y 4.",
+    "2 y 5."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 34.2 CE: se aplican a las fundaciones los **apartados 2 y 4 del art. 22**: son ilegales las que persigan fines o usen medios tipificados como delito (22.2) y solo pueden ser disueltas o suspendidas por resolución judicial motivada (22.4). El derecho de fundación es para **fines de interés general** (34.1)."
+  }
+ ],
+ "a35": [
+  {
+   "pregunta": "Según el artículo 35.2 de la Constitución, la ley regulará:",
+   "opciones": [
+    "El estatuto de los funcionarios públicos.",
+    "El salario mínimo interprofesional.",
+    "Un estatuto de los trabajadores.",
+    "El ejercicio del derecho de huelga."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 35.2 CE: «La ley regulará **un estatuto de los trabajadores**». El estatuto de los funcionarios está en el **art. 103.3** y la huelga en el **art. 28.2**. El 35.1 recoge el deber de trabajar y el derecho al trabajo, sin discriminación por razón de sexo."
+  }
+ ],
+ "a36": [
+  {
+   "pregunta": "Según el artículo 36 de la Constitución, la estructura interna y el funcionamiento de los Colegios Profesionales deberán ser:",
+   "opciones": [
+    "Transparentes.",
+    "Democráticos.",
+    "Independientes de los poderes públicos.",
+    "Autónomos y representativos."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 36 CE: la ley regulará las peculiaridades del régimen jurídico de los **Colegios Profesionales** y el ejercicio de las profesiones tituladas; su estructura interna y funcionamiento deberán ser **democráticos** (igual exigencia que para partidos, art. 6; sindicatos, art. 7; y organizaciones profesionales, art. 52)."
+  }
+ ],
+ "a37": [
+  {
+   "pregunta": "Según el artículo 37.1 de la Constitución, la ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como:",
+   "opciones": [
+    "La fuerza vinculante de los convenios.",
+    "La homologación administrativa de los convenios.",
+    "La eficacia general de los convenios aprobados por mayoría absoluta.",
+    "El arbitraje obligatorio en caso de desacuerdo."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 37.1 CE: la ley garantizará la negociación colectiva y **la fuerza vinculante de los convenios**. El 37.2 reconoce el derecho de trabajadores **y empresarios** a adoptar **medidas de conflicto colectivo**."
+  }
+ ],
+ "a38": [
+  {
+   "pregunta": "Según el artículo 38 de la Constitución, se reconoce la libertad de empresa en el marco de:",
+   "opciones": [
+    "La economía social de mercado.",
+    "La economía de mercado.",
+    "La planificación económica general.",
+    "La libre competencia y la unidad de mercado."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 38 CE: libertad de empresa **en el marco de la economía de mercado**; los poderes públicos garantizan su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la **planificación** (que regula el art. 131)."
+  }
+ ],
+ "a39": [
+  {
+   "pregunta": "Según el artículo 39.2 de la Constitución, la ley posibilitará:",
+   "opciones": [
+    "La adopción por parejas de hecho.",
+    "La protección integral de los menores extranjeros no acompañados.",
+    "La equiparación de las madres solteras a efectos de prestaciones.",
+    "La investigación de la paternidad."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 39.2 CE: los poderes públicos aseguran la protección integral de los hijos, **iguales ante la ley con independencia de su filiación**, y de las madres, cualquiera que sea su estado civil. «**La ley posibilitará la investigación de la paternidad**»."
+  }
+ ],
+ "a40": [
+  {
+   "pregunta": "De acuerdo con el artículo 40.1 de la Constitución, de manera especial los poderes públicos realizarán una política orientada:",
+   "opciones": [
+    "Al pleno empleo.",
+    "A la estabilidad de precios.",
+    "A la reducción de la jornada laboral.",
+    "A la formación y readaptación profesionales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 40.1 CE: «De manera especial realizarán una política orientada al **pleno empleo**», en el marco de una política de estabilidad económica. La formación y readaptación profesionales y la limitación de la jornada están en el 40.2."
+  }
+ ],
+ "a41": [
+  {
+   "pregunta": "Según el artículo 41 de la Constitución, los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos. Respecto de la asistencia y prestaciones complementarias, la Constitución establece que:",
+   "opciones": [
+    "Serán obligatorias para quienes superen determinado nivel de renta.",
+    "Serán gestionadas exclusivamente por las Comunidades Autónomas.",
+    "Formarán parte del régimen público de Seguridad Social.",
+    "Serán libres."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 41 CE: régimen público de Seguridad Social que garantice asistencia y prestaciones suficientes ante situaciones de necesidad, **especialmente en caso de desempleo**. «La asistencia y prestaciones complementarias **serán libres**»."
+  }
+ ],
+ "a42": [
+  {
+   "pregunta": "Según el artículo 42 de la Constitución, el Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y:",
+   "opciones": [
+    "Promoverá su integración en el país de acogida.",
+    "Garantizará su derecho de sufragio en todas las elecciones.",
+    "Orientará su política hacia su retorno.",
+    "Concertará convenios de Seguridad Social con los países de destino."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 42 CE, literal: el Estado velará por esos derechos «y **orientará su política hacia su retorno**»."
+  }
+ ],
+ "a43": [
+  {
+   "pregunta": "Según el artículo 43.3 de la Constitución, los poderes públicos fomentarán:",
+   "opciones": [
+    "La investigación científica y técnica en materia de salud.",
+    "La educación sanitaria, la educación física y el deporte.",
+    "La educación sanitaria y la utilización de la sanidad privada.",
+    "El acceso a la cultura y la utilización del ocio."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 43.3 CE: los poderes públicos **fomentarán la educación sanitaria, la educación física y el deporte**; asimismo **facilitarán** la adecuada utilización del ocio. El 43.1 reconoce el derecho a la **protección de la salud**."
+  }
+ ],
+ "a44": [
+  {
+   "pregunta": "¿En qué artículo de la Constitución se establece que los poderes públicos promoverán la ciencia y la investigación científica y técnica en beneficio del interés general?",
+   "opciones": [
+    "En el artículo 20.",
+    "En el artículo 27.",
+    "En el artículo 44.",
+    "En el artículo 46."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 44 CE: los poderes públicos promoverán y tutelarán el **acceso a la cultura** (44.1) y promoverán la **ciencia y la investigación científica y técnica** en beneficio del interés general (44.2). El art. 20.1.b) protege la producción y creación científica (derecho fundamental) y el 46 el patrimonio histórico."
+  }
+ ],
+ "a45": [
+  {
+   "pregunta": "Según el artículo 45.3 de la Constitución, para quienes violen lo dispuesto sobre la utilización racional de los recursos naturales, en los términos que la ley fije se establecerán:",
+   "opciones": [
+    "Sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado.",
+    "Sanciones administrativas, exclusivamente.",
+    "Sanciones penales, sin perjuicio de la responsabilidad civil subsidiaria del Estado.",
+    "La obligación de reparar el daño causado, sin perjuicio de las sanciones administrativas."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 45.3 CE: **sanciones penales o, en su caso, administrativas**, y la **obligación de reparar el daño causado**. El 45.1 reconoce el derecho a un medio ambiente adecuado **y el deber de conservarlo**."
+  }
+ ],
+ "a46": [
+  {
+   "pregunta": "De acuerdo con el artículo 46 de la Constitución, los atentados contra el patrimonio histórico, cultural y artístico de los pueblos de España:",
+   "opciones": [
+    "Serán sancionados exclusivamente por vía administrativa.",
+    "Serán sancionados conforme a lo que dispongan los Estatutos de Autonomía.",
+    "Serán sancionados por la ley penal.",
+    "Darán lugar a la expropiación del bien afectado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 46 CE: los poderes públicos garantizan la conservación del patrimonio histórico, cultural y artístico **cualquiera que sea su régimen jurídico y su titularidad**, y «**la ley penal** sancionará los atentados contra este patrimonio»."
+  }
+ ],
+ "a47": [
+  {
+   "pregunta": "Según el artículo 47 de la Constitución, la comunidad:",
+   "opciones": [
+    "Garantizará una vivienda digna a todas las personas residentes en España.",
+    "Participará en la planificación urbanística a través de sus organizaciones vecinales.",
+    "Soportará las cargas derivadas de la especulación del suelo.",
+    "Participará en las plusvalías que genere la acción urbanística de los entes públicos."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 47 CE: derecho de **todos los españoles** a una vivienda digna y adecuada; los poderes públicos regularán la utilización del suelo para **impedir la especulación**, y «**la comunidad participará en las plusvalías** que genere la acción urbanística de los entes públicos»."
+  }
+ ],
+ "a48": [
+  {
+   "pregunta": "Según el artículo 48 de la Constitución, los poderes públicos promoverán las condiciones para la participación libre y eficaz en el desarrollo político, social, económico y cultural de:",
+   "opciones": [
+    "La tercera edad.",
+    "Las personas con discapacidad.",
+    "Los consumidores y usuarios.",
+    "La juventud."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 48 CE: es el artículo de la **juventud**. La tercera edad está en el art. 50, las personas con discapacidad en el 49 y los consumidores y usuarios en el 51."
+  }
+ ],
+ "a49": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p2",
+   "n": "2"
+  },
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p2",
+   "n": "3"
+  }
+ ],
+ "a50": [
+  {
+   "pregunta": "Según el artículo 50 de la Constitución, los poderes públicos garantizarán la suficiencia económica a los ciudadanos durante la tercera edad mediante pensiones:",
+   "opciones": [
+    "Adecuadas y periódicamente actualizadas.",
+    "Suficientes y revalorizadas anualmente conforme al IPC.",
+    "Contributivas y no contributivas.",
+    "Dignas y vinculadas al salario mínimo interprofesional."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 50 CE: pensiones **adecuadas y periódicamente actualizadas**; además, con independencia de las obligaciones familiares, un sistema de **servicios sociales** que atenderá sus problemas de salud, vivienda, cultura y ocio. La revalorización con el IPC la fija la ley, no la Constitución."
+  }
+ ],
+ "a51": [
+  {
+   "pregunta": "De acuerdo con el artículo 51.1 de la Constitución, los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces:",
+   "opciones": [
+    "La salud, la intimidad y el derecho de desistimiento de los mismos.",
+    "La seguridad, la salud y los legítimos intereses económicos de los mismos.",
+    "La seguridad, la información y la libre elección de los mismos.",
+    "La salud y los intereses económicos de los mismos, así como su derecho de asociación."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 51.1 CE: protección de **la seguridad, la salud y los legítimos intereses económicos**. La información y educación de los consumidores son el objeto del 51.2, y el 51.3 remite a la ley la regulación del comercio interior y de la autorización de productos comerciales."
+  }
+ ],
+ "a52": [
+  {
+   "pregunta": "El mandato constitucional según el cual «la ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios», cuya estructura interna y funcionamiento deberán ser democráticos, se encuentra en:",
+   "opciones": [
+    "El artículo 7, dentro del Título Preliminar.",
+    "El artículo 36, dentro de la Sección 2.ª del Capítulo segundo del Título I.",
+    "El artículo 52, dentro del Capítulo tercero del Título I.",
+    "El artículo 28, dentro de la Sección 1.ª del Capítulo segundo del Título I."
+   ],
+   "respuesta": "c",
+   "explicacion": "Es el **art. 52 CE**, último de los **principios rectores** (Capítulo III). El art. 36 regula los **Colegios Profesionales**, el 7 los sindicatos y asociaciones empresariales y el 28 la libertad sindical."
+  }
+ ],
+ "a53": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "2"
+  },
+  {
+   "pregunta": "Según el artículo 53.2 de la Constitución, además de para las libertades y derechos del artículo 14 y de la Sección primera del Capítulo segundo, el recurso de amparo ante el Tribunal Constitucional será aplicable a:",
+   "opciones": [
+    "El derecho a la propiedad privada y a la herencia.",
+    "El derecho al trabajo y a la libre elección de profesión u oficio.",
+    "El derecho a contraer matrimonio con plena igualdad jurídica.",
+    "La objeción de conciencia reconocida en el artículo 30."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 53.2 CE: tutela por procedimiento basado en los principios de **preferencia y sumariedad** ante los Tribunales ordinarios y, en su caso, **recurso de amparo** ante el TC para el **art. 14 y arts. 15 a 29**; el amparo se extiende además a la **objeción de conciencia del art. 30**. Los demás derechos de la Sección 2.ª (arts. 31 a 38) no tienen amparo."
+  }
+ ],
+ "a54": [
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "19"
   }
  ]
 }

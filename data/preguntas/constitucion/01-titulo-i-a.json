@@ -1,0 +1,306 @@
+{
+ "a10": [
+  {
+   "pregunta": "Según el artículo 10.2 de la Constitución, las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+   "opciones": [
+    "La jurisprudencia del Tribunal Constitucional y del Tribunal Supremo.",
+    "La Carta de los Derechos Fundamentales de la Unión Europea, exclusivamente.",
+    "Las leyes orgánicas que desarrollen dichos derechos y libertades.",
+    "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 10.2 CE: se interpretan conforme a la **Declaración Universal de Derechos Humanos** y los **tratados y acuerdos internacionales** sobre las mismas materias **ratificados por España**. El art. 10.1 recoge la dignidad de la persona como fundamento del orden político y de la paz social."
+  }
+ ],
+ "a11": [
+  {
+   "pregunta": "De acuerdo con el artículo 11 de la Constitución:",
+   "opciones": [
+    "Ningún español podrá ser privado de su nacionalidad.",
+    "Los españoles de origen solo podrán ser privados de su nacionalidad por sentencia judicial firme.",
+    "La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por ley orgánica.",
+    "Ningún español de origen podrá ser privado de su nacionalidad."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 11.2 CE: la protección es solo para el **español de origen**; quien la ha adquirido sí puede perderla en los casos que fije la ley. El art. 11.1 remite a «la ley», sin exigir ley orgánica."
+  }
+ ],
+ "a12": [
+  {
+   "pregunta": "Según el artículo 12 de la Constitución, los españoles son mayores de edad a los:",
+   "opciones": [
+    "Dieciocho años.",
+    "Dieciséis años.",
+    "Diecisiete años.",
+    "Veintiún años."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 12 CE: «Los españoles son mayores de edad a los **dieciocho años**». Es un dato que la Constitución fija directamente, sin remitir a la ley."
+  }
+ ],
+ "a13": [
+  {
+   "pregunta": "Según el artículo 13.2 de la Constitución, solamente los españoles serán titulares de los derechos del artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones:",
+   "opciones": [
+    "Municipales.",
+    "Municipales y autonómicas.",
+    "Municipales y generales.",
+    "Autonómicas."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 13.2 CE (reformado en **1992** para añadir el sufragio **pasivo**): la excepción solo alcanza a las **elecciones municipales**, con criterio de **reciprocidad** y por tratado o ley."
+  },
+  {
+   "pregunta": "Según el artículo 13.3 de la Constitución, quedan excluidos de la extradición:",
+   "opciones": [
+    "Los delitos políticos, incluidos los actos de terrorismo cometidos con finalidad política.",
+    "Los delitos castigados con pena de muerte en el Estado que solicita la extradición.",
+    "Los delitos políticos, no considerándose como tales los actos de terrorismo.",
+    "Los delitos cometidos por españoles de origen."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 13.3 CE: la extradición se concede en cumplimiento de un tratado o de la ley, atendiendo al principio de **reciprocidad**; quedan excluidos los **delitos políticos**, pero **el terrorismo no se considera delito político**."
+  }
+ ],
+ "a14": [
+  {
+   "pregunta": "El artículo 14 de la Constitución menciona expresamente como motivos por los que no puede prevalecer discriminación alguna:",
+   "opciones": [
+    "Raza, sexo, religión, lengua y origen territorial.",
+    "Nacimiento, raza, sexo, edad y discapacidad.",
+    "Raza, sexo, ideología, orientación sexual y opinión.",
+    "Nacimiento, raza, sexo, religión y opinión."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 14 CE: igualdad ante la ley sin discriminación por razón de **nacimiento, raza, sexo, religión, opinión** o cualquier otra condición o circunstancia personal o social. Los demás motivos están protegidos por la cláusula abierta final, pero no se citan expresamente."
+  }
+ ],
+ "a15": [
+  {
+   "pregunta": "Según el artículo 15 de la Constitución, la pena de muerte:",
+   "opciones": [
+    "Queda abolida, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.",
+    "Queda abolida en todo caso, sin excepción alguna.",
+    "Queda abolida, salvo durante la vigencia del estado de sitio.",
+    "Queda abolida, salvo para los delitos de terrorismo y traición."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 15 CE: «Queda abolida la pena de muerte, **salvo lo que puedan disponer las leyes penales militares para tiempos de guerra**». Esa excepción constitucional no se usa: la LO 11/1995 la abolió también en tiempo de guerra, pero el texto de la CE no ha cambiado."
+  }
+ ],
+ "a16": [
+  {
+   "pregunta": "De acuerdo con el artículo 16 de la Constitución, señale la respuesta correcta:",
+   "opciones": [
+    "La religión católica es la oficial del Estado, sin perjuicio de la libertad de culto de las demás confesiones.",
+    "Se podrá obligar a declarar sobre la propia religión cuando lo exija el mantenimiento del orden público.",
+    "La libertad ideológica, religiosa y de culto no tiene más límite que el respeto a los derechos de los demás.",
+    "Ninguna confesión tendrá carácter estatal, y los poderes públicos mantendrán relaciones de cooperación con la Iglesia Católica y las demás confesiones."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 16.3 CE: **ninguna confesión tendrá carácter estatal** (aconfesionalidad), con **cooperación** con la Iglesia Católica y demás confesiones. Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias (16.2), y el único límite de sus manifestaciones es el **orden público** protegido por la ley (16.1)."
+  }
+ ],
+ "a17": [
+  {
+   "pregunta": "Según el artículo 17.2 de la Constitución, el plazo máximo en que el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial es de:",
+   "opciones": [
+    "Veinticuatro horas.",
+    "Setenta y dos horas.",
+    "Cuarenta y ocho horas.",
+    "Noventa y seis horas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 17.2 CE: la detención preventiva no podrá durar más del tiempo estrictamente necesario y, **en todo caso, en el plazo máximo de 72 horas**, el detenido será puesto en libertad o a disposición judicial."
+  },
+  {
+   "pregunta": "Según el artículo 17.4 de la Constitución, el procedimiento de «habeas corpus» tiene por objeto:",
+   "opciones": [
+    "Producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente.",
+    "Garantizar la asistencia de abogado al detenido en las diligencias policiales y judiciales.",
+    "Fijar el plazo máximo de duración de la prisión provisional.",
+    "Informar al detenido de forma inmediata de sus derechos y de las razones de su detención."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 17.4 CE: la ley regulará un procedimiento de **habeas corpus** para la **inmediata puesta a disposición judicial de toda persona detenida ilegalmente**. La asistencia de abogado y la información de derechos están en el 17.3; el plazo máximo de la prisión provisional lo fija la ley (también 17.4), pero no es el objeto del habeas corpus."
+  }
+ ],
+ "a18": [
+  {
+   "pregunta": "Según el artículo 18.2 de la Constitución, ninguna entrada o registro podrá hacerse en el domicilio sin consentimiento del titular o resolución judicial:",
+   "opciones": [
+    "Salvo autorización expresa del Ministro del Interior.",
+    "Salvo en caso de flagrante delito.",
+    "Salvo durante la vigencia del estado de alarma.",
+    "Salvo orden de la autoridad gubernativa en casos de urgencia."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 18.2 CE: el domicilio es inviolable; solo cabe entrar con **consentimiento del titular**, **resolución judicial** o en caso de **flagrante delito**. El secreto de las comunicaciones (18.3) solo cede ante **resolución judicial**."
+  }
+ ],
+ "a19": [
+  {
+   "pregunta": "De acuerdo con el artículo 19 de la Constitución, el derecho de los españoles a entrar y salir libremente de España:",
+   "opciones": [
+    "Se ejerce en los términos que la ley establezca y no podrá ser limitado por motivos políticos o ideológicos.",
+    "Solo podrá limitarse por motivos políticos o ideológicos mediante ley orgánica.",
+    "Requiere autorización administrativa previa en los términos que establezca la ley.",
+    "Se reconoce a todas las personas, españolas o extranjeras, en idénticos términos."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 19 CE: los **españoles** tienen derecho a elegir residencia, circular por el territorio nacional y **entrar y salir libremente de España en los términos que la ley establezca**; este derecho **no podrá ser limitado por motivos políticos o ideológicos**."
+  }
+ ],
+ "a20": [
+  {
+   "pregunta": "Según el artículo 20.5 de la Constitución, el secuestro de publicaciones, grabaciones y otros medios de información solo podrá acordarse:",
+   "opciones": [
+    "Por resolución del Ministerio del Interior, debidamente motivada.",
+    "En virtud de resolución judicial.",
+    "Por acuerdo del Consejo de Ministros, dando cuenta al Congreso.",
+    "Por resolución judicial o, en caso de urgencia, por la autoridad gubernativa."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 20.5 CE: **solo** en virtud de **resolución judicial**. Además, el art. 20.2 prohíbe **cualquier tipo de censura previa**."
+  },
+  {
+   "pregunta": "Según el artículo 20.1.d) de la Constitución, en el ejercicio de la libertad de comunicar o recibir libremente información veraz, la ley regulará:",
+   "opciones": [
+    "El derecho de rectificación y el régimen de censura previa.",
+    "El derecho de réplica y la autorización administrativa previa de los medios.",
+    "El derecho a la cláusula de conciencia y al secreto profesional.",
+    "El derecho a la libertad de cátedra y al secreto de las fuentes."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 20.1.d) CE: «La ley regulará el derecho a la **cláusula de conciencia** y al **secreto profesional** en el ejercicio de estas libertades». La censura previa está prohibida (20.2) y la libertad de cátedra es un derecho distinto (20.1.c)."
+  }
+ ],
+ "a21": [
+  {
+   "pregunta": "Según el artículo 21.2 de la Constitución, en los casos de reuniones en lugares de tránsito público y manifestaciones:",
+   "opciones": [
+    "Se requerirá autorización previa de la autoridad gubernativa.",
+    "Se dará comunicación previa a la autoridad judicial, que podrá prohibirlas por razones de seguridad ciudadana.",
+    "Se dará comunicación previa a la autoridad, que solo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+    "No será necesaria comunicación ni autorización previa, al ser un derecho fundamental."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 21 CE: el derecho de reunión pacífica y sin armas **no necesita autorización previa** (21.1); en lugares de tránsito público y manifestaciones basta **comunicación previa a la autoridad**, que solo puede prohibirlas por **razones fundadas de alteración del orden público, con peligro para personas o bienes** (21.2)."
+  }
+ ],
+ "a22": [
+  {
+   "pregunta": "Según el artículo 22.3 de la Constitución, las asociaciones constituidas al amparo de este artículo deberán inscribirse en un registro:",
+   "opciones": [
+    "Para adquirir personalidad jurídica.",
+    "A efectos del control de legalidad de sus fines por la Administración.",
+    "Solo si pretenden ser declaradas de utilidad pública.",
+    "A los solos efectos de publicidad."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 22.3 CE: la inscripción es **a los solos efectos de publicidad**; no es constitutiva. Además, solo pueden ser disueltas o suspendidas por **resolución judicial motivada** (22.4) y se prohíben las asociaciones **secretas** y las **paramilitares** (22.5)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 22.4 de la Constitución, las asociaciones solo podrán ser disueltas o suspendidas en sus actividades:",
+   "opciones": [
+    "En virtud de resolución gubernativa motivada.",
+    "Por resolución del Ministerio del Interior, previo informe del Ministerio Fiscal.",
+    "En virtud de resolución judicial motivada.",
+    "Por acuerdo del Consejo de Ministros."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 22.4 CE: **solo** por **resolución judicial motivada**. La Administración no puede disolver ni suspender una asociación. Este apartado se aplica también a las fundaciones (art. 34.2)."
+  }
+ ],
+ "a23": [
+  {
+   "pregunta": "Según el artículo 23.2 de la Constitución, los ciudadanos tienen derecho a acceder a las funciones y cargos públicos:",
+   "opciones": [
+    "En condiciones de igualdad, con los requisitos que señalen las leyes.",
+    "De acuerdo con los principios de mérito y capacidad, con los requisitos que establezca el Gobierno.",
+    "En condiciones de igualdad, mérito y capacidad, mediante oposición o concurso-oposición.",
+    "Libremente, sin más requisitos que la mayoría de edad y la nacionalidad española."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 23.2 CE: acceso **en condiciones de igualdad** a las funciones y cargos públicos, **con los requisitos que señalen las leyes**. Los principios de **mérito y capacidad** para el acceso a la función pública están en el **art. 103.3**, no en el 23.2."
+  }
+ ],
+ "a24": [
+  {
+   "pregunta": "¿Cuál de los siguientes derechos NO aparece expresamente recogido en el artículo 24.2 de la Constitución?",
+   "opciones": [
+    "El derecho a no declarar contra sí mismos y a no confesarse culpables.",
+    "El derecho a la doble instancia en todo tipo de procesos.",
+    "El derecho a un proceso público sin dilaciones indebidas y con todas las garantías.",
+    "El derecho a la presunción de inocencia."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 24.2 CE: juez ordinario predeterminado por la ley, defensa y asistencia de letrado, ser informado de la acusación, proceso público sin dilaciones indebidas y con todas las garantías, medios de prueba pertinentes, no declarar contra sí mismos, no confesarse culpables y **presunción de inocencia**. La **doble instancia** no se menciona en la Constitución."
+  }
+ ],
+ "a25": [
+  {
+   "pregunta": "De acuerdo con el artículo 25 de la Constitución, señale la respuesta correcta:",
+   "opciones": [
+    "La Administración civil podrá imponer sanciones privativas de libertad de hasta treinta días.",
+    "La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.",
+    "Las penas privativas de libertad podrán consistir en trabajos forzados cuando así lo establezca una ley orgánica.",
+    "El condenado a pena de prisión pierde, mientras la cumple, los derechos fundamentales del Capítulo segundo."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 25.3 CE: la **Administración civil** no puede imponer sanciones que **directa o subsidiariamente** impliquen privación de libertad. Las penas se orientan a la **reeducación y reinserción social** y **nunca** a trabajos forzados (25.2), y el preso conserva sus derechos fundamentales salvo los limitados por el fallo, el sentido de la pena y la ley penitenciaria."
+  }
+ ],
+ "a26": [
+  {
+   "pregunta": "Según el artículo 26 de la Constitución, se prohíben los Tribunales de Honor en el ámbito de:",
+   "opciones": [
+    "La Administración civil y militar.",
+    "Las organizaciones profesionales y las Fuerzas Armadas.",
+    "La Administración militar, exclusivamente.",
+    "La Administración civil y de las organizaciones profesionales."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 26 CE: se prohíben en la **Administración civil** y en las **organizaciones profesionales**. El texto constitucional no menciona el ámbito militar."
+  }
+ ],
+ "a27": [
+  {
+   "pregunta": "De acuerdo con el artículo 27 de la Constitución, señale la respuesta correcta:",
+   "opciones": [
+    "La enseñanza es obligatoria y gratuita hasta los dieciocho años.",
+    "La enseñanza básica es obligatoria, y gratuita solo en los centros públicos.",
+    "La enseñanza básica es obligatoria y gratuita.",
+    "Se reconoce la autonomía de las Universidades en los términos que establezcan sus Estatutos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 27.4 CE: «La **enseñanza básica** es **obligatoria y gratuita**». La CE no fija edades. La autonomía universitaria se reconoce «**en los términos que la ley establezca**» (27.10)."
+  }
+ ],
+ "a28": [
+  {
+   "pregunta": "Según el artículo 28.1 de la Constitución, la ley podrá limitar o exceptuar el ejercicio del derecho a sindicarse libremente:",
+   "opciones": [
+    "A los funcionarios públicos.",
+    "A los trabajadores de los servicios esenciales de la comunidad.",
+    "A las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar.",
+    "A los miembros del Gobierno y altos cargos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 28.1 CE: la ley podrá **limitar o exceptuar** el derecho a las **Fuerzas o Institutos armados** y demás Cuerpos sometidos a **disciplina militar**; para los **funcionarios** solo regulará las **peculiaridades** de su ejercicio. Los servicios esenciales aparecen en el 28.2, respecto de la huelga."
+  }
+ ],
+ "a29": [
+  {
+   "pregunta": "Según el artículo 29 de la Constitución, los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer el derecho de petición:",
+   "opciones": [
+    "Solo colectivamente, a través de sus asociaciones profesionales.",
+    "Solo individualmente y con arreglo a lo dispuesto en su legislación específica.",
+    "Individual y colectivamente, previa autorización de su superior jerárquico.",
+    "De ninguna forma, al estar excluidos de este derecho."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 29 CE: todos los españoles tienen derecho de petición **individual y colectiva, por escrito** (29.1); los militares y cuerpos con disciplina militar, **solo individualmente** y conforme a su legislación específica (29.2)."
+  }
+ ]
+}

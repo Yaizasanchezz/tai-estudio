@@ -9,6 +9,11 @@
    "examen": "aux-libre-2026",
    "parte": "p1",
    "n": "3"
+  },
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "1"
   }
  ],
  "a159": [
@@ -28,6 +33,349 @@
    "examen": "tai-libre-2026-extraordinario",
    "parte": "p1",
    "n": "5"
+  }
+ ],
+ "a160": [
+  {
+   "pregunta": "Según el artículo 160 de la Constitución, el Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey:",
+   "opciones": [
+    "A propuesta del Gobierno y por un período de tres años.",
+    "A propuesta del mismo Tribunal en pleno y por un período de nueve años.",
+    "A propuesta del Consejo General del Poder Judicial y por un período de tres años.",
+    "A propuesta del mismo Tribunal en pleno y por un período de tres años."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 160 CE: lo nombra el Rey **a propuesta del mismo Tribunal en pleno** y **por tres años**. Nueve años es la duración del mandato de los magistrados (art. 159.3)."
+  }
+ ],
+ "a162": [
+  {
+   "pregunta": "Según el artículo 162.1.a) de la Constitución, están legitimados para interponer el recurso de inconstitucionalidad:",
+   "opciones": [
+    "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+    "El Presidente del Gobierno, el Ministerio Fiscal, 50 Diputados, 50 Senadores y los órganos colegiados ejecutivos de las Comunidades Autónomas.",
+    "El Gobierno, el Defensor del Pueblo, 60 Diputados, 60 Senadores y las Asambleas de las Comunidades Autónomas.",
+    "El Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores y toda persona que invoque un interés legítimo."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 162.1.a) CE: **Presidente del Gobierno, Defensor del Pueblo, 50 Diputados, 50 Senadores**, órganos colegiados ejecutivos de las CCAA y, en su caso, sus Asambleas. El **Ministerio Fiscal** y las personas con interés legítimo están legitimados para el **amparo**, no para el recurso de inconstitucionalidad."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 162.1.b) de la Constitución, están legitimados para interponer el recurso de amparo:",
+   "opciones": [
+    "Solo las personas físicas que invoquen un derecho fundamental vulnerado, y el Ministerio Fiscal.",
+    "Toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.",
+    "Toda persona natural o jurídica que invoque un interés legítimo, así como 50 Diputados o 50 Senadores.",
+    "Toda persona natural o jurídica que invoque un interés legítimo y el Defensor del Pueblo, pero no el Ministerio Fiscal."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 162.1.b) CE: **toda persona natural o jurídica que invoque un interés legítimo**, así como el **Defensor del Pueblo** y el **Ministerio Fiscal**."
+  }
+ ],
+ "a163": [
+  {
+   "pregunta": "Según el artículo 163 de la Constitución, cuando un órgano judicial plantee la cuestión de inconstitucionalidad ante el Tribunal Constitucional, sus efectos:",
+   "opciones": [
+    "Serán siempre suspensivos del proceso hasta que resuelva el Tribunal.",
+    "Serán suspensivos solo en el orden penal.",
+    "En ningún caso serán suspensivos.",
+    "Serán suspensivos si así lo acuerda el Tribunal Constitucional."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 163 CE: la cuestión se plantea en los supuestos, forma y efectos que establezca la ley, «**que en ningún caso serán suspensivos**». Se refiere a normas con rango de ley, aplicables al caso y de cuya validez dependa el fallo."
+  }
+ ],
+ "a164": [
+  {
+   "pregunta": "Según el artículo 164.1 de la Constitución, las sentencias del Tribunal Constitucional tienen el valor de cosa juzgada:",
+   "opciones": [
+    "A partir del día siguiente de su publicación, y no cabe recurso alguno contra ellas.",
+    "Desde la fecha en que se dictan, y no cabe recurso alguno contra ellas.",
+    "A partir de los veinte días de su publicación, salvo que se recurran en súplica.",
+    "Desde su notificación a las partes, y cabe contra ellas recurso de aclaración."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 164.1 CE: tienen valor de cosa juzgada **a partir del día siguiente de su publicación** y **no cabe recurso alguno** contra ellas."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 164.1 de la Constitución, las sentencias del Tribunal Constitucional se publicarán en el boletín oficial del Estado:",
+   "opciones": [
+    "Sin los votos particulares, que se notifican solo a las partes.",
+    "Con los votos particulares, solo si lo acuerda el Pleno.",
+    "Únicamente cuando declaren la inconstitucionalidad de una ley.",
+    "Con los votos particulares, si los hubiere."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 164.1 CE: se publican en el BOE **con los votos particulares, si los hubiere**. Las que declaran la inconstitucionalidad de una ley y todas las que no se limiten a la estimación subjetiva de un derecho tienen plenos efectos frente a todos."
+  }
+ ],
+ "a165": [
+  {
+   "pregunta": "Según el artículo 165 de la Constitución, el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones se regularán por:",
+   "opciones": [
+    "Su propio Reglamento, aprobado por el Pleno.",
+    "Una ley orgánica.",
+    "Una ley ordinaria de las Cortes Generales.",
+    "El Reglamento de las Cortes Generales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 165 CE: **una ley orgánica** (hoy la LO 2/1979, del Tribunal Constitucional)."
+  }
+ ],
+ "a166": [
+  {
+   "pregunta": "Según el artículo 166 de la Constitución, la iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87. Por tanto, NO puede ejercerla:",
+   "opciones": [
+    "El Gobierno.",
+    "El Senado.",
+    "La iniciativa popular.",
+    "Las Asambleas de las Comunidades Autónomas."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 166 CE: remite solo a los **apartados 1 y 2 del art. 87** (Gobierno, Congreso, Senado y Asambleas de las CCAA). Queda excluida la **iniciativa popular**, regulada en el art. 87.3."
+  }
+ ],
+ "a168": [
+  {
+   "pregunta": "Según el artículo 168 de la Constitución, el procedimiento agravado de reforma se aplica a la revisión total o a una parcial que afecte a:",
+   "opciones": [
+    "El Título preliminar, el Capítulo segundo, Sección primera del Título I, o el Título II.",
+    "El Título preliminar, el Título I completo o el Título II.",
+    "El Título preliminar, el Capítulo segundo, Sección primera del Título I, o el Título VIII.",
+    "El Título I, el Título II o el Título X."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 168.1 CE: **Título preliminar**, **Capítulo segundo, Sección primera del Título I** (arts. 15 a 29) y **Título II** (Corona). El resto del Título I se reforma por el art. 167."
+  },
+  {
+   "pregunta": "En el procedimiento de reforma del artículo 168 de la Constitución:",
+   "opciones": [
+    "Se aprueba el principio por mayoría de tres quintos de cada Cámara y el referéndum es potestativo.",
+    "Se aprueba el principio por mayoría de dos tercios de cada Cámara, se disuelven inmediatamente las Cortes y el referéndum es potestativo.",
+    "Se aprueba el principio por mayoría absoluta de cada Cámara y se disuelven inmediatamente las Cortes.",
+    "Se aprueba el principio por mayoría de dos tercios de cada Cámara, se disuelven inmediatamente las Cortes y la reforma se somete a referéndum para su ratificación."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 168 CE: principio aprobado por **dos tercios** de cada Cámara y **disolución inmediata**; las nuevas Cámaras ratifican y aprueban el texto por **dos tercios** de ambas, y el **referéndum es obligatorio** (168.3). En el art. 167 el referéndum solo se celebra si lo pide una décima parte de los miembros de cualquier Cámara."
+  }
+ ],
+ "a169": [
+  {
+   "pregunta": "Según el artículo 169 de la Constitución, no podrá iniciarse la reforma constitucional:",
+   "opciones": [
+    "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116.",
+    "Durante el último año de la legislatura.",
+    "En tiempo de guerra, pero sí durante el estado de alarma.",
+    "Mientras las Cortes Generales estén disueltas, salvo acuerdo de la Diputación Permanente."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 169 CE: no puede **iniciarse** la reforma en **tiempo de guerra** ni durante la vigencia de **cualquiera** de los estados del art. 116 (alarma, excepción y sitio)."
+  }
+ ],
+ "primera": [
+  {
+   "pregunta": "Según la disposición adicional primera de la Constitución, la Constitución ampara y respeta:",
+   "opciones": [
+    "Los derechos históricos de los territorios forales.",
+    "Los derechos lingüísticos de las Comunidades Autónomas con lengua propia.",
+    "El régimen económico y fiscal del archipiélago canario.",
+    "Los regímenes provisionales de autonomía."
+   ],
+   "respuesta": "a",
+   "explicacion": "Disp. adic. 1.ª CE: **ampara y respeta los derechos históricos de los territorios forales**; su actualización general se hará, en su caso, en el marco de la Constitución y de los Estatutos de Autonomía."
+  }
+ ],
+ "segunda": [
+  {
+   "pregunta": "Según la disposición adicional segunda de la Constitución, la declaración de mayoría de edad del artículo 12:",
+   "opciones": [
+    "No se aplicará hasta la aprobación de una ley orgánica.",
+    "No perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado.",
+    "Prevalece en todo caso sobre los derechos forales.",
+    "No perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho público."
+   ],
+   "respuesta": "b",
+   "explicacion": "Disp. adic. 2.ª CE: la mayoría de edad a los 18 años (art. 12) **no perjudica las situaciones amparadas por los derechos forales en el ámbito del Derecho privado**."
+  }
+ ],
+ "tercera": [
+  {
+   "pregunta": "Según la disposición adicional tercera de la Constitución, la modificación del régimen económico y fiscal del archipiélago canario requerirá:",
+   "opciones": [
+    "Referéndum en las islas afectadas.",
+    "Ley orgánica aprobada por mayoría de tres quintos.",
+    "Informe previo de la Comunidad Autónoma o, en su caso, del órgano provisional autonómico.",
+    "Acuerdo previo con los Cabildos insulares."
+   ],
+   "respuesta": "c",
+   "explicacion": "Disp. adic. 3.ª CE: requiere **informe previo de la Comunidad Autónoma** o, en su caso, del órgano provisional autonómico."
+  }
+ ],
+ "cuarta": [
+  {
+   "pregunta": "Según la disposición adicional cuarta de la Constitución, en las Comunidades Autónomas donde tengan su sede más de una Audiencia Territorial:",
+   "opciones": [
+    "Deberán suprimirse todas salvo la de la capital de la Comunidad.",
+    "Su Tribunal Superior de Justicia asumirá las competencias de todas ellas.",
+    "El Consejo General del Poder Judicial decidirá cuál se mantiene.",
+    "Los Estatutos de Autonomía respectivos podrán mantener las existentes, distribuyendo las competencias entre ellas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Disp. adic. 4.ª CE: los **Estatutos de Autonomía podrán mantener las existentes**, distribuyendo competencias entre ellas, de conformidad con la ley orgánica del poder judicial y dentro de la unidad e independencia de este."
+  }
+ ],
+ "primera-2": [
+  {
+   "pregunta": "Según la disposición transitoria primera de la Constitución, en los territorios dotados de un régimen provisional de autonomía, sus órganos colegiados superiores podrán sustituir la iniciativa que el artículo 143.2 atribuye a las Diputaciones Provinciales o a los órganos interinsulares mediante acuerdo adoptado por:",
+   "opciones": [
+    "Mayoría de dos tercios de sus miembros.",
+    "Mayoría absoluta de sus miembros.",
+    "Mayoría simple de los presentes.",
+    "Unanimidad de sus miembros."
+   ],
+   "respuesta": "b",
+   "explicacion": "Disp. trans. 1.ª CE: acuerdo por **mayoría absoluta** de sus miembros. Si no ejercían este derecho en **tres años**, los organismos provisionales quedaban disueltos (disp. trans. 7.ª c)."
+  }
+ ],
+ "segunda-2": [
+  {
+   "pregunta": "Según la disposición transitoria segunda de la Constitución, los territorios que en el pasado hubiesen plebiscitado afirmativamente proyectos de Estatuto de autonomía y contaran con regímenes provisionales de autonomía:",
+   "opciones": [
+    "Podían proceder inmediatamente en la forma prevista en el artículo 148.2, si lo acordaban por mayoría absoluta sus órganos preautonómicos colegiados superiores.",
+    "Debían esperar cinco años para ampliar sus competencias.",
+    "Necesitaban la autorización de las Cortes Generales mediante ley orgánica.",
+    "Debían ratificar de nuevo su Estatuto en referéndum por mayoría absoluta de los electores de cada provincia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Disp. trans. 2.ª CE: podían proceder **inmediatamente** en la forma del art. 148.2 (sin esperar los cinco años) cuando lo acordaran por **mayoría absoluta** sus órganos preautonómicos, comunicándolo al Gobierno; el Estatuto se elaboraba conforme al art. 151.2. Es la vía de Cataluña, País Vasco y Galicia."
+  }
+ ],
+ "tercera-2": [
+  {
+   "pregunta": "Según la disposición transitoria tercera de la Constitución, la iniciativa del proceso autonómico por parte de las Corporaciones locales o de sus miembros, prevista en el artículo 143.2, se entiende diferida, con todos sus efectos, hasta:",
+   "opciones": [
+    "La aprobación de la Ley de Bases de Régimen Local.",
+    "La constitución de las Cortes Generales elegidas tras la Constitución.",
+    "La celebración de las primeras elecciones locales una vez vigente la Constitución.",
+    "El transcurso de un año desde la entrada en vigor de la Constitución."
+   ],
+   "respuesta": "c",
+   "explicacion": "Disp. trans. 3.ª CE: diferida **hasta la celebración de las primeras elecciones locales** una vez vigente la Constitución."
+  }
+ ],
+ "cuarta-2": [
+  {
+   "pregunta": "Según la disposición transitoria cuarta de la Constitución, en el caso de Navarra, y a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco que le sustituya, la iniciativa corresponde:",
+   "opciones": [
+    "A los municipios navarros que representen la mayoría del censo electoral.",
+    "A las Cortes Generales, mediante ley orgánica.",
+    "Al Gobierno, a propuesta del Consejo General Vasco.",
+    "Al Órgano Foral competente, cuya decisión debe ser ratificada por referéndum."
+   ],
+   "respuesta": "d",
+   "explicacion": "Disp. trans. 4.ª CE: la iniciativa corresponde al **Órgano Foral competente** (por mayoría de sus miembros) y su decisión debe **ratificarse por referéndum** aprobado por mayoría de los votos válidos. Si no prospera, solo puede reproducirse en distinto período del mandato del Órgano Foral y tras el plazo mínimo del art. 143."
+  }
+ ],
+ "quinta": [
+  {
+   "pregunta": "Según la disposición transitoria quinta de la Constitución, las ciudades de Ceuta y Melilla podrán constituirse en Comunidades Autónomas si así lo deciden sus respectivos Ayuntamientos, mediante acuerdo adoptado por:",
+   "opciones": [
+    "La mayoría absoluta de sus miembros, y así lo autorizan las Cortes Generales mediante una ley orgánica, en los términos del artículo 144.",
+    "La mayoría de dos tercios de sus miembros, y lo ratifican sus vecinos en referéndum.",
+    "La mayoría absoluta de sus miembros, y lo autoriza el Gobierno mediante real decreto.",
+    "La mayoría de tres quintos de sus miembros, y así lo autoriza el Senado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Disp. trans. 5.ª CE: acuerdo de sus Ayuntamientos por **mayoría absoluta** y autorización de las **Cortes Generales mediante ley orgánica** (art. 144). Finalmente se constituyeron como **ciudades autónomas** (Estatutos de 1995)."
+  }
+ ],
+ "sexta": [
+  {
+   "pregunta": "Según la disposición transitoria sexta de la Constitución, cuando se remitieran a la Comisión Constitucional del Congreso varios proyectos de Estatuto:",
+   "opciones": [
+    "Se dictaminarán conjuntamente en un plazo de dos meses.",
+    "Se dictaminarán por el orden de entrada, y el plazo de dos meses del artículo 151 empezará a contar desde que la Comisión termine el estudio del proyecto o proyectos de que sucesivamente haya conocido.",
+    "Se dictaminarán según el orden que fije la Mesa del Congreso, con un plazo de tres meses para cada uno.",
+    "El Gobierno decidirá el orden en que deban dictaminarse."
+   ],
+   "respuesta": "b",
+   "explicacion": "Disp. trans. 6.ª CE: se dictaminan **por el orden de entrada** y el plazo de **dos meses** del art. 151 se computa desde que la Comisión termine el estudio del proyecto o proyectos anteriores."
+  }
+ ],
+ "septima": [
+  {
+   "pregunta": "Según la disposición transitoria séptima de la Constitución, los organismos provisionales autonómicos se consideraban disueltos, entre otros casos, si no hubieran ejercido el derecho que les reconoce la disposición transitoria primera en el plazo de:",
+   "opciones": [
+    "Un año.",
+    "Cinco años.",
+    "Seis meses.",
+    "Tres años."
+   ],
+   "respuesta": "d",
+   "explicacion": "Disp. trans. 7.ª c) CE: **tres años**. También se disolvían al constituirse los órganos de los nuevos Estatutos (a) o si la iniciativa autonómica no prosperaba por no cumplir los requisitos del art. 143 (b)."
+  }
+ ],
+ "octava": [
+  {
+   "pregunta": "Según la disposición transitoria octava de la Constitución, las Cámaras que aprobaron la Constitución asumirían tras su entrada en vigor las funciones del Congreso y del Senado, sin que en ningún caso su mandato se extendiera más allá del:",
+   "opciones": [
+    "31 de diciembre de 1979.",
+    "6 de diciembre de 1980.",
+    "15 de junio de 1981.",
+    "29 de diciembre de 1982."
+   ],
+   "respuesta": "c",
+   "explicacion": "Disp. trans. 8.ª.1 CE: su mandato no podía extenderse **más allá del 15 de junio de 1981**. Además, tras la promulgación se abría un período de **treinta días** para aplicar el art. 99 (8.ª.2)."
+  }
+ ],
+ "novena": [
+  {
+   "pregunta": "Según la disposición transitoria novena de la Constitución, a los tres años de la elección por vez primera de los miembros del Tribunal Constitucional se procedería:",
+   "opciones": [
+    "Por sorteo a designar un grupo de cuatro miembros de la misma procedencia electiva que hubiera de cesar y renovarse.",
+    "A renovar a los cuatro miembros propuestos por el Congreso.",
+    "Por sorteo a designar a seis miembros que hubieran de cesar.",
+    "A elegir un nuevo Presidente del Tribunal por el Pleno."
+   ],
+   "respuesta": "a",
+   "explicacion": "Disp. trans. 9.ª CE: **sorteo** de un grupo de **cuatro miembros** de la misma procedencia (los dos del Gobierno y los dos del CGPJ cuentan como un grupo); a los otros tres años, sorteo entre los dos grupos restantes. Así se puso en marcha la renovación por terceras partes cada tres años (art. 159.3)."
+  }
+ ],
+ "dd": [
+  {
+   "pregunta": "Según la disposición derogatoria de la Constitución, ¿cuál de las siguientes leyes se menciona en primer lugar como derogada?",
+   "opciones": [
+    "El Fuero de los Españoles, de 17 de julio de 1945.",
+    "La Ley de Principios del Movimiento Nacional, de 17 de mayo de 1958.",
+    "La Ley Orgánica del Estado, de 10 de enero de 1967.",
+    "La Ley 1/1977, de 4 de enero, para la Reforma Política."
+   ],
+   "respuesta": "d",
+   "explicacion": "Disp. derogatoria 1 CE: «Queda derogada la **Ley 1/1977, de 4 de enero, para la Reforma Política**» y, en tanto no estuvieran ya derogadas por ella, las demás Leyes Fundamentales del franquismo (Principios del Movimiento, Fuero de los Españoles, Fuero del Trabajo, Ley de Cortes, Ley de Sucesión, Ley Orgánica del Estado y Ley de Referéndum). También deroga cuantas disposiciones se opongan a la Constitución."
+  },
+  {
+   "pregunta": "Según el apartado 2 de la disposición derogatoria de la Constitución, la Ley de 25 de octubre de 1839 se considera definitivamente derogada, en tanto pudiera conservar alguna vigencia, en lo que pudiera afectar a:",
+   "opciones": [
+    "La Comunidad Foral de Navarra.",
+    "Las provincias de Álava, Guipúzcoa y Vizcaya.",
+    "Las islas Canarias.",
+    "Las ciudades de Ceuta y Melilla."
+   ],
+   "respuesta": "b",
+   "explicacion": "Disp. derogatoria 2 CE: se considera definitivamente derogada la Ley de 25 de octubre de 1839 en lo que pudiera afectar a las provincias de **Álava, Guipúzcoa y Vizcaya**; en los mismos términos, la Ley de 21 de julio de 1876."
+  }
+ ],
+ "df": [
+  {
+   "pregunta": "Según la disposición final de la Constitución, esta entrará en vigor:",
+   "opciones": [
+    "A los veinte días de su publicación en el boletín oficial del Estado.",
+    "El día siguiente al de su publicación en el boletín oficial del Estado.",
+    "El mismo día de la publicación de su texto oficial en el boletín oficial del Estado.",
+    "El día de su sanción por el Rey ante las Cortes Generales."
+   ],
+   "respuesta": "c",
+   "explicacion": "Disp. final CE: entra en vigor **el mismo día de la publicación** de su texto oficial en el BOE (el **29 de diciembre de 1978**) y se publicará también en las demás lenguas de España."
   }
  ]
 }

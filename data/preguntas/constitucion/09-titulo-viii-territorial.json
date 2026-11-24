@@ -5,5 +5,360 @@
    "parte": "p1",
    "n": "9"
   }
+ ],
+ "a137": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "8"
+  }
+ ],
+ "a138": [
+  {
+   "pregunta": "Según el artículo 138.1 de la Constitución, el Estado garantiza la realización efectiva del principio de solidaridad, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a:",
+   "opciones": [
+    "Las circunstancias del hecho insular.",
+    "Las zonas de montaña.",
+    "Los derechos históricos de los territorios forales.",
+    "Las regiones con menor renta per cápita."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 138.1 CE: atendiendo en particular a las circunstancias del **hecho insular**. Además, las diferencias entre Estatutos no podrán implicar, en ningún caso, privilegios económicos o sociales (138.2)."
+  }
+ ],
+ "a139": [
+  {
+   "pregunta": "De acuerdo con el artículo 139.2 de la Constitución, ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen:",
+   "opciones": [
+    "La libre circulación de capitales y de trabajadores en el territorio de la Unión Europea.",
+    "La libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.",
+    "La libertad de empresa en el marco de la economía de mercado.",
+    "La libre prestación de servicios entre Comunidades Autónomas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 139.2 CE: la prohibición se refiere a la **libertad de circulación y establecimiento de las personas y la libre circulación de bienes** en todo el territorio español. El 139.1 añade que todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio."
+  }
+ ],
+ "a140": [
+  {
+   "pregunta": "Según el artículo 140 de la Constitución, los Alcaldes serán elegidos:",
+   "opciones": [
+    "Siempre por los vecinos, mediante sufragio universal, igual, libre, directo y secreto.",
+    "Exclusivamente por los Concejales.",
+    "Por los Concejales o por los vecinos.",
+    "Por el Pleno de la Diputación Provincial."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 140 CE: los Concejales son elegidos por los vecinos por sufragio universal, igual, libre, directo y secreto; los **Alcaldes serán elegidos por los Concejales o por los vecinos**. Los municipios gozan de personalidad jurídica plena y la ley regulará el concejo abierto."
+  }
+ ],
+ "a141": [
+  {
+   "pregunta": "Según el artículo 141.1 de la Constitución, cualquier alteración de los límites provinciales habrá de ser aprobada:",
+   "opciones": [
+    "Por las Cortes Generales mediante ley orgánica.",
+    "Por las Comunidades Autónomas afectadas mediante ley.",
+    "Por el Gobierno mediante real decreto, previo informe de las Diputaciones afectadas.",
+    "Por las Cortes Generales mediante ley ordinaria."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 141.1 CE: la alteración de los límites provinciales requiere aprobación de las **Cortes Generales mediante ley orgánica**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 141.4 de la Constitución, en los archipiélagos las islas tendrán además su administración propia en forma de:",
+   "opciones": [
+    "Diputaciones insulares o Mancomunidades.",
+    "Cabildos o Consejos.",
+    "Comarcas o Consejos.",
+    "Cabildos o Diputaciones."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 141.4 CE: las islas tendrán administración propia en forma de **Cabildos** (Canarias) **o Consejos** (Baleares). El gobierno de las provincias corresponde a Diputaciones u otras Corporaciones representativas (141.2)."
+  }
+ ],
+ "a142": [
+  {
+   "pregunta": "Según el artículo 142 de la Constitución, las Haciendas locales se nutrirán fundamentalmente de:",
+   "opciones": [
+    "Tributos propios y transferencias del Fondo de Compensación Interterritorial.",
+    "Participación en los tributos del Estado y operaciones de crédito.",
+    "Tasas y precios públicos por la prestación de servicios.",
+    "Tributos propios y de participación en los del Estado y de las Comunidades Autónomas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 142 CE: deben disponer de medios suficientes y se nutrirán fundamentalmente de **tributos propios y de participación en los del Estado y de las Comunidades Autónomas**."
+  }
+ ],
+ "a143": [
+  {
+   "pregunta": "Según el artículo 143.2 de la Constitución, la iniciativa del proceso autonómico corresponde a todas las Diputaciones interesadas o al órgano interinsular correspondiente y a:",
+   "opciones": [
+    "Las tres cuartas partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+    "La mayoría absoluta de los municipios de cada provincia o isla.",
+    "Las dos terceras partes de los municipios cuya población represente, al menos, la mayoría del censo electoral de cada provincia o isla.",
+    "Las dos terceras partes de los municipios, sin requisito de población."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 143.2 CE: **dos terceras partes de los municipios** que representen al menos la mayoría del censo electoral, en el plazo de **seis meses** desde el primer acuerdo. Las **tres cuartas partes** son las de la vía del art. 151.1."
+  },
+  {
+   "pregunta": "Según el artículo 143.3 de la Constitución, la iniciativa del proceso autonómico, en caso de no prosperar, solamente podrá reiterarse pasados:",
+   "opciones": [
+    "Tres años.",
+    "Cinco años.",
+    "Seis meses.",
+    "Cuatro años."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 143.3 CE: solo podrá reiterarse pasados **cinco años**. Los seis meses son el plazo para cumplir los requisitos de la iniciativa (143.2)."
+  }
+ ],
+ "a144": [
+  {
+   "pregunta": "Según el artículo 144 de la Constitución, autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del artículo 143.1 corresponde, por motivos de interés nacional:",
+   "opciones": [
+    "Al Gobierno, mediante real decreto.",
+    "Al Congreso de los Diputados, por mayoría absoluta.",
+    "Al Senado, por mayoría absoluta.",
+    "A las Cortes Generales, mediante ley orgánica."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 144.a) CE: lo hacen las **Cortes Generales, mediante ley orgánica**, por motivos de interés nacional (así se constituyó la Comunidad de Madrid). También pueden autorizar o acordar Estatutos para territorios no integrados en la organización provincial y sustituir la iniciativa de las Corporaciones locales."
+  }
+ ],
+ "a145": [
+  {
+   "pregunta": "De acuerdo con el artículo 145.2 de la Constitución, los acuerdos de cooperación entre Comunidades Autónomas, fuera de los convenios para la gestión y prestación de servicios propios previstos en sus Estatutos, necesitarán:",
+   "opciones": [
+    "La autorización de las Cortes Generales.",
+    "La comunicación previa al Gobierno.",
+    "La autorización del Senado por mayoría absoluta.",
+    "El dictamen previo del Consejo de Estado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 145.2 CE: para los convenios de gestión de servicios basta la **comunicación** a las Cortes en los términos de los Estatutos; los demás acuerdos de cooperación necesitan la **autorización de las Cortes Generales**. En ningún caso se admite la **federación** de Comunidades Autónomas (145.1)."
+  }
+ ],
+ "a146": [
+  {
+   "pregunta": "Según el artículo 146 de la Constitución, el proyecto de Estatuto en la vía del artículo 143 será elaborado por una asamblea compuesta por:",
+   "opciones": [
+    "Los Diputados y Senadores elegidos en las provincias afectadas, exclusivamente.",
+    "Los miembros de la Diputación u órgano interinsular de las provincias afectadas y los Diputados y Senadores elegidos en ellas.",
+    "Los Alcaldes de los municipios que hayan apoyado la iniciativa.",
+    "Los miembros de las Diputaciones afectadas y un representante del Gobierno."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 146 CE: asamblea de **miembros de la Diputación u órgano interinsular** + **Diputados y Senadores** elegidos en esas provincias; el proyecto se eleva a las Cortes para su tramitación como ley. La asamblea solo de parlamentarios es la del art. 151.2."
+  }
+ ],
+ "a147": [
+  {
+   "pregunta": "Según el artículo 147.3 de la Constitución, la reforma de los Estatutos de Autonomía se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso:",
+   "opciones": [
+    "Referéndum de los electores de la Comunidad Autónoma.",
+    "Dictamen previo del Consejo de Estado.",
+    "La aprobación por las Cortes Generales, mediante ley orgánica.",
+    "Mayoría de tres quintos de la Asamblea legislativa de la Comunidad Autónoma."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 147.3 CE: en todo caso, **aprobación por las Cortes Generales mediante ley orgánica**. El referéndum solo se exige para los Estatutos aprobados por la vía del art. 151 (art. 152.2)."
+  },
+  {
+   "pregunta": "¿Cuál de los siguientes contenidos NO figura entre los que, según el artículo 147.2 de la Constitución, deberán contener los Estatutos de autonomía?",
+   "opciones": [
+    "La denominación de la Comunidad que mejor corresponda a su identidad histórica.",
+    "La delimitación de su territorio.",
+    "La denominación, organización y sede de las instituciones autónomas propias.",
+    "La bandera y el escudo de la Comunidad."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 147.2 CE: denominación, **delimitación del territorio**, denominación, organización y sede de las instituciones, y **competencias asumidas** con las bases para el traspaso de servicios. La bandera no está en esa lista (de las banderas autonómicas habla el art. 4.2)."
+  }
+ ],
+ "a148": [
+  {
+   "pregunta": "Según el artículo 148.2 de la Constitución, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el artículo 149, mediante la reforma de sus Estatutos, una vez transcurridos:",
+   "opciones": [
+    "Cinco años.",
+    "Tres años.",
+    "Cuatro años.",
+    "Seis años."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 148.2 CE: **transcurridos cinco años** y mediante reforma de sus Estatutos. Ese plazo no era necesario para las Comunidades de la vía del art. 151."
+  },
+  {
+   "pregunta": "De las siguientes materias, ¿cuál figura en el artículo 148.1 de la Constitución entre las competencias que pueden asumir las Comunidades Autónomas?",
+   "opciones": [
+    "Comercio exterior.",
+    "Pesca marítima.",
+    "Ferias interiores.",
+    "Marina mercante."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 148.1.12.ª CE: **ferias interiores**. El comercio exterior (149.1.10.ª), la pesca marítima (149.1.19.ª) y la marina mercante (149.1.20.ª) son competencia exclusiva del Estado. Ojo: lo que pueden asumir es la pesca en **aguas interiores** (148.1.11.ª)."
+  }
+ ],
+ "a149": [
+  {
+   "pregunta": "Según el artículo 149.1 de la Constitución, es competencia exclusiva del Estado:",
+   "opciones": [
+    "La autorización para la convocatoria de consultas populares por vía de referéndum.",
+    "La promoción y ordenación del turismo en su ámbito territorial.",
+    "La asistencia social.",
+    "La artesanía."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 149.1.32.ª CE: **autorización para la convocatoria de consultas populares por vía de referéndum**. El turismo (148.1.18.ª), la asistencia social (148.1.20.ª) y la artesanía (148.1.14.ª) son materias que pueden asumir las Comunidades Autónomas."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 149.3 de la Constitución, el derecho estatal será, en todo caso, respecto del derecho de las Comunidades Autónomas:",
+   "opciones": [
+    "Prevalente.",
+    "Básico.",
+    "Preferente.",
+    "Supletorio."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 149.3 CE: el derecho estatal será, en todo caso, **supletorio**. La **prevalencia** de las normas estatales se predica solo en caso de conflicto y en lo que no esté atribuido a la competencia exclusiva de las Comunidades Autónomas."
+  }
+ ],
+ "a150": [
+  {
+   "pregunta": "Según el artículo 150.3 de la Constitución, la apreciación de la necesidad de dictar leyes de armonización de las disposiciones normativas de las Comunidades Autónomas corresponde a:",
+   "opciones": [
+    "Las Cortes Generales, por mayoría absoluta de cada Cámara.",
+    "El Congreso de los Diputados, por mayoría de tres quintos.",
+    "Las Cortes Generales, por mayoría de dos tercios de cada Cámara.",
+    "El Gobierno, previo dictamen del Consejo de Estado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 150.3 CE: corresponde a las **Cortes Generales, por mayoría absoluta de cada Cámara**, cuando así lo exija el interés general, aun en materias de competencia autonómica."
+  },
+  {
+   "pregunta": "Conforme al artículo 150.2 de la Constitución, el Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal mediante:",
+   "opciones": [
+    "Ley marco.",
+    "Ley de armonización.",
+    "Ley orgánica.",
+    "Ley ordinaria aprobada por mayoría absoluta del Congreso."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 150.2 CE: transferencia o delegación **mediante ley orgánica**, que preverá la transferencia de medios financieros y las formas de control del Estado. Las **leyes marco** son las del 150.1 y las de **armonización** las del 150.3."
+  }
+ ],
+ "a151": [
+  {
+   "pregunta": "Según el artículo 151.1 de la Constitución, para acceder a la autonomía por esta vía, la iniciativa debe ser acordada, además de por las Diputaciones o los órganos interinsulares, por:",
+   "opciones": [
+    "Las dos terceras partes de los municipios de cada provincia afectada que representen, al menos, la mayoría del censo electoral de cada una de ellas.",
+    "Las tres cuartas partes de los municipios de cada provincia afectada que representen, al menos, la mayoría del censo electoral de cada una de ellas.",
+    "La mayoría absoluta de los municipios de cada provincia afectada.",
+    "Las tres quintas partes de los municipios de cada provincia afectada que representen, al menos, la mayoría del censo electoral."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 151.1 CE: **tres cuartas partes de los municipios** de cada provincia con la mayoría del censo, y ratificación en **referéndum** por la **mayoría absoluta de los electores** de cada provincia. Los dos tercios son los del art. 143.2."
+  },
+  {
+   "pregunta": "En el procedimiento de elaboración del Estatuto del artículo 151.2 de la Constitución, el proyecto aprobado por la Asamblea de Parlamentarios se remite a la Comisión Constitucional del Congreso, la cual lo examinará con una delegación de la Asamblea proponente dentro del plazo de:",
+   "opciones": [
+    "Un mes.",
+    "Tres meses.",
+    "Dos meses.",
+    "Seis meses."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 151.2.2.º CE: la Comisión Constitucional del Congreso lo examina **dentro del plazo de dos meses** con el concurso de una delegación de la Asamblea proponente; si hay acuerdo, el texto se somete a referéndum de las provincias afectadas."
+  }
+ ],
+ "a153": [
+  {
+   "pregunta": "Según el artículo 153 de la Constitución, el control de la administración autónoma y de sus normas reglamentarias se ejercerá por:",
+   "opciones": [
+    "El Tribunal Constitucional.",
+    "El Gobierno, previo dictamen del Consejo de Estado.",
+    "El Tribunal de Cuentas.",
+    "La jurisdicción contencioso-administrativa."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 153.c) CE: **jurisdicción contencioso-administrativa**. El TC controla las disposiciones con fuerza de ley (a); el Gobierno, previo dictamen del Consejo de Estado, las funciones delegadas del 150.2 (b); y el Tribunal de Cuentas, el control económico y presupuestario (d)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 153 de la Constitución, el control del ejercicio de las funciones delegadas a las Comunidades Autónomas a que se refiere el artículo 150.2 corresponde a:",
+   "opciones": [
+    "El Gobierno, previo dictamen del Consejo de Estado.",
+    "Las Cortes Generales.",
+    "El Tribunal Constitucional.",
+    "El Delegado del Gobierno en la Comunidad Autónoma."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 153.b) CE: el **Gobierno, previo dictamen del Consejo de Estado**, controla el ejercicio de las funciones delegadas del art. 150.2."
+  }
+ ],
+ "a154": [
+  {
+   "pregunta": "Según el artículo 154 de la Constitución, la Administración del Estado en el territorio de la Comunidad Autónoma será dirigida por un Delegado nombrado por:",
+   "opciones": [
+    "El Rey, a propuesta del Presidente de la Comunidad Autónoma.",
+    "El Gobierno.",
+    "El Ministro del Interior.",
+    "El Presidente del Gobierno, oído el Consejo de Gobierno de la Comunidad Autónoma."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 154 CE: un **Delegado nombrado por el Gobierno** dirige la Administración del Estado en el territorio de la Comunidad Autónoma y la coordina, cuando proceda, con la administración propia de la Comunidad."
+  }
+ ],
+ "a155": [
+  {
+   "pregunta": "Según el artículo 155 de la Constitución, para adoptar las medidas necesarias para obligar a una Comunidad Autónoma al cumplimiento forzoso de sus obligaciones, el Gobierno necesita, previo requerimiento al Presidente de la Comunidad Autónoma no atendido:",
+   "opciones": [
+    "La autorización del Congreso de los Diputados por mayoría absoluta.",
+    "La aprobación de las Cortes Generales por mayoría de tres quintos.",
+    "La aprobación por mayoría absoluta del Senado.",
+    "El dictamen favorable del Tribunal Constitucional."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 155.1 CE: requerimiento previo al Presidente autonómico y, si no se atiende, **aprobación por mayoría absoluta del Senado**. Para ejecutar las medidas, el Gobierno puede dar instrucciones a todas las autoridades de la Comunidad (155.2)."
+  }
+ ],
+ "a156": [
+  {
+   "pregunta": "Según el artículo 156.1 de la Constitución, las Comunidades Autónomas gozarán de autonomía financiera para el desarrollo y ejecución de sus competencias con arreglo a los principios de:",
+   "opciones": [
+    "Coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.",
+    "Estabilidad presupuestaria y sostenibilidad financiera.",
+    "Suficiencia financiera y corresponsabilidad fiscal.",
+    "Coordinación con la Hacienda estatal y de lealtad institucional."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 156.1 CE: principios de **coordinación con la Hacienda estatal** y de **solidaridad entre todos los españoles**. Además, pueden actuar como delegados o colaboradores del Estado en la recaudación, gestión y liquidación de sus tributos (156.2)."
+  }
+ ],
+ "a157": [
+  {
+   "pregunta": "Señale cuál de los siguientes NO figura entre los recursos de las Comunidades Autónomas enumerados en el artículo 157.1 de la Constitución:",
+   "opciones": [
+    "El producto de las operaciones de crédito.",
+    "Sus propios impuestos, tasas y contribuciones especiales.",
+    "Rendimientos procedentes de su patrimonio e ingresos de derecho privado.",
+    "Recargos sobre los tributos de las Corporaciones locales de su territorio."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 157.1 CE: impuestos cedidos, **recargos sobre impuestos estatales** y participaciones en ingresos del Estado; impuestos, tasas y contribuciones especiales propios; transferencias del Fondo de Compensación y asignaciones de los PGE; rendimientos del patrimonio e ingresos de derecho privado; y operaciones de crédito. No hay recargos sobre tributos locales."
+  }
+ ],
+ "a158": [
+  {
+   "pregunta": "Según el artículo 158.2 de la Constitución, el Fondo de Compensación, constituido para corregir desequilibrios económicos interterritoriales, tiene destino a:",
+   "opciones": [
+    "Gastos corrientes de los servicios públicos fundamentales, y sus recursos los distribuye el Gobierno.",
+    "Gastos de inversión, y sus recursos los distribuyen las Cortes Generales entre las Comunidades Autónomas y provincias, en su caso.",
+    "Gastos de inversión, y sus recursos los distribuye el Consejo de Política Fiscal y Financiera.",
+    "Gastos de personal y funcionamiento, y sus recursos los distribuyen las Cortes Generales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 158.2 CE: Fondo de Compensación **con destino a gastos de inversión**, cuyos recursos **distribuyen las Cortes Generales** entre las Comunidades Autónomas y provincias, en su caso. La garantía de un nivel mínimo de servicios públicos fundamentales se vincula a la asignación del 158.1."
+  }
  ]
 }

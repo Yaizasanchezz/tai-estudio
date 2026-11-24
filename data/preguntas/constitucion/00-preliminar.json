@@ -12,5 +12,114 @@
    "parte": "p1",
    "n": "2"
   }
+ ],
+ "preambulo": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "1"
+  }
+ ],
+ "a1": [
+  {
+   "pregunta": "Según el artículo 1.1 de la Constitución, España propugna como valores superiores de su ordenamiento jurídico:",
+   "opciones": [
+    "La libertad, la justicia, la igualdad y la seguridad jurídica.",
+    "La libertad, la igualdad, la solidaridad y el pluralismo político.",
+    "La justicia, la igualdad, la dignidad de la persona y el pluralismo político.",
+    "La libertad, la justicia, la igualdad y el pluralismo político."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 1.1 CE: los **valores superiores** son **libertad, justicia, igualdad y pluralismo político** (cuatro). La seguridad jurídica es un **principio** del art. 9.3 y la dignidad de la persona es fundamento del orden político (art. 10.1), no valor superior."
+  },
+  {
+   "pregunta": "Según el artículo 1 de la Constitución, la forma política del Estado español es:",
+   "opciones": [
+    "La Monarquía constitucional.",
+    "El Estado social y democrático de Derecho.",
+    "La Monarquía parlamentaria.",
+    "La Monarquía hereditaria."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 1.3 CE: «La forma política del Estado español es la **Monarquía parlamentaria**». «Estado social y democrático de Derecho» es cómo **se constituye** España (art. 1.1), no su forma política."
+  }
+ ],
+ "a2": [
+  {
+   "pregunta": "De acuerdo con el artículo 2 de la Constitución, esta reconoce y garantiza el derecho a la autonomía de:",
+   "opciones": [
+    "Las Comunidades Autónomas, provincias y municipios que integran el Estado.",
+    "Las nacionalidades y regiones que integran la Nación española, y la solidaridad entre todas ellas.",
+    "Las nacionalidades históricas que lo hubieran plebiscitado en el pasado.",
+    "Las regiones y provincias limítrofes con características históricas, culturales y económicas comunes."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 2 CE: la Constitución se fundamenta en la indisoluble unidad de la Nación española y **reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones** que la integran y la **solidaridad** entre todas ellas. La autonomía de municipios y provincias se reconoce en el art. 137."
+  }
+ ],
+ "a3": [
+  {
+   "pregunta": "Según el artículo 3.1 de la Constitución, respecto del castellano, todos los españoles tienen:",
+   "opciones": [
+    "El derecho a conocerlo y a usarlo.",
+    "El deber de conocerlo y el derecho a usarlo.",
+    "El deber de conocerlo y de usarlo.",
+    "El derecho a conocerlo y el deber de usarlo."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 3.1 CE: el castellano es la lengua española oficial del Estado y todos los españoles tienen **el deber de conocerla y el derecho a usarla**. Las demás lenguas españolas son también oficiales en sus CC. AA. **de acuerdo con sus Estatutos** (art. 3.2)."
+  }
+ ],
+ "a4": [
+  {
+   "pregunta": "Según el artículo 4.1 de la Constitución, la bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla:",
+   "opciones": [
+    "De igual anchura que cada una de las rojas.",
+    "De triple anchura que cada una de las rojas.",
+    "De la mitad de anchura que cada una de las rojas.",
+    "De doble anchura que cada una de las rojas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 4.1 CE: la franja amarilla es **de doble anchura que cada una de las rojas**. Según el art. 4.2, las banderas de las CC. AA. se utilizan **junto a** la de España en sus edificios públicos y actos oficiales."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "Según el artículo 5 de la Constitución, la capital del Estado es:",
+   "opciones": [
+    "La villa de Madrid.",
+    "La ciudad de Madrid.",
+    "El municipio de Madrid, en los términos que establezca su ley de capitalidad.",
+    "La Comunidad de Madrid."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 5 CE, literal: «La capital del Estado es **la villa de Madrid**». Es uno de los artículos más breves de la Constitución y el tribunal suele jugar con la palabra «villa»."
+  }
+ ],
+ "a6": [
+  {
+   "pregunta": "De acuerdo con el artículo 6 de la Constitución, los partidos políticos:",
+   "opciones": [
+    "Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política.",
+    "Expresan la soberanía nacional y son el único cauce para la participación política.",
+    "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.",
+    "Requieren autorización previa del Ministerio del Interior para su creación, aunque el ejercicio de su actividad es libre."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 6 CE: los partidos **expresan el pluralismo político**, concurren a la formación y manifestación de la voluntad popular y son **instrumento fundamental** (no único) para la participación política; su creación es **libre** y su estructura y funcionamiento deben ser democráticos. La defensa de intereses económicos y sociales es lo que el art. 7 atribuye a sindicatos y asociaciones empresariales."
+  }
+ ],
+ "a7": [
+  {
+   "pregunta": "Según el artículo 7 de la Constitución, los sindicatos de trabajadores y las asociaciones empresariales:",
+   "opciones": [
+    "Expresan el pluralismo político y concurren a la formación de la voluntad popular.",
+    "Ostentan en exclusiva la representación institucional de los trabajadores y empresarios ante el Gobierno.",
+    "Contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.",
+    "Deben inscribirse en un registro público para adquirir personalidad jurídica y poder actuar."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 7 CE: sindicatos y asociaciones empresariales **contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios**; su creación y actividad son libres dentro del respeto a la Constitución y a la ley, y su estructura interna y funcionamiento deben ser **democráticos**. El pluralismo político lo expresan los partidos (art. 6)."
+  }
  ]
 }

@@ -21,6 +21,11 @@
    "examen": "aux-libre-2026",
    "parte": "p1",
    "n": "4"
+  },
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "1"
   }
  ],
  "a63": [
@@ -35,6 +40,106 @@
    "examen": "tai-libre-2023",
    "parte": "p1",
    "n": "1"
+  }
+ ],
+ "a56": [
+  {
+   "pregunta": "Según el artículo 56.1 de la Constitución, el Rey asume la más alta representación del Estado español en las relaciones internacionales, especialmente:",
+   "opciones": [
+    "Con los Estados miembros de la Unión Europea.",
+    "Con los países de habla hispana.",
+    "Con las naciones de su comunidad histórica.",
+    "Con las naciones con las que España mantenga tratados de carácter político."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 56.1 CE: el Rey asume la más alta representación del Estado en las relaciones internacionales, **especialmente con las naciones de su comunidad histórica**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 56.3 de la Constitución, los actos del Rey carecerán de validez sin refrendo, salvo lo dispuesto en:",
+   "opciones": [
+    "El artículo 65.2 (nombramiento y relevo de los miembros civiles y militares de su Casa).",
+    "El artículo 62 (sanción y promulgación de las leyes).",
+    "El artículo 63.3 (declaración de guerra y conclusión de la paz).",
+    "El artículo 99 (propuesta de candidato a la Presidencia del Gobierno)."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 56.3 CE: los actos del Rey estarán siempre refrendados (art. 64), careciendo de validez sin refrendo, **salvo lo dispuesto en el art. 65.2**: el Rey nombra y releva **libremente** a los miembros civiles y militares de su Casa."
+  }
+ ],
+ "a58": [
+  {
+   "pregunta": "Según el artículo 58 de la Constitución, la Reina consorte o el consorte de la Reina:",
+   "opciones": [
+    "Podrán asumir funciones constitucionales por delegación expresa del Rey.",
+    "No podrán asumir en ningún caso funciones constitucionales, ni siquiera la Regencia.",
+    "Podrán ejercer la tutela del Rey menor, pero nunca la Regencia.",
+    "No podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 58 CE: no pueden asumir funciones constitucionales, **salvo lo dispuesto para la Regencia** (el padre o la madre del Rey menor ejercen la Regencia según el art. 59.1)."
+  }
+ ],
+ "a59": [
+  {
+   "pregunta": "Según el artículo 59.3 de la Constitución, si no hubiere ninguna persona a quien corresponda la Regencia, ésta será nombrada por las Cortes Generales y se compondrá de:",
+   "opciones": [
+    "Una o tres personas.",
+    "Una, tres o cinco personas.",
+    "Tres personas.",
+    "Una, dos o tres personas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 59.3 CE: la Regencia nombrada por las Cortes Generales se compondrá de **una, tres o cinco personas**. Para ser Regente hay que ser **español y mayor de edad** (59.4)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 59.2 de la Constitución, si el Rey se inhabilitare para el ejercicio de su autoridad, entrará a ejercer inmediatamente la Regencia el Príncipe heredero, si fuere mayor de edad, siempre que la imposibilidad:",
+   "opciones": [
+    "Fuere declarada por el Tribunal Constitucional.",
+    "Fuere apreciada por el Consejo de Ministros.",
+    "Fuere reconocida por el Congreso de los Diputados por mayoría absoluta.",
+    "Fuere reconocida por las Cortes Generales."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 59.2 CE: la inhabilitación debe ser **reconocida por las Cortes Generales**. Si el Príncipe heredero es menor, se sigue el orden del 59.1 hasta que alcance la mayoría de edad."
+  }
+ ],
+ "a60": [
+  {
+   "pregunta": "Según el artículo 60.1 de la Constitución, será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea:",
+   "opciones": [
+    "Mayor de edad y español de nacimiento.",
+    "Mayor de edad y pariente del Rey.",
+    "Español y miembro de la Familia Real.",
+    "Mayor de edad y aceptado por las Cortes Generales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 60.1 CE: el tutor testamentario debe ser **mayor de edad y español de nacimiento**; si no hay nombramiento, lo es el padre o la madre mientras permanezcan viudos y, en su defecto, lo nombran las Cortes Generales. La tutela es incompatible con todo cargo o representación política (60.2)."
+  }
+ ],
+ "a61": [
+  {
+   "pregunta": "Según el artículo 61 de la Constitución, el Príncipe heredero prestará el juramento de desempeñar fielmente sus funciones y el de fidelidad al Rey:",
+   "opciones": [
+    "Al ser proclamado Príncipe de Asturias.",
+    "Cuando las Cortes Generales lo requieran.",
+    "Al alcanzar la mayoría de edad.",
+    "Al asumir la Regencia, exclusivamente."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 61.2 CE: el Príncipe heredero jura **al alcanzar la mayoría de edad**, y el Regente o Regentes al hacerse cargo de sus funciones. El Rey jura al ser proclamado **ante las Cortes Generales** (61.1)."
+  }
+ ],
+ "a65": [
+  {
+   "pregunta": "De acuerdo con el artículo 65.1 de la Constitución, el Rey recibe de los Presupuestos del Estado una cantidad global para el sostenimiento de su Familia y Casa, que:",
+   "opciones": [
+    "Distribuye previa autorización de las Cortes Generales.",
+    "Distribuye libremente.",
+    "Se distribuye con refrendo del Presidente del Gobierno.",
+    "Se distribuye conforme a lo que determine una ley orgánica."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 65.1 CE: el Rey recibe una cantidad global de los Presupuestos y **la distribuye libremente**. Además nombra y releva libremente a los miembros civiles y militares de su Casa (65.2), único acto sin refrendo según el art. 56.3."
   }
  ]
 }

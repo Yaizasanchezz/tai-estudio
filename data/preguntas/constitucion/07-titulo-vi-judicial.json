@@ -10,5 +10,168 @@
    "parte": "p1",
    "n": "7"
   }
+ ],
+ "a117": [
+  {
+   "pregunta": "Según el artículo 117.1 de la Constitución, la justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial:",
+   "opciones": [
+    "Independientes, inamovibles, irresponsables y sometidos únicamente al imperio de la ley.",
+    "Independientes, imparciales, responsables y sometidos a la Constitución y a las instrucciones del Consejo General del Poder Judicial.",
+    "Independientes, inamovibles y sometidos a la ley y a la jurisprudencia del Tribunal Supremo.",
+    "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 117.1 CE: **independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 117.5 de la Constitución, la ley regulará el ejercicio de la jurisdicción militar:",
+   "opciones": [
+    "En el ámbito estrictamente castrense y en los supuestos de estado de excepción y de sitio.",
+    "En el ámbito estrictamente castrense y en los supuestos de estado de sitio.",
+    "Únicamente en tiempo de guerra.",
+    "En el ámbito castrense y respecto de los delitos cometidos por miembros de las Fuerzas y Cuerpos de Seguridad."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 117.5 CE: la base es el **principio de unidad jurisdiccional**; la jurisdicción militar se limita al **ámbito estrictamente castrense** y a los supuestos de **estado de sitio** (no de excepción). Se prohíben los Tribunales de excepción (117.6)."
+  }
+ ],
+ "a118": [
+  {
+   "pregunta": "Según el artículo 118 de la Constitución, es obligado:",
+   "opciones": [
+    "Cumplir las sentencias y demás resoluciones firmes de los Jueces y Tribunales, así como prestar la colaboración requerida por éstos en el curso del proceso y en la ejecución de lo resuelto.",
+    "Cumplir las sentencias firmes de los Jueces y Tribunales, sin que pueda exigirse colaboración a los particulares.",
+    "Cumplir las sentencias de los Jueces y Tribunales aunque no sean firmes, salvo que se suspenda su ejecución.",
+    "Prestar la colaboración requerida por los Jueces y Tribunales únicamente en el ámbito penal."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 118 CE: obligación de **cumplir las sentencias y resoluciones firmes** y de **prestar la colaboración requerida** en el proceso y en la ejecución."
+  }
+ ],
+ "a119": [
+  {
+   "pregunta": "De acuerdo con el artículo 119 de la Constitución, la justicia será gratuita:",
+   "opciones": [
+    "En todo caso, en los procesos penales.",
+    "Únicamente respecto de quienes acrediten insuficiencia de recursos para litigar.",
+    "Cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar.",
+    "Cuando así lo acuerde el Juez o Tribunal atendiendo a las circunstancias del caso."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 119 CE: gratuita **cuando lo disponga la ley** y, **en todo caso**, para quienes **acrediten insuficiencia de recursos para litigar**."
+  }
+ ],
+ "a120": [
+  {
+   "pregunta": "Según el artículo 120 de la Constitución, el procedimiento judicial será:",
+   "opciones": [
+    "Predominantemente escrito, salvo en materia criminal.",
+    "Predominantemente oral, sobre todo en materia criminal.",
+    "Predominantemente oral, sobre todo en materia civil.",
+    "Oral en todo caso."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 120.2 CE: **predominantemente oral, sobre todo en materia criminal**. Las actuaciones son públicas con las excepciones de las leyes procesales (120.1) y las sentencias, **siempre motivadas** y pronunciadas en audiencia pública (120.3)."
+  }
+ ],
+ "a121": [
+  {
+   "pregunta": "De acuerdo con el artículo 121 de la Constitución, los daños causados por error judicial y los que sean consecuencia del funcionamiento anormal de la Administración de Justicia darán derecho a una indemnización:",
+   "opciones": [
+    "A cargo del Juez o Magistrado responsable.",
+    "A cargo del Consejo General del Poder Judicial.",
+    "A cargo de la Comunidad Autónoma con competencias en materia de justicia.",
+    "A cargo del Estado, conforme a la ley."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 121 CE: indemnización **a cargo del Estado**, conforme a la ley."
+  }
+ ],
+ "a122": [
+  {
+   "pregunta": "Según el artículo 122.3 de la Constitución, el Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por:",
+   "opciones": [
+    "Veinte miembros nombrados por el Rey por un período de cinco años.",
+    "Veinte miembros nombrados por el Rey por un período de cuatro años.",
+    "Doce miembros nombrados por el Rey por un período de cinco años.",
+    "Veinte miembros elegidos por las Cortes Generales por un período de nueve años."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 122.3 CE: **veinte miembros**, nombrados **por el Rey**, por **cinco años**: doce entre Jueces y Magistrados, cuatro a propuesta del Congreso y cuatro del Senado."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 122.3 de la Constitución, los vocales del Consejo General del Poder Judicial propuestos por el Congreso y el Senado se eligen:",
+   "opciones": [
+    "Por mayoría absoluta de sus miembros, entre abogados y otros juristas de reconocida competencia con más de quince años de ejercicio en su profesión.",
+    "Por mayoría de tres quintos de sus miembros, entre abogados y otros juristas de reconocida competencia con más de diez años de ejercicio en su profesión.",
+    "Por mayoría de tres quintos de sus miembros, entre abogados y otros juristas de reconocida competencia con más de quince años de ejercicio en su profesión.",
+    "Por mayoría de dos tercios de sus miembros, entre Jueces y Magistrados de todas las categorías."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 122.3 CE: **cuatro** a propuesta de cada Cámara, por **tres quintos**, entre abogados y juristas con **más de quince años** de ejercicio."
+  }
+ ],
+ "a124": [
+  {
+   "pregunta": "Según el artículo 124.4 de la Constitución, el Fiscal General del Estado será nombrado por el Rey:",
+   "opciones": [
+    "A propuesta del Consejo General del Poder Judicial, oído el Gobierno.",
+    "A propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+    "A propuesta del Gobierno, previa comparecencia y votación en el Congreso de los Diputados.",
+    "A propuesta del Ministro de Justicia, oído el Consejo Fiscal."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 124.4 CE: nombra **el Rey**, **a propuesta del Gobierno**, **oído el CGPJ** (informe no vinculante)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 124.2 de la Constitución, el Ministerio Fiscal ejerce sus funciones por medio de órganos propios conforme a los principios de:",
+   "opciones": [
+    "Independencia e inamovilidad, con sujeción a los de legalidad e imparcialidad.",
+    "Jerarquía, descentralización y coordinación, con sometimiento pleno a la ley.",
+    "Unidad de actuación y autonomía funcional, con sujeción a los de legalidad y oportunidad.",
+    "Unidad de actuación y dependencia jerárquica y con sujeción, en todo caso, a los de legalidad e imparcialidad."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 124.2 CE: **unidad de actuación y dependencia jerárquica**, con sujeción a **legalidad e imparcialidad**. La independencia e inamovilidad son notas de Jueces y Magistrados (art. 117.1)."
+  }
+ ],
+ "a125": [
+  {
+   "pregunta": "Según el artículo 125 de la Constitución, los ciudadanos podrán ejercer la acción popular y participar en la Administración de Justicia:",
+   "opciones": [
+    "Mediante la institución del Jurado, en los procesos civiles y penales que la ley determine.",
+    "Únicamente mediante los Tribunales consuetudinarios y tradicionales.",
+    "Mediante la institución del Jurado, en los procesos penales que la ley determine, así como en los Tribunales consuetudinarios y tradicionales.",
+    "Mediante la institución del Jurado en todos los procesos penales por delitos graves."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 125 CE: acción popular y participación mediante **el Jurado** en los **procesos penales** que la ley determine, y en los **Tribunales consuetudinarios y tradicionales**."
+  }
+ ],
+ "a126": [
+  {
+   "pregunta": "De acuerdo con el artículo 126 de la Constitución, la policía judicial, en sus funciones de averiguación del delito y descubrimiento y aseguramiento del delincuente, depende:",
+   "opciones": [
+    "De los Jueces, de los Tribunales y del Ministerio Fiscal.",
+    "Del Ministerio del Interior.",
+    "Exclusivamente de los Jueces y Tribunales.",
+    "Del Consejo General del Poder Judicial."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 126 CE: depende **de los Jueces, de los Tribunales y del Ministerio Fiscal**, en los términos que la ley establezca."
+  }
+ ],
+ "a127": [
+  {
+   "pregunta": "Según el artículo 127.1 de la Constitución, los Jueces y Magistrados así como los Fiscales, mientras se hallen en activo:",
+   "opciones": [
+    "No podrán pertenecer a partidos políticos, pero sí a sindicatos.",
+    "No podrán desempeñar otros cargos públicos ni pertenecer a asociaciones profesionales.",
+    "No podrán desempeñar otros cargos públicos, ni pertenecer a partidos políticos o sindicatos.",
+    "Podrán pertenecer a partidos políticos sin desempeñar cargos en ellos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 127.1 CE: prohibición de **otros cargos públicos** y de **pertenecer a partidos políticos o sindicatos**. Sí cabe la **asociación profesional**, que regulará la ley."
+  }
  ]
 }

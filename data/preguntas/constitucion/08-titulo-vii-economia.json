@@ -1,0 +1,152 @@
+{
+ "a128": [
+  {
+   "pregunta": "Según el artículo 128.2 de la Constitución, mediante ley se podrá reservar al sector público recursos o servicios esenciales, especialmente en caso de:",
+   "opciones": [
+    "Monopolio.",
+    "Crisis económica grave.",
+    "Declaración del estado de excepción.",
+    "Insuficiencia de la iniciativa privada."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 128.2 CE: se reconoce la iniciativa pública en la actividad económica y por ley se podrá reservar al sector público recursos o servicios esenciales, **especialmente en caso de monopolio**, y acordar la intervención de empresas cuando lo exija el interés general."
+  }
+ ],
+ "a129": [
+  {
+   "pregunta": "De acuerdo con el artículo 129.2 de la Constitución, los poderes públicos fomentarán, mediante una legislación adecuada:",
+   "opciones": [
+    "Las sociedades anónimas laborales.",
+    "Las mutualidades de previsión social.",
+    "Las organizaciones sindicales.",
+    "Las sociedades cooperativas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 129.2 CE: los poderes públicos promoverán las diversas formas de participación en la empresa y **fomentarán, mediante una legislación adecuada, las sociedades cooperativas**; también facilitarán el acceso de los trabajadores a la propiedad de los medios de producción."
+  }
+ ],
+ "a130": [
+  {
+   "pregunta": "Según el artículo 130 de la Constitución, a fin de equiparar el nivel de vida de todos los españoles, se dispensará un tratamiento especial a:",
+   "opciones": [
+    "Las zonas rurales despobladas.",
+    "Los territorios insulares.",
+    "Las zonas de montaña.",
+    "Las zonas fronterizas."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 130.2 CE: «Con el mismo fin, se dispensará un tratamiento especial a las **zonas de montaña**». El hecho insular aparece en otro precepto (art. 138.1), no aquí."
+  }
+ ],
+ "a131": [
+  {
+   "pregunta": "Conforme al artículo 131.2 de la Constitución, el Gobierno elaborará los proyectos de planificación de la actividad económica de acuerdo con las previsiones que le sean suministradas por:",
+   "opciones": [
+    "Las Corporaciones locales.",
+    "Las Comunidades Autónomas.",
+    "El Consejo de Política Fiscal y Financiera.",
+    "El Banco de España."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 131.2 CE: el Gobierno elabora los proyectos de planificación con las previsiones de **las Comunidades Autónomas** y el asesoramiento y colaboración de sindicatos y organizaciones profesionales, empresariales y económicas. Se constituirá un Consejo cuya composición y funciones fijará la ley."
+  }
+ ],
+ "a132": [
+  {
+   "pregunta": "Según el artículo 132.1 de la Constitución, la ley regulará el régimen jurídico de los bienes de dominio público y de los comunales inspirándose en los principios de:",
+   "opciones": [
+    "Inalienabilidad, imprescriptibilidad e inembargabilidad.",
+    "Inalienabilidad, indivisibilidad e inembargabilidad.",
+    "Publicidad, imprescriptibilidad e inembargabilidad.",
+    "Inalienabilidad, imprescriptibilidad y afectación."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 132.1 CE: principios de **inalienabilidad, imprescriptibilidad e inembargabilidad**, así como su desafectación."
+  },
+  {
+   "pregunta": "¿Cuál de los siguientes bienes NO se menciona en el artículo 132.2 de la Constitución como bien de dominio público estatal «en todo caso»?",
+   "opciones": [
+    "La zona marítimo-terrestre.",
+    "El mar territorial.",
+    "Los ríos y lagos.",
+    "Las playas."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 132.2 CE: son en todo caso de dominio público estatal la **zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales de la zona económica y la plataforma continental**. Los ríos no aparecen en la enumeración constitucional (los demás bienes son los que determine la ley)."
+  }
+ ],
+ "a133": [
+  {
+   "pregunta": "Según el artículo 133.1 de la Constitución, la potestad originaria para establecer los tributos corresponde:",
+   "opciones": [
+    "Al Estado y a las Comunidades Autónomas, mediante ley.",
+    "Exclusivamente al Estado, mediante ley.",
+    "A las Cortes Generales, mediante ley orgánica.",
+    "Al Gobierno, mediante real decreto-ley."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 133.1 CE: la potestad originaria corresponde **exclusivamente al Estado, mediante ley**. Las Comunidades Autónomas y las Corporaciones locales también pueden establecer y exigir tributos, pero de acuerdo con la Constitución y las leyes (art. 133.2), es decir, de forma derivada."
+  }
+ ],
+ "a134": [
+  {
+   "pregunta": "Según el artículo 134.3 de la Constitución, el Gobierno deberá presentar ante el Congreso de los Diputados los Presupuestos Generales del Estado:",
+   "opciones": [
+    "Al menos dos meses antes de la expiración de los del año anterior.",
+    "Antes del 30 de septiembre de cada año.",
+    "Al menos seis meses antes de la expiración de los del año anterior.",
+    "Al menos tres meses antes de la expiración de los del año anterior."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 134.3 CE: **al menos tres meses antes** de la expiración de los del año anterior, y **ante el Congreso**. La elaboración corresponde al Gobierno y el examen, enmienda y aprobación a las Cortes Generales (art. 134.1)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 134.4 de la Constitución, si la Ley de Presupuestos no se aprobara antes del primer día del ejercicio económico correspondiente:",
+   "opciones": [
+    "El Gobierno podrá aprobarlos mediante real decreto-ley.",
+    "Se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos.",
+    "Se prorrogarán los del ejercicio anterior por un plazo máximo de seis meses.",
+    "El Gobierno deberá presentar un nuevo proyecto en el plazo de un mes."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 134.4 CE: prórroga **automática** de los Presupuestos del ejercicio anterior **hasta la aprobación de los nuevos**, sin límite temporal."
+  }
+ ],
+ "a135": [
+  {
+   "pregunta": "Según el artículo 135.4 de la Constitución, los límites de déficit estructural y de volumen de deuda pública solo podrán superarse en caso de catástrofes naturales, recesión económica o situaciones de emergencia extraordinaria apreciadas por:",
+   "opciones": [
+    "La mayoría absoluta de cada una de las Cámaras.",
+    "La mayoría de tres quintos del Congreso de los Diputados.",
+    "La mayoría absoluta de los miembros del Congreso de los Diputados.",
+    "El Gobierno, previo informe del Consejo de Política Fiscal y Financiera."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 135.4 CE (reforma de 2011): las circunstancias excepcionales las aprecia la **mayoría absoluta de los miembros del Congreso de los Diputados**; no interviene el Senado."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 135.2 de la Constitución, las Entidades Locales deberán:",
+   "opciones": [
+    "No superar el déficit estructural que fije su Comunidad Autónoma.",
+    "Estar autorizadas por ley orgánica para incurrir en déficit.",
+    "Ajustarse al déficit estructural máximo fijado por ley orgánica para el Estado.",
+    "Presentar equilibrio presupuestario."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 135.2 CE: una ley orgánica fija el déficit estructural máximo del **Estado y de las Comunidades Autónomas**; las **Entidades Locales deberán presentar equilibrio presupuestario** (no se les permite déficit estructural)."
+  }
+ ],
+ "a136": [
+  {
+   "pregunta": "Según el artículo 136 de la Constitución, el Tribunal de Cuentas:",
+   "opciones": [
+    "Depende directamente de las Cortes Generales.",
+    "Depende directamente del Gobierno.",
+    "Depende directamente del Congreso de los Diputados.",
+    "Se integra en el Poder Judicial."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 136.1 CE: es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público, y **depende directamente de las Cortes Generales**. Remite a las Cortes un informe anual (136.2); sus miembros tienen la misma independencia, inamovilidad e incompatibilidades que los Jueces (136.3)."
+  }
+ ]
+}

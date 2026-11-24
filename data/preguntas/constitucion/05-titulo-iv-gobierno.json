@@ -33,5 +33,94 @@
    "parte": "p1",
    "n": "6"
   }
+ ],
+ "a97": [
+  {
+   "pregunta": "Según el artículo 97 de la Constitución, el Gobierno ejerce:",
+   "opciones": [
+    "La función ejecutiva y la potestad legislativa ordinaria.",
+    "La potestad reglamentaria, salvo en materia de defensa.",
+    "La función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+    "La función ejecutiva y la dirección de la Administración de Justicia."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 97 CE: el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y **ejerce la función ejecutiva y la potestad reglamentaria**."
+  }
+ ],
+ "a98": [
+  {
+   "pregunta": "Según el artículo 98.1 de la Constitución, el Gobierno se compone:",
+   "opciones": [
+    "Del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demás miembros que establezca la ley.",
+    "Del Presidente, de los Vicepresidentes y de los Ministros, exclusivamente.",
+    "Del Presidente, de los Ministros y de los Secretarios de Estado.",
+    "Del Presidente, del Vicepresidente primero y de los Ministros con cartera."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 98.1 CE: Presidente, **Vicepresidentes, en su caso**, Ministros y **los demás miembros que establezca la ley**. Los Vicepresidentes no son obligatorios."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 98.3 de la Constitución, los miembros del Gobierno:",
+   "opciones": [
+    "No podrán ser Diputados ni Senadores.",
+    "Podrán ejercer actividades profesionales si no perciben retribución por ellas.",
+    "Podrán ejercer otras funciones públicas previa autorización del Consejo de Ministros.",
+    "No podrán ejercer otras funciones representativas que las propias del mandato parlamentario."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 98.3 CE: no pueden ejercer otras funciones representativas **que las propias del mandato parlamentario**, ni otra función pública que no derive de su cargo, ni actividad profesional o mercantil alguna. Por eso sí pueden ser parlamentarios."
+  }
+ ],
+ "a100": [
+  {
+   "pregunta": "Según el artículo 100 de la Constitución, los demás miembros del Gobierno distintos del Presidente:",
+   "opciones": [
+    "Serán nombrados por el Rey, previa comparecencia ante el Congreso de los Diputados.",
+    "Serán nombrados y separados por el Rey, a propuesta del Presidente del Gobierno.",
+    "Serán nombrados por el Presidente del Gobierno, con refrendo del Rey.",
+    "Serán nombrados por el Rey, a propuesta del Consejo de Ministros."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 100 CE: nombra y separa **el Rey**, **a propuesta del Presidente**. Solo el Presidente necesita la confianza del Congreso (art. 99)."
+  }
+ ],
+ "a104": [
+  {
+   "pregunta": "Según el artículo 104 de la Constitución, las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión:",
+   "opciones": [
+    "Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.",
+    "Garantizar la soberanía e independencia de España y defender su integridad territorial.",
+    "Defender el ordenamiento constitucional.",
+    "Promover la acción de la justicia en defensa de la legalidad."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 104.1 CE: **proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana**. Garantizar la soberanía y defender la integridad territorial y el ordenamiento constitucional es misión de las **Fuerzas Armadas** (art. 8). Una ley orgánica regula sus funciones y estatutos (104.2)."
+  }
+ ],
+ "a105": [
+  {
+   "pregunta": "Según el artículo 105.b) de la Constitución, la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a:",
+   "opciones": [
+    "La seguridad y defensa del Estado, los intereses económicos y comerciales y la intimidad de las personas.",
+    "La seguridad del Estado y las relaciones exteriores, exclusivamente.",
+    "La seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas.",
+    "La averiguación de los delitos y el secreto profesional."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 105.b) CE: los tres límites constitucionales son **la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas**. Otros límites (intereses económicos, relaciones exteriores…) los añade la Ley 19/2013, no la Constitución."
+  }
+ ],
+ "a106": [
+  {
+   "pregunta": "De acuerdo con el artículo 106.2 de la Constitución, los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos como consecuencia del funcionamiento de los servicios públicos:",
+   "opciones": [
+    "Salvo en los casos de caso fortuito.",
+    "Solo cuando el funcionamiento haya sido anormal.",
+    "Solo si la lesión se ha producido por culpa o negligencia de una autoridad o funcionario.",
+    "Salvo en los casos de fuerza mayor."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 106.2 CE: derecho a indemnización por toda lesión consecuencia del funcionamiento de los servicios públicos (normal o anormal), **salvo fuerza mayor**."
+  }
  ]
 }

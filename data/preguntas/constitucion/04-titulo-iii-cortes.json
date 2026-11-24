@@ -4,6 +4,11 @@
    "examen": "adm-libre-2026",
    "parte": "p1",
    "n": "3"
+  },
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "4"
   }
  ],
  "a78": [
@@ -59,6 +64,391 @@
    "examen": "tai-libre-2026",
    "parte": "p1",
    "n": "4"
+  }
+ ],
+ "a77": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "6"
+  }
+ ],
+ "a69": [
+  {
+   "pregunta": "Según el artículo 69.5 de la Constitución, las Comunidades Autónomas designarán:",
+   "opciones": [
+    "Dos Senadores y otro más por cada millón de habitantes de su respectivo territorio.",
+    "Un Senador y otro más por cada millón de habitantes de su respectivo territorio.",
+    "Un Senador por cada provincia de su territorio.",
+    "Un Senador y otro más por cada quinientos mil habitantes de su respectivo territorio."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 69.5 CE: **un Senador y otro más por cada millón de habitantes**. La designación corresponde a la Asamblea legislativa o, en su defecto, al órgano colegiado superior de la Comunidad Autónoma."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 69 de la Constitución, las poblaciones de Ceuta y Melilla elegirán:",
+   "opciones": [
+    "Un Senador cada una de ellas.",
+    "Cuatro Senadores cada una de ellas, como las provincias.",
+    "Dos Senadores entre ambas.",
+    "Dos Senadores cada una de ellas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 69.4 CE: Ceuta y Melilla eligen **dos Senadores cada una**. En cada provincia se eligen **cuatro** (69.2) y el Senado se elige por cuatro años (69.6)."
+  }
+ ],
+ "a70": [
+  {
+   "pregunta": "Según el artículo 70.1 de la Constitución, las causas de inelegibilidad e incompatibilidad de Diputados y Senadores comprenderán en todo caso a los altos cargos de la Administración del Estado que determine la ley, con la excepción de:",
+   "opciones": [
+    "Los miembros del Gobierno.",
+    "Los Delegados del Gobierno en las Comunidades Autónomas.",
+    "Los Secretarios de Estado.",
+    "Los miembros de las Juntas Electorales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 70.1.b) CE: se exceptúa a **los miembros del Gobierno**, que pueden ser parlamentarios. Los miembros de las Juntas Electorales sí están incluidos expresamente (70.1.f)."
+  }
+ ],
+ "a72": [
+  {
+   "pregunta": "Según el artículo 72.1 de la Constitución, los Reglamentos de las Cámaras y su reforma serán sometidos a una votación final sobre su totalidad, que requerirá:",
+   "opciones": [
+    "La mayoría simple.",
+    "La mayoría de tres quintos.",
+    "La mayoría absoluta.",
+    "La mayoría de dos tercios."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 72.1 CE: votación final sobre su totalidad por **mayoría absoluta**. También por mayoría absoluta de cada Cámara se aprueba el Reglamento de las Cortes Generales para las sesiones conjuntas (72.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 72.2 de la Constitución, las sesiones conjuntas de las Cámaras serán presididas por:",
+   "opciones": [
+    "El Presidente del Congreso.",
+    "El Presidente del Senado.",
+    "El Presidente de mayor edad de ambas Cámaras.",
+    "Alternativamente por los Presidentes del Congreso y del Senado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 72.2 CE: las sesiones conjuntas las preside **el Presidente del Congreso** y se rigen por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara."
+  }
+ ],
+ "a73": [
+  {
+   "pregunta": "Según el artículo 73.1 de la Constitución, las Cámaras se reunirán anualmente en dos períodos ordinarios de sesiones:",
+   "opciones": [
+    "De septiembre a diciembre y de enero a junio.",
+    "De octubre a diciembre y de febrero a junio.",
+    "De septiembre a enero y de marzo a julio.",
+    "De septiembre a diciembre y de febrero a junio."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 73.1 CE: primer período **de septiembre a diciembre**; segundo **de febrero a junio**. Fuera de ellos caben sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras (73.2)."
+  }
+ ],
+ "a74": [
+  {
+   "pregunta": "Según el artículo 74.2 de la Constitución, en las decisiones de las Cortes Generales previstas en los artículos 94.1, 145.2 y 158.2, si no se obtiene acuerdo entre las Cámaras ni se aprueba el texto de la Comisión Mixta:",
+   "opciones": [
+    "Decidirá el Senado por mayoría absoluta.",
+    "Decidirá el Congreso por mayoría absoluta.",
+    "Decidirá el Congreso por mayoría simple.",
+    "Se entenderá rechazada la decisión."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 74.2 CE: si no se aprueba el texto de la Comisión Mixta, **decide el Congreso por mayoría absoluta**. El procedimiento del 94.1 (tratados) se inicia en el Congreso; los del 145.2 y 158.2, en el Senado."
+  }
+ ],
+ "a75": [
+  {
+   "pregunta": "Según el artículo 75.3 de la Constitución, las Cámaras NO podrán delegar en las Comisiones Legislativas Permanentes la aprobación de:",
+   "opciones": [
+    "Los proyectos de ley declarados urgentes por el Gobierno.",
+    "Las proposiciones de ley tomadas en consideración por el Senado.",
+    "Las leyes de bases.",
+    "Los proyectos de ley ordinaria que afecten a los derechos del Capítulo III del Título I."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 75.3 CE: quedan exceptuados de la delegación en Comisiones la **reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado**."
+  }
+ ],
+ "a76": [
+  {
+   "pregunta": "De acuerdo con el artículo 76.1 de la Constitución, las conclusiones de las Comisiones de investigación:",
+   "opciones": [
+    "No serán vinculantes para los Tribunales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal.",
+    "Serán vinculantes para los Tribunales cuando las apruebe el Pleno de la Cámara.",
+    "Serán remitidas en todo caso al Tribunal Supremo.",
+    "No podrán comunicarse al Ministerio Fiscal mientras exista un proceso judicial abierto."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 76.1 CE: las conclusiones **no vinculan a los Tribunales** ni afectan a las resoluciones judiciales, pero el resultado puede **comunicarse al Ministerio Fiscal**. Comparecer a requerimiento de las Cámaras es obligatorio (76.2)."
+  }
+ ],
+ "a79": [
+  {
+   "pregunta": "Según el artículo 79 de la Constitución, para adoptar acuerdos las Cámaras deben estar reunidas reglamentariamente y con asistencia de:",
+   "opciones": [
+    "Un tercio de sus miembros.",
+    "La mayoría de sus miembros.",
+    "Las tres quintas partes de sus miembros.",
+    "Dos tercios de sus miembros."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 79.1 CE: asistencia de **la mayoría de sus miembros**; los acuerdos se aprueban por la mayoría de los **miembros presentes** (79.2), salvo mayorías especiales. El voto es personal e indelegable (79.3)."
+  }
+ ],
+ "a80": [
+  {
+   "pregunta": "Según el artículo 80 de la Constitución, las sesiones plenarias de las Cámaras serán públicas, salvo acuerdo en contrario de cada Cámara adoptado:",
+   "opciones": [
+    "Por mayoría simple o a propuesta del Gobierno.",
+    "Por mayoría de tres quintos.",
+    "Por la Mesa de la Cámara, oída la Junta de Portavoces.",
+    "Por mayoría absoluta o con arreglo al Reglamento."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 80 CE: sesiones plenarias **públicas**, salvo acuerdo en contrario **por mayoría absoluta o con arreglo al Reglamento**."
+  }
+ ],
+ "a81": [
+  {
+   "pregunta": "Según el artículo 81.2 de la Constitución, la aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+   "opciones": [
+    "Mayoría absoluta de ambas Cámaras, en una votación final sobre el conjunto del proyecto.",
+    "Mayoría de tres quintos del Congreso, en una votación final sobre el conjunto del proyecto.",
+    "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+    "Mayoría absoluta del Congreso en cada uno de los artículos del proyecto."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 81.2 CE: **mayoría absoluta del Congreso** en una **votación final sobre el conjunto**. El Senado no necesita mayoría reforzada salvo para levantar o imponer un veto (art. 90)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 81.1 de la Constitución, ¿cuál de las siguientes materias está reservada expresamente a ley orgánica?",
+   "opciones": [
+    "Los Presupuestos Generales del Estado.",
+    "La aprobación de los Estatutos de Autonomía.",
+    "El desarrollo de los principios rectores de la política social y económica.",
+    "La regulación del ejercicio de los derechos y deberes de la Sección 2.ª del Capítulo II del Título I."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 81.1 CE: son leyes orgánicas las de **desarrollo de los derechos fundamentales y libertades públicas**, las que **aprueben los Estatutos de Autonomía**, el **régimen electoral general** y las demás previstas en la Constitución. Los derechos de la Sección 2.ª se regulan por ley ordinaria (art. 53.1)."
+  }
+ ],
+ "a83": [
+  {
+   "pregunta": "Según el artículo 83 de la Constitución, las leyes de bases no podrán en ningún caso:",
+   "opciones": [
+    "Facultar para dictar normas con carácter retroactivo.",
+    "Fijar un plazo para el ejercicio de la delegación.",
+    "Delimitar con precisión el objeto y alcance de la delegación.",
+    "Establecer los principios y criterios que han de seguirse en el ejercicio de la delegación."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 83 CE: las leyes de bases no pueden **autorizar la modificación de la propia ley de bases** ni **facultar para dictar normas con carácter retroactivo**. Fijar plazo, objeto, alcance, principios y criterios es precisamente su contenido (arts. 82.3 y 82.4)."
+  }
+ ],
+ "a84": [
+  {
+   "pregunta": "Según el artículo 84 de la Constitución, cuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor:",
+   "opciones": [
+    "La delegación queda automáticamente revocada.",
+    "La Mesa del Congreso deberá inadmitirla de oficio.",
+    "Deberá requerirse dictamen previo del Consejo de Estado.",
+    "El Gobierno está facultado para oponerse a su tramitación."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 84 CE: **el Gobierno puede oponerse a su tramitación**; en tal caso, cabe presentar una proposición de ley para derogar total o parcialmente la ley de delegación."
+  }
+ ],
+ "a85": [
+  {
+   "pregunta": "Según el artículo 85 de la Constitución, las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:",
+   "opciones": [
+    "Decretos-leyes.",
+    "Leyes de bases.",
+    "Decretos Legislativos.",
+    "Reales Decretos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 85 CE: la legislación delegada adopta la forma de **Decretos Legislativos**. Los **Decretos-leyes** son disposiciones legislativas provisionales por extraordinaria y urgente necesidad (art. 86)."
+  }
+ ],
+ "a86": [
+  {
+   "pregunta": "De acuerdo con el artículo 86.2 de la Constitución, los Decretos-leyes deberán ser sometidos a debate y votación de totalidad:",
+   "opciones": [
+    "A las Cortes Generales, en el plazo de los treinta días siguientes a su publicación.",
+    "Al Congreso de los Diputados, en el plazo de los treinta días siguientes a su promulgación.",
+    "Al Congreso de los Diputados, en el plazo de los quince días siguientes a su promulgación.",
+    "Al Congreso y al Senado sucesivamente, en el plazo de un mes desde su promulgación."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 86.2 CE: **solo el Congreso**, en los **treinta días siguientes a su promulgación**, se pronuncia sobre su convalidación o derogación. Durante ese plazo pueden tramitarse como proyectos de ley por urgencia (86.3)."
+  },
+  {
+   "pregunta": "Según el artículo 86.1 de la Constitución, los Decretos-leyes NO podrán afectar:",
+   "opciones": [
+    "Al régimen de las Comunidades Autónomas.",
+    "A materias tributarias.",
+    "A la organización de la Administración General del Estado.",
+    "A materias de carácter económico."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 86.1 CE: los Decretos-leyes no pueden afectar al **ordenamiento de las instituciones básicas del Estado**, a los **derechos, deberes y libertades del Título I**, al **régimen de las Comunidades Autónomas** ni al **Derecho electoral general**. Las materias tributarias son la exclusión de la iniciativa popular (87.3), no del Decreto-ley."
+  }
+ ],
+ "a87": [
+  {
+   "pregunta": "Según el artículo 87.3 de la Constitución, para la iniciativa legislativa popular se exigirán en todo caso:",
+   "opciones": [
+    "No menos de 50.000 firmas acreditadas.",
+    "No menos de 750.000 firmas acreditadas.",
+    "No menos de 1.000.000 de firmas acreditadas.",
+    "No menos de 500.000 firmas acreditadas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 87.3 CE: **no menos de 500.000 firmas acreditadas**. No procede en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 87.2 de la Constitución, cuando las Asambleas de las Comunidades Autónomas remitan a la Mesa del Congreso una proposición de ley, podrán delegar ante dicha Cámara para su defensa:",
+   "opciones": [
+    "Un máximo de cinco miembros de la Asamblea.",
+    "Un máximo de dos miembros de la Asamblea.",
+    "Un máximo de tres miembros de la Asamblea.",
+    "Al Presidente de la Comunidad Autónoma."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 87.2 CE: las Asambleas autonómicas pueden pedir al Gobierno un proyecto de ley o remitir a la Mesa del Congreso una proposición, delegando **un máximo de tres miembros** para su defensa."
+  }
+ ],
+ "a88": [
+  {
+   "pregunta": "Según el artículo 88 de la Constitución, los proyectos de ley serán aprobados en Consejo de Ministros, que los someterá:",
+   "opciones": [
+    "Al Senado, acompañados de una exposición de motivos y del dictamen del Consejo de Estado.",
+    "Al Congreso, acompañados de una exposición de motivos y de los antecedentes necesarios para pronunciarse sobre ellos.",
+    "A las Cortes Generales en sesión conjunta, acompañados de una memoria económica.",
+    "Al Congreso, acompañados únicamente de una memoria del análisis de impacto normativo."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 88 CE: los proyectos se remiten **al Congreso**, con **exposición de motivos y antecedentes necesarios**."
+  }
+ ],
+ "a89": [
+  {
+   "pregunta": "De acuerdo con el artículo 89.2 de la Constitución, las proposiciones de ley que tome en consideración el Senado:",
+   "opciones": [
+    "Se remitirán al Congreso para su trámite en éste como tal proposición.",
+    "Se tramitarán íntegramente en el Senado y se remitirán al Rey para su sanción.",
+    "Se remitirán al Gobierno para que las apruebe como proyecto de ley.",
+    "Se remitirán al Congreso para su trámite como proyecto de ley."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 89.2 CE: se remiten **al Congreso** para su trámite **como tal proposición** (no se convierten en proyecto de ley, que es la iniciativa del Gobierno)."
+  }
+ ],
+ "a90": [
+  {
+   "pregunta": "Según el artículo 90.2 de la Constitución, el Senado dispone para oponer su veto o introducir enmiendas a un proyecto de ley aprobado por el Congreso de un plazo de:",
+   "opciones": [
+    "Un mes, a partir del día de la recepción del texto; el veto deberá aprobarse por mayoría absoluta.",
+    "Dos meses, a partir de la publicación del texto; el veto deberá aprobarse por mayoría simple.",
+    "Dos meses, a partir del día de la recepción del texto; el veto deberá aprobarse por mayoría absoluta.",
+    "Tres meses, a partir del día de la recepción del texto; el veto deberá aprobarse por mayoría de tres quintos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 90.2 CE: **dos meses** desde la recepción; el veto exige **mayoría absoluta**. El Congreso puede levantarlo por mayoría absoluta o, pasados dos meses, por mayoría simple."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 90.3 de la Constitución, en los proyectos declarados urgentes por el Gobierno o por el Congreso, el plazo del Senado para vetar o enmendar se reducirá a:",
+   "opciones": [
+    "Quince días hábiles.",
+    "Veinte días hábiles.",
+    "Un mes.",
+    "Veinte días naturales."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 90.3 CE: el plazo de dos meses se reduce a **veinte días naturales** en los proyectos declarados urgentes."
+  }
+ ],
+ "a91": [
+  {
+   "pregunta": "Según el artículo 91 de la Constitución, el Rey sancionará las leyes aprobadas por las Cortes Generales en el plazo de:",
+   "opciones": [
+    "Quince días.",
+    "Diez días.",
+    "Treinta días.",
+    "Un mes."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 91 CE: el Rey sanciona en **quince días** las leyes aprobadas por las Cortes Generales, las promulga y ordena su inmediata publicación."
+  }
+ ],
+ "a92": [
+  {
+   "pregunta": "De acuerdo con el artículo 92.2 de la Constitución, el referéndum consultivo será convocado por el Rey, mediante propuesta:",
+   "opciones": [
+    "Del Consejo de Ministros, previamente autorizada por las Cortes Generales.",
+    "Del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.",
+    "Del Presidente del Gobierno, previamente autorizada por el Senado.",
+    "Del Presidente del Congreso, previo acuerdo del Gobierno."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 92.2 CE: convoca **el Rey**, a propuesta **del Presidente del Gobierno**, previamente autorizada **por el Congreso de los Diputados**."
+  }
+ ],
+ "a93": [
+  {
+   "pregunta": "Según el artículo 93 de la Constitución, la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución se autorizará mediante:",
+   "opciones": [
+    "Ley ordinaria.",
+    "Acuerdo de las Cortes Generales en sesión conjunta.",
+    "Ley orgánica.",
+    "Real Decreto acordado en Consejo de Ministros, previo dictamen del Consejo de Estado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 93 CE: mediante **ley orgánica**. La garantía de cumplimiento de estos tratados corresponde a las Cortes Generales o al Gobierno, según los casos."
+  }
+ ],
+ "a94": [
+  {
+   "pregunta": "Según el artículo 94.1 de la Constitución, ¿cuál de los siguientes tratados NO figura entre los que requieren la previa autorización de las Cortes Generales?",
+   "opciones": [
+    "Los tratados o convenios de carácter militar.",
+    "Los tratados o convenios que impliquen obligaciones financieras para la Hacienda Pública.",
+    "Los tratados o convenios que afecten a los derechos y deberes fundamentales del Título I.",
+    "Los tratados de carácter cultural que no impliquen obligaciones financieras ni exijan medidas legislativas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 94.1 CE: requieren autorización los tratados **políticos, militares**, los que afecten a la **integridad territorial o a los derechos y deberes del Título I**, los que impliquen **obligaciones financieras** y los que **modifiquen o deroguen alguna ley o exijan medidas legislativas**. De los restantes, el Congreso y el Senado solo son **informados** (94.2)."
+  }
+ ],
+ "a95": [
+  {
+   "pregunta": "De acuerdo con el artículo 95 de la Constitución, la celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución exigirá:",
+   "opciones": [
+    "La previa revisión constitucional.",
+    "Su aprobación por mayoría de tres quintos de ambas Cámaras.",
+    "La autorización de las Cortes Generales mediante ley orgánica.",
+    "El dictamen previo favorable del Consejo de Estado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 95 CE: exige **la previa revisión constitucional**. El Gobierno o cualquiera de las Cámaras pueden requerir al **Tribunal Constitucional** para que declare si existe esa contradicción (95.2)."
+  }
+ ],
+ "a96": [
+  {
+   "pregunta": "Según el artículo 96.2 de la Constitución, para la denuncia de los tratados y convenios internacionales se utilizará:",
+   "opciones": [
+    "En todo caso, la autorización previa del Congreso por mayoría absoluta.",
+    "El mismo procedimiento previsto para su aprobación en el artículo 94.",
+    "El procedimiento previsto en el propio tratado, sin intervención de las Cortes Generales.",
+    "Una ley orgánica."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 96.2 CE: la denuncia sigue **el mismo procedimiento que su aprobación (art. 94)**. Los tratados válidamente celebrados forman parte del ordenamiento interno una vez **publicados oficialmente en España** (96.1)."
   }
  ]
 }
