@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Preguntas · {{ it.title }} · {{ brand }} Estudio{% endblock %}
+{% block description %}Preguntas tipo examen: {{ it.title }}.{% endblock %}
+{% block mainclass %}main main-doc{% endblock %}
+{% block content %}
+<div class="doc-grid">
+  <article class="doc">
+    <nav class="crumbs" aria-label="Ruta">
+      <a href="{{ base }}" data-brand-link>Inicio</a><span>›</span><a href="{{ base }}preguntas/">Preguntas frecuentes</a>
+    </nav>
+    <header class="doc-head">
+      <h1>{{ it.title }}</h1>
+      <p class="lead">{{ it.n }} preguntas{% if it.nreal %}, {{ it.nreal }} de ellas de exámenes reales (★){% endif %}, en el orden de la norma. Pulsa una opción para corregirla; el título de cada bloque te lleva al artículo explicado.</p>
+      <div class="doc-actions">
+        <a class="chip-btn ghost" href="{{ base }}{{ it.src }}">Ver el texto explicado</a>
+      </div>
+    </header>
+
+    <div class="preg-tools" id="preg-tools">
+      <div class="seg" role="group" aria-label="Filtrar">
+        <button type="button" class="chip-btn" data-filter="all" aria-pressed="true">Todas</button>
+        <button type="button" class="chip-btn ghost" data-filter="real" aria-pressed="false">Solo ★ las que cayeron</button>
+      </div>
+      <p class="preg-score" aria-live="polite"><span data-ok>0</span> aciertos · <span data-ko>0</span> fallos · <span data-left>{{ it.n }}</span> sin contestar <button type="button" class="link-btn" data-reset>Reiniciar</button></p>
+    </div>
+
+    <div class="prose preg-list">
+      {{ it.body|safe }}
+    </div>
+
+    <nav class="pager" aria-label="Paginación">
+      {% if prev %}<a class="pager-link" href="{{ base }}{{ prev.url }}"><small>Anterior</small><span>{{ prev.title }}</span></a>{% else %}<span></span>{% endif %}
+      {% if next %}<a class="pager-link next" href="{{ base }}{{ next.url }}"><small>Siguiente</small><span>{{ next.title }}</span></a>{% endif %}
+    </nav>
+  </article>
+  <aside class="toc" aria-label="Más preguntas">
+    <p class="toc-title">Preguntas frecuentes</p>
+    {% for g in groups %}
+    <p class="toc-sub">{{ g.name }}</p>
+    <ul>{% for x in g["items"] %}<li><a href="{{ base }}{{ x.url }}"{% if x.url == it.url %} aria-current="page"{% endif %}>{{ x.title }}</a></li>{% endfor %}</ul>
+    {% endfor %}
+  </aside>
+</div>
+{% endblock %}

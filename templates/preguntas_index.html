@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}Preguntas frecuentes · {{ brand }} Estudio{% endblock %}
+{% block description %}Preguntas tipo examen de la Constitución y de las leyes del temario, en el orden de la norma, con las que ya cayeron en exámenes reales.{% endblock %}
+{% block content %}
+<header class="page-head">
+  <nav class="crumbs" aria-label="Ruta"><a href="{{ base }}" data-brand-link>Inicio</a><span>›</span><span>Preguntas frecuentes</span></nav>
+  <h1>Preguntas frecuentes</h1>
+  <p class="lead">{{ total }} preguntas tipo examen de la Constitución y de las leyes, ordenadas como la propia norma (artículo a artículo). Las marcadas con ★ ({{ total_real }}) ya cayeron en un examen real de TAI, Auxiliar o Administrativo; el resto son preguntas de ejemplo comprobadas con el texto vigente del BOE.</p>
+</header>
+
+{% for g in groups %}
+<section class="law-group">
+  <h2>{{ g.name }}</h2>
+  <div class="preg-index">
+    {% for it in g["items"] %}
+    <a class="preg-card" href="{{ base }}{{ it.url }}">
+      <span class="preg-card-t">{{ it.title }}</span>
+      <span class="preg-card-n">{{ it.n }} preguntas{% if it.nreal %} · <strong>★ {{ it.nreal }}</strong> de examen{% endif %}{% if it.meta.arts %} · {{ it.meta.arts }}{% endif %}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endfor %}
+{% endblock %}

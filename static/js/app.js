@@ -288,7 +288,45 @@
       });
       const sol = box.querySelector(".preg-sol");
       if (sol) sol.open = true;
+      pregScore();
     });
+    const tools = document.getElementById("preg-tools");
+    if (!tools) return;
+    const list = document.querySelector(".preg-list");
+    tools.querySelectorAll("[data-filter]").forEach((b) => b.addEventListener("click", () => {
+      const real = b.dataset.filter === "real";
+      list.classList.toggle("only-real", real);
+      tools.querySelectorAll("[data-filter]").forEach((x) => {
+        const on = x === b;
+        x.setAttribute("aria-pressed", on ? "true" : "false");
+        x.classList.toggle("ghost", !on);
+      });
+      pregScore();
+    }));
+    tools.querySelector("[data-reset]").addEventListener("click", () => {
+      list.querySelectorAll(".preg").forEach((box) => {
+        box.classList.remove("done");
+        box.querySelectorAll(".preg-op").forEach((x) => x.classList.remove("ok", "ko"));
+        const sol = box.querySelector(".preg-sol");
+        if (sol) sol.open = false;
+      });
+      pregScore();
+    });
+    pregScore();
+  }
+
+  function pregScore() {
+    const tools = document.getElementById("preg-tools");
+    if (!tools) return;
+    const boxes = [...document.querySelectorAll(".preg-list .preg")].filter((b) => b.offsetParent !== null);
+    let ok = 0, ko = 0;
+    boxes.forEach((b) => {
+      if (!b.classList.contains("done")) return;
+      if (b.querySelector(".preg-op.ko")) ko++; else ok++;
+    });
+    tools.querySelector("[data-ok]").textContent = ok;
+    tools.querySelector("[data-ko]").textContent = ko;
+    tools.querySelector("[data-left]").textContent = boxes.length - ok - ko;
   }
 
   window.TAI = { store: store, markStudyDay: markStudyDay, streak: streak, todayStr: todayStr, BASE: BASE };

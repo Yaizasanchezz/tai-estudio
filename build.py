@@ -159,6 +159,7 @@ ICONS = {
     "home": '<path d="M3 10.5 12 3l9 7.5"/><path d="M5 9.5V21h14V9.5"/><path d="M9.5 21v-6h5v6"/>',
     "book": '<path d="M4 19.5V5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2Z"/><path d="M4 19.5A2 2 0 0 0 6 22h13v-3"/><path d="M8 7h7"/>',
     "landmark": '<path d="M3 21h18"/><path d="M5 21V10"/><path d="M19 21V10"/><path d="M9 21V10"/><path d="M15 21V10"/><path d="M2 10 12 3l10 7Z"/>',
+    "help": '<circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.6.3-1 .9-1 1.6v.6"/><path d="M12 17h.01"/>',
     "scale": '<path d="M12 3v18"/><path d="M7 21h10"/><path d="M5 7h14"/><path d="m5 7-3 7a3.5 3.5 0 0 0 6 0Z"/><path d="m19 7-3 7a3.5 3.5 0 0 0 6 0Z"/>',
     "check": '<rect x="3" y="3" width="18" height="18" rx="4"/><path d="m8 12 3 3 5-6"/>',
     "briefcase": '<rect x="3" y="7" width="18" height="13" rx="3"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><path d="M3 13h18"/>',
@@ -175,6 +176,7 @@ NAV = [
     {"label": "Temario", "url": "temario/", "icon": "book"},
     {"label": "Constitución", "url": "constitucion/", "icon": "landmark"},
     {"label": "Leyes", "url": "leyes/", "icon": "scale"},
+    {"label": "Preguntas frecuentes", "url": "preguntas/", "icon": "help"},
     {"label": "Tests", "url": "tests/", "icon": "check"},
     {"label": "Supuestos prácticos", "url": "supuestos/", "icon": "briefcase"},
     {"label": "Exámenes resueltos", "url": "examenes/", "icon": "file"},
@@ -186,6 +188,7 @@ NAV_AUX = [
     {"label": "Temario", "url": "auxiliar/temario/", "icon": "book"},
     {"label": "Constitución", "url": "constitucion/", "icon": "landmark"},
     {"label": "Leyes", "url": "leyes/", "icon": "scale"},
+    {"label": "Preguntas frecuentes", "url": "preguntas/", "icon": "help"},
     {"label": "Tests", "url": "auxiliar/tests/", "icon": "check"},
     {"label": "Psicotécnicos", "url": "auxiliar/psicotecnicos/", "icon": "brain"},
     {"label": "Ofimática práctica", "url": "auxiliar/ofimatica/", "icon": "grid"},
@@ -198,6 +201,7 @@ NAV_ADM = [
     {"label": "Temario", "url": "administrativo/temario/", "icon": "book"},
     {"label": "Constitución", "url": "constitucion/", "icon": "landmark"},
     {"label": "Leyes", "url": "leyes/", "icon": "scale"},
+    {"label": "Preguntas frecuentes", "url": "preguntas/", "icon": "help"},
     {"label": "Tests", "url": "administrativo/tests/", "icon": "check"},
     {"label": "Ofimática práctica", "url": "administrativo/ofimatica/", "icon": "grid"},
     {"label": "Exámenes resueltos", "url": "administrativo/examenes/", "icon": "file"},
@@ -209,7 +213,7 @@ OPOSITATEST_AUX_URL = "https://www.opositatest.com/oposiciones/auxiliares-admini
 OPOSITATEST_ADM_URL = "https://www.opositatest.com/oposiciones/administrativos-del-estado-turno-libre/test"
 
 # Rutas compartidas por las dos oposiciones (el menú lateral depende de la elegida).
-SHARED_PREFIXES = ("constitucion/", "leyes/")
+SHARED_PREFIXES = ("constitucion/", "leyes/", "preguntas/")
 
 
 def icon(name: str, cls: str = "icon") -> str:
@@ -389,6 +393,7 @@ def emphasize(html: str, phrases: list[str]) -> str:
     return html
 
 
+PREG_INDEX: list[dict] = []
 EXAM_NAMES = {"tai-libre": "TAI", "aux-libre": "Auxiliar", "adm-libre": "Administrativo"}
 _EXAMS: dict = {}
 
@@ -451,9 +456,11 @@ def compose_annotated(meta: dict, text: str, page: str = "") -> str:
     pregs = load_preguntas(page, slugs[0])
     pused = set()
 
-    def quiz(law, bid):
+    def quiz(law, bid, anchor="", label=""):
         if (law, bid) in pregs:
             pused.add((law, bid))
+            PREG_INDEX.append({"page": page, "law": law, "anchor": anchor, "label": label,
+                               "qs": pregs[(law, bid)]})
             return preg_html(pregs[(law, bid)])
         return ""
 
@@ -479,7 +486,7 @@ def compose_annotated(meta: dict, text: str, page: str = "") -> str:
             rest = [k for k in notes if k[0] == slug and k not in used]
             for i, key in enumerate(rest):
                 last = not any(k[:2] == key[:2] for k in rest[i + 1:])
-                out.append(note_md(take(*key)) + (quiz(key[0], key[1]) if last else ""))
+                out.append(note_md(take(*key)) + (quiz(key[0], key[1], "", law.get("corto", law["nombre"])) if last else ""))
             continue
         blocks = [b for b in data["bloques"] if b["tipo"] in ("encabezado", "precepto", "preambulo")]
         if not rng or rng[0] != "preambulo":
@@ -505,7 +512,7 @@ def compose_annotated(meta: dict, text: str, page: str = "") -> str:
                 chunk = f'\n\n{level} {heading_text(b["html"])} {{#{hid} .oficial-h}}\n\n'
                 chunk += note_md(pre) if pre else ""
                 chunk += note_md(take(slug, bid, False)) if (slug, bid, False) in notes else ""
-                chunk += quiz(slug, bid)
+                chunk += quiz(slug, bid, hid, heading_text(b["html"]))
                 out.append(chunk)
                 continue
             body = re.sub(r'^\s*<p class="articulo">.*?</p>', "", b["html"], count=1, flags=re.S)
@@ -521,7 +528,7 @@ def compose_annotated(meta: dict, text: str, page: str = "") -> str:
             after = take(slug, bid, False)
             if after:
                 chunk += note_md(after)
-            chunk += quiz(slug, bid)
+            chunk += quiz(slug, bid, hid, head_txt + (f" · {label}" if label else ""))
             (finals if in_final and not noted else out).append(chunk)
         if finals:
             out.append('\n\n<details class="oficial-final" markdown="1">\n<summary>Disposiciones adicionales, transitorias, derogatorias y finales (texto oficial)</summary>\n\n' + "".join(finals) + "\n\n</details>\n\n")
@@ -580,6 +587,47 @@ def build_leyes(leyes: list[dict]) -> None:
             continue
         render_law_text(law, law["text_url"], law["exp_url"])
     render("leyes.html", "leyes/", groups=groups)
+
+
+def build_preguntas(ce_pages: list[dict]) -> None:
+    """Sección «Preguntas frecuentes»: todas las preguntas de Constitución y Leyes, en orden."""
+    by_page: dict[str, list] = {}
+    for e in PREG_INDEX:
+        by_page.setdefault(e["page"], []).append(e)
+    groups = []
+    ley_meta = {}
+    for f in sorted((CONTENT / "leyes").glob("*.md")):
+        meta, _ = front_matter(f.read_text(encoding="utf-8"))
+        ley_meta[f"leyes/{f.stem}"] = meta
+    ce_list = [{"key": f"constitucion/{p['slug']}", "title": p["title"], "src": p["url"], "meta": p["meta"]} for p in ce_pages]
+    ley_list = sorted(({"key": k, "title": m.get("title", k), "src": f"{k}/", "meta": m} for k, m in ley_meta.items()),
+                      key=lambda x: float(x["meta"].get("order", 99)))
+    for gname, lst in (("Constitución Española", ce_list), ("Leyes del temario", ley_list)):
+        items = []
+        for it in lst:
+            entries = by_page.get(it["key"], [])
+            if not entries:
+                continue
+            n = sum(len(e["qs"]) for e in entries)
+            nreal = sum(1 for e in entries for q in e["qs"] if q.get("origen"))
+            it.update(url=f"preguntas/{it['key']}/", n=n, nreal=nreal, entries=entries)
+            items.append(it)
+        groups.append({"name": gname, "items": items})
+    flat = [it for g in groups for it in g["items"]]
+    for i, it in enumerate(flat):
+        parts = []
+        for e in it["entries"]:
+            link = f'{BASE}{it["src"]}#{e["anchor"]}' if e["anchor"] else f'{BASE}{it["src"]}'
+            hid = f'q-{e["anchor"]}' if e["anchor"] else ""
+            parts.append(f'<section class="preg-group" data-real="{1 if any(q.get("origen") for q in e["qs"]) else 0}">'
+                         f'<h3 class="preg-h"{f" id={chr(34)}{hid}{chr(34)}" if hid else ""}><a href="{link}">{html.escape(e["label"] or it["title"])}</a></h3>'
+                         f'{preg_html(e["qs"])}</section>')
+        it["body"] = "\n".join(parts)
+        render("preguntas.html", it["url"], it=it, groups=groups,
+               prev=flat[i - 1] if i else None, next=flat[i + 1] if i + 1 < len(flat) else None)
+    total = sum(it["n"] for it in flat)
+    total_real = sum(it["nreal"] for it in flat)
+    render("preguntas_index.html", "preguntas/", groups=groups, total=total, total_real=total_real)
 
 
 def build_examenes() -> None:
@@ -972,6 +1020,7 @@ def main() -> None:
     temario = build_temario()
     ce_pages = build_constitucion(leyes)
     build_leyes(leyes)
+    build_preguntas(ce_pages)
     build_examenes()
     n_tests, n_cards = build_data_pages()
     build_aux()
