@@ -25,6 +25,259 @@
    "examen": "tai-libre-2026",
    "parte": "p1",
    "n": "16"
+  },
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "13"
+  },
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "14"
+  }
+ ],
+ "rgpd:a2": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "18"
+  }
+ ],
+ "rgpd:a4": [
+  {
+   "pregunta": "Según el artículo 4 del Reglamento (UE) 2016/679 (RGPD), la persona física o jurídica, autoridad pública, servicio u otro organismo que, solo o junto con otros, determine los fines y medios del tratamiento es:",
+   "opciones": [
+    "El encargado del tratamiento.",
+    "El responsable del tratamiento.",
+    "El delegado de protección de datos.",
+    "El destinatario."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 4.7 RGPD: el **responsable** es quien **determina los fines y medios** del tratamiento. El **encargado** (art. 4.8) trata los datos **por cuenta del responsable**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 4 del RGPD, el tratamiento de datos personales de manera tal que ya no puedan atribuirse a un interesado sin utilizar información adicional, siempre que dicha información figure por separado y esté sujeta a medidas técnicas y organizativas, se denomina:",
+   "opciones": [
+    "Anonimización.",
+    "Limitación del tratamiento.",
+    "Cifrado.",
+    "Seudonimización."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 4.5 RGPD: es la **seudonimización**. Los datos seudonimizados **siguen siendo datos personales**; los **anonimizados** dejan de serlo y quedan fuera del RGPD."
+  }
+ ],
+ "rgpd:a5": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "15"
+  },
+  {
+   "pregunta": "Según el artículo 5.2 del RGPD, el responsable del tratamiento será responsable del cumplimiento de los principios relativos al tratamiento y capaz de demostrarlo. Este principio se denomina:",
+   "opciones": [
+    "Responsabilidad proactiva.",
+    "Integridad y confidencialidad.",
+    "Licitud, lealtad y transparencia.",
+    "Limitación de la finalidad."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 5.2 RGPD: **responsabilidad proactiva** (*accountability*): el responsable debe cumplir **y poder demostrar** que cumple los principios del art. 5.1."
+  }
+ ],
+ "rgpd:a6": [
+  {
+   "pregunta": "Según el artículo 6.1 del RGPD, la base de legitimación del tratamiento que NO es aplicable al tratamiento realizado por las autoridades públicas en el ejercicio de sus funciones es:",
+   "opciones": [
+    "El cumplimiento de una obligación legal aplicable al responsable.",
+    "El cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos.",
+    "La satisfacción de intereses legítimos perseguidos por el responsable o por un tercero.",
+    "La protección de intereses vitales del interesado o de otra persona física."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 6.1 RGPD, párrafo segundo: el **interés legítimo** (letra f) **no se aplica** al tratamiento realizado por las **autoridades públicas en el ejercicio de sus funciones**. Las Administraciones se basan normalmente en la obligación legal o en la misión de interés público / poderes públicos."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 7 de la Ley Orgánica 3/2018 (LOPDGDD), el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de:",
+   "opciones": [
+    "Trece años.",
+    "Dieciséis años.",
+    "Doce años.",
+    "Catorce años."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 7.1 LOPDGDD: **mayor de catorce años**. El RGPD (art. 8) fija 16 años y permite a los Estados bajar hasta 13; España eligió **14**. Por debajo, hace falta el consentimiento del titular de la patria potestad o tutela."
+  }
+ ],
+ "rgpd:a9": [
+  {
+   "pregunta": "¿Cuál de los siguientes datos NO forma parte de las categorías especiales de datos personales del artículo 9 del RGPD?",
+   "opciones": [
+    "Los datos relativos a la afiliación sindical.",
+    "Los datos biométricos dirigidos a identificar de manera unívoca a una persona física.",
+    "Los datos relativos a la situación económica y patrimonial.",
+    "Los datos relativos a la orientación sexual."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 9.1 RGPD: son categorías especiales el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas, la **afiliación sindical**, los datos genéticos, los **biométricos** dirigidos a identificar unívocamente, los de salud y los de vida u **orientación sexual**. Los datos económicos no lo son."
+  }
+ ],
+ "rgpd:a12": [
+  {
+   "pregunta": "Según el artículo 12.3 del RGPD, el responsable del tratamiento facilitará al interesado información relativa a sus actuaciones sobre la solicitud de ejercicio de derechos sin dilación indebida y, en cualquier caso, en el plazo de:",
+   "opciones": [
+    "Un mes a partir de la recepción de la solicitud, prorrogable otros dos meses en caso necesario.",
+    "Diez días hábiles, prorrogables otros diez.",
+    "Tres meses, sin posibilidad de prórroga.",
+    "Quince días naturales, prorrogables un mes."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 12.3 RGPD: **un mes** desde la recepción de la solicitud, prorrogable **otros dos meses** según la complejidad y el número de solicitudes, informando al interesado de la prórroga dentro del primer mes."
+  }
+ ],
+ "rgpd:a24": [
+  {
+   "pregunta": "Según el artículo 25.2 del RGPD, el responsable aplicará las medidas técnicas y organizativas apropiadas para garantizar que solo sean objeto de tratamiento los datos personales necesarios para cada uno de los fines específicos del tratamiento. Este principio se conoce como protección de datos:",
+   "opciones": [
+    "Desde el diseño.",
+    "Por defecto.",
+    "Mediante seudonimización.",
+    "Por responsabilidad proactiva."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 25.2 RGPD: protección de datos **por defecto** (*privacy by default*): por defecto solo se tratan los datos necesarios en cantidad, extensión, plazo y accesibilidad. La protección **desde el diseño** (art. 25.1) se refiere a integrar las garantías desde la concepción del tratamiento."
+  },
+  {
+   "pregunta": "Según el artículo 30.5 del RGPD, la obligación de llevar un registro de las actividades de tratamiento no se aplica, como regla general, a las empresas u organizaciones que empleen a menos de:",
+   "opciones": [
+    "50 personas.",
+    "100 personas.",
+    "250 personas.",
+    "500 personas."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 30.5 RGPD: excepción para organizaciones de **menos de 250 empleados**, salvo que el tratamiento pueda entrañar un riesgo, no sea ocasional o incluya categorías especiales o datos penales."
+  }
+ ],
+ "rgpd:a32": [
+  {
+   "pregunta": "Según el artículo 33 del RGPD, en caso de violación de la seguridad de los datos personales, el responsable la notificará a la autoridad de control competente sin dilación indebida y, de ser posible, a más tardar:",
+   "opciones": [
+    "En las 24 horas siguientes a que haya tenido constancia de ella.",
+    "En los 10 días hábiles siguientes.",
+    "En el plazo de un mes.",
+    "En las 72 horas siguientes a que haya tenido constancia de ella."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 33.1 RGPD: **72 horas** desde que se tuvo constancia, salvo que sea improbable que constituya un riesgo para los derechos y libertades; si se notifica más tarde, debe justificarse el retraso."
+  }
+ ],
+ "rgpd:a35": [
+  {
+   "pregunta": "Según el artículo 36 del RGPD, cuando una evaluación de impacto relativa a la protección de datos muestre que el tratamiento entrañaría un alto riesgo si el responsable no toma medidas para mitigarlo, el responsable deberá, antes de proceder al tratamiento:",
+   "opciones": [
+    "Consultar a la autoridad de control.",
+    "Obtener la autorización del Comité Europeo de Protección de Datos.",
+    "Recabar el consentimiento expreso de todos los interesados.",
+    "Comunicarlo a la Comisión Europea."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 36.1 RGPD: **consulta previa a la autoridad de control** (en España, la AEPD) cuando la EIPD muestre un alto riesgo que el responsable no puede mitigar."
+  }
+ ],
+ "rgpd:a37": [
+  {
+   "pregunta": "Según el artículo 37 del RGPD, el responsable y el encargado del tratamiento designarán un delegado de protección de datos siempre que el tratamiento lo lleve a cabo:",
+   "opciones": [
+    "Una empresa con más de 250 trabajadores.",
+    "Una autoridad u organismo público, excepto los tribunales que actúen en ejercicio de su función judicial.",
+    "Cualquier persona física o jurídica que trate datos de forma automatizada.",
+    "Una entidad que realice transferencias internacionales de datos."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 37.1.a) RGPD: es obligatorio cuando el tratamiento lo realiza una **autoridad u organismo público**, salvo los **tribunales en su función judicial**. También cuando hay observación habitual y sistemática a gran escala o tratamiento a gran escala de categorías especiales o datos penales."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 34.3 de la LOPDGDD, los responsables y encargados del tratamiento comunicarán a la Agencia Española de Protección de Datos las designaciones, nombramientos y ceses de los delegados de protección de datos en el plazo de:",
+   "opciones": [
+    "Un mes.",
+    "Diez días.",
+    "Quince días.",
+    "Setenta y dos horas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 34.3 LOPDGDD: en el plazo de **diez días**, tanto si la designación es obligatoria como si es voluntaria."
+  }
+ ],
+ "rgpd:a40": [
+  {
+   "pregunta": "Según el artículo 42 del RGPD, la certificación en materia de protección de datos se expedirá a un responsable o encargado del tratamiento por un período máximo de:",
+   "opciones": [
+    "Un año, renovable.",
+    "Dos años, no renovable.",
+    "Tres años, y podrá ser renovada en las mismas condiciones.",
+    "Cinco años, renovable una sola vez."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 42.7 RGPD: la certificación se expide por un **período máximo de tres años** y puede **renovarse** en las mismas condiciones, siempre que se sigan cumpliendo los requisitos."
+  }
+ ],
+ "rgpd:a44": [
+  {
+   "pregunta": "Según el artículo 45 del RGPD, podrá realizarse una transferencia de datos personales a un tercer país sin necesidad de autorización específica cuando se haya decidido que dicho país garantiza un nivel de protección adecuado. Esa decisión de adecuación corresponde a:",
+   "opciones": [
+    "La Comisión Europea.",
+    "El Comité Europeo de Protección de Datos.",
+    "La autoridad de control de cada Estado miembro.",
+    "El Consejo de la Unión Europea."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 45 RGPD: la **decisión de adecuación** la adopta la **Comisión**. A falta de ella, caben garantías adecuadas (cláusulas tipo, normas corporativas vinculantes…, art. 46) o las excepciones del art. 49."
+  }
+ ],
+ "rgpd:a51": [
+  {
+   "pregunta": "Según el artículo 48 de la LOPDGDD, el mandato de la Presidencia y del Adjunto de la Agencia Española de Protección de Datos tiene una duración de:",
+   "opciones": [
+    "Cuatro años, no renovable.",
+    "Seis años, no renovable.",
+    "Cinco años, no renovable.",
+    "Cinco años, y puede ser renovado para otro período de igual duración."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 48.5 LOPDGDD: **cinco años, renovable** por otro período igual. Los nombra el **Consejo de Ministros mediante real decreto**, previa ratificación de la Comisión de Justicia del Congreso (3/5 en primera votación o mayoría absoluta en segunda)."
+  }
+ ],
+ "lopdgdd:a7-2": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "17"
+  },
+  {
+   "pregunta": "Según el artículo 77 de la LOPDGDD, cuando la Administración General del Estado cometa una infracción en materia de protección de datos, la autoridad de protección de datos:",
+   "opciones": [
+    "Le impondrá una multa de hasta 20 millones de euros.",
+    "Dictará resolución declarando la infracción y estableciendo, en su caso, las medidas para que cese la conducta o se corrijan sus efectos, sin imponer multa.",
+    "Remitirá el expediente al Tribunal de Cuentas para que exija el reintegro.",
+    "Archivará el procedimiento, pues las Administraciones no están sujetas al régimen sancionador."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 77.2 LOPDGDD: a las Administraciones y demás entidades del art. 77.1 **no se les imponen multas**: la autoridad **declara la infracción** y fija medidas correctoras; puede proponer actuaciones disciplinarias y, si procede, una **amonestación** publicada en el boletín oficial (art. 77.3)."
+  }
+ ],
+ "lopdgdd:ti-4": [
+  {
+   "pregunta": "Según el artículo 22 de la LOPDGDD, los datos obtenidos por sistemas de videovigilancia con la finalidad de preservar la seguridad de personas, bienes e instalaciones serán suprimidos en el plazo máximo de:",
+   "opciones": [
+    "Un mes desde su captación, salvo que deban conservarse para acreditar actos que atenten contra la integridad de personas, bienes o instalaciones.",
+    "Setenta y dos horas desde su captación.",
+    "Quince días desde su captación.",
+    "Tres meses desde su captación."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 22.3 LOPDGDD: **un mes** desde la captación. Si acreditan un atentado contra personas, bienes o instalaciones, se ponen a disposición de la autoridad en **72 horas** desde que se conozca la grabación."
   }
  ]
 }

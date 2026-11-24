@@ -477,8 +477,9 @@ def compose_annotated(meta: dict, text: str, page: str = "") -> str:
         if not data:
             out.append(f'\n\n<p class="oficial-falta">Esta norma no se publica en el BOE (es europea): su texto oficial está en <a href="{law.get("url", "")}" target="_blank" rel="noopener">EUR-Lex ↗</a>. Abajo, las explicaciones.</p>\n\n')
             rest = [k for k in notes if k[0] == slug and k not in used]
-            for key in rest:
-                out.append(note_md(take(*key)) + ("" if key[2] else quiz(key[0], key[1])))
+            for i, key in enumerate(rest):
+                last = not any(k[:2] == key[:2] for k in rest[i + 1:])
+                out.append(note_md(take(*key)) + (quiz(key[0], key[1]) if last else ""))
             continue
         blocks = [b for b in data["bloques"] if b["tipo"] in ("encabezado", "precepto", "preambulo")]
         if not rng or rng[0] != "preambulo":

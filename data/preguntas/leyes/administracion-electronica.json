@@ -11,6 +11,11 @@
    "examen": "tai-libre-2026",
    "parte": "p1",
    "n": "22"
+  },
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p2",
+   "n": "8"
   }
  ],
  "rd-1112-2018:ar-3": [
@@ -18,6 +23,130 @@
    "examen": "tai-libre-2026",
    "parte": "p1",
    "n": "54"
+  }
+ ],
+ "rd-203-2021:a3": [
+  {
+   "pregunta": "Según el artículo 14 del Real Decreto 203/2021, si un interesado obligado a relacionarse por medios electrónicos presenta su solicitud en papel, se le requerirá para que subsane advirtiéndole de que, de no atender el requerimiento en el plazo de diez días:",
+   "opciones": [
+    "Se le impondrá una multa coercitiva.",
+    "Se tramitará la solicitud en papel, pero sin derecho a recurso.",
+    "Se tendrá por presentada en la fecha original, con independencia de la subsanación.",
+    "Se le tendrá por desistido de su solicitud o se le podrá declarar decaído en su derecho al trámite correspondiente."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 14.1 RD 203/2021: **10 días** para subsanar; si no, se le tiene **por desistido** (o decaído en su derecho al trámite), previa resolución. Si se trata de una solicitud de iniciación, la **fecha de la subsanación** es la fecha de presentación (art. 68.4 Ley 39/2015)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 3.3 del Real Decreto 203/2021, en el ámbito estatal la obligatoriedad de relacionarse por medios electrónicos para determinados procedimientos y ciertos colectivos de personas físicas podrá establecerse:",
+   "opciones": [
+    "Por real decreto acordado en Consejo de Ministros o por orden de la persona titular del Departamento competente.",
+    "Únicamente por ley.",
+    "Por resolución de la Secretaría General de Administración Digital.",
+    "Por instrucción del órgano que tramite el procedimiento."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 3.3 RD 203/2021: por **real decreto acordado en Consejo de Ministros** o por **orden ministerial** (cuando la regulación no requiera rango de real decreto), publicándose en el **PAGe** y en la sede que corresponda."
+  }
+ ],
+ "rd-203-2021:a5": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "17"
+  }
+ ],
+ "rd-203-2021:a1-5": [
+  {
+   "pregunta": "Según el artículo 13 del Real Decreto 203/2021, en el ámbito estatal la determinación de una actuación administrativa como automatizada:",
+   "opciones": [
+    "Requiere un real decreto aprobado por el Consejo de Ministros.",
+    "Se autorizará por resolución del titular del órgano administrativo competente por razón de la materia, que se publicará en la sede electrónica.",
+    "Debe ser aprobada por orden del Ministro de Hacienda, previo informe del Consejo de Estado.",
+    "No requiere autorización expresa, basta con que el sistema esté homologado por el Centro Criptológico Nacional."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 13.2 RD 203/2021: se autoriza por **resolución del titular del órgano competente** por razón de la materia (o del órgano ejecutivo del organismo), que se **publica en la sede** e indica los recursos procedentes."
+  }
+ ],
+ "rd-203-2021:a1-7": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p2",
+   "n": "10"
+  },
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "18"
+  },
+  {
+   "pregunta": "Según el artículo 21 del Real Decreto 203/2021, la orden o resolución que crea un sistema de código seguro de verificación debe fijar el plazo de disponibilidad para verificar los documentos en la sede electrónica, que será al menos de:",
+   "opciones": [
+    "Un año.",
+    "Cuatro años.",
+    "Cinco años.",
+    "Diez años."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 21.4.e) RD 203/2021: **al menos cinco años**, salvo que la normativa especial prevea uno superior. Pasado ese plazo, hay que solicitar la verificación al órgano emisor."
+  }
+ ],
+ "rd-203-2021:a3-9": [
+  {
+   "pregunta": "De acuerdo con el artículo 37 del Real Decreto 203/2021, los organismos públicos y entidades de derecho público vinculados o dependientes de una Administración:",
+   "opciones": [
+    "Deben utilizar obligatoriamente el Registro Electrónico General de su Administración, sin posibilidad de tener registro propio.",
+    "Pueden disponer de un registro en papel independiente, sin conexión con el general.",
+    "Solo pueden tener registro propio si así lo autoriza el Consejo de Ministros.",
+    "Podrán disponer de su propio registro electrónico plenamente interoperable e interconectado con el Registro Electrónico General de la Administración de la que dependan."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 37.2 RD 203/2021: cada Administración tiene un **Registro Electrónico General**, y sus organismos **pueden tener registro electrónico propio**, siempre **plenamente interoperable e interconectado** con el general."
+  }
+ ],
+ "rd-203-2021:a4-3": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p2",
+   "n": "9"
+  },
+  {
+   "pregunta": "Según el artículo 42 del Real Decreto 203/2021, cuando una Administración pone a disposición una notificación tanto en su sede electrónica como en la Dirección Electrónica Habilitada única, para el cómputo de plazos se tomará:",
+   "opciones": [
+    "La fecha y hora de acceso al contenido o de rechazo en el sistema en el que haya ocurrido en primer lugar.",
+    "La fecha de puesta a disposición en la sede electrónica.",
+    "La fecha y hora de acceso en la Dirección Electrónica Habilitada única, aunque se haya accedido antes en la sede.",
+    "La fecha del último acceso producido en cualquiera de los dos sistemas."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 42.1 RD 203/2021: si se notifica por ambos sistemas, cuenta el **acceso o rechazo que se produzca en primer lugar**. En el ámbito estatal toda notificación se pone a disposición en la **DEHú** (art. 42.5)."
+  }
+ ],
+ "rd-203-2021:a4-8": [
+  {
+   "pregunta": "Según el artículo 55 del Real Decreto 203/2021, el conjunto de sistemas y servicios que sustenta la gestión, custodia y recuperación de los documentos y expedientes electrónicos una vez finalizados los procedimientos administrativos es:",
+   "opciones": [
+    "El Registro Electrónico General.",
+    "El archivo electrónico único.",
+    "La Carpeta Ciudadana.",
+    "El Sistema de Interconexión de Registros."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 55.1 RD 203/2021: es el **archivo electrónico único** de cada Administración, para los documentos y expedientes de **procedimientos finalizados**."
+  }
+ ],
+ "rd-203-2021:a5-8": [
+  {
+   "pregunta": "Conforme al artículo 60 del Real Decreto 203/2021, las interconexiones entre los Registros de las Administraciones Públicas deberán realizarse a través de:",
+   "opciones": [
+    "La Plataforma de Intermediación de Datos (PID).",
+    "La Dirección Electrónica Habilitada única (DEHú).",
+    "El Sistema de Interconexión de Registros (SIR).",
+    "El Registro Electrónico de Apoderamientos (REA)."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 60.2 RD 203/2021: a través del **Sistema de Interconexión de Registros (SIR)**. La **PID** sirve para consultar datos que ya obran en otra Administración (arts. 61 y 62)."
   }
  ]
 }

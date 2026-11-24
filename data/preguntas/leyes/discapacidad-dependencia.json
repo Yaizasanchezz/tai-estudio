@@ -19,5 +19,186 @@
    "parte": "p1",
    "n": "11"
   }
+ ],
+ "rdl-1-2013:a1": [
+  {
+   "pregunta": "Según el artículo 1 del Real Decreto Legislativo 1/2013, por el que se aprueba el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, esta ley tiene por objeto, además de garantizar el derecho a la igualdad de oportunidades y de trato de las personas con discapacidad:",
+   "opciones": [
+    "Regular el procedimiento de reconocimiento del grado de dependencia.",
+    "Establecer el régimen de infracciones y sanciones que garantizan las condiciones básicas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.",
+    "Fijar la cuantía de las pensiones no contributivas de invalidez.",
+    "Crear el Sistema para la Autonomía y Atención a la Dependencia."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 1 RDLeg 1/2013: su objeto es doble: a) garantizar la igualdad de oportunidades y de trato y el ejercicio real de derechos, y b) **establecer el régimen de infracciones y sanciones** en materia de igualdad, no discriminación y accesibilidad universal. El SAAD y los grados de dependencia son de la Ley 39/2006."
+  }
+ ],
+ "rdl-1-2013:a2": [
+  {
+   "pregunta": "Según el artículo 2 del Real Decreto Legislativo 1/2013, las modificaciones y adaptaciones necesarias y adecuadas del entorno físico, cognitivo, comunicativo, social y actitudinal a las situaciones concretas de una persona con discapacidad, que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, se denominan:",
+   "opciones": [
+    "Diseño universal o diseño para todas las personas.",
+    "Medidas de acción positiva.",
+    "Ajustes razonables.",
+    "Accesibilidad universal."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 2.m) RDLeg 1/2013: son **ajustes razonables**, y **no realizarlos supone una discriminación** por razón de discapacidad. El **diseño universal** (letra l) se aplica **desde el origen** y para todas las personas, sin necesidad de adaptación."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 2 del Real Decreto Legislativo 1/2013, la discapacidad es una situación que resulta de:",
+   "opciones": [
+    "La interacción entre las personas con deficiencias previsiblemente permanentes y cualquier tipo de barreras que limiten o impidan su participación plena y efectiva en la sociedad.",
+    "El reconocimiento administrativo de un grado de minusvalía igual o superior al 33 %.",
+    "Una enfermedad crónica que impide a la persona realizar las actividades básicas de la vida diaria.",
+    "La declaración de incapacidad permanente por la Seguridad Social."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 2.a) RDLeg 1/2013: la discapacidad resulta de la **interacción** entre las personas con **deficiencias previsiblemente permanentes** y **cualquier tipo de barreras** (modelo social). El 33 % es un criterio de **titularidad** de derechos (art. 4), no la definición."
+  }
+ ],
+ "rdl-1-2013:a3": [
+  {
+   "pregunta": "¿Cuál de los siguientes NO figura entre los principios del artículo 3 del Real Decreto Legislativo 1/2013?",
+   "opciones": [
+    "El diálogo civil.",
+    "La normalización.",
+    "La transversalidad de las políticas en materia de discapacidad.",
+    "La subsidiariedad de las prestaciones públicas."
+   ],
+   "respuesta": "d",
+   "explicacion": "El art. 3 RDLeg 1/2013 enumera, entre otros, la dignidad y autonomía individual, la vida independiente, la no discriminación, la igualdad de oportunidades, la **normalización**, la accesibilidad y el diseño universal, el **diálogo civil** y la **transversalidad**. La subsidiariedad no aparece."
+  }
+ ],
+ "rdl-1-2013:a5": [
+  {
+   "pregunta": "Según el artículo 5 del Real Decreto Legislativo 1/2013, las medidas específicas para garantizar la igualdad de oportunidades, la no discriminación y la accesibilidad universal se aplicarán, entre otros, en el ámbito de:",
+   "opciones": [
+    "Las relaciones con las administraciones públicas, incluido el acceso a las prestaciones públicas y a las resoluciones administrativas.",
+    "La defensa nacional y las operaciones militares.",
+    "Las relaciones estrictamente familiares y domésticas.",
+    "La política monetaria."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 5 RDLeg 1/2013: ámbitos: telecomunicaciones y sociedad de la información; espacios públicos, infraestructuras y edificación; transportes; bienes y servicios a disposición del público; **relaciones con las administraciones públicas**; Administración de justicia; participación en la vida pública y procesos electorales; patrimonio cultural; y empleo."
+  }
+ ],
+ "rdl-1-2013:ti": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "r1",
+   "n": "R1"
+  },
+  {
+   "pregunta": "Según el artículo 42 del Real Decreto Legislativo 1/2013, las empresas públicas y privadas que empleen a un número de 50 o más trabajadores vendrán obligadas a que, de entre ellos, sean trabajadores con discapacidad al menos:",
+   "opciones": [
+    "El 7 por 100.",
+    "El 5 por 100.",
+    "El 2 por 100.",
+    "El 3 por 100."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 42.1 RDLeg 1/2013: cuota de reserva de **al menos el 2 %** en empresas de **50 o más trabajadores**, con exenciones excepcionales si se aplican medidas alternativas. El **7 %** es el cupo de las ofertas de **empleo público** (art. 59 TREBEP)."
+  }
+ ],
+ "ley-39-2006:a2": [
+  {
+   "pregunta": "Según el artículo 2 de la Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, la situación de dependencia es un estado:",
+   "opciones": [
+    "De carácter temporal, revisable cada dos años.",
+    "De carácter permanente en el que las personas, debido a dificultades que afectan a su autonomía, precisan de cuidados y apoyos de otra u otras personas o ayudas importantes para realizar actividades de la vida diaria.",
+    "Exclusivamente asociado a la edad, a partir de los 65 años.",
+    "Que se reconoce automáticamente a toda persona con un grado de discapacidad igual o superior al 33 %."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 2.2 Ley 39/2006 (redacción de la Ley 4/2026): estado **de carácter permanente** en el que la persona precisa **cuidados y apoyos de otra u otras personas** o ayudas importantes para las **actividades de la vida diaria**; puede asociarse a la edad, la discapacidad o la enfermedad."
+  }
+ ],
+ "ley-39-2006:a5": [
+  {
+   "pregunta": "Según el artículo 5 de la Ley 39/2006, para ser titular de los derechos que establece, el español en situación de dependencia debe residir en territorio español y haberlo hecho durante:",
+   "opciones": [
+    "Cinco años, de los cuales dos deberán ser inmediatamente anteriores a la fecha de presentación de la solicitud.",
+    "Diez años, de los cuales dos deberán ser inmediatamente anteriores a la solicitud.",
+    "Dos años inmediatamente anteriores a la solicitud.",
+    "Cinco años, de los cuales uno deberá ser inmediatamente anterior a la solicitud."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 5.1.c) Ley 39/2006: **cinco años**, de los cuales **dos inmediatamente anteriores** a la solicitud. Para los menores de cinco años, el periodo se exige a quien ejerza su guarda y custodia."
+  }
+ ],
+ "ley-39-2006:a6": [
+  {
+   "pregunta": "De acuerdo con el artículo 7 de la Ley 39/2006, el nivel de protección mínimo del Sistema para la Autonomía y Atención a la Dependencia lo establece:",
+   "opciones": [
+    "Cada Comunidad Autónoma.",
+    "El Consejo Territorial, mediante acuerdo unánime.",
+    "Cada Entidad Local en su ámbito.",
+    "La Administración General del Estado."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 7 Ley 39/2006: tres niveles: el **mínimo**, establecido por la **AGE** (art. 9); el **acordado** entre la AGE y cada Comunidad Autónoma mediante **convenios** (art. 10); y el **adicional** que pueda establecer cada Comunidad Autónoma."
+  },
+  {
+   "pregunta": "Según el artículo 8 de la Ley 39/2006, la presidencia del Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia corresponde a:",
+   "opciones": [
+    "Uno de los consejeros autonómicos, de forma rotatoria.",
+    "La persona titular del Ministerio competente en materia de servicios sociales.",
+    "La persona titular de la Dirección General del IMSERSO.",
+    "El Presidente del Gobierno."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 8.1 Ley 39/2006: lo preside la persona **titular del Ministerio** competente en servicios sociales; lo integran los consejeros autonómicos, y la **Vicepresidencia** recae en uno de ellos. Los representantes de las CC. AA. tienen mayoría."
+  }
+ ],
+ "ley-39-2006:a27": [
+  {
+   "pregunta": "Según el artículo 27 de la Ley 39/2006, el baremo para determinar los grados de dependencia se acuerda en el Consejo Territorial y se aprueba:",
+   "opciones": [
+    "Por el Gobierno mediante real decreto.",
+    "Por cada Comunidad Autónoma mediante decreto.",
+    "Por las Cortes Generales mediante ley.",
+    "Por orden del Ministro competente en servicios sociales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 27.2 Ley 39/2006: el baremo se acuerda en el Consejo Territorial y lo aprueba **el Gobierno mediante real decreto**; tiene entre sus referentes la **CIF de la OMS** y no puede usarse otro procedimiento para determinar el grado."
+  },
+  {
+   "pregunta": "Conforme al artículo 28 de la Ley 39/2006, el procedimiento para el reconocimiento de la situación de dependencia se iniciará a instancia de la persona interesada o de quien ostente su representación, estableciéndose un plazo máximo para su resolución de:",
+   "opciones": [
+    "Seis meses.",
+    "Un mes.",
+    "Tres meses.",
+    "Cuarenta y cinco días."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 28.1 Ley 39/2006 (redacción de la Ley 4/2026): plazo máximo de **3 meses**. La resolución la dicta la **Administración autonómica** de la residencia del solicitante y es válida en todo el Estado (art. 28.2)."
+  }
+ ],
+ "ley-39-2006:a14": [
+  {
+   "pregunta": "Según el artículo 14 de la Ley 39/2006, la prioridad en el acceso a los servicios vendrá determinada por el grado de dependencia y, a igual grado:",
+   "opciones": [
+    "Por la capacidad económica de la persona solicitante.",
+    "Por la edad de la persona solicitante.",
+    "Por la existencia de cuidadores familiares.",
+    "Por el tiempo de espera transcurrido desde la fecha de solicitud."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 14.4 Ley 39/2006: primero el **grado**; a igual grado, el **tiempo de espera** desde la solicitud; y a igual grado y tiempo de espera, la **capacidad económica**. Los servicios del catálogo tienen carácter **prioritario** (art. 14.3)."
+  }
+ ],
+ "ley-39-2006:a42": [
+  {
+   "pregunta": "De acuerdo con el artículo 46 de la Ley 39/2006, las infracciones graves prescribirán:",
+   "opciones": [
+    "Al año.",
+    "A los dos años.",
+    "A los tres años.",
+    "A los cuatro años."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 46.1 Ley 39/2006: infracciones leves, **al año**; graves, **a los tres años**; muy graves, **a los cuatro años**. Las **sanciones** prescriben al año (leves), a los cuatro (graves) y a los cinco años (muy graves) (art. 46.3)."
+  }
  ]
 }

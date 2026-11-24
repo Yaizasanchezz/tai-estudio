@@ -5,5 +5,76 @@
    "parte": "p1",
    "n": "12"
   }
+ ],
+ "eidas:a3": [
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "13"
+  },
+  {
+   "pregunta": "Según el artículo 25 del Reglamento (UE) n.º 910/2014 (eIDAS), tendrá un efecto jurídico equivalente al de una firma manuscrita:",
+   "opciones": [
+    "Cualquier firma electrónica, sea cual sea su tipo.",
+    "La firma electrónica avanzada, aunque no esté basada en un certificado cualificado.",
+    "La firma electrónica basada en un sistema de clave concertada.",
+    "La firma electrónica cualificada."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 25.2 eIDAS: **solo la firma electrónica cualificada** tiene un efecto jurídico **equivalente al de la firma manuscrita**, y es reconocida en todos los Estados miembros (art. 25.3). A las demás no se les pueden negar efectos jurídicos ni admisibilidad como prueba por el solo hecho de ser electrónicas o no cualificadas (art. 25.1)."
+  },
+  {
+   "pregunta": "¿Cuál de los siguientes NO es uno de los requisitos de la firma electrónica avanzada según el artículo 26 del Reglamento eIDAS?",
+   "opciones": [
+    "Estar vinculada al firmante de manera única.",
+    "Haber sido creada mediante un dispositivo cualificado de creación de firma.",
+    "Permitir la identificación del firmante.",
+    "Estar vinculada con los datos firmados de modo tal que cualquier modificación ulterior de los mismos sea detectable."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 26 eIDAS: la avanzada está vinculada al firmante de manera única, permite identificarlo, se crea con datos que el firmante puede usar con alto nivel de confianza bajo su control exclusivo y detecta cualquier modificación posterior. El **dispositivo cualificado de creación de firma** (junto con el certificado cualificado) es lo que convierte una avanzada en **cualificada**."
+  }
+ ],
+ "ley-6-2020:a9": [
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "14"
+  },
+  {
+   "pregunta": "Según el artículo 9.3 de la Ley 6/2020, los prestadores cualificados de servicios electrónicos de confianza deberán conservar la información relativa a los servicios prestados durante:",
+   "opciones": [
+    "5 años desde la expedición del certificado.",
+    "10 años desde la extinción del certificado o la finalización del servicio prestado.",
+    "15 años desde la extinción del certificado o la finalización del servicio prestado.",
+    "Mientras el certificado esté vigente."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 9.3.a) Ley 6/2020: **15 años** desde la extinción del certificado o la finalización del servicio. Además, deben tener un seguro de responsabilidad civil de al menos **1.500.000 €** (salvo los del sector público) y comunicar el cese con **dos meses** de antelación."
+  }
+ ],
+ "ley-6-2020:a1-6": [
+  {
+   "pregunta": "Según el artículo 19 de la Ley 6/2020, la comisión de infracciones graves en materia de servicios electrónicos de confianza se sancionará con multa de:",
+   "opciones": [
+    "50.001 hasta 150.000 euros.",
+    "Hasta 50.000 euros.",
+    "150.001 hasta 300.000 euros.",
+    "30.001 hasta 90.000 euros."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 19.1 Ley 6/2020: muy graves, **150.001 a 300.000 €**; graves, **50.001 a 150.000 €**; leves, **hasta 50.000 €**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 16 de la Ley 6/2020, en el procedimiento de verificación previa del cumplimiento de los requisitos para la cualificación de un prestador, si transcurre el plazo máximo de 6 meses sin resolución expresa:",
+   "opciones": [
+    "Se entenderá estimada la solicitud.",
+    "Se podrá entender desestimada la solicitud.",
+    "El prestador quedará inscrito provisionalmente en la lista de confianza.",
+    "Se producirá la caducidad del procedimiento."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 16.2 Ley 6/2020: plazo máximo de **6 meses**, transcurridos los cuales se puede entender **desestimada** la solicitud. La lista de confianza la mantiene y publica el **Ministerio** como órgano de supervisión (arts. 14 y 16.1)."
+  }
  ]
 }

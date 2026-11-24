@@ -5,5 +5,156 @@
    "parte": "p1",
    "n": "19"
   }
+ ],
+ "a2": [
+  {
+   "pregunta": "Según el artículo 2 del Real Decreto 311/2022, por el que se regula el Esquema Nacional de Seguridad, este se aplica también a los sistemas de información de las entidades del sector privado:",
+   "opciones": [
+    "En ningún caso, pues su ámbito se limita al sector público.",
+    "Solo cuando sean operadores de servicios esenciales.",
+    "Cuando, en virtud de una relación contractual, presten servicios o provean soluciones a las entidades del sector público para el ejercicio de sus competencias y potestades administrativas.",
+    "Solo cuando traten información clasificada."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 2.3 RD 311/2022: se aplica a las entidades privadas que **presten servicios o provean soluciones** al sector público en virtud de una **relación contractual**, incluida la obligación de contar con **política de seguridad**. Los pliegos deben exigir la conformidad con el ENS."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "¿Cuál de los siguientes NO es uno de los principios básicos del Esquema Nacional de Seguridad enumerados en el artículo 5 del Real Decreto 311/2022?",
+   "opciones": [
+    "Existencia de líneas de defensa.",
+    "Mínimo privilegio.",
+    "Vigilancia continua.",
+    "Diferenciación de responsabilidades."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 5 RD 311/2022: los 7 principios básicos son seguridad como proceso integral; gestión basada en los riesgos; prevención, detección, respuesta y conservación; **líneas de defensa**; **vigilancia continua**; reevaluación periódica; y **diferenciación de responsabilidades**. El **mínimo privilegio** es un **requisito mínimo** (art. 12.6.h), no un principio básico."
+  }
+ ],
+ "a1-4": [
+  {
+   "pregunta": "Según el artículo 12 del Real Decreto 311/2022, en la Administración General del Estado la política de seguridad de cada ministerio la aprobará:",
+   "opciones": [
+    "La persona titular del Departamento.",
+    "El Consejo de Ministros.",
+    "La Secretaría General de Administración Digital.",
+    "El Centro Criptológico Nacional."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 12.3 RD 311/2022: **cada ministerio** tiene su política de seguridad, que aprueba **la persona titular del Departamento**. Los municipios pueden compartir una política común elaborada por la entidad comarcal o provincial (art. 12.5)."
+  },
+  {
+   "pregunta": "¿Cuál de los siguientes NO figura entre los requisitos mínimos de seguridad del artículo 12.6 del Real Decreto 311/2022?",
+   "opciones": [
+    "Gestión de personal.",
+    "Continuidad de la actividad.",
+    "Reevaluación periódica.",
+    "Mejora continua del proceso de seguridad."
+   ],
+   "respuesta": "c",
+   "explicacion": "El art. 12.6 enumera **15 requisitos mínimos** (organización e implantación, análisis de riesgos, **gestión de personal**, profesionalidad, control de accesos… **continuidad de la actividad** y **mejora continua**). La **reevaluación periódica** es un **principio básico** (art. 5.f)."
+  }
+ ],
+ "a1-3": [
+  {
+   "pregunta": "Según el artículo 13 del Real Decreto 311/2022, el responsable de la seguridad:",
+   "opciones": [
+    "Será siempre la misma persona que el responsable del sistema, para facilitar la coordinación.",
+    "Dependerá jerárquicamente del responsable del sistema.",
+    "Determinará los requisitos de la información tratada.",
+    "Será distinto del responsable del sistema, no debiendo existir dependencia jerárquica entre ambos."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 13.3 RD 311/2022: el responsable de la seguridad es **distinto del responsable del sistema**, **sin dependencia jerárquica**; solo excepcionalmente, por falta justificada de recursos, pueden coincidir aplicando **medidas compensatorias**. Los requisitos de la información los determina el **responsable de la información**."
+  },
+  {
+   "pregunta": "Conforme al artículo 41 del Real Decreto 311/2022, la determinación de la categoría de seguridad del sistema corresponderá:",
+   "opciones": [
+    "Al responsable o responsables de la seguridad.",
+    "Al responsable o responsables de la información o servicios afectados.",
+    "Al responsable del sistema.",
+    "Al Centro Criptológico Nacional."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 41 RD 311/2022: las **valoraciones** de cada dimensión corresponden a los **responsables de la información o servicios**; con base en ellas, **la categoría la determina el responsable de la seguridad**."
+  }
+ ],
+ "a4-2": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "s2",
+   "n": "8"
+  },
+  {
+   "pregunta": "De acuerdo con el anexo I del Real Decreto 311/2022, un sistema de información cuyas dimensiones de seguridad se valoran con nivel MEDIO en confidencialidad, ALTO en disponibilidad y BAJO en las restantes será de categoría:",
+   "opciones": [
+    "BÁSICA.",
+    "MEDIA.",
+    "ALTA.",
+    "MEDIA en confidencialidad y ALTA en disponibilidad, pues la categoría se fija por dimensión."
+   ],
+   "respuesta": "c",
+   "explicacion": "Anexo I RD 311/2022: la categoría la marca el **nivel más alto** de cualquiera de sus dimensiones: es **ALTA** si **alguna** dimensión alcanza el nivel ALTO. La categoría es única para el sistema; los niveles se asignan por dimensión."
+  }
+ ],
+ "a2-10": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "19"
+  },
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "15"
+  },
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "16"
+  }
+ ],
+ "a3-3": [
+  {
+   "pregunta": "Según el artículo 31 del Real Decreto 311/2022, los sistemas de información comprendidos en su ámbito serán objeto de una auditoría regular ordinaria que verifique el cumplimiento del ENS:",
+   "opciones": [
+    "Al menos cada año.",
+    "Al menos cada dos años.",
+    "Al menos cada tres años.",
+    "Solo cuando se produzcan modificaciones sustanciales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 31.1 RD 311/2022: **al menos cada dos años** (prorrogable tres meses por fuerza mayor). Además, auditoría **extraordinaria** si hay modificaciones sustanciales, que reinicia el cómputo de los dos años."
+  },
+  {
+   "pregunta": "Conforme al artículo 38 del Real Decreto 311/2022, los sistemas de categoría BÁSICA, para su declaración de la conformidad con el ENS, requerirán:",
+   "opciones": [
+    "Una auditoría de certificación realizada por una entidad acreditada.",
+    "Un informe favorable del Centro Criptológico Nacional.",
+    "La aprobación de la Comisión Sectorial de Administración Electrónica.",
+    "Solo una autoevaluación."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 38.1 RD 311/2022: categoría **BÁSICA**: basta una **autoevaluación** (Declaración de Conformidad), aunque puede someterse a auditoría. Categorías **MEDIA o ALTA**: **auditoría** para la **Certificación de Conformidad**."
+  }
+ ],
+ "a2-7": [
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "18"
+  },
+  {
+   "pregunta": "Según el artículo 33 del Real Decreto 311/2022, las entidades del sector público notificarán los incidentes que tengan un impacto significativo en la seguridad de sus sistemas de información:",
+   "opciones": [
+    "Al Centro Criptológico Nacional (CCN).",
+    "Al INCIBE-CERT.",
+    "A la Agencia Española de Protección de Datos.",
+    "Al Mando Conjunto del Ciberespacio."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 33.2 RD 311/2022: al **CCN**, que articula la respuesta a través del **CCN-CERT**. El **INCIBE-CERT** es el de referencia para ciudadanos y entidades privadas (a él notifican los proveedores privados del sector público, art. 33.7)."
+  }
  ]
 }
