@@ -24,5 +24,147 @@
    "parte": "p1",
    "n": "8"
   }
+ ],
+ "a2": [
+  {
+   "pregunta": "Según el artículo 3 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las obligaciones de publicidad activa se aplican también a las entidades privadas que perciban durante el período de un año ayudas o subvenciones públicas:",
+   "opciones": [
+    "En cuantía superior a 50.000 euros, o cuando al menos el 40 % de sus ingresos anuales tengan ese carácter, siempre que alcancen como mínimo 5.000 euros.",
+    "En cuantía superior a 100.000 euros, o cuando al menos el 40 % de sus ingresos anuales tengan ese carácter, siempre que alcancen como mínimo 5.000 euros.",
+    "En cuantía superior a 100.000 euros, o cuando al menos el 50 % de sus ingresos anuales tengan ese carácter, siempre que alcancen como mínimo 10.000 euros.",
+    "En cualquier cuantía, siempre que representen al menos el 40 % de sus ingresos anuales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 3.b) Ley 19/2013: **más de 100.000 €** al año, o **al menos el 40 %** de sus ingresos anuales si alcanzan un **mínimo de 5.000 €**. También están obligados a la publicidad activa los **partidos políticos, sindicatos y organizaciones empresariales** (art. 3.a)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 2 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, están incluidas en su ámbito subjetivo de aplicación las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en ese artículo sea:",
+   "opciones": [
+    "Igual o superior al 25 por 100.",
+    "Igual o superior al 40 por 100.",
+    "Del 100 por 100.",
+    "Superior al 50 por 100."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 2.1.g) Ley 19/2013: sociedades mercantiles con participación pública **superior al 50 %**. El 40 % es la cifra de los ingresos por subvenciones de las entidades privadas del art. 3."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "Según el artículo 10 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Portal de la Transparencia que desarrollará la Administración General del Estado dependerá:",
+   "opciones": [
+    "Del Ministerio de la Presidencia.",
+    "Del Consejo de Transparencia y Buen Gobierno.",
+    "Del Ministerio de Hacienda.",
+    "De la Secretaría General de Administración Digital."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 10.1 Ley 19/2013: el Portal de la Transparencia **depende del Ministerio de la Presidencia** y facilita el acceso a la información de publicidad activa de la AGE. El CTBG **controla** el cumplimiento de la publicidad activa (art. 9), pero no gestiona el Portal."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 8 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la publicación de la información relativa a los contratos menores:",
+   "opciones": [
+    "Podrá realizarse trimestralmente.",
+    "Deberá realizarse en el plazo de diez días desde su adjudicación.",
+    "Podrá realizarse semestralmente.",
+    "No es obligatoria, al estar excluidos los contratos menores de la publicidad activa."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 8.1.a) Ley 19/2013: deben publicarse **todos los contratos** (objeto, duración, importes, procedimiento, licitadores, adjudicatario, modificaciones) y la información de los **contratos menores** puede publicarse **trimestralmente**."
+  }
+ ],
+ "a12": [
+  {
+   "pregunta": "Según el artículo 20 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la resolución en la que se conceda o deniegue el acceso deberá notificarse en el plazo máximo de:",
+   "opciones": [
+    "Un mes desde la presentación de la solicitud, ampliable por otro mes; transcurrido sin resolución, la solicitud se entiende estimada.",
+    "Tres meses desde la recepción de la solicitud por el órgano competente; transcurrido sin resolución, la solicitud se entiende desestimada.",
+    "Un mes desde la recepción de la solicitud por el órgano competente, ampliable por otro mes por el volumen o la complejidad de la información; transcurrido sin resolución, la solicitud se entiende desestimada.",
+    "Quince días hábiles desde la recepción de la solicitud, ampliables por otros quince; transcurrido sin resolución, la solicitud se entiende estimada."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 20.1 y 4 Ley 19/2013: **un mes** desde la recepción por el órgano competente, ampliable **otro mes** (volumen o complejidad, previa notificación). El **silencio es desestimatorio**. Los 3 meses son el plazo del CTBG para resolver la reclamación (art. 24)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 18 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿cuál de las siguientes NO es una causa de inadmisión a trámite de las solicitudes de acceso a la información pública?",
+   "opciones": [
+    "Que se refieran a información que esté en curso de elaboración o de publicación general.",
+    "Que el solicitante no motive su solicitud.",
+    "Que se trate de información para cuya divulgación sea necesaria una acción previa de reelaboración.",
+    "Que sean manifiestamente repetitivas o tengan un carácter abusivo no justificado con la finalidad de transparencia de la Ley."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 18.1 Ley 19/2013 enumera las causas de inadmisión (información en elaboración, auxiliar o de apoyo, que requiera **reelaboración**, dirigida a órgano que no la tiene, repetitivas o abusivas). La falta de motivación **no** es causa de inadmisión: el solicitante **no está obligado a motivar** (art. 17.3)."
+  }
+ ],
+ "a23": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "11"
+  },
+  {
+   "pregunta": "Según el artículo 23 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, contra las resoluciones en materia de acceso dictadas por la Casa de Su Majestad el Rey, el Congreso, el Senado, el Tribunal Constitucional, el CGPJ, el Banco de España, el Consejo de Estado, el Defensor del Pueblo, el Tribunal de Cuentas o el Consejo Económico y Social:",
+   "opciones": [
+    "Cabrá reclamación potestativa ante el Consejo de Transparencia y Buen Gobierno.",
+    "Cabrá recurso de alzada ante el Consejo de Transparencia y Buen Gobierno.",
+    "Cabrá recurso de amparo ante el Tribunal Constitucional.",
+    "Solo cabrá la interposición de recurso contencioso-administrativo."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 23.2 Ley 19/2013: frente a las resoluciones de los órganos del **art. 2.1.f)** **solo cabe recurso contencioso-administrativo**. Para el resto, la reclamación ante el CTBG es **potestativa** y **sustitutiva de los recursos administrativos** (arts. 23.1 y 24)."
+  }
+ ],
+ "a25": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "21"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 32 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las infracciones en materia de buen gobierno prescriben:",
+   "opciones": [
+    "A los tres años las muy graves, a los dos años las graves y a los seis meses las leves.",
+    "A los cuatro años las muy graves, a los dos años las graves y al año las leves.",
+    "A los cinco años las muy graves, a los tres años las graves y al año las leves.",
+    "A los cinco años las muy graves, a los dos años las graves y a los seis meses las leves."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 32.1 Ley 19/2013: **5, 3 y 1 año**. Las sanciones prescriben en los mismos plazos (art. 32.2). No confundir con el régimen general de la Ley 40/2015 ni con el TREBEP (3 años, 2 años y 6 meses)."
+  },
+  {
+   "pregunta": "Según el artículo 30 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los sancionados por la comisión de una infracción muy grave serán destituidos del cargo que ocupen y no podrán ser nombrados para ocupar ningún puesto de alto cargo o asimilado durante un periodo de:",
+   "opciones": [
+    "Entre uno y cinco años.",
+    "Entre cinco y diez años.",
+    "Entre tres y seis años.",
+    "Entre diez y quince años."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 30.4 Ley 19/2013: destitución e inhabilitación para ser alto cargo **entre cinco y diez años**. Las infracciones leves se sancionan con **amonestación** y las graves con la **declaración del incumplimiento y su publicación en el BOE** o la pérdida de la indemnización por cese (art. 30.1 y 2)."
+  }
+ ],
+ "a33": [
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "9"
+  },
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "7"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 37 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el Presidente del Consejo de Transparencia y Buen Gobierno será nombrado mediante Real Decreto por un período:",
+   "opciones": [
+    "Renovable por una sola vez de cuatro años, previa comparecencia ante la Comisión correspondiente del Congreso.",
+    "No renovable de seis años, a propuesta del Congreso de los Diputados por mayoría de tres quintos.",
+    "No renovable de cinco años, previa elección por el Pleno del Senado por mayoría absoluta.",
+    "No renovable de cinco años, previa comparecencia ante la Comisión correspondiente del Congreso, que deberá refrendar el nombramiento por mayoría absoluta."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 37.1 Ley 19/2013: mandato **no renovable de cinco años**, nombramiento por **Real Decreto** y refrendo por la Comisión competente del **Congreso** por **mayoría absoluta** en el plazo de un mes natural."
+  }
  ]
 }

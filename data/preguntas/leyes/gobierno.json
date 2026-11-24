@@ -24,5 +24,258 @@
    "parte": "p1",
    "n": "5"
   }
+ ],
+ "a1": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "8"
+  },
+  {
+   "pregunta": "Según el artículo 1 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el Gobierno se compone:",
+   "opciones": [
+    "Del Presidente, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado.",
+    "Del Presidente, del Vicepresidente o Vicepresidentes, en su caso, de los Ministros y de los Subsecretarios.",
+    "Del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros.",
+    "Del Presidente y de los Ministros titulares de un Departamento, sin incluir a los Ministros sin cartera."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 1.2 Ley 50/1997: **Presidente, Vicepresidente o Vicepresidentes (en su caso) y Ministros**. Los **Secretarios de Estado no son miembros del Gobierno**: son órganos superiores de la AGE (art. 7). Los Ministros sin cartera sí son miembros."
+  }
+ ],
+ "a2": [
+  {
+   "pregunta": "De acuerdo con el artículo 2 de la Ley 50/1997, de 27 de noviembre, del Gobierno, corresponde al Presidente del Gobierno proponer al Rey la convocatoria de un referéndum consultivo:",
+   "opciones": [
+    "Previa autorización del Congreso de los Diputados.",
+    "Previa deliberación del Consejo de Ministros.",
+    "Previa autorización de las Cortes Generales por mayoría absoluta de ambas Cámaras.",
+    "Previo dictamen del Consejo de Estado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 2.2.e) Ley 50/1997: **previa autorización del Congreso**. En cambio, la disolución de las Cámaras y la cuestión de confianza requieren **previa deliberación del Consejo de Ministros** (letras c y d)."
+  },
+  {
+   "pregunta": "Según el artículo 2 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la creación, modificación y supresión de los Departamentos Ministeriales y de las Secretarías de Estado corresponde:",
+   "opciones": [
+    "Al Consejo de Ministros, mediante Real Decreto acordado a propuesta del Presidente.",
+    "A las Cortes Generales, mediante ley.",
+    "Al Consejo de Ministros, mediante Acuerdo, previo informe del Ministerio de Hacienda.",
+    "Al Presidente del Gobierno, mediante Real Decreto."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 2.2.j) Ley 50/1997: el **Presidente**, **por Real Decreto**, crea, modifica y suprime Ministerios y Secretarías de Estado. Los **órganos directivos** de los Ministerios, en cambio, los crea el **Consejo de Ministros** (art. 5.1.i)."
+  }
+ ],
+ "a3": [
+  {
+   "pregunta": "De acuerdo con el artículo 3 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el Vicepresidente que asuma la titularidad de un Departamento Ministerial:",
+   "opciones": [
+    "Perderá la condición de Vicepresidente mientras sea titular del Departamento.",
+    "Ostentará, además, la condición de Ministro.",
+    "Ejercerá la Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios.",
+    "Necesitará autorización del Congreso de los Diputados para compatibilizar ambos cargos."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 3.2 Ley 50/1997: el Vicepresidente con Departamento **ostenta además la condición de Ministro**. Sus funciones como Vicepresidente son las que le **encomiende el Presidente** (art. 3.1)."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "Según el artículo 5 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en relación con los estados excepcionales, corresponde al Consejo de Ministros:",
+   "opciones": [
+    "Declarar los estados de alarma, excepción y sitio, dando cuenta inmediata al Congreso de los Diputados.",
+    "Declarar el estado de alarma y proponer al Congreso de los Diputados la declaración de los estados de excepción y de sitio.",
+    "Declarar los estados de alarma y de excepción y proponer al Congreso de los Diputados la declaración del estado de sitio.",
+    "Proponer al Congreso de los Diputados la declaración de cualquiera de los tres estados."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 5.1.f) Ley 50/1997: el Consejo de Ministros **declara** los estados de **alarma y de excepción** y **propone** al Congreso la declaración del **estado de sitio**. Ojo: el de excepción lo declara el Gobierno, pero **previa autorización del Congreso** (art. 116.3 CE)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 5 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el Consejo de Ministros aprueba los reglamentos para el desarrollo y la ejecución de las leyes:",
+   "opciones": [
+    "Previo dictamen del Consejo de Estado.",
+    "Previa autorización de las Cortes Generales.",
+    "Previo informe de la Comisión General de Codificación.",
+    "Previa deliberación de la Comisión Delegada competente por razón de la materia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 5.1.h) Ley 50/1997: los reglamentos ejecutivos se aprueban **previo dictamen del Consejo de Estado**, el supremo órgano consultivo del Gobierno (art. 107 CE)."
+  }
+ ],
+ "a6": [
+  {
+   "pregunta": "Según el artículo 6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada:",
+   "opciones": [
+    "Por el Presidente del Gobierno mediante Real Decreto del Presidente.",
+    "Por el Consejo de Ministros mediante Real Decreto, a propuesta del Presidente del Gobierno.",
+    "Por el Consejo de Ministros mediante Acuerdo, a propuesta del Ministro de la Presidencia.",
+    "Por Orden del Ministro de la Presidencia, previa deliberación del Consejo de Ministros."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 6.1 Ley 50/1997: **Real Decreto del Consejo de Ministros, a propuesta del Presidente**. Ese Real Decreto debe fijar, entre otros, quién la preside, sus miembros, sus funciones y quién ejerce la Secretaría (art. 6.2)."
+  }
+ ],
+ "a7": [
+  {
+   "pregunta": "De acuerdo con el artículo 8 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios corresponde:",
+   "opciones": [
+    "Al Presidente del Gobierno.",
+    "Al Subsecretario de la Presidencia.",
+    "Al Secretario de Estado de mayor antigüedad en el cargo.",
+    "A un Vicepresidente del Gobierno o, en su defecto, al Ministro de la Presidencia."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 8.2 Ley 50/1997: la preside **un Vicepresidente o, en su defecto, el Ministro de la Presidencia**. La **Secretaría** la ejerce el **Subsecretario de la Presidencia** (art. 8.3)."
+  },
+  {
+   "pregunta": "Según el artículo 7 de la Ley 50/1997, de 27 de noviembre, del Gobierno, los Secretarios de Estado son:",
+   "opciones": [
+    "Miembros del Gobierno sin cartera, con las funciones que les atribuya el Presidente.",
+    "Órganos directivos de los Ministerios, dependientes de los Subsecretarios.",
+    "Órganos superiores de la Administración General del Estado, directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específica.",
+    "Órganos de apoyo político y técnico del Presidente del Gobierno."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 7.1 Ley 50/1997: son **órganos superiores** de la AGE responsables de la ejecución de la acción del Gobierno en un **sector de actividad específica** de un Departamento o de la Presidencia. **No son miembros del Gobierno**; los órganos de apoyo político y técnico son los **Gabinetes** (art. 10)."
+  }
+ ],
+ "a11": [
+  {
+   "pregunta": "De acuerdo con el artículo 11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, NO es un requisito para ser miembro del Gobierno:",
+   "opciones": [
+    "Ser Diputado o Senador.",
+    "Ser español y mayor de edad.",
+    "Disfrutar de los derechos de sufragio activo y pasivo.",
+    "No estar inhabilitado para ejercer empleo o cargo público por sentencia judicial firme."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 11 Ley 50/1997: se exige ser **español, mayor de edad**, disfrutar del **sufragio activo y pasivo**, **no estar inhabilitado** por sentencia firme y los requisitos de idoneidad de la Ley 3/2015. **No es necesario ser parlamentario**."
+  }
+ ],
+ "a12": [
+  {
+   "pregunta": "Según el artículo 13 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en los casos de vacante, ausencia o enfermedad, las funciones del Presidente del Gobierno serán asumidas:",
+   "opciones": [
+    "Por los Vicepresidentes, según su orden de prelación y, en defecto de ellos, por los Ministros, según el orden de precedencia de los Departamentos.",
+    "Por el Ministro de la Presidencia y, en su defecto, por el Ministro de mayor edad.",
+    "Por el Vicepresidente que designe el Consejo de Ministros y, en su defecto, por el Presidente del Congreso.",
+    "Por los Vicepresidentes según su orden y, en defecto de ellos, por el Ministro de mayor antigüedad en el cargo."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 13.1 Ley 50/1997: primero los **Vicepresidentes** por su orden de prelación y, si no los hay, los **Ministros según el orden de precedencia de los Departamentos**. La suplencia de los Ministros la fija un **Real Decreto del Presidente** y recae siempre en otro miembro del Gobierno (art. 13.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 12 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en el nombramiento de las personas titulares de las Vicepresidencias y los Ministerios se garantizará el principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga, en su conjunto, como mínimo el:",
+   "opciones": [
+    "Treinta y tres por ciento.",
+    "Cincuenta por ciento.",
+    "Sesenta por ciento.",
+    "Cuarenta por ciento."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 12.2 bis Ley 50/1997 (añadido por la LO 2/2024 de representación paritaria): cada sexo debe suponer **como mínimo el 40 %** del conjunto de Vicepresidencias y Ministerios."
+  }
+ ],
+ "a14": [
+  {
+   "pregunta": "Según el artículo 14 de la Ley 50/1997, de 27 de noviembre, del Gobierno, los miembros del Gobierno:",
+   "opciones": [
+    "No podrán ser simultáneamente Diputados ni Senadores.",
+    "No podrán ejercer otras funciones representativas que las propias del mandato parlamentario.",
+    "Podrán ejercer actividades profesionales privadas previa autorización del Consejo de Ministros.",
+    "Podrán ejercer otras funciones públicas siempre que no perciban retribución por ellas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 14.1 Ley 50/1997: no pueden ejercer otras funciones representativas **que las del mandato parlamentario** (pueden ser diputados o senadores), ni otra función pública que no derive del cargo, ni **actividad profesional o mercantil alguna**."
+  }
+ ],
+ "a20": [
+  {
+   "pregunta": "De acuerdo con el artículo 20 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuál de las siguientes competencias es delegable?",
+   "opciones": [
+    "Las atribuidas directamente por la Constitución.",
+    "Las relativas al nombramiento y separación de los altos cargos atribuidas al Consejo de Ministros.",
+    "Las funciones administrativas del Consejo de Ministros en las Comisiones Delegadas del Gobierno, a propuesta del Presidente.",
+    "Las atribuidas por una ley que prohíba expresamente la delegación."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 20.2 Ley 50/1997: son delegables, a propuesta del Presidente, las **funciones administrativas del Consejo de Ministros en las Comisiones Delegadas**. Las otras tres opciones son competencias **no delegables en ningún caso** (art. 20.3)."
+  }
+ ],
+ "a23": [
+  {
+   "pregunta": "Según el artículo 23 de la Ley 50/1997, de 27 de noviembre, del Gobierno, las leyes o reglamentos cuya aprobación o propuesta corresponda al Gobierno y que impongan nuevas obligaciones a quienes desempeñen una actividad económica o profesional preverán el comienzo de su vigencia:",
+   "opciones": [
+    "El 1 de enero o el 1 de julio siguientes a su publicación.",
+    "A los veinte días de su completa publicación en el BOE.",
+    "El 1 de enero del año siguiente a su aprobación.",
+    "El 2 de enero o el 1 de julio siguientes a su aprobación."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 23 Ley 50/1997: **2 de enero o 1 de julio** siguientes a su aprobación. No se aplica a los **reales decretos-leyes** ni cuando lo aconsejen la transposición de directivas u otras razones justificadas."
+  }
+ ],
+ "a24": [
+  {
+   "pregunta": "De acuerdo con el artículo 24 de la Ley 50/1997, de 27 de noviembre, del Gobierno, los acuerdos adoptados en Comisiones Delegadas del Gobierno revestirán la forma de:",
+   "opciones": [
+    "Orden del Ministro competente o del Ministro de la Presidencia, cuando la competencia corresponda a distintos Ministros.",
+    "Real Decreto acordado en Consejo de Ministros.",
+    "Real Decreto del Presidente del Gobierno.",
+    "Acuerdo de la Comisión Delegada publicado en el BOE, sin forma específica."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 24.1.e) Ley 50/1997: los acuerdos de las Comisiones Delegadas adoptan la forma de **Orden del Ministro competente** o, si afectan a varios Ministros, del **Ministro de la Presidencia**."
+  },
+  {
+   "pregunta": "Según el artículo 24.2 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en la jerarquía de los reglamentos, las disposiciones aprobadas por Real Decreto del Presidente del Gobierno se sitúan:",
+   "opciones": [
+    "Por encima de las aprobadas por Real Decreto acordado en el Consejo de Ministros.",
+    "En el mismo nivel que las aprobadas por Real Decreto acordado en el Consejo de Ministros, y por encima de las aprobadas por Orden Ministerial.",
+    "Por debajo de las aprobadas por Real Decreto acordado en el Consejo de Ministros, y por encima de las Órdenes Ministeriales.",
+    "En el mismo nivel que las aprobadas por Orden Ministerial."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 24.2 Ley 50/1997: solo hay **dos escalones**: 1.º las disposiciones aprobadas por **Real Decreto del Presidente o acordado en Consejo de Ministros**; 2.º las aprobadas por **Orden Ministerial**."
+  }
+ ],
+ "a25": [
+  {
+   "pregunta": "De acuerdo con el artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el Ministro de la Presidencia elevará el Plan Anual Normativo al Consejo de Ministros para su aprobación:",
+   "opciones": [
+    "Antes del 31 de marzo.",
+    "Antes del 30 de abril.",
+    "Antes del 30 de junio.",
+    "Antes del 1 de octubre, junto con el Proyecto de Ley de Presupuestos."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 25.4 Ley 50/1997: **antes del 30 de abril**. El Plan recoge las iniciativas legislativas o reglamentarias que se elevarán **el año siguiente** y lo coordina el **Ministerio de la Presidencia**."
+  },
+  {
+   "pregunta": "Según el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, la consulta pública previa a la elaboración del texto de un anteproyecto de ley o de un reglamento deberá proporcionar un tiempo suficiente, que en ningún caso será inferior a:",
+   "opciones": [
+    "Diez días hábiles.",
+    "Quince días hábiles.",
+    "Quince días naturales.",
+    "Veinte días naturales."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 26.2 Ley 50/1997: la consulta pública previa dura **al menos 15 días naturales**. No confundir con el trámite de **audiencia e información pública** del texto ya redactado, de **15 días hábiles** como mínimo (art. 26.6)."
+  }
+ ],
+ "a29": [
+  {
+   "pregunta": "De acuerdo con el artículo 29 de la Ley 50/1997, de 27 de noviembre, del Gobierno, todos los actos y omisiones del Gobierno están sometidos:",
+   "opciones": [
+    "Al control político del Congreso de los Diputados, con exclusión del Senado.",
+    "Al control previo del Consejo de Estado.",
+    "Al control de la jurisdicción contencioso-administrativa, salvo los actos de los Vicepresidentes y Ministros.",
+    "Al control político de las Cortes Generales."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 29.2 Ley 50/1997: **control político de las Cortes Generales**. Además, sus actos, inactividad y vías de hecho son impugnables ante la **jurisdicción contencioso-administrativa** (art. 29.3) y su actuación, ante el **Tribunal Constitucional** (art. 29.4)."
+  }
  ]
 }

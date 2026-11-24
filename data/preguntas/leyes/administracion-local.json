@@ -11,6 +11,17 @@
    "examen": "aux-libre-2026",
    "parte": "p1",
    "n": "14"
+  },
+  {
+   "pregunta": "Según el artículo 13 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados de, al menos:",
+   "opciones": [
+    "4.000 habitantes, y siempre que los municipios resultantes sean financieramente sostenibles.",
+    "1.000 habitantes, y siempre que los municipios resultantes sean financieramente sostenibles.",
+    "5.000 habitantes, previa autorización del Consejo de Ministros.",
+    "20.000 habitantes, y siempre que no se alteren los límites provinciales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 13.2 LBRL: núcleos diferenciados de **al menos 4.000 habitantes**, financieramente sostenibles, con recursos suficientes y sin merma de la calidad de los servicios. La creación y supresión se regula por la **legislación autonómica**, con audiencia de los municipios y **dictamen del Consejo de Estado** u órgano consultivo autonómico (art. 13.1)."
   }
  ],
  "a26": [
@@ -18,6 +29,237 @@
    "examen": "aux-libre-2026",
    "parte": "p1",
    "n": "15"
+  }
+ ],
+ "a1": [
+  {
+   "pregunta": "Según el artículo 1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, los Municipios son:",
+   "opciones": [
+    "Entidades básicas de la organización territorial del Estado, con autonomía superior a la de la Provincia y la Isla.",
+    "Entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos.",
+    "Divisiones territoriales para el cumplimiento de las actividades del Estado.",
+    "Entidades locales determinadas por la agrupación de Provincias, con personalidad jurídica propia."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 1.1 LBRL: el Municipio es la **entidad básica de la organización territorial del Estado** y **cauce inmediato de participación ciudadana**. La Provincia y la Isla gozan de **idéntica autonomía** para sus intereses (art. 1.2)."
+  }
+ ],
+ "a3": [
+  {
+   "pregunta": "De acuerdo con el artículo 3 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, NO es una Entidad Local territorial:",
+   "opciones": [
+    "La Comarca.",
+    "El Municipio.",
+    "La Provincia.",
+    "La Isla en los archipiélagos balear y canario."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 3.1 LBRL: las entidades locales **territoriales** son tres: **Municipio, Provincia e Isla**. Las **Comarcas**, las Áreas Metropolitanas y las Mancomunidades son entidades locales, pero **no territoriales** (art. 3.2)."
+  }
+ ],
+ "a4": [
+  {
+   "pregunta": "Según el artículo 4 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en su calidad de Administraciones públicas de carácter territorial, NO corresponde a los municipios, las provincias y las islas:",
+   "opciones": [
+    "La potestad tributaria y financiera.",
+    "La potestad expropiatoria.",
+    "La potestad de revisión de oficio de sus actos y acuerdos.",
+    "La potestad legislativa."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 4.1 LBRL: les corresponden, entre otras, las potestades **reglamentaria y de autoorganización**, **tributaria y financiera**, **expropiatoria**, sancionadora y de **revisión de oficio**. La **potestad legislativa** corresponde a las Cortes Generales y a las Asambleas autonómicas, no a las entidades locales."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "De acuerdo con el artículo 6 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, las entidades locales sirven con objetividad los intereses públicos que les están encomendados y actúan de acuerdo con los principios de:",
+   "opciones": [
+    "Eficacia, jerarquía, descentralización y coordinación, con sometimiento pleno a la ley y al Derecho.",
+    "Eficiencia, autonomía, subsidiariedad y cooperación.",
+    "Eficacia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+    "Legalidad, jerarquía, desconcentración y lealtad institucional."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 6.1 LBRL: **eficacia, descentralización, desconcentración y coordinación**. Ojo con la **jerarquía**: figura en el art. 103.1 CE, pero no en el art. 6 LBRL."
+  }
+ ],
+ "a15": [
+  {
+   "pregunta": "De acuerdo con el artículo 15 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, quien viva en varios municipios deberá inscribirse en el Padrón:",
+   "opciones": [
+    "En el que elija libremente, comunicándolo a los demás municipios.",
+    "Únicamente en el que habite durante más tiempo al año.",
+    "En todos ellos, indicando cuál es su residencia principal.",
+    "En el que tenga su domicilio fiscal."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 15 LBRL: hay que inscribirse **únicamente en el municipio en que se habite más tiempo al año**. La condición de vecino se adquiere **en el mismo momento de la inscripción**."
+  },
+  {
+   "pregunta": "Según el artículo 16 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la inscripción en el Padrón de los extranjeros no comunitarios sin autorización de residencia de larga duración deberá ser objeto de renovación periódica:",
+   "opciones": [
+    "Cada año; si no se renueva, puede declararse su caducidad previa audiencia del interesado.",
+    "Cada cinco años; si no se renueva, la inscripción se convierte en provisional.",
+    "Cada dos años; si no se renueva, puede declararse su caducidad sin necesidad de audiencia previa del interesado.",
+    "Cada dos años; si no se renueva, la caducidad requiere audiencia previa del interesado durante diez días."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 16.1 LBRL: renovación **cada dos años**; transcurrido el plazo sin renovar, la caducidad puede declararse **sin audiencia previa**. Las certificaciones del Padrón son **documento público y fehaciente** a efectos administrativos."
+  }
+ ],
+ "a19": [
+  {
+   "pregunta": "De acuerdo con el artículo 20 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la Junta de Gobierno Local existe:",
+   "opciones": [
+    "En todos los municipios, sea cual sea su población.",
+    "Solo en los municipios de gran población.",
+    "En los municipios con población superior a 20.000 habitantes y, en los de menos, cuando lo acuerde el Alcalde.",
+    "En todos los municipios con población superior a 5.000 habitantes y, en los de menos, cuando así lo disponga su reglamento orgánico o lo acuerde el Pleno."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 20.1.b) LBRL: obligatoria en municipios de **más de 5.000 habitantes**; en los demás, si lo prevé el reglamento orgánico o lo acuerda el Pleno. El **Alcalde, los Tenientes de Alcalde y el Pleno** existen en **todos** los ayuntamientos (art. 20.1.a)."
+  },
+  {
+   "pregunta": "Según el artículo 23 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la Junta de Gobierno Local se integra por el Alcalde y un número de Concejales:",
+   "opciones": [
+    "No superior al tercio del número legal de los mismos, nombrados y separados libremente por el Alcalde, dando cuenta al Pleno.",
+    "No superior a la mitad del número legal de los mismos, elegidos por el Pleno por mayoría absoluta.",
+    "No superior al tercio del número legal de los mismos, elegidos por el Pleno a propuesta del Alcalde.",
+    "No inferior al tercio del número legal de los mismos, nombrados libremente por el Alcalde."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 23.1 LBRL: Alcalde y Concejales en número **no superior al tercio** del número legal, **nombrados y separados libremente por el Alcalde**, dando cuenta al Pleno. Su función es **asistir al Alcalde** y ejercer las atribuciones delegadas o atribuidas por ley (art. 23.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 21.3 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, ¿cuál de las siguientes atribuciones del Alcalde es indelegable?",
+   "opciones": [
+    "El otorgamiento de licencias, salvo que las leyes sectoriales lo atribuyan al Pleno o a la Junta de Gobierno.",
+    "Dictar bandos.",
+    "La sanción de las faltas de desobediencia a su autoridad o por infracción de las ordenanzas municipales.",
+    "Dirigir, inspeccionar e impulsar los servicios y obras municipales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 21.3 LBRL: no son delegables, entre otras, convocar y presidir el Pleno y la Junta, el voto de calidad, las operaciones de crédito, la **jefatura superior del personal**, la separación de funcionarios y el despido de laborales, **dictar bandos** (letra e) y las medidas en caso de **catástrofe** (letra m). Las licencias, las sanciones por infracción de ordenanzas y la dirección e impulso de los servicios y obras sí pueden delegarse."
+  }
+ ],
+ "a25": [
+  {
+   "pregunta": "Según el artículo 26 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el transporte colectivo urbano de viajeros es un servicio que deben prestar, en todo caso, los municipios con población superior a:",
+   "opciones": [
+    "5.000 habitantes.",
+    "20.000 habitantes.",
+    "50.000 habitantes.",
+    "75.000 habitantes."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 26.1.d) LBRL: los municipios de **más de 50.000 habitantes** prestan, además, **transporte colectivo urbano de viajeros** y **medio ambiente urbano**. Los de más de 20.000 añaden protección civil, servicios sociales de atención inmediata, incendios e instalaciones deportivas."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 27 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la delegación de competencias del Estado o de las Comunidades Autónomas en los Municipios deberá determinar su duración, que:",
+   "opciones": [
+    "No podrá ser superior a cinco años, y no requerirá aceptación del Municipio.",
+    "No podrá ser inferior a dos años, y podrá carecer de financiación si el Municipio la acepta.",
+    "No podrá ser inferior a cuatro años, coincidiendo con el mandato de la Corporación.",
+    "No podrá ser inferior a cinco años, y deberá ir acompañada de financiación suficiente, siendo nula sin la dotación presupuestaria adecuada."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 27 LBRL: duración **no inferior a cinco años** (art. 27.1); requiere la **aceptación del Municipio** (art. 27.5) y debe ir con **financiación**: sin dotación presupuestaria adecuada y suficiente es **nula** (art. 27.6)."
+  }
+ ],
+ "a31": [
+  {
+   "pregunta": "Según el artículo 36 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la Diputación provincial garantizará en todo caso la prestación de los servicios de secretaría e intervención en los municipios de menos de:",
+   "opciones": [
+    "1.000 habitantes.",
+    "5.000 habitantes.",
+    "20.000 habitantes.",
+    "500 habitantes."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 36.1.b) LBRL: en los municipios de **menos de 1.000 habitantes** la Diputación **garantiza secretaría e intervención**. Además, presta tratamiento de residuos en los de menos de **5.000** e incendios, administración electrónica y contratación centralizada en los de menos de **20.000**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 31 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, son fines propios y específicos de la Provincia:",
+   "opciones": [
+    "Ejercer la tutela sobre los municipios de su territorio y aprobar sus presupuestos.",
+    "Garantizar los principios de solidaridad y equilibrio intermunicipales y, en particular, asegurar la prestación integral y adecuada de los servicios de competencia municipal en todo el territorio provincial.",
+    "Prestar todos los servicios mínimos obligatorios en los municipios de menos de 20.000 habitantes.",
+    "Representar a los municipios de su territorio ante el Estado y la Comunidad Autónoma."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 31.2 LBRL: la Provincia garantiza la **solidaridad y el equilibrio intermunicipales**, asegurando la **prestación integral y adecuada** de los servicios municipales en todo su territorio y participando en la **coordinación** de la Administración local con la autonómica y la estatal. Su gobierno corresponde a la **Diputación** (art. 31.3)."
+  }
+ ],
+ "a41": [
+  {
+   "pregunta": "Según el artículo 42 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, no podrá crearse una comarca si a ello se oponen expresamente:",
+   "opciones": [
+    "La mitad de los Municipios que debieran agruparse en ella, sea cual sea su población.",
+    "Las tres quintas partes de los Municipios que debieran agruparse en ella, siempre que representen al menos la mitad del censo electoral.",
+    "Las dos quintas partes de los Municipios que debieran agruparse en ella, siempre que representen al menos la mitad del censo electoral del territorio.",
+    "La Diputación provincial correspondiente, por mayoría absoluta."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 42.2 LBRL: la oposición de **2/5 de los Municipios** que representen **al menos la mitad del censo electoral** impide crear la comarca. Las comarcas las crean las **Comunidades Autónomas** según sus Estatutos (art. 42.1)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 44 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, las mancomunidades de municipios:",
+   "opciones": [
+    "Son entidades locales territoriales creadas por ley de la Comunidad Autónoma.",
+    "Carecen de personalidad jurídica y actúan a través del Ayuntamiento de mayor población.",
+    "Son creadas obligatoriamente por la Diputación para los municipios de menos de 5.000 habitantes.",
+    "Se constituyen por la asociación de municipios para la ejecución en común de obras y servicios determinados de su competencia, y se rigen por sus Estatutos propios."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 44 LBRL: las mancomunidades nacen del **derecho de los municipios a asociarse** para obras y servicios determinados; tienen **personalidad y capacidad jurídicas** y se rigen por sus **Estatutos propios**. No son entidades territoriales (art. 3.2)."
+  }
+ ],
+ "a46": [
+  {
+   "pregunta": "Según el artículo 46 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el Pleno de los Ayuntamientos de municipios con una población entre 5.001 y 20.000 habitantes celebra sesión ordinaria como mínimo:",
+   "opciones": [
+    "Cada dos meses.",
+    "Cada mes.",
+    "Cada tres meses.",
+    "Cada seis meses."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 46.2.a) LBRL: **cada mes** en los municipios de más de 20.000 habitantes y en las Diputaciones; **cada dos meses** entre 5.001 y 20.000; y **cada tres meses** hasta 5.000 habitantes."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 46 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, con carácter general el Pleno se constituye válidamente con la asistencia de:",
+   "opciones": [
+    "La mayoría absoluta del número legal de miembros, incluidos el Presidente y el Secretario.",
+    "Un tercio del número legal de miembros, que nunca podrá ser inferior a tres, y en todo caso con la asistencia del Presidente y del Secretario.",
+    "Un cuarto del número legal de miembros, que nunca podrá ser inferior a tres.",
+    "Un tercio del número legal de miembros, que nunca podrá ser inferior a cinco, sin necesidad de que asista el Secretario."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 46.2.c) LBRL: **un tercio** del número legal, **nunca menos de tres**, manteniéndose durante toda la sesión, y siempre con el **Presidente y el Secretario** (o quienes los sustituyan). La **cuarta parte** es la que puede pedir un Pleno **extraordinario** (art. 46.2.a)."
+  },
+  {
+   "pregunta": "Según el artículo 49 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, tras la aprobación inicial de una Ordenanza local por el Pleno, se abrirá un trámite de información pública y audiencia a los interesados por un plazo mínimo de:",
+   "opciones": [
+    "Quince días, para la presentación de reclamaciones y sugerencias.",
+    "Veinte días hábiles, para la presentación de alegaciones.",
+    "Dos meses, para la presentación de reclamaciones y sugerencias.",
+    "Treinta días, para la presentación de reclamaciones y sugerencias."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 49.b) LBRL: **mínimo treinta días**. Después el Pleno resuelve las reclamaciones y aprueba definitivamente; si no hay reclamaciones, el acuerdo inicial se entiende **definitivamente adoptado**."
+  }
+ ],
+ "a92bis": [
+  {
+   "pregunta": "De acuerdo con el artículo 92 bis de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, la escala de funcionarios de administración local con habilitación de carácter nacional se subdivide en las subescalas de:",
+   "opciones": [
+    "Secretaría, Intervención y Tesorería.",
+    "Secretaría General, Intervención General y Tesorería General.",
+    "Secretaría, Intervención-tesorería y Secretaría-intervención.",
+    "Secretaría-intervención, Tesorería-recaudación y Asesoría jurídica."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 92 bis.2 LBRL: **Secretaría** (fe pública y asesoramiento legal preceptivo), **Intervención-tesorería** (control y fiscalización interna, contabilidad, tesorería y recaudación) y **Secretaría-intervención** (ambas funciones). Su selección y habilitación corresponden al **Estado** (art. 92 bis.5)."
   }
  ]
 }

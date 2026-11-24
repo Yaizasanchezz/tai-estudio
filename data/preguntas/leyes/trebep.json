@@ -75,5 +75,345 @@
    "parte": "p1",
    "n": "8"
   }
+ ],
+ "a1": [
+  {
+   "pregunta": "De acuerdo con el artículo 4 del texto refundido de la Ley del Estatuto Básico del Empleado Público, sus disposiciones solo se aplicarán directamente cuando así lo disponga su legislación específica al:",
+   "opciones": [
+    "Personal funcionario de las Universidades Públicas.",
+    "Personal funcionario de las Entidades Locales.",
+    "Personal del Centro Nacional de Inteligencia.",
+    "Personal de los organismos públicos y agencias vinculados a la Administración General del Estado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 4.g) TREBEP: el personal del **CNI** tiene legislación específica propia y el Estatuto solo se le aplica si esta lo dispone. Las Universidades Públicas, las Entidades Locales y los organismos y agencias están incluidos directamente en el ámbito del art. 2."
+  }
+ ],
+ "a8": [
+  {
+   "pregunta": "Según el artículo 8 del texto refundido de la Ley del Estatuto Básico del Empleado Público, NO es una de las clases en que se clasifican los empleados públicos:",
+   "opciones": [
+    "Los funcionarios interinos.",
+    "El personal directivo profesional.",
+    "El personal laboral, ya sea fijo, por tiempo indefinido o temporal.",
+    "El personal eventual."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 8.2 TREBEP: hay **cuatro** clases (funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual). El **personal directivo profesional** se regula en el art. 13, pero no es una clase del art. 8."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 12 del texto refundido de la Ley del Estatuto Básico del Empleado Público, el personal eventual:",
+   "opciones": [
+    "Es de nombramiento y cese libres, y cesa en todo caso cuando lo hace la autoridad a la que presta la función de confianza o asesoramiento.",
+    "Puede alegar esa condición como mérito para la promoción interna.",
+    "Es nombrado con carácter permanente para funciones de confianza o asesoramiento especial.",
+    "Solo puede ser cesado por la autoridad a la que asesora mediante resolución motivada."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 12.3 TREBEP: **nombramiento y cese libres**; el cese se produce, en todo caso, cuando cesa la autoridad a la que asesora. Su condición es **no permanente** (art. 12.1) y **no puede constituir mérito** para el acceso ni para la promoción interna (art. 12.4)."
+  }
+ ],
+ "a14": [
+  {
+   "pregunta": "Según el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de los siguientes es un derecho individual de los empleados públicos recogido en el artículo 14 (y no un derecho individual ejercido colectivamente)?",
+   "opciones": [
+    "La libertad sindical.",
+    "El ejercicio de la huelga.",
+    "El planteamiento de conflictos colectivos de trabajo.",
+    "La libre asociación profesional."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 14.p) TREBEP: la **libre asociación profesional** es un derecho individual. La libertad sindical, la huelga y los conflictos colectivos son derechos individuales **que se ejercen de forma colectiva** (art. 15)."
+  }
+ ],
+ "a15": [
+  {
+   "pregunta": "De acuerdo con el artículo 15 del texto refundido de la Ley del Estatuto Básico del Empleado Público, el ejercicio de la huelga por los empleados públicos se reconoce:",
+   "opciones": [
+    "Como derecho individual que se ejerce de forma colectiva, con la garantía del mantenimiento de los servicios esenciales de la comunidad.",
+    "Como derecho individual de ejercicio individual, sin más límites que los del Código Penal.",
+    "Únicamente al personal laboral, al estar excluido para el personal funcionario.",
+    "Como derecho cuya titularidad corresponde exclusivamente a las organizaciones sindicales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 15.c) TREBEP: es un derecho **individual que se ejerce de forma colectiva**, «con la garantía del mantenimiento de los servicios esenciales de la comunidad». Lo tienen todos los empleados públicos, también los funcionarios."
+  }
+ ],
+ "a16": [
+  {
+   "pregunta": "Según el artículo 18 del texto refundido de la Ley del Estatuto Básico del Empleado Público, para la promoción interna los funcionarios deberán poseer los requisitos exigidos para el ingreso, superar las pruebas selectivas y tener una antigüedad de, al menos:",
+   "opciones": [
+    "Un año de servicio activo en el inferior Subgrupo.",
+    "Tres años de servicios efectivos en cualquier Administración Pública.",
+    "Dos años de servicio activo en el inferior Subgrupo, o Grupo si este no tiene Subgrupo.",
+    "Cinco años de servicio activo en el inferior Subgrupo."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 18.2 TREBEP: se exige una antigüedad de **al menos dos años de servicio activo en el inferior Subgrupo** (o Grupo, si no tiene Subgrupo)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 16 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo, constituye la:",
+   "opciones": [
+    "Carrera vertical.",
+    "Carrera horizontal.",
+    "Promoción interna horizontal.",
+    "Promoción interna vertical."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 16.3.a) TREBEP: es la **carrera horizontal**. La vertical es el ascenso en la estructura de **puestos**; la promoción interna vertical, el paso a un Subgrupo superior; y la horizontal, el acceso a cuerpos o escalas **del mismo Subgrupo**."
+  }
+ ],
+ "a21": [
+  {
+   "pregunta": "Según el artículo 22.4 del texto refundido de la Ley del Estatuto Básico del Empleado Público, las pagas extraordinarias serán dos al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las que retribuyen:",
+   "opciones": [
+    "La progresión alcanzada en la carrera administrativa y la especial dificultad técnica del puesto.",
+    "La especial dificultad técnica, responsabilidad o dedicación del puesto, y los servicios extraordinarios.",
+    "Únicamente los servicios extraordinarios prestados fuera de la jornada normal de trabajo.",
+    "El grado de interés, iniciativa o esfuerzo y el rendimiento, y los servicios extraordinarios prestados fuera de la jornada normal."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 22.4 TREBEP: se excluyen las complementarias de las letras **c) y d) del art. 24**, es decir, las que retribuyen el interés, iniciativa o rendimiento (la productividad) y los **servicios extraordinarios** fuera de la jornada (las gratificaciones)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 23 del texto refundido de la Ley del Estatuto Básico del Empleado Público, los trienios consisten en una cantidad:",
+   "opciones": [
+    "Igual para cada Subgrupo o Grupo de clasificación profesional, por cada tres años de servicio.",
+    "Única para todos los Subgrupos, por cada tres años de servicio.",
+    "Igual para cada Subgrupo, por cada tres años de servicio en el mismo puesto de trabajo.",
+    "Que fija cada Administración Pública en función del nivel del puesto, por cada tres años de servicio."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 23.b) TREBEP: los trienios son una cantidad **igual para cada Subgrupo** (o Grupo) **por cada tres años de servicio**. Son retribuciones básicas y se fijan en la **Ley de Presupuestos Generales del Estado**; no dependen del puesto."
+  }
+ ],
+ "a31": [
+  {
+   "pregunta": "Según el artículo 39 del texto refundido de la Ley del Estatuto Básico del Empleado Público, las Juntas de Personal se constituirán en unidades electorales que cuenten con un censo mínimo de:",
+   "opciones": [
+    "30 funcionarios.",
+    "31 funcionarios.",
+    "50 funcionarios.",
+    "100 funcionarios."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 39.3 TREBEP: **50 funcionarios**. Por debajo, entre 6 y 49, la representación corresponde a los **Delegados de Personal**: uno hasta 30 funcionarios y tres de 31 a 49 (art. 39.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 46 del texto refundido de la Ley del Estatuto Básico del Empleado Público, además de las organizaciones sindicales, delegados y juntas, están legitimados para convocar una reunión los empleados públicos de la Administración respectiva en número no inferior al:",
+   "opciones": [
+    "10 por 100 del colectivo convocado.",
+    "40 por 100 del colectivo convocado.",
+    "25 por 100 del colectivo convocado.",
+    "50 por 100 del colectivo convocado."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 46.1.d) TREBEP: **40 %** del colectivo convocado. Las reuniones en el centro de trabajo se autorizan **fuera de las horas de trabajo**, salvo acuerdo (art. 46.2)."
+  }
+ ],
+ "a47": [
+  {
+   "pregunta": "Según el artículo 48 del texto refundido de la Ley del Estatuto Básico del Empleado Público, en caso de fallecimiento de un familiar dentro del segundo grado de consanguinidad o afinidad ocurrido en distinta localidad, el permiso será de:",
+   "opciones": [
+    "Dos días hábiles.",
+    "Tres días hábiles.",
+    "Cinco días hábiles.",
+    "Cuatro días hábiles."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 48.a) TREBEP: segundo grado, **2 días hábiles** en la misma localidad y **4** en distinta. Para cónyuge, pareja de hecho o primer grado son **3 y 5** días hábiles."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 50 del texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de:",
+   "opciones": [
+    "Veintidós días naturales.",
+    "Treinta días hábiles, sin computar los sábados.",
+    "Veintidós días hábiles, sin que los sábados se consideren días hábiles a estos efectos.",
+    "Un mes natural, o los días que correspondan proporcionalmente."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 50.1 TREBEP: **22 días hábiles** (o los proporcionales), y a estos efectos **los sábados no son hábiles**, salvo las adaptaciones de los horarios especiales."
+  },
+  {
+   "pregunta": "Según el artículo 48.i) del texto refundido de la Ley del Estatuto Básico del Empleado Público, para atender el cuidado de un familiar de primer grado por razones de enfermedad muy grave, el funcionario puede solicitar:",
+   "opciones": [
+    "Una reducción de hasta el 50 % de la jornada, con disminución proporcional de retribuciones, por un plazo máximo de tres meses.",
+    "Una reducción de hasta el 50 % de la jornada, con carácter retribuido, por un plazo máximo de un mes.",
+    "Un permiso retribuido de quince días naturales.",
+    "Una reducción de un tercio de la jornada, con carácter retribuido, por un plazo máximo de dos meses."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 48.i) TREBEP: reducción de **hasta el cincuenta por ciento** de la jornada, **retribuida**, por **máximo un mes**. Si hay varios titulares por el mismo hecho, pueden prorratearlo respetando ese mes."
+  }
+ ],
+ "a52": [
+  {
+   "pregunta": "Según el artículo 54 del texto refundido de la Ley del Estatuto Básico del Empleado Público, los empleados públicos obedecerán las instrucciones y órdenes profesionales de los superiores, salvo que constituyan una infracción manifiesta del ordenamiento jurídico, en cuyo caso:",
+   "opciones": [
+    "Deberán cumplirlas, pudiendo después formular queja ante el superior jerárquico.",
+    "Las pondrán en conocimiento del Ministerio Fiscal en el plazo de diez días.",
+    "Solicitarán que la orden se les reitere por escrito antes de cumplirla.",
+    "Las pondrán inmediatamente en conocimiento de los órganos de inspección procedentes."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 54.3 TREBEP (principios de **conducta**): no se obedece la orden que sea infracción manifiesta y se comunica **inmediatamente** a los **órganos de inspección** procedentes."
+  }
+ ],
+ "a55": [
+  {
+   "pregunta": "De acuerdo con el artículo 59 del texto refundido de la Ley del Estatuto Básico del Empleado Público, en las ofertas de empleo público se reservará para personas con discapacidad un cupo:",
+   "opciones": [
+    "No inferior al siete por ciento de las vacantes, de modo que al menos el dos por ciento de las plazas ofertadas sea para personas con discapacidad intelectual.",
+    "No inferior al cinco por ciento de las vacantes, de modo que al menos el dos por ciento sea para personas con discapacidad intelectual.",
+    "No inferior al siete por ciento de las vacantes, de modo que al menos el uno por ciento sea para personas con discapacidad intelectual.",
+    "No superior al siete por ciento de las vacantes, hasta alcanzar el dos por ciento de los efectivos de cada Administración."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 59.1 TREBEP: cupo **no inferior al 7 %** de las vacantes; de esa reserva, **al menos el 2 %** de las plazas ofertadas para **discapacidad intelectual**. El objetivo es alcanzar progresivamente el 2 % de los efectivos totales."
+  },
+  {
+   "pregunta": "Según el artículo 57 del texto refundido de la Ley del Estatuto Básico del Empleado Público, los extranjeros con residencia legal en España que no sean nacionales de la Unión Europea ni estén en los demás supuestos del artículo:",
+   "opciones": [
+    "Podrán acceder como personal funcionario, salvo a los empleos que impliquen ejercicio del poder público.",
+    "No podrán acceder al empleo público en ningún caso.",
+    "Podrán acceder a las Administraciones Públicas como personal laboral, en igualdad de condiciones que los españoles.",
+    "Solo podrán acceder como funcionarios interinos o personal eventual."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 57.4 TREBEP: los extranjeros con **residencia legal** pueden acceder como **personal laboral**. El acceso como funcionario está reservado a los nacionales de la UE (y asimilados), con la excepción del poder público (art. 57.1); solo una **ley** puede eximir del requisito de nacionalidad (art. 57.5)."
+  }
+ ],
+ "a60": [
+  {
+   "pregunta": "De acuerdo con el artículo 60 del texto refundido de la Ley del Estatuto Básico del Empleado Público, no podrán formar parte de los órganos de selección:",
+   "opciones": [
+    "El personal de elección o de designación política, el personal laboral y el personal eventual.",
+    "El personal de elección o de designación política, los funcionarios interinos y el personal eventual.",
+    "Los funcionarios interinos, el personal laboral temporal y los funcionarios en prácticas.",
+    "Únicamente el personal eventual y el personal de designación política."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 60.2 TREBEP: están excluidos el personal de **elección o designación política**, los **funcionarios interinos** y el **personal eventual**. Además, la pertenencia es siempre **a título individual** (art. 60.3)."
+  },
+  {
+   "pregunta": "Según el artículo 61 del texto refundido de la Ley del Estatuto Básico del Empleado Público, el sistema de concurso, consistente únicamente en la valoración de méritos, para el acceso a la condición de funcionario de carrera:",
+   "opciones": [
+    "Es uno de los sistemas ordinarios junto a la oposición y el concurso-oposición.",
+    "Podrá aplicarse cuando así lo acuerde la Mesa General de Negociación.",
+    "Solo podrá aplicarse a la cobertura de plazas de los Subgrupos C1 y C2.",
+    "Solo podrá aplicarse, con carácter excepcional, en virtud de ley."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 61.6 TREBEP: los sistemas de funcionarios de carrera son la **oposición** y el **concurso-oposición**; el **concurso** solo cabe **en virtud de ley y con carácter excepcional**. Para el personal laboral fijo sí es un sistema ordinario (art. 61.7)."
+  }
+ ],
+ "a63": [
+  {
+   "pregunta": "De acuerdo con el artículo 64 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la renuncia voluntaria a la condición de funcionario:",
+   "opciones": [
+    "No podrá ser aceptada cuando el funcionario esté sujeto a expediente disciplinario o se haya dictado contra él auto de procesamiento o de apertura de juicio oral por algún delito.",
+    "Puede manifestarse verbalmente y produce efectos sin necesidad de aceptación.",
+    "Inhabilita para ingresar de nuevo en la Administración Pública durante cinco años.",
+    "Se entiende aceptada por silencio si la Administración no resuelve en el plazo de un mes."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 64 TREBEP: la renuncia se manifiesta **por escrito** y se **acepta expresamente**; no se acepta con **expediente disciplinario** o **auto de procesamiento o de apertura de juicio oral**; y **no inhabilita** para volver a ingresar por un nuevo proceso selectivo."
+  },
+  {
+   "pregunta": "Según el artículo 68 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la solicitud de rehabilitación de quien perdió la condición de funcionario por haber sido condenado a la pena de inhabilitación, si no se resuelve expresamente en plazo:",
+   "opciones": [
+    "Se entenderá estimada.",
+    "Se entenderá estimada solo si el delito no fue doloso.",
+    "Se entenderá desestimada.",
+    "Deberá resolverse por el Consejo de Ministros en un nuevo plazo de tres meses."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 68.2 TREBEP: en caso de inhabilitación, la rehabilitación es **excepcional** y el silencio es **desestimatorio**. En cambio, si se perdió por **nacionalidad** o **incapacidad permanente**, desaparecida la causa se **concede** al solicitarla (art. 68.1)."
+  }
+ ],
+ "a69": [
+  {
+   "pregunta": "De acuerdo con el artículo 70 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la Oferta de empleo público comporta la obligación de convocar los procesos selectivos para las plazas comprometidas y hasta un:",
+   "opciones": [
+    "Diez por cien adicional, debiendo ejecutarse la oferta dentro del plazo de dos años, prorrogable por uno más.",
+    "Diez por cien adicional, debiendo ejecutarse la oferta dentro del plazo improrrogable de tres años.",
+    "Veinte por cien adicional, debiendo ejecutarse la oferta dentro del plazo improrrogable de tres años.",
+    "Cinco por cien adicional, debiendo ejecutarse la oferta dentro del año natural de su aprobación."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 70.1 TREBEP: plazas comprometidas **y hasta un 10 % adicional**; ejecución en el plazo **improrrogable de tres años**. La oferta se aprueba **anualmente** y se publica en el diario oficial (art. 70.2)."
+  },
+  {
+   "pregunta": "Según el artículo 80 del texto refundido de la Ley del Estatuto Básico del Empleado Público, los titulares de puestos provistos por libre designación con convocatoria pública:",
+   "opciones": [
+    "Podrán ser cesados discrecionalmente, debiendo asignárseles un puesto de trabajo conforme al sistema de carrera de cada Administración.",
+    "Solo podrán ser cesados por falta de capacidad sobrevenida acreditada mediante expediente contradictorio.",
+    "Podrán ser cesados discrecionalmente, quedando en situación de excedencia forzosa.",
+    "No podrán ser cesados hasta transcurridos dos años desde su nombramiento."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 80.4 TREBEP: el **cese es discrecional**, pero hay que **asignarles otro puesto** conforme al sistema de carrera, con sus garantías. La libre designación consiste en la **apreciación discrecional** de la idoneidad (art. 80.1)."
+  }
+ ],
+ "a85": [
+  {
+   "pregunta": "De acuerdo con el artículo 89 del texto refundido de la Ley del Estatuto Básico del Empleado Público, para obtener la excedencia voluntaria por interés particular, el funcionario debe haber prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+   "opciones": [
+    "Tres años inmediatamente anteriores, aunque las leyes de Función Pública pueden ampliarlo.",
+    "Dos años inmediatamente anteriores.",
+    "Cinco años, consecutivos o no, a lo largo de su carrera.",
+    "Cinco años inmediatamente anteriores, aunque las leyes de Función Pública pueden establecer una duración menor."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 89.2 TREBEP: **cinco años inmediatamente anteriores**; las leyes de desarrollo pueden fijar un periodo **menor**. Su concesión está subordinada a las necesidades del servicio y no se declara con expediente disciplinario en curso."
+  },
+  {
+   "pregunta": "Según el artículo 89.4 del texto refundido de la Ley del Estatuto Básico del Empleado Público, durante la excedencia por cuidado de familiares el puesto de trabajo desempeñado se reservará:",
+   "opciones": [
+    "Durante los seis primeros meses, prorrogables por periodos de tres meses hasta un máximo de dieciocho.",
+    "Durante todo el periodo de excedencia, con un máximo de tres años.",
+    "Al menos durante dos años; transcurrido ese periodo, la reserva lo será a un puesto en la misma localidad y de igual retribución.",
+    "Durante el primer año; después, a un puesto en la misma provincia."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 89.4 TREBEP: la excedencia dura **hasta tres años** por cada sujeto causante y el puesto se reserva **al menos dos años**; después, a un puesto **en la misma localidad y de igual retribución**. Los 6 meses ampliables hasta 18 corresponden a la excedencia por **violencia de género o sexual** (art. 89.5)."
+  }
+ ],
+ "a93": [
+  {
+   "pregunta": "De acuerdo con el artículo 98 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la suspensión provisional como medida cautelar en la tramitación de un expediente disciplinario:",
+   "opciones": [
+    "No podrá exceder de 3 meses, prorrogables por otros 3.",
+    "No podrá exceder de 6 meses, salvo en caso de paralización del procedimiento imputable al interesado.",
+    "No podrá exceder de 6 años.",
+    "No podrá exceder de 1 año, salvo paralización del procedimiento imputable a la Administración."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 98.3 TREBEP: máximo **6 meses**, salvo paralización **imputable al interesado**. Durante ella se cobran las **retribuciones básicas**. Los **6 años** son el máximo de la suspensión **firme** por sanción (art. 90.2)."
+  },
+  {
+   "pregunta": "Según el artículo 94 del texto refundido de la Ley del Estatuto Básico del Empleado Público, cuando de la instrucción de un procedimiento disciplinario resulte la existencia de indicios fundados de criminalidad:",
+   "opciones": [
+    "Se suspenderá su tramitación poniéndolo en conocimiento del Ministerio Fiscal.",
+    "Se continuará la tramitación y se remitirá la resolución final al juzgado competente.",
+    "Se archivará el procedimiento disciplinario de forma definitiva.",
+    "Se suspenderá su tramitación y se dará cuenta al órgano de inspección de servicios."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 94.3 TREBEP: se **suspende** la tramitación y se comunica al **Ministerio Fiscal**. Además, los hechos declarados probados por resoluciones judiciales firmes **vinculan** a la Administración."
+  }
+ ],
+ "a99": [
+  {
+   "pregunta": "De acuerdo con el artículo 100 del texto refundido de la Ley del Estatuto Básico del Empleado Público, la Comisión de Coordinación del Empleo Público es:",
+   "opciones": [
+    "Un órgano de negociación colectiva dependiente de la Mesa General de Negociación de las Administraciones Públicas.",
+    "Un órgano colegiado adscrito a la Federación Española de Municipios y Provincias.",
+    "Un órgano consultivo del Consejo de Ministros en materia de empleo público.",
+    "Un órgano técnico y de trabajo dependiente de la Conferencia Sectorial de Administración Pública."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 100.2 TREBEP: es un **órgano técnico y de trabajo** dependiente de la **Conferencia Sectorial de Administración Pública**, en el que se coordina la política de personal entre la AGE, las CC. AA., Ceuta, Melilla y las entidades locales."
+  }
  ]
 }

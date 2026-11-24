@@ -1,0 +1,288 @@
+{
+ "lo-2-1979:aprimero": [
+  {
+   "pregunta": "Según el artículo 1 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, el Tribunal Constitucional, como intérprete supremo de la Constitución, es independiente de los demás órganos constitucionales y está sometido:",
+   "opciones": [
+    "Solo a la Constitución.",
+    "Solo a la Constitución y a su Ley Orgánica.",
+    "A la Constitución y al resto del ordenamiento jurídico.",
+    "A la Constitución, a su Ley Orgánica y a los reglamentos de las Cortes Generales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 1.1 LOTC: está sometido **solo a la Constitución y a la presente Ley Orgánica**. Además, es **único en su orden** y extiende su jurisdicción a **todo el territorio nacional** (art. 1.2)."
+  }
+ ],
+ "lo-2-1979:aquinto": [
+  {
+   "pregunta": "De acuerdo con el artículo 16 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, la designación para el cargo de Magistrado del Tribunal Constitucional se hará por:",
+   "opciones": [
+    "Nueve años, renovándose el Tribunal por terceras partes cada tres.",
+    "Nueve años, renovándose el Tribunal por mitades cada cuatro y medio.",
+    "Doce años, renovándose el Tribunal por terceras partes cada cuatro.",
+    "Seis años, renovándose el Tribunal por mitades cada tres."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 16.3 LOTC (y art. 159.3 CE): mandato de **nueve años** y renovación **por terceras partes cada tres**. Ningún Magistrado puede ser propuesto para otro periodo inmediato, salvo que hubiera ocupado el cargo **tres años o menos** (art. 16.4)."
+  },
+  {
+   "pregunta": "Según el artículo 9 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, el Presidente del Tribunal Constitucional es elegido por el Tribunal en Pleno, entre sus miembros y por votación secreta, y nombrado por el Rey por un período de:",
+   "opciones": [
+    "Tres años, sin posibilidad de reelección.",
+    "Nueve años, coincidente con su mandato como Magistrado.",
+    "Tres años, expirado el cual podrá ser reelegido por una sola vez.",
+    "Cuatro años, expirado el cual podrá ser reelegido por una sola vez."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 9.3 LOTC: **tres años**, reelegible **una sola vez**. En primera votación se exige **mayoría absoluta** (art. 9.2). El Vicepresidente se elige igual, por el mismo periodo, y preside la **Sala Segunda** (art. 9.4)."
+  }
+ ],
+ "lo-2-1979:aveintisiete": [
+  {
+   "pregunta": "De acuerdo con el artículo 32 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, NO está legitimado para interponer recurso de inconstitucionalidad contra una ley del Estado:",
+   "opciones": [
+    "El Consejo General del Poder Judicial.",
+    "El Defensor del Pueblo.",
+    "Cincuenta Senadores.",
+    "El Presidente del Gobierno."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 32.1 LOTC: están legitimados el **Presidente del Gobierno**, el **Defensor del Pueblo**, **50 Diputados** y **50 Senadores**; y, contra leyes estatales que afecten a su autonomía, los órganos colegiados ejecutivos y las Asambleas de las CC. AA. (art. 32.2). El **CGPJ** no está legitimado."
+  },
+  {
+   "pregunta": "Según el artículo 33 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, con carácter general, el recurso de inconstitucionalidad se formulará dentro del plazo de:",
+   "opciones": [
+    "Tres meses a partir de la entrada en vigor de la Ley impugnada.",
+    "Dos meses a partir de la publicación de la Ley impugnada.",
+    "Nueve meses a partir de la publicación de la Ley impugnada.",
+    "Tres meses a partir de la publicación de la Ley, disposición o acto con fuerza de Ley impugnado."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 33.1 LOTC: **tres meses desde la publicación**. El plazo se amplía a **nueve meses** solo si el Presidente del Gobierno o un ejecutivo autonómico acuerdan iniciar negociaciones en la **Comisión Bilateral de Cooperación** y lo comunican al TC dentro de esos tres meses (art. 33.2)."
+  }
+ ],
+ "lo-2-1979:acuarentayuno": [
+  {
+   "pregunta": "De acuerdo con el artículo 41 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, son susceptibles de amparo constitucional los derechos y libertades reconocidos en:",
+   "opciones": [
+    "Los artículos 14 a 38 de la Constitución.",
+    "Los artículos 14 a 29 de la Constitución, y la objeción de conciencia del artículo 30.",
+    "Los artículos 15 a 29 de la Constitución, y la objeción de conciencia del artículo 30.",
+    "Todo el Título I de la Constitución."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 41.1 LOTC (y art. 53.2 CE): los derechos de los **arts. 14 a 29** CE y la **objeción de conciencia del art. 30**. Ojo: el art. 14 (igualdad) **sí** está incluido aunque quede fuera de la Sección 1.ª."
+  },
+  {
+   "pregunta": "Según el artículo 43 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, el plazo para interponer recurso de amparo frente a violaciones originadas por actos del Gobierno o de sus autoridades o funcionarios, una vez agotada la vía judicial procedente, será de:",
+   "opciones": [
+    "Treinta días siguientes a la notificación de la resolución recaída en el previo proceso judicial.",
+    "Tres meses desde que el acto sea firme.",
+    "Veinte días siguientes a la notificación de la resolución recaída en el previo proceso judicial.",
+    "Dos meses siguientes a la notificación del acto administrativo."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 43.2 LOTC: **20 días**. Contra actos de **órganos judiciales** el plazo es de **30 días** (art. 44.2), y contra decisiones sin valor de ley de las **Cortes** o asambleas autonómicas, **3 meses** desde que sean firmes (art. 42)."
+  }
+ ],
+ "lo-2-1979:acincuentaynueve": [
+  {
+   "pregunta": "De acuerdo con el artículo 62 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, cuando el Gobierno considere que una disposición o resolución de una Comunidad Autónoma no respeta el orden de competencias, podrá formalizar directamente el conflicto ante el Tribunal Constitucional en el plazo de:",
+   "opciones": [
+    "Un mes, previo requerimiento obligatorio de incompetencia.",
+    "Tres meses, o hacer uso del previo requerimiento de incompetencia.",
+    "Dos meses, siempre previo requerimiento obligatorio de incompetencia.",
+    "Dos meses, o hacer uso del previo requerimiento de incompetencia."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 62 LOTC: el Gobierno puede ir **directamente** al TC en **dos meses** o usar el **requerimiento previo**, que es **potestativo** para él. Para las CC. AA. el requerimiento es obligatorio (art. 63)."
+  },
+  {
+   "pregunta": "Según el artículo 59 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, el Tribunal Constitucional entenderá de los conflictos que opongan:",
+   "opciones": [
+    "Al Gobierno con el Congreso de los Diputados, el Senado o el Consejo General del Poder Judicial, o a cualquiera de estos órganos constitucionales entre sí.",
+    "Al Gobierno con el Tribunal Supremo o con el Consejo de Estado.",
+    "Al Congreso de los Diputados con el Defensor del Pueblo o con el Tribunal de Cuentas.",
+    "A dos o más Ministerios entre sí, cuando no los resuelva el Presidente del Gobierno."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 59.1.c) LOTC: los conflictos entre órganos constitucionales solo pueden oponer al **Gobierno, Congreso, Senado y CGPJ**. Los conflictos de atribuciones entre Ministerios los resuelve el **Presidente del Gobierno** (art. 2.2.l Ley 50/1997)."
+  }
+ ],
+ "lo-2-1979:anoventaydos": [
+  {
+   "pregunta": "De acuerdo con el artículo 92 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, si el Tribunal aprecia el incumplimiento de sus resoluciones, podrá imponer a las autoridades, empleados públicos o particulares que las incumplan una multa coercitiva de:",
+   "opciones": [
+    "Seiscientos a seis mil euros, que podrá reiterarse hasta el cumplimiento íntegro de lo mandado.",
+    "Tres mil a treinta mil euros, que podrá reiterarse hasta el cumplimiento íntegro de lo mandado.",
+    "Tres mil a treinta mil euros, que no podrá reiterarse.",
+    "Treinta mil a trescientos mil euros, por una sola vez."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 92.4.a) LOTC: multa coercitiva de **3.000 a 30.000 €**, **reiterable**. Además puede **suspender en sus funciones** a autoridades o empleados públicos, acordar la **ejecución sustitutoria** con la colaboración del Gobierno y deducir testimonio para exigir **responsabilidad penal**."
+  }
+ ],
+ "lo-3-1981:aprimero": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "4"
+  },
+  {
+   "pregunta": "Según el artículo 2 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, el Defensor del Pueblo es elegido por las Cortes Generales para un periodo de cinco años. Será designado quien obtenga una votación favorable de:",
+   "opciones": [
+    "La mayoría absoluta del Congreso y sea ratificado, en un plazo máximo de veinte días, por mayoría absoluta del Senado.",
+    "Las tres quintas partes de los miembros del Congreso y sea ratificado, en un plazo máximo de un mes, por mayoría absoluta del Senado.",
+    "Las tres quintas partes de los miembros del Congreso y sea ratificado, en un plazo máximo de veinte días, por esta misma mayoría del Senado.",
+    "Las dos terceras partes de la Comisión Mixta Congreso-Senado y sea ratificado por mayoría simple de ambos Plenos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 2.4 LO 3/1981: **3/5 del Congreso** y ratificación por la **misma mayoría del Senado** en **20 días como máximo**. Si no se logra, tras nuevas propuestas basta con 3/5 del Congreso y **mayoría absoluta del Senado** (art. 2.5)."
+  }
+ ],
+ "lo-3-1981:aquinto": [
+  {
+   "pregunta": "De acuerdo con el artículo 5 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, la vacante en el cargo de Defensor del Pueblo se declarará por el Presidente del Congreso en los casos de:",
+   "opciones": [
+    "Muerte, incapacidad sobrevenida y renuncia.",
+    "Renuncia, notoria negligencia y condena firme por delito doloso.",
+    "Cualquiera de las causas de cese previstas en la Ley.",
+    "Muerte, renuncia y expiración del plazo del mandato."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 5.2 LO 3/1981: el **Presidente del Congreso** declara la vacante por **muerte, renuncia y expiración del mandato**. En los demás casos (incapacidad sobrevenida, notoria negligencia, condena por delito doloso) deciden las **tres quintas partes** de los componentes de **cada Cámara**, con debate y audiencia del interesado."
+  }
+ ],
+ "lo-3-1981:anoveno": [
+  {
+   "pregunta": "Según el artículo 10 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, NO podrá presentar quejas ante el Defensor del Pueblo:",
+   "opciones": [
+    "Ninguna autoridad administrativa en asuntos de su competencia.",
+    "Una persona menor de edad.",
+    "Una persona extranjera sin residencia en España.",
+    "Una persona internada en un centro penitenciario."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 10 LO 3/1981: puede acudir **toda persona natural o jurídica** con interés legítimo **sin restricción**, y no son impedimento la nacionalidad, la residencia, la minoría de edad o el internamiento penitenciario (art. 10.1). Solo se excluye a las **autoridades administrativas en asuntos de su competencia** (art. 10.3)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 15 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, toda queja se presentará firmada por el interesado, con indicación de su nombre, apellidos y domicilio, en escrito razonado en papel común y en el plazo máximo de:",
+   "opciones": [
+    "Tres meses, contados desde que se produjeron los hechos.",
+    "Un año, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma.",
+    "Seis meses, contados a partir del momento en que tuviera conocimiento de los hechos.",
+    "Un año, contado desde que se produjeron los hechos."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 15.1 LO 3/1981: **un año desde que se tuvo conocimiento** de los hechos (no desde que se produjeron). Las actuaciones son **gratuitas** y no es preceptivo abogado ni procurador (art. 15.2)."
+  }
+ ],
+ "lo-3-1981:aveintitres": [
+  {
+   "pregunta": "Según el artículo 30 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, cuando el Defensor del Pueblo formule advertencias, recomendaciones, recordatorios de deberes legales o sugerencias, las autoridades y funcionarios vendrán obligados a responder por escrito en término no superior a:",
+   "opciones": [
+    "Quince días.",
+    "Diez días.",
+    "Un mes.",
+    "Tres meses."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 30.1 LO 3/1981: **un mes**. No confundir con los **15 días** del art. 18.1 para remitir el informe inicial cuando se admite una queja."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 28 de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, el Defensor del Pueblo:",
+   "opciones": [
+    "Puede anular los actos de la Administración que vulneren derechos del Título I de la Constitución.",
+    "Puede modificar los actos de la Administración previa autorización de la Comisión Mixta Congreso-Senado.",
+    "Puede suspender cautelarmente la ejecución de los actos administrativos objeto de queja.",
+    "No es competente para modificar o anular los actos y resoluciones de la Administración, aunque puede sugerir la modificación de los criterios utilizados para producirlos."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 28.1 LO 3/1981: **no puede modificar ni anular** actos administrativos; sí **sugerir** el cambio de criterios y, si una norma provoca situaciones injustas, **proponer su modificación** al legislador o a la Administración (art. 28.2)."
+  }
+ ],
+ "lo-4-1981:aprimero": [
+  {
+   "pregunta": "Según el artículo 6 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, la declaración del estado de alarma se llevará a cabo mediante decreto acordado en Consejo de Ministros y su duración:",
+   "opciones": [
+    "No podrá exceder de treinta días, prorrogables por otros treinta con autorización del Congreso de los Diputados.",
+    "No podrá exceder de quince días, y solo podrá prorrogarse con autorización expresa del Congreso de los Diputados.",
+    "No podrá exceder de quince días, y podrá prorrogarse por el Gobierno dando cuenta al Congreso de los Diputados.",
+    "Será la que fije el Congreso de los Diputados por mayoría absoluta."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 6.2 LO 4/1981: máximo **15 días**; la **prórroga** requiere **autorización expresa del Congreso**, que puede fijar su alcance y condiciones. Los 30 días son del estado de **excepción** (art. 13.2.c)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 5 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, cuando los supuestos que justifican el estado de alarma afecten exclusivamente a todo o parte del ámbito territorial de una Comunidad Autónoma:",
+   "opciones": [
+    "El Presidente de la Comunidad Autónoma podrá solicitar del Gobierno la declaración del estado de alarma.",
+    "El Presidente de la Comunidad Autónoma podrá declarar el estado de alarma, dando cuenta al Gobierno.",
+    "El Consejo de Gobierno autonómico podrá declararlo previa autorización de la Asamblea Legislativa.",
+    "El Gobierno podrá declararlo solo a solicitud de la Asamblea Legislativa de la Comunidad Autónoma."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 5 LO 4/1981: el Presidente autonómico solo puede **solicitar** la declaración; **declararlo corresponde siempre al Gobierno** (art. 116.2 CE y art. 6 LO 4/1981)."
+  },
+  {
+   "pregunta": "Según el artículo 1 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, la declaración de los estados de alarma, excepción y sitio:",
+   "opciones": [
+    "Suspende el funcionamiento ordinario de las Cortes Generales durante su vigencia.",
+    "Atribuye todas las competencias de las Comunidades Autónomas al Gobierno de la Nación.",
+    "No interrumpe el normal funcionamiento de los poderes constitucionales del Estado.",
+    "Suspende los plazos de prescripción de las sanciones firmes impuestas durante su vigencia."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 1.4 LO 4/1981: **no interrumpe el normal funcionamiento de los poderes constitucionales**. Las medidas y la duración serán las **estrictamente indispensables** y se aplicarán de forma **proporcionada** (art. 1.2)."
+  }
+ ],
+ "lo-4-1981:anoveno": [
+  {
+   "pregunta": "De acuerdo con el artículo 11 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, el decreto de declaración del estado de alarma podrá acordar intervenir y ocupar transitoriamente industrias, fábricas, talleres, explotaciones o locales de cualquier naturaleza:",
+   "opciones": [
+    "Con excepción de domicilios privados, dando cuenta de ello a los Ministerios interesados.",
+    "Incluidos los domicilios privados, previa autorización judicial.",
+    "Con excepción de los locales de partidos políticos y sindicatos.",
+    "Solo cuando lo autorice expresamente el Congreso de los Diputados."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 11.c) LO 4/1981: la intervención y ocupación transitoria excluye los **domicilios privados**. El estado de alarma **no suspende** derechos fundamentales; la inviolabilidad del domicilio solo puede suspenderse en los estados de excepción y sitio (art. 55.1 CE)."
+  }
+ ],
+ "lo-4-1981:atrece": [
+  {
+   "pregunta": "Según el artículo 13 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, la solicitud de autorización que el Gobierno remite al Congreso de los Diputados para declarar el estado de excepción deberá incluir, entre otros extremos, su duración, que no podrá exceder de:",
+   "opciones": [
+    "Quince días.",
+    "Sesenta días.",
+    "Noventa días.",
+    "Treinta días."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 13.2.c) LO 4/1981 (y art. 116.3 CE): máximo **30 días**, prorrogables por **otros 30** con autorización del Congreso (art. 15.3). El de alarma dura como máximo **15 días**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 16 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, durante el estado de excepción la Autoridad gubernativa podrá detener a cualquier persona si existen fundadas sospechas de que vaya a provocar alteraciones del orden público. Dicha detención:",
+   "opciones": [
+    "No podrá exceder de setenta y dos horas y habrá de ser comunicada al juez de inmediato.",
+    "No podrá exceder de diez días y habrá de ser comunicada al Ministerio Fiscal en el plazo de cuarenta y ocho horas.",
+    "No podrá exceder de diez días y habrá de ser comunicada al juez competente en el plazo de veinticuatro horas.",
+    "No podrá exceder de treinta días y deberá ser autorizada por el Congreso de los Diputados."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 16 LO 4/1981: detención de **hasta 10 días**, comunicada al **juez** en **24 horas**; los detenidos conservan los derechos del **art. 17.3 CE**, que solo pueden suspenderse en el estado de **sitio**."
+  }
+ ],
+ "lo-4-1981:atreintaydos": [
+  {
+   "pregunta": "Según el artículo 32 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, cuando se produzca o amenace producirse una insurrección o acto de fuerza contra la soberanía o independencia de España, su integridad territorial o el ordenamiento constitucional, que no pueda resolverse por otros medios:",
+   "opciones": [
+    "El Gobierno podrá declarar el estado de sitio, dando cuenta inmediata al Congreso de los Diputados.",
+    "El Gobierno podrá proponer al Congreso de los Diputados la declaración de estado de sitio.",
+    "El Rey, como mando supremo de las Fuerzas Armadas, podrá declarar el estado de sitio.",
+    "El Gobierno podrá declarar el estado de sitio previa autorización de las Cortes Generales en sesión conjunta."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 32.1 LO 4/1981 (y art. 116.4 CE): el **Gobierno propone** y el **Congreso declara** el estado de sitio. La declaración puede autorizar, además, la suspensión de las **garantías del detenido del art. 17.3 CE** (art. 32.3)."
+  }
+ ]
+}
