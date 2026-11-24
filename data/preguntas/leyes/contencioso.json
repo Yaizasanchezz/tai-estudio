@@ -1,0 +1,442 @@
+{
+ "a1": [
+  {
+   "pregunta": "Según el artículo 1.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, los Juzgados y Tribunales de este orden conocerán de las pretensiones que se deduzcan en relación con los Decretos legislativos:",
+   "opciones": [
+    "En todo caso, aunque se ajusten a la ley de delegación.",
+    "Cuando excedan los límites de la delegación.",
+    "Nunca, porque su control corresponde en exclusiva al Tribunal Constitucional.",
+    "Solo cuando hayan sido convalidados por el Congreso de los Diputados."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 1.1 LJCA: el orden contencioso conoce de la actuación administrativa, de los reglamentos y de los **Decretos legislativos cuando excedan los límites de la delegación** (*ultra vires*). En lo que se ajustan a la delegación tienen rango de ley y su control es del Tribunal Constitucional. La convalidación por el Congreso es propia de los decretos-leyes."
+  }
+ ],
+ "a2": [
+  {
+   "pregunta": "De acuerdo con el artículo 2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, respecto de los actos del Gobierno o de los Consejos de Gobierno de las Comunidades Autónomas, el orden contencioso-administrativo conocerá de:",
+   "opciones": [
+    "Todas las cuestiones que se susciten, incluida la oportunidad política de la decisión.",
+    "La protección jurisdiccional de los derechos fundamentales, los elementos reglados y la determinación de las indemnizaciones procedentes.",
+    "Únicamente de la determinación de las indemnizaciones procedentes.",
+    "Ninguna cuestión, pues los actos políticos del Gobierno están excluidos de control jurisdiccional."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 2.a) LJCA: sobre los actos del Gobierno, cualquiera que sea su naturaleza, el orden contencioso conoce de la **protección de los derechos fundamentales, los elementos reglados y las indemnizaciones**. No controla la oportunidad política, pero tampoco hay exclusión total."
+  },
+  {
+   "pregunta": "Según el artículo 2.e) de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, la responsabilidad patrimonial de las Administraciones públicas corresponde al orden contencioso-administrativo:",
+   "opciones": [
+    "Solo cuando derive de una actividad sujeta a Derecho administrativo; si deriva de relaciones de Derecho privado, conoce el orden civil.",
+    "Salvo que en la producción del daño concurran particulares, en cuyo caso conoce el orden civil.",
+    "Cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive, sin que puedan ser demandadas por este motivo ante los órdenes civil o social.",
+    "Salvo que la Administración cuente con un seguro de responsabilidad, en cuyo caso se demanda a la aseguradora ante el orden civil."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 2.e) LJCA: la responsabilidad patrimonial va **siempre** al contencioso, **cualquiera que sea la actividad o relación** de que derive, **aunque concurran particulares o haya seguro**. La Administración no puede ser demandada por ello ante los órdenes civil o social."
+  }
+ ],
+ "a3": [
+  {
+   "pregunta": "Según el artículo 3 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, NO corresponden al orden jurisdiccional contencioso-administrativo:",
+   "opciones": [
+    "Los conflictos de atribuciones entre órganos de una misma Administración.",
+    "Los actos de preparación y adjudicación de los contratos sujetos a la legislación de contratación de las Administraciones públicas.",
+    "Los actos de las Corporaciones de Derecho público adoptados en el ejercicio de funciones públicas.",
+    "La actuación de la Administración electoral."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 3.c) LJCA: quedan fuera los **conflictos de jurisdicción** (tribunales–Administración) y los **conflictos de atribuciones** entre órganos de una misma Administración, además de lo atribuido a los órdenes civil, penal y social, el contencioso-disciplinario militar y las Normas Forales fiscales vascas. Los contratos y las Corporaciones de Derecho público son materia contenciosa (art. 2) y la Administración electoral también (art. 1.3.c)."
+  }
+ ],
+ "a6": [
+  {
+   "pregunta": "De acuerdo con la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, ¿qué órgano conoce en única instancia de los recursos contra los actos y disposiciones del Consejo de Ministros?",
+   "opciones": [
+    "La Sala de lo Contencioso-administrativo de la Audiencia Nacional.",
+    "La Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia de Madrid.",
+    "La Sala de lo Contencioso-administrativo del Tribunal Supremo.",
+    "El Tribunal Constitucional."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 12.1.a) LJCA: el **Tribunal Supremo** conoce de los actos y disposiciones del **Consejo de Ministros** y de las **Comisiones Delegadas del Gobierno**. La Audiencia Nacional conoce, en general, de los de **Ministros y Secretarios de Estado** (art. 11.1.a)."
+  },
+  {
+   "pregunta": "Según el artículo 11.1.a) de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, la Sala de lo Contencioso-administrativo de la Audiencia Nacional conoce en única instancia de los recursos contra las disposiciones generales y los actos:",
+   "opciones": [
+    "Del Consejo de Ministros y de las Comisiones Delegadas del Gobierno.",
+    "De los Ministros y de los Secretarios de Estado, en general.",
+    "De las Entidades locales, cuando afecten a varias provincias.",
+    "De los Delegados del Gobierno en las Comunidades Autónomas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 11.1.a) LJCA: la **Audiencia Nacional** conoce de los actos y disposiciones de **Ministros y Secretarios de Estado** en general (aunque se adopten previo informe o acuerdo del Consejo de Ministros) y, en personal, de los que se refieran al nacimiento o extinción de la relación de servicio de funcionarios de carrera. Los del Consejo de Ministros van al **Tribunal Supremo**."
+  }
+ ],
+ "a18": [
+  {
+   "pregunta": "Según el artículo 18 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, los grupos de afectados, uniones sin personalidad o patrimonios independientes o autónomos tendrán capacidad procesal ante el orden contencioso-administrativo:",
+   "opciones": [
+    "En todo caso, al ser aptos para ser titulares de derechos y obligaciones.",
+    "Nunca, porque carecen de personalidad jurídica.",
+    "Solo si actúan representados por el Ministerio Fiscal.",
+    "Cuando la Ley así lo declare expresamente."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 18 LJCA: los grupos de afectados, uniones sin personalidad y patrimonios independientes tienen capacidad procesal **cuando la Ley así lo declare expresamente**. La misma regla aparece en el art. 3.c) de la Ley 39/2015 para el procedimiento administrativo."
+  }
+ ],
+ "a19": [
+  {
+   "pregunta": "De acuerdo con el artículo 19.1.h) de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, cualquier ciudadano está legitimado ante el orden contencioso-administrativo en ejercicio de la acción popular:",
+   "opciones": [
+    "En los casos expresamente previstos por las Leyes.",
+    "En todo caso, cuando se impugnen disposiciones de carácter general.",
+    "Siempre que acredite un interés legítimo individual.",
+    "Solo en el procedimiento para la protección de los derechos fundamentales."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 19.1.h) LJCA: la **acción popular** solo cabe **en los casos expresamente previstos por las Leyes** (por ejemplo, urbanismo o costas). Si se exigiera un interés legítimo propio no sería acción popular, sino la legitimación ordinaria del art. 19.1.a)."
+  },
+  {
+   "pregunta": "Según el artículo 19.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, la Administración autora de un acto está legitimada para impugnarlo ante el orden contencioso-administrativo:",
+   "opciones": [
+    "En ningún caso, porque debe anularlo por sí misma mediante revisión de oficio.",
+    "Previo dictamen favorable del Consejo de Estado.",
+    "Previa su declaración de lesividad para el interés público.",
+    "Solo si el acto ha sido previamente recurrido en alzada por un interesado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 19.2 LJCA: la Administración puede impugnar su propio acto **previa declaración de lesividad** para el interés público (art. 107 de la Ley 39/2015). El dictamen favorable del Consejo de Estado es requisito de la revisión de oficio de actos nulos, no de la lesividad."
+  }
+ ],
+ "a20": [
+  {
+   "pregunta": "Según el artículo 20 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, NO pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública:",
+   "opciones": [
+    "Las Entidades locales territoriales, frente a actos de la Comunidad Autónoma que afecten a su autonomía.",
+    "Los sindicatos, en defensa de los derechos e intereses legítimos colectivos.",
+    "La Administración General del Estado, frente a actos de las Comunidades Autónomas.",
+    "Los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 20.a) LJCA: no pueden recurrir la actividad de una Administración **sus propios órganos y los miembros de sus órganos colegiados**, salvo que una ley lo autorice expresamente. Las demás opciones son supuestos de legitimación del art. 19.1 (letras e, b y c)."
+  }
+ ],
+ "a21": [
+  {
+   "pregunta": "De acuerdo con el artículo 21.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, las aseguradoras de las Administraciones públicas:",
+   "opciones": [
+    "Siempre serán parte codemandada junto con la Administración a quien aseguren.",
+    "Nunca son parte en el proceso contencioso-administrativo y deben ser demandadas ante el orden civil.",
+    "Solo son parte demandada si la Administración asegurada lo solicita.",
+    "Solo pueden intervenir como coadyuvantes del demandante."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 21.1.c) LJCA: las aseguradoras de las Administraciones **siempre serán parte codemandada** junto con la Administración asegurada. Encaja con el art. 2.e): la responsabilidad patrimonial va al contencioso aunque haya seguro."
+  }
+ ],
+ "a23": [
+  {
+   "pregunta": "Según el artículo 23 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en sus actuaciones ante órganos unipersonales, las partes:",
+   "opciones": [
+    "Deberán conferir su representación a un Procurador y ser asistidas por Abogado.",
+    "Podrán conferir su representación a un Procurador y serán asistidas, en todo caso, por Abogado.",
+    "Podrán actuar sin Procurador ni Abogado en todo caso.",
+    "Deberán conferir su representación a un Procurador, siendo potestativa la asistencia de Abogado."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 23.1 LJCA: ante órganos **unipersonales** el Procurador es **potestativo** (la representación puede darse al propio Abogado), pero el **Abogado es obligatorio**. Ante órganos **colegiados** (art. 23.2) son obligatorios ambos."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 23.3 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, los funcionarios públicos podrán comparecer por sí mismos, sin Procurador ni Abogado:",
+   "opciones": [
+    "En cualquier recurso que interpongan contra la Administración en la que prestan servicios.",
+    "En defensa de sus derechos estatutarios, incluidas las sanciones de separación del servicio.",
+    "Solo ante los órganos colegiados y en cuestiones de personal.",
+    "En defensa de sus derechos estatutarios, en cuestiones de personal que no impliquen separación de empleados públicos inamovibles."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 23.3 LJCA: los funcionarios pueden comparecer por sí mismos en defensa de sus **derechos estatutarios**, en **cuestiones de personal que no impliquen separación** de empleados públicos inamovibles. En ese caso deben usar obligatoriamente los sistemas electrónicos (reforma del RDL 6/2023)."
+  }
+ ],
+ "a25": [
+  {
+   "pregunta": "Según el artículo 25.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, el recurso contencioso-administrativo es admisible en relación con los actos expresos y presuntos de la Administración pública:",
+   "opciones": [
+    "Que sean definitivos, aunque no pongan fin a la vía administrativa.",
+    "Que pongan fin a la vía administrativa, siempre que sean definitivos; los actos de trámite nunca son recurribles.",
+    "Que sean expresos; los actos presuntos solo pueden impugnarse en vía administrativa.",
+    "Que pongan fin a la vía administrativa, ya sean definitivos o de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, impiden continuar el procedimiento o producen indefensión o perjuicio irreparable."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 25.1 LJCA: se recurren las disposiciones generales y los actos **expresos y presuntos** que **pongan fin a la vía administrativa**, definitivos o **de trámite cualificados**. El art. 25.2 añade la inactividad y la vía de hecho."
+  }
+ ],
+ "a26": [
+  {
+   "pregunta": "De acuerdo con el artículo 27.3 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, ¿qué órgano anulará cualquier disposición general, sin necesidad de plantear cuestión de ilegalidad, cuando conozca de un recurso contra un acto fundado en la ilegalidad de esa norma?",
+   "opciones": [
+    "La Audiencia Nacional.",
+    "El Tribunal Supremo.",
+    "El Tribunal Constitucional.",
+    "Cualquier Juzgado de lo Contencioso-administrativo."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 27.3 LJCA: el **Tribunal Supremo** anula directamente la disposición, en cualquier grado, sin cuestión de ilegalidad. Los demás jueces que estimen un recurso indirecto y no sean competentes para el recurso directo deben plantear la **cuestión de ilegalidad** (art. 27.1)."
+  },
+  {
+   "pregunta": "Según el artículo 26.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, la falta de impugnación directa de una disposición general:",
+   "opciones": [
+    "Impide impugnar después los actos de aplicación, porque la disposición ha quedado consentida.",
+    "Solo permite impugnar los actos de aplicación si se plantea antes cuestión de ilegalidad ante el Tribunal Supremo.",
+    "No impide la impugnación de los actos de aplicación fundada en que la disposición no es conforme a Derecho.",
+    "Solo permite impugnar los actos de aplicación dentro de los dos meses siguientes a la publicación de la disposición."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 26 LJCA: cabe el **recurso indirecto** contra los actos de aplicación alegando la ilegalidad del reglamento, aunque este **no se recurriera directamente** o el recurso directo se **desestimara** (art. 26.2)."
+  }
+ ],
+ "a28": [
+  {
+   "pregunta": "Según el artículo 28 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, no es admisible el recurso contencioso-administrativo respecto de:",
+   "opciones": [
+    "Los actos presuntos producidos por silencio administrativo.",
+    "Los actos de trámite que produzcan indefensión.",
+    "Los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma.",
+    "Los actos dictados por delegación de competencias."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 28 LJCA: no se admite el recurso contra actos **reproducción** de otros **definitivos y firmes** ni contra los **confirmatorios de actos consentidos**, para no reabrir plazos ya vencidos. Los actos presuntos y los de trámite que causan indefensión sí son impugnables (art. 25)."
+  }
+ ],
+ "a29": [
+  {
+   "pregunta": "De acuerdo con el artículo 29.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, cuando la Administración esté obligada a realizar una prestación concreta en favor de personas determinadas, quienes tuvieran derecho a ella pueden reclamar su cumplimiento y, si la Administración no lo cumple ni llega a un acuerdo con los interesados en el plazo de ____ desde la reclamación, interponer recurso contra la inactividad:",
+   "opciones": [
+    "Un mes.",
+    "Dos meses.",
+    "Seis meses.",
+    "Tres meses."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 29.1 LJCA: frente a la **inactividad** hay que reclamar antes y esperar **tres meses**; después hay **dos meses** para recurrir (art. 46.2). Si se trata de la **no ejecución de actos firmes** (art. 29.2), la espera es de **un mes**."
+  },
+  {
+   "pregunta": "Según el artículo 30 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en caso de vía de hecho, el interesado podrá formular requerimiento a la Administración actuante intimando su cesación y, si no fuere atendido, podrá deducir directamente recurso contencioso-administrativo cuando hayan transcurrido:",
+   "opciones": [
+    "Un mes desde la presentación del requerimiento.",
+    "Veinte días desde la presentación del requerimiento.",
+    "Diez días desde la presentación del requerimiento.",
+    "Tres meses desde la presentación del requerimiento."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 30 LJCA: si el requerimiento no se atiende **en los diez días siguientes** a su presentación, se puede recurrir. El requerimiento es potestativo: sin él, el plazo de recurso es de **veinte días** desde que se inició la vía de hecho (art. 46.3)."
+  }
+ ],
+ "a31": [
+  {
+   "pregunta": "Según el artículo 31.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, además de la declaración de no ser conformes a Derecho y la anulación de actos y disposiciones, el demandante podrá pretender:",
+   "opciones": [
+    "El reconocimiento de una situación jurídica individualizada y la adopción de las medidas adecuadas para su pleno restablecimiento, entre ellas la indemnización de daños y perjuicios.",
+    "La imposición de una sanción disciplinaria a la autoridad o funcionario que dictó el acto.",
+    "La declaración de inconstitucionalidad de la ley en que se funde el acto.",
+    "La condena penal de la autoridad que dictó el acto ilegal."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 31 LJCA: se puede pedir la **anulación** (31.1) y el **reconocimiento de una situación jurídica individualizada** con su **pleno restablecimiento**, incluida la **indemnización** (31.2). La inconstitucionalidad de una ley solo la declara el Tribunal Constitucional."
+  }
+ ],
+ "a44": [
+  {
+   "pregunta": "De acuerdo con el artículo 44 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en los litigios entre Administraciones públicas, el requerimiento previo que una Administración dirija a otra:",
+   "opciones": [
+    "Debe producirse en el plazo de un mes y se entiende rechazado si el requerido no lo contesta en diez días.",
+    "Es obligatorio y sustituye al recurso de alzada, que debe interponerse en el plazo de un mes.",
+    "Debe producirse en el plazo de dos meses y se entiende estimado si el requerido no lo contesta dentro de los tres meses siguientes.",
+    "Debe producirse en el plazo de dos meses y se entiende rechazado si el requerido no lo contesta dentro del mes siguiente a su recepción."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 44 LJCA: entre Administraciones **no cabe recurso administrativo**; el requerimiento previo es **potestativo**, debe hacerse en **dos meses** (44.2) y se entiende **rechazado** si no se contesta en **un mes** (44.3)."
+  },
+  {
+   "pregunta": "Según el artículo 45.3 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, si con el escrito de interposición no se acompañan los documentos exigidos o estos son incompletos, se requerirá su subsanación señalando un plazo de:",
+   "opciones": [
+    "Diez días.",
+    "Cinco días.",
+    "Quince días.",
+    "Veinte días."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 45.3 LJCA: se requiere la subsanación inmediatamente, con un plazo de **diez días**; si no se subsana, el juez o tribunal se pronuncia sobre el archivo de las actuaciones."
+  }
+ ],
+ "a46": [
+  {
+   "pregunta": "Según el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, el plazo para interponer el recurso contencioso-administrativo contra un acto expreso que ponga fin a la vía administrativa será de:",
+   "opciones": [
+    "Un mes contado desde el día siguiente al de su notificación o publicación.",
+    "Dos meses contados desde el mismo día de su notificación o publicación.",
+    "Dos meses contados desde el día siguiente al de su notificación o publicación.",
+    "Seis meses contados desde el día siguiente al de su notificación o publicación."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 46.1 LJCA: **dos meses** desde el **día siguiente** a la notificación o publicación del acto expreso (o a la publicación de la disposición). Los **seis meses** son para los actos **presuntos**."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 46.3 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, si el recurso se dirige contra una actuación en vía de hecho y no hubo requerimiento previo, el plazo para interponerlo será de:",
+   "opciones": [
+    "Diez días desde el día en que se inició la actuación en vía de hecho.",
+    "Dos meses desde el día en que se inició la actuación en vía de hecho.",
+    "Un mes desde el día en que terminó la actuación en vía de hecho.",
+    "Veinte días desde el día en que se inició la actuación administrativa en vía de hecho."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 46.3 LJCA: con requerimiento, **diez días** desde que termina el plazo del art. 30; **sin requerimiento, veinte días** desde que se inició la vía de hecho."
+  },
+  {
+   "pregunta": "Según el artículo 128.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, durante el mes de agosto:",
+   "opciones": [
+    "Corren todos los plazos de la Ley, porque agosto es hábil a efectos judiciales.",
+    "No corre el plazo para interponer el recurso contencioso-administrativo ni ningún otro de esa Ley, salvo en el procedimiento para la protección de los derechos fundamentales.",
+    "No corre ningún plazo de la Ley, sin excepción.",
+    "Solo deja de correr el plazo para interponer el recurso contra actos presuntos."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 128.2 LJCA: en **agosto no corre** el plazo para interponer el recurso ni ningún otro de la Ley, **salvo** en el procedimiento de **protección de los derechos fundamentales**, en el que agosto es hábil."
+  }
+ ],
+ "a45": [
+  {
+   "pregunta": "De acuerdo con el artículo 48.3 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, el expediente administrativo reclamado por el órgano judicial deberá ser remitido por la Administración en el plazo improrrogable de:",
+   "opciones": [
+    "Veinte días.",
+    "Diez días.",
+    "Quince días.",
+    "Un mes."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 48.3 LJCA: el expediente se remite en el plazo **improrrogable de veinte días** desde que la comunicación judicial entra en el registro del órgano. Debe enviarse **completo, en soporte electrónico, foliado, autentificado y con índice** (48.4)."
+  },
+  {
+   "pregunta": "Según el artículo 69 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, la sentencia declarará la inadmisibilidad del recurso, entre otros casos, cuando:",
+   "opciones": [
+    "El acto impugnado incurra en desviación de poder.",
+    "Se hubiera presentado el escrito inicial del recurso fuera del plazo establecido.",
+    "El acto impugnado sea conforme a Derecho.",
+    "La Administración demandada no haya contestado a la demanda."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 69 LJCA: causas de **inadmisibilidad**: falta de jurisdicción; recurrente incapaz, mal representado o no legitimado; objeto no impugnable; cosa juzgada o litispendencia; y **escrito inicial fuera de plazo**. Si el acto es conforme a Derecho, el recurso se **desestima**; la desviación de poder lleva a la **estimación**."
+  }
+ ],
+ "a78": [
+  {
+   "pregunta": "Según el artículo 78.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, los Juzgados de lo Contencioso-administrativo conocen por el procedimiento abreviado, entre otros, de los asuntos de su competencia cuya cuantía no supere:",
+   "opciones": [
+    "30.000 euros.",
+    "18.000 euros.",
+    "60.000 euros.",
+    "150.000 euros."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 78.1 LJCA: procedimiento **abreviado** para cuestiones de **personal**, **extranjería**, inadmisión de **asilo**, dopaje deportivo y asuntos de cuantía **no superior a 30.000 euros**. Los 18.000 euros son la valoración de las pretensiones de cuantía indeterminada a efectos de costas (art. 139.4)."
+  }
+ ],
+ "a79": [
+  {
+   "pregunta": "De acuerdo con el artículo 81 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, las sentencias de los Juzgados de lo Contencioso-administrativo NO son susceptibles de recurso de apelación cuando:",
+   "opciones": [
+    "Se dicten en el procedimiento para la protección de los derechos fundamentales.",
+    "Resuelvan litigios entre Administraciones públicas.",
+    "Resuelvan impugnaciones indirectas de disposiciones generales.",
+    "Se dicten en asuntos cuya cuantía no exceda de 30.000 euros, salvo los supuestos en que la apelación cabe siempre."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 81.1.a) LJCA: no son apelables las sentencias en asuntos de cuantía **no superior a 30.000 euros** (ni ciertos asuntos electorales). Pero son **siempre apelables** (81.2) las de **derechos fundamentales**, **litigios entre Administraciones** e **impugnaciones indirectas** de reglamentos, entre otras."
+  },
+  {
+   "pregunta": "Según el artículo 79 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, contra las providencias y los autos no susceptibles de apelación o casación podrá interponerse recurso de reposición en el plazo de:",
+   "opciones": [
+    "Diez días desde el siguiente al de la notificación.",
+    "Cinco días desde el siguiente al de la notificación.",
+    "Tres días desde el siguiente al de la notificación.",
+    "Un mes desde el siguiente al de la notificación."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 79.1 y 3 LJCA: el recurso de **reposición** cabe contra **providencias y autos** no apelables ni recurribles en casación y se interpone en **cinco días**. No suspende, como regla, la ejecución de lo recurrido."
+  }
+ ],
+ "a103": [
+  {
+   "pregunta": "De acuerdo con el artículo 103.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, la potestad de hacer ejecutar las sentencias y demás títulos ejecutivos adoptados en el proceso corresponde:",
+   "opciones": [
+    "Exclusivamente a los juzgados y tribunales del orden contencioso-administrativo.",
+    "A la Administración autora del acto, bajo la supervisión del juzgado o tribunal.",
+    "Al Ministerio Fiscal.",
+    "Al Consejo de Ministros cuando la condenada sea la Administración General del Estado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 103.1 LJCA: la potestad de ejecutar corresponde **exclusivamente a los juzgados y tribunales** de este orden, en concreto al que conoció del asunto en primera o única instancia. Las partes están obligadas a cumplir (103.2) y son **nulos** los actos dictados para eludir el cumplimiento (103.4)."
+  },
+  {
+   "pregunta": "Según el artículo 104.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, cualquiera de las partes y personas afectadas podrá instar la ejecución forzosa de una sentencia firme, si no se fija otro plazo en ella, cuando hayan transcurrido:",
+   "opciones": [
+    "Diez días a partir de la comunicación de la sentencia.",
+    "Dos meses a partir de la comunicación de la sentencia.",
+    "Un mes a partir de la comunicación de la sentencia.",
+    "Seis meses a partir de la comunicación de la sentencia."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 104 LJCA: la sentencia firme se comunica en **diez días** al órgano responsable de cumplirla (104.1); pasados **dos meses** desde la comunicación (o el plazo fijado en la sentencia), puede instarse la **ejecución forzosa** (104.2)."
+  }
+ ],
+ "a129": [
+  {
+   "pregunta": "De acuerdo con el artículo 129.2 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, si se impugna una disposición general y se solicita la suspensión de la vigencia de los preceptos impugnados, la petición deberá efectuarse:",
+   "opciones": [
+    "En cualquier estado del proceso, antes de la sentencia.",
+    "Solo antes de interponer el recurso, mediante requerimiento a la Administración.",
+    "En el escrito de interposición o en el de demanda.",
+    "En el trámite de conclusiones."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 129 LJCA: las medidas cautelares pueden pedirse, como regla, **en cualquier estado del proceso** (129.1), pero la **suspensión de un reglamento** debe pedirse **en el escrito de interposición o en la demanda** (129.2)."
+  },
+  {
+   "pregunta": "Según el artículo 135 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, cuando los interesados aleguen circunstancias de especial urgencia, el juez o tribunal, sin oír a la parte contraria, podrá resolver sobre la medida cautelar mediante auto en el plazo de:",
+   "opciones": [
+    "Veinticuatro horas.",
+    "Cinco días.",
+    "Dos días.",
+    "Diez días."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 135.1 LJCA: son las **medidas cautelarísimas**: en **dos días**, **sin oír a la parte contraria**, el juez aprecia la urgencia y adopta o deniega la medida; contra ese auto no cabe recurso, y después se oye a la otra parte."
+  }
+ ],
+ "a139": [
+  {
+   "pregunta": "De acuerdo con el artículo 139.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en primera o única instancia, las costas se impondrán:",
+   "opciones": [
+    "A la parte que haya visto rechazadas todas sus pretensiones, salvo que el órgano aprecie y razone que el caso presentaba serias dudas de hecho o de derecho.",
+    "Siempre a la Administración demandada, cualquiera que sea el resultado del proceso.",
+    "A cada parte las suyas en todo caso, salvo mala fe o temeridad.",
+    "A la parte que haya visto rechazadas todas sus pretensiones, sin excepción alguna."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 139.1 LJCA: rige el **criterio del vencimiento**: paga las costas quien ve **rechazadas todas sus pretensiones**, **salvo serias dudas de hecho o de derecho**. Si la estimación es **parcial**, cada parte paga las suyas y las comunes por mitad, salvo mala fe o temeridad."
+  },
+  {
+   "pregunta": "Según el artículo 139.4 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en primera o única instancia, la parte condenada en costas estará obligada a pagar una cantidad total que no exceda de:",
+   "opciones": [
+    "La mitad de la cuantía del proceso, por cada uno de los favorecidos por esa condena.",
+    "La totalidad de la cuantía del proceso.",
+    "18.000 euros, cualquiera que sea la cuantía del proceso.",
+    "La tercera parte de la cuantía del proceso, por cada uno de los favorecidos por esa condena."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 139.4 LJCA: el límite es **un tercio de la cuantía** por cada favorecido. Las pretensiones de **cuantía indeterminada** se valoran a estos efectos en **18.000 euros**, salvo que el tribunal disponga otra cosa por la complejidad del asunto."
+  }
+ ]
+}

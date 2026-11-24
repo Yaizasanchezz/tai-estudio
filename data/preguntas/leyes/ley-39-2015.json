@@ -71,5 +71,782 @@
    "parte": "p1",
    "n": "20"
   }
+ ],
+ "a24": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "18"
+  },
+  {
+   "pregunta": "Según el artículo 24.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el certificado acreditativo del silencio producido se expedirá de oficio por el órgano competente para resolver en el plazo de:",
+   "opciones": [
+    "Diez días desde que expire el plazo máximo para resolver el procedimiento.",
+    "Un mes desde que lo solicite el interesado.",
+    "Tres días desde que expire el plazo máximo para resolver el procedimiento.",
+    "Quince días desde que expire el plazo máximo para resolver el procedimiento."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 24.4: los actos por silencio se acreditan por cualquier medio, incluido el **certificado de silencio**, que se expide de oficio en **quince días** desde que vence el plazo para resolver (el interesado también puede pedirlo en cualquier momento)."
+  }
+ ],
+ "a40": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "16"
+  },
+  {
+   "pregunta": "Según el artículo 43.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la notificación por medios electrónicos sea de carácter obligatorio o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido sin que se acceda a su contenido:",
+   "opciones": [
+    "Diez días hábiles desde la puesta a disposición de la notificación.",
+    "Quince días naturales desde la puesta a disposición de la notificación.",
+    "Diez días naturales desde la puesta a disposición de la notificación.",
+    "Cinco días hábiles desde el envío del aviso al correo electrónico del interesado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 43.2: la notificación electrónica se entiende practicada **al acceder** a su contenido y **rechazada** a los **diez días naturales** desde su puesta a disposición sin acceder. El aviso al correo no es notificación y su falta no la invalida (art. 41.6)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 42.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si en una notificación en papel en el domicilio nadie se hace cargo de ella y el primer intento se realizó antes de las quince horas, el segundo intento:",
+   "opciones": [
+    "Se repetirá por una sola vez dentro de los cinco días siguientes, a cualquier hora.",
+    "Se repetirá por una sola vez dentro de los tres días siguientes, después de las quince horas, con al menos tres horas de diferencia entre ambos intentos.",
+    "Se repetirá dentro de los tres días siguientes, a la misma hora que el primero.",
+    "No se repetirá: se publicará directamente un anuncio en el Boletín Oficial del Estado."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 42.2: segundo intento **una sola vez** en los **tres días siguientes**, en **franja horaria distinta** (si el primero fue antes de las 15:00, el segundo después, y viceversa) y con al menos **tres horas** de margen. Si también fracasa, se notifica por anuncio en el BOE (art. 44)."
+  }
+ ],
+ "a66": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "s1",
+   "n": "1"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 67.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el derecho a reclamar en los procedimientos de responsabilidad patrimonial prescribirá:",
+   "opciones": [
+    "A los seis meses de producido el hecho o el acto que motive la indemnización.",
+    "A los dos años de producido el hecho o el acto que motive la indemnización.",
+    "A los cuatro años de producido el hecho o el acto que motive la indemnización.",
+    "Al año de producido el hecho o el acto que motive la indemnización o de manifestarse su efecto lesivo."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 67.1: **un año**. En daños **físicos o psíquicos**, el plazo empieza desde la **curación o la determinación del alcance de las secuelas**. Si el procedimiento no se resuelve en **seis meses**, se entiende **desestimada** la reclamación (art. 91.3)."
+  },
+  {
+   "pregunta": "Según el artículo 69.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las declaraciones responsables y las comunicaciones permitirán el reconocimiento o ejercicio de un derecho o el inicio de una actividad:",
+   "opciones": [
+    "Una vez transcurrido un mes desde su presentación sin oposición de la Administración.",
+    "Desde que la Administración compruebe la documentación aportada.",
+    "Desde el día siguiente a su inscripción en el registro correspondiente.",
+    "Desde el día de su presentación, sin perjuicio de las facultades de comprobación, control e inspección de la Administración."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 69.3: producen efectos **desde el día de su presentación**, con comprobación posterior. Una inexactitud, falsedad u omisión **esencial** impide continuar la actividad (69.4), y **no pueden exigirse ambas** a la vez (69.6)."
+  }
+ ],
+ "a75": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "s1",
+   "n": "4"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 77.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la Administración no tenga por ciertos los hechos alegados por los interesados, el instructor acordará la apertura de un período de prueba por un plazo:",
+   "opciones": [
+    "No superior a quince días ni inferior a diez.",
+    "No superior a treinta días ni inferior a diez.",
+    "No superior a veinte días ni inferior a cinco.",
+    "De diez días, ampliable por otros cinco."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 77.2: periodo de prueba de **10 a 30 días**; a petición de los interesados puede abrirse uno **extraordinario de hasta diez días**. El instructor solo puede rechazar las pruebas **manifiestamente improcedentes o innecesarias**, con resolución motivada (77.3)."
+  },
+  {
+   "pregunta": "Según el artículo 83.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el período de información pública, el anuncio determinará el plazo para formular alegaciones, que en ningún caso podrá ser inferior a:",
+   "opciones": [
+    "Diez días.",
+    "Quince días.",
+    "Un mes.",
+    "Veinte días."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 83.2: información pública con plazo **no inferior a veinte días**. Comparecer **no otorga por sí misma la condición de interesado**, pero sí derecho a una **respuesta razonada** (83.3)."
+  }
+ ],
+ "a106": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "s1",
+   "n": "5"
+  },
+  {
+   "pregunta": "Según el artículo 106.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para que las Administraciones Públicas declaren de oficio la nulidad de los actos administrativos que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo, se requiere:",
+   "opciones": [
+    "Que no hayan transcurrido cuatro años desde que se dictó el acto.",
+    "Previa declaración de lesividad e impugnación ante el orden contencioso-administrativo.",
+    "Dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere.",
+    "Informe no vinculante del servicio jurídico del órgano que dictó el acto."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 106.1: la revisión de actos **nulos** cabe **en cualquier momento**, de oficio o a solicitud del interesado, con **dictamen favorable** del Consejo de Estado u órgano consultivo autonómico. El plazo de **cuatro años** y la impugnación judicial son propios de la **lesividad** de actos anulables (art. 107)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 107.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la declaración de lesividad de actos favorables anulables:",
+   "opciones": [
+    "Podrá adoptarse en cualquier momento, previo dictamen favorable del Consejo de Estado.",
+    "No podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto y exigirá la previa audiencia de los interesados.",
+    "No podrá adoptarse una vez transcurrido un año desde la notificación del acto.",
+    "Es recurrible en alzada ante el superior jerárquico del órgano que la adopta."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 107.2: lesividad en **cuatro años** desde que se dictó el acto, con **audiencia** previa de los interesados; la declaración **no es recurrible**. Después, la Administración debe impugnar el acto ante el **contencioso** (107.1), y si no la declara en **seis meses** desde el inicio, el procedimiento **caduca** (107.3)."
+  }
+ ],
+ "a121": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "s2",
+   "n": "19"
+  },
+  {
+   "pregunta": "Según el artículo 122.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo para dictar y notificar la resolución del recurso de alzada será de:",
+   "opciones": [
+    "Un mes; transcurrido sin resolución, se entenderá estimado el recurso.",
+    "Tres meses; transcurrido sin resolución, se podrá entender desestimado el recurso, salvo en el supuesto de doble silencio.",
+    "Tres meses; transcurrido sin resolución, se entenderá estimado el recurso en todo caso.",
+    "Seis meses; transcurrido sin resolución, se producirá la caducidad del recurso."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 122.2: la alzada se resuelve en **tres meses**; el silencio es **desestimatorio**, salvo el **doble silencio** del art. 24.1 (alzada contra una desestimación presunta), en que se entiende estimado. La **reposición** se resuelve en **un mes** (art. 124.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 125.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando el recurso extraordinario de revisión se funde en que al dictar el acto se incurrió en error de hecho que resulte de los propios documentos incorporados al expediente, se interpondrá dentro del plazo de:",
+   "opciones": [
+    "Cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+    "Tres meses desde la notificación de la resolución impugnada.",
+    "Un mes desde la notificación de la resolución impugnada.",
+    "Dos años desde la notificación de la resolución impugnada."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 125.2: por **error de hecho**, **cuatro años** desde la notificación; en las demás causas (documentos esenciales, documentos o testimonios falsos, prevaricación, cohecho…), **tres meses** desde que se conocen los documentos o queda firme la sentencia. Cabe solo contra **actos firmes** en vía administrativa."
+  }
+ ],
+ "a1": [
+  {
+   "pregunta": "Según el artículo 1.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrán incluirse trámites adicionales o distintos a los contemplados en ella:",
+   "opciones": [
+    "Solo mediante ley, cuando resulte eficaz, proporcionado y necesario, y de manera motivada.",
+    "Mediante real decreto aprobado por el Consejo de Ministros.",
+    "Mediante orden ministerial, cuando lo justifique la especialidad de la materia.",
+    "Mediante cualquier norma reglamentaria, siempre que se publique en el diario oficial correspondiente."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 1.2: **solo mediante ley**, y de manera motivada, pueden añadirse trámites adicionales o distintos. Por **reglamento** solo cabe fijar especialidades sobre órganos competentes, plazos propios, formas de iniciación y terminación, publicación e informes."
+  }
+ ],
+ "a2": [
+  {
+   "pregunta": "De acuerdo con el artículo 2.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO tiene la consideración de Administración Pública:",
+   "opciones": [
+    "Una sociedad mercantil estatal.",
+    "Un organismo autónomo dependiente de la Administración General del Estado.",
+    "Una Entidad de la Administración Local.",
+    "Una entidad de derecho público vinculada a una Comunidad Autónoma."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 2.3: son Administraciones Públicas la AGE, las de las CC. AA., las Entidades Locales y los **organismos públicos y entidades de derecho público** del sector público institucional. Las entidades de **derecho privado** (sociedades mercantiles, fundaciones) forman parte del sector público, pero **no** son Administración Pública."
+  }
+ ],
+ "a3": [
+  {
+   "pregunta": "Según el artículo 3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos tendrán capacidad de obrar ante las Administraciones Públicas:",
+   "opciones": [
+    "En todo caso.",
+    "Cuando así lo acuerde el órgano competente para resolver.",
+    "Cuando la Ley así lo declare expresamente.",
+    "Solo si están inscritos en el registro electrónico de apoderamientos."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 3.c): estas entidades sin personalidad tienen capacidad de obrar **cuando la Ley así lo declare expresamente**. También tienen capacidad las personas con capacidad según las normas civiles y los **menores** para los derechos que pueden ejercer sin asistencia de quien ejerza la patria potestad, tutela o curatela."
+  }
+ ],
+ "a4": [
+  {
+   "pregunta": "De acuerdo con el artículo 4.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se consideran interesados en el procedimiento administrativo quienes, sin haberlo iniciado, tengan intereses legítimos, individuales o colectivos, que puedan resultar afectados por la resolución:",
+   "opciones": [
+    "En todo caso, aunque no se personen en el procedimiento.",
+    "Siempre que se personen antes de que finalice el trámite de audiencia.",
+    "Solo si así lo reconoce expresamente el órgano instructor.",
+    "Siempre que se personen en el procedimiento en tanto no haya recaído resolución definitiva."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 4.1.c): los titulares de **intereses legítimos** que puedan resultar afectados son interesados si **se personan** mientras **no haya recaído resolución definitiva**. En cambio, quienes tengan **derechos** que puedan resultar afectados son interesados aunque no se personen (art. 4.1.b)."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "Según el artículo 5.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto, siempre que se aporte o se subsane el defecto dentro del plazo que deberá conceder el órgano administrativo, que será de:",
+   "opciones": [
+    "Cinco días, ampliables a diez.",
+    "Quince días, improrrogables.",
+    "Un mes desde la notificación del requerimiento.",
+    "Diez días, o un plazo superior cuando las circunstancias del caso así lo requieran."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 5.6: el plazo para subsanar la representación es de **diez días** (o superior si las circunstancias lo requieren). Recuerda que la representación debe **acreditarse** para solicitar, presentar declaraciones responsables o comunicaciones, recurrir, desistir y renunciar; para el **mero trámite se presume** (art. 5.3)."
+  }
+ ],
+ "a6": [
+  {
+   "pregunta": "De acuerdo con el artículo 6.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los poderes inscritos en el registro electrónico de apoderamientos tendrán una validez determinada máxima de:",
+   "opciones": [
+    "Cinco años a contar desde la fecha de inscripción.",
+    "Dos años a contar desde la fecha de inscripción.",
+    "Cuatro años a contar desde la fecha de otorgamiento.",
+    "Diez años a contar desde la fecha de inscripción."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 6.6: validez máxima de **cinco años desde la inscripción**. Antes de que acabe, el poderdante puede **revocarlo o prorrogarlo**, y cada prórroga vale también un máximo de cinco años."
+  }
+ ],
+ "a7": [
+  {
+   "pregunta": "Según el artículo 7 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando en una solicitud figuren varios interesados y no hayan señalado expresamente un representante o interesado, las actuaciones se efectuarán:",
+   "opciones": [
+    "Con todos ellos, mediante notificaciones individuales.",
+    "Con el que figure en primer término.",
+    "Con el de mayor edad.",
+    "Con el que designe el órgano instructor."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 7: las actuaciones se entienden con el representante o interesado que **expresamente hayan señalado** y, en su defecto, con el que **figure en primer término**."
+  }
+ ],
+ "a9": [
+  {
+   "pregunta": "De acuerdo con el artículo 9 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la aceptación de alguno de los sistemas de identificación electrónica por la Administración General del Estado:",
+   "opciones": [
+    "Solo surte efectos ante los órganos de la propia Administración General del Estado.",
+    "Servirá para acreditar frente a todas las Administraciones Públicas, salvo prueba en contrario, la identificación electrónica de los interesados.",
+    "Debe ser ratificada por cada Comunidad Autónoma para surtir efectos en su ámbito.",
+    "Sustituye la obligación de las demás Administraciones de admitir sistemas basados en certificados cualificados."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 9.4: si la **AGE acepta** un sistema de identificación, sirve para acreditar la identidad **ante todas las Administraciones**, salvo prueba en contrario. Además, toda Administración debe garantizar siempre el uso de los sistemas de **certificado cualificado** (letras a y b del art. 9.2)."
+  }
+ ],
+ "a10": [
+  {
+   "pregunta": "Según el artículo 10 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando los interesados utilicen un sistema de firma de los previstos en ese artículo:",
+   "opciones": [
+    "Su identidad se entenderá ya acreditada mediante el propio acto de la firma.",
+    "Deberán además identificarse con un sistema de los previstos en el artículo 9.",
+    "Solo podrán usar sistemas basados en certificados cualificados de firma electrónica.",
+    "La firma solo será válida si se acompaña de un sello electrónico de la Administración."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 10.5: quien **firma** queda **identificado** con el propio acto de la firma. A la inversa, un sistema de **identificación** solo vale como **firma** cuando así lo disponga expresamente la normativa reguladora (art. 10.4)."
+  }
+ ],
+ "a12": [
+  {
+   "pregunta": "De acuerdo con el artículo 12.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un interesado no obligado a relacionarse electrónicamente no dispone de los medios electrónicos necesarios, su identificación o firma electrónica podrá ser realizada por un funcionario público mediante el sistema de firma del que esté dotado, siendo necesario que el interesado:",
+   "opciones": [
+    "Otorgue un poder notarial a favor del funcionario.",
+    "Se inscriba previamente en el registro electrónico de apoderamientos.",
+    "Se identifique ante el funcionario y preste su consentimiento expreso para esta actuación, del que deberá quedar constancia.",
+    "Lo solicite por escrito con al menos diez días de antelación."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 12.2: el **funcionario habilitado** puede identificar o firmar por el interesado si este **se identifica** ante él y presta su **consentimiento expreso**, dejando constancia. Los funcionarios habilitados constan en un **registro** interoperable, en el que deben figurar al menos los de las oficinas de asistencia en materia de registros (art. 12.3)."
+  }
+ ],
+ "a13": [
+  {
+   "pregunta": "¿Cuál de los siguientes derechos NO figura entre los que el artículo 13 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas reconoce a las personas en sus relaciones con las Administraciones Públicas, sino entre los del interesado en el procedimiento del artículo 53?",
+   "opciones": [
+    "A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico.",
+    "A conocer, en cualquier momento, el estado de la tramitación de los procedimientos en los que tengan la condición de interesados.",
+    "A ser tratados con respeto y deferencia por las autoridades y empleados públicos.",
+    "A la obtención y utilización de los medios de identificación y firma electrónica."
+   ],
+   "respuesta": "b",
+   "explicacion": "El derecho a **conocer el estado de tramitación** es del **interesado** en un procedimiento (art. 53.1.a). El art. 13 recoge derechos de **cualquier persona**: PAG, asistencia electrónica, lenguas oficiales, acceso a la información, respeto y deferencia, exigir responsabilidades, medios de identificación y firma y protección de datos."
+  }
+ ],
+ "a14": [
+  {
+   "pregunta": "Según el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes sujetos NO está obligado, en todo caso, a relacionarse a través de medios electrónicos con las Administraciones Públicas?",
+   "opciones": [
+    "Las entidades sin personalidad jurídica.",
+    "Quienes representen a un interesado que esté obligado a relacionarse electrónicamente.",
+    "Los empleados de las Administraciones Públicas, para los trámites que realicen por razón de su condición de empleado público.",
+    "Las personas físicas que no ejerzan una actividad profesional con colegiación obligatoria."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 14.1: las **personas físicas pueden elegir** si se relacionan electrónicamente o no. Están obligados (14.2): personas jurídicas, entidades sin personalidad, profesionales con colegiación obligatoria, representantes de obligados y empleados públicos por razón de su condición. Por **reglamento** puede extenderse a ciertos colectivos de personas físicas (14.3)."
+  }
+ ],
+ "a15": [
+  {
+   "pregunta": "De acuerdo con el artículo 15.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si en un procedimiento tramitado por un órgano de la Administración General del Estado con sede en una Comunidad Autónoma con lengua cooficial concurren varios interesados y existe discrepancia en cuanto a la lengua:",
+   "opciones": [
+    "El procedimiento se tramitará en la lengua cooficial de la Comunidad Autónoma.",
+    "El procedimiento se tramitará en castellano, si bien los documentos o testimonios que requieran los interesados se expedirán en la lengua elegida por ellos.",
+    "El procedimiento se tramitará en la lengua elegida por el interesado que lo haya iniciado.",
+    "Decidirá la lengua el órgano competente para resolver, sin posibilidad de recurso."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 15.1: en la AGE la lengua es el **castellano**, aunque el interesado puede usar la cooficial ante órganos con sede en su Comunidad. Si hay **discrepancia** entre varios interesados, se tramita en **castellano**, pero los documentos que pidan se expiden en la lengua elegida."
+  }
+ ],
+ "a17": [
+  {
+   "pregunta": "Según el artículo 17.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cada Administración deberá mantener un archivo electrónico único de los documentos electrónicos que correspondan a:",
+   "opciones": [
+    "Procedimientos en tramitación.",
+    "Procedimientos finalizados.",
+    "Procedimientos iniciados a solicitud del interesado, exclusivamente.",
+    "Procedimientos sancionadores y de responsabilidad patrimonial."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 17.1: el **archivo electrónico único** guarda los documentos de **procedimientos finalizados**, en formatos que garanticen autenticidad, integridad y conservación, con las medidas del **Esquema Nacional de Seguridad** (17.3)."
+  }
+ ],
+ "a18": [
+  {
+   "pregunta": "De acuerdo con el artículo 19.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la comparecencia de las personas ante las oficinas públicas, ya sea presencialmente o por medios electrónicos, solo será obligatoria cuando así esté previsto en:",
+   "opciones": [
+    "Cualquier disposición de carácter general.",
+    "Una orden del Ministro competente.",
+    "Una norma con rango de ley.",
+    "El acuerdo de iniciación del procedimiento."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 19.1: la comparecencia solo es obligatoria si lo prevé una **norma con rango de ley**. La citación debe indicar lugar, fecha, hora, medios, objeto y efectos de no acudir (19.2), y el interesado puede pedir certificación de haber comparecido (19.3)."
+  }
+ ],
+ "a21": [
+  {
+   "pregunta": "Según el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo en el que debe notificarse la resolución expresa:",
+   "opciones": [
+    "No podrá exceder de tres meses, salvo que una norma con rango de ley establezca uno mayor; y si la norma reguladora no lo fija, será de un mes.",
+    "No podrá exceder de seis meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea; y si la norma reguladora no lo fija, será de tres meses.",
+    "No podrá exceder de un año en ningún caso; y si la norma reguladora no lo fija, será de seis meses.",
+    "No podrá exceder de seis meses, salvo que lo amplíe un reglamento; y si la norma reguladora no lo fija, será de seis meses."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 21.2 y 3: el plazo lo fija la norma del procedimiento, **máximo seis meses** salvo **ley** o Derecho de la UE; si la norma no lo fija, **tres meses**. Se cuenta desde el **acuerdo de iniciación** (de oficio) o desde la **entrada de la solicitud en el registro electrónico** del órgano competente (a solicitud)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 21.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se exceptúan de la obligación de dictar resolución expresa:",
+   "opciones": [
+    "Los procedimientos en que se haya producido la caducidad o el desistimiento de la solicitud.",
+    "Los procedimientos iniciados de oficio de los que puedan derivarse efectos desfavorables.",
+    "Los supuestos de terminación del procedimiento por pacto o convenio y los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación.",
+    "Los procedimientos en los que el silencio administrativo tenga efecto desestimatorio."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 21.1: solo se exceptúan el **pacto o convenio** y los derechos sometidos solo a **declaración responsable o comunicación**. En la **prescripción, renuncia, caducidad, desistimiento** o desaparición del objeto **sí** hay que resolver, declarando la circunstancia que concurra."
+  }
+ ],
+ "a22": [
+  {
+   "pregunta": "Según el artículo 22.1.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, el plazo máximo para resolver podrá suspenderse por el tiempo que medie entre la petición y la recepción del informe, sin que esa suspensión pueda exceder en ningún caso de:",
+   "opciones": [
+    "Tres meses.",
+    "Diez días.",
+    "Un mes.",
+    "Seis meses."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 22.1.d): la suspensión por **informes preceptivos** no puede superar **tres meses**; si el informe no llega, prosigue el procedimiento. Ojo: el informe en sí se emite, como regla, en **diez días** (art. 80.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 23 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ampliación del plazo máximo de resolución y notificación:",
+   "opciones": [
+    "No podrá exceder de la mitad del plazo establecido, y contra el acuerdo cabe recurso de alzada.",
+    "No podrá exceder de tres meses, y contra el acuerdo cabe recurso potestativo de reposición.",
+    "Podrá acordarse sin límite temporal cuando lo justifique el número de solicitudes, y contra el acuerdo no cabe recurso.",
+    "No podrá ser superior al establecido para la tramitación del procedimiento, y contra el acuerdo que resuelva sobre ella no cabrá recurso alguno."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 23: excepcionalmente, agotados los medios, puede ampliarse el plazo **como máximo por otro tanto** del plazo del procedimiento, y **no cabe recurso** contra el acuerdo. No confundir con la ampliación de **plazos de trámites** del art. 32, que es **hasta la mitad**."
+  }
+ ],
+ "a25": [
+  {
+   "pregunta": "De acuerdo con el artículo 25 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados de oficio en que la Administración ejercite potestades sancionadoras o de intervención susceptibles de producir efectos desfavorables o de gravamen, el vencimiento del plazo máximo sin haberse dictado y notificado resolución expresa produce:",
+   "opciones": [
+    "La caducidad del procedimiento.",
+    "La estimación por silencio administrativo de las alegaciones del interesado.",
+    "La prescripción de la infracción.",
+    "La suspensión del procedimiento hasta que se dicte resolución."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 25.1.b): en procedimientos de oficio **sancionadores o de intervención** con efectos desfavorables, el vencimiento produce la **caducidad** y el archivo. Si del procedimiento podían derivarse derechos favorables, los interesados pueden entender **desestimadas** sus pretensiones (25.1.a). La caducidad no produce por sí sola la prescripción."
+  }
+ ],
+ "a26": [
+  {
+   "pregunta": "Según el artículo 27.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados podrán solicitar en cualquier momento la expedición de copias auténticas de los documentos públicos administrativos válidamente emitidos, que deberán expedirse, salvo las excepciones derivadas de la Ley 19/2013, en el plazo de:",
+   "opciones": [
+    "Quince días desde la recepción de la solicitud en el registro electrónico de la Administración competente.",
+    "Diez días desde la recepción de la solicitud.",
+    "Un mes desde la recepción de la solicitud.",
+    "Tres días hábiles desde la recepción de la solicitud."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 27.4: las copias auténticas pedidas por el interesado se expiden en **quince días**. Tienen la **misma validez y eficacia** que el original."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 28.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados tienen derecho a no aportar documentos que hayan sido elaborados por cualquier Administración, que podrá consultarlos o recabarlos:",
+   "opciones": [
+    "Solo si el interesado lo autoriza expresamente por escrito en cada procedimiento.",
+    "Salvo que el interesado se opusiera a ello, sin que quepa oposición cuando la aportación se exija en el ejercicio de potestades sancionadoras o de inspección.",
+    "En todo caso, sin que el interesado pueda oponerse.",
+    "Solo si el documento tiene una antigüedad inferior a cinco años."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 28.2: la Administración **consulta** los documentos salvo que el interesado **se oponga**; no cabe oposición en el ejercicio de potestades **sancionadoras o de inspección**. Se usan las **plataformas de intermediación de datos**."
+  }
+ ],
+ "a29": [
+  {
+   "pregunta": "Según el artículo 30.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días se entiende que estos son:",
+   "opciones": [
+    "Naturales.",
+    "Hábiles, excluyéndose del cómputo únicamente los domingos y los declarados festivos.",
+    "Hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+    "Hábiles, excluyéndose del cómputo los domingos, los festivos y el mes de agosto."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 30.2: los días son **hábiles** y se excluyen **sábados, domingos y festivos**. Agosto es hábil en vía administrativa (la regla de agosto inhábil es de la Ley 29/1998 para el contencioso)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 32.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración, salvo precepto en contrario, podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos que no exceda de:",
+   "opciones": [
+    "Otro tanto de los mismos, en todo caso.",
+    "Diez días, cualquiera que sea el plazo ampliado.",
+    "La mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero.",
+    "Un tercio de los mismos, siempre que lo solicite el interesado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 32: ampliación **hasta la mitad**, decidida **antes de que venza** el plazo (un plazo vencido no se amplía), y contra ella **no cabe recurso**. En la **tramitación de urgencia** (art. 33) los plazos se **reducen a la mitad**, salvo los de presentación de **solicitudes y recursos**."
+  },
+  {
+   "pregunta": "Según el artículo 33 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando se acuerde la tramitación de urgencia de un procedimiento:",
+   "opciones": [
+    "Se reducirán a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+    "Se reducirán a la mitad todos los plazos del procedimiento, incluidos los de presentación de recursos.",
+    "Se reducirán a un tercio los plazos establecidos para el procedimiento ordinario.",
+    "Se suprimirá el trámite de audiencia, y contra el acuerdo cabrá recurso de alzada."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 33: por razones de interés público, la urgencia **reduce a la mitad** los plazos, **salvo** los de **presentación de solicitudes y recursos**. Contra el acuerdo de urgencia **no cabe recurso** (sí contra la resolución final)."
+  }
+ ],
+ "a34": [
+  {
+   "pregunta": "De acuerdo con el artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes actos debe ser motivado, con sucinta referencia de hechos y fundamentos de derecho?",
+   "opciones": [
+    "Los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.",
+    "Todos los actos de trámite.",
+    "Los que estimen íntegramente la solicitud del interesado.",
+    "Los actos de comunicación de la apertura del período de prueba."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 35.1.c): se motivan, entre otros, los actos que **se separen del criterio seguido** antes o del dictamen de órganos consultivos, los que limiten derechos, los que resuelvan recursos o revisiones de oficio, los de suspensión, urgencia o ampliación de plazos, los que **rechacen pruebas** y los dictados en ejercicio de **potestades discrecionales**."
+  }
+ ],
+ "a37": [
+  {
+   "pregunta": "Según el artículo 37 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las resoluciones administrativas de carácter particular que vulneren lo establecido en una disposición reglamentaria:",
+   "opciones": [
+    "Son anulables, salvo que procedan de un órgano de superior jerarquía al que dictó la disposición general.",
+    "Son válidas si proceden del mismo órgano que dictó la disposición general.",
+    "Son nulas, aunque procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+    "Son válidas si se dictan por el Consejo de Ministros."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 37: es la **inderogabilidad singular** de los reglamentos: una resolución particular no puede vulnerar un reglamento **aunque proceda de un órgano igual o superior**, y si lo hace es **nula** (37.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 39.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, excepcionalmente podrá otorgarse eficacia retroactiva a los actos:",
+   "opciones": [
+    "En ningún caso, pues los actos administrativos solo producen efectos desde que se dictan.",
+    "Cuando así lo acuerde el órgano superior jerárquico, sin más requisitos.",
+    "Cuando sean de gravamen y así lo exija el interés público.",
+    "Cuando se dicten en sustitución de actos anulados o produzcan efectos favorables al interesado, siempre que los supuestos de hecho existieran ya y no se lesionen derechos o intereses legítimos de otras personas."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 39.3: la retroactividad es **excepcional**: actos que **sustituyen a otros anulados** o **favorables** al interesado, si los hechos ya existían y no se perjudica a terceros. La regla general es que el acto produce efectos **desde que se dicta** (39.1)."
+  }
+ ],
+ "a47": [
+  {
+   "pregunta": "Según el artículo 47.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes actos NO es nulo de pleno derecho?",
+   "opciones": [
+    "El que tenga un contenido imposible.",
+    "El dictado por órgano incompetente por razón de la jerarquía, cuando el superior pueda convalidarlo.",
+    "El dictado prescindiendo total y absolutamente del procedimiento legalmente establecido.",
+    "El que lesione derechos y libertades susceptibles de amparo constitucional."
+   ],
+   "respuesta": "b",
+   "explicacion": "La nulidad por incompetencia exige que el órgano sea **manifiestamente incompetente por razón de la materia o del territorio** (47.1.b). La incompetencia **jerárquica** solo produce **anulabilidad** y puede **convalidarse** por el superior (art. 52.3). Las demás opciones son causas de nulidad (47.1.a, c y e)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 48.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el defecto de forma solo determinará la anulabilidad cuando:",
+   "opciones": [
+    "El acto se haya dictado fuera del plazo establecido, en todo caso.",
+    "Así lo declare el superior jerárquico del órgano que dictó el acto.",
+    "El interesado lo alegue en el trámite de audiencia.",
+    "El acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 48.2: el defecto de forma anula solo si falta un requisito **indispensable para el fin** del acto o causa **indefensión**. Las actuaciones **fuera de plazo** solo anulan cuando lo imponga la naturaleza del plazo (48.3)."
+  },
+  {
+   "pregunta": "Según el artículo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración podrá convalidar:",
+   "opciones": [
+    "Los actos anulables, subsanando los vicios de que adolezcan, produciendo efecto el acto de convalidación desde su fecha, salvo retroactividad.",
+    "Los actos nulos y los anulables, con efectos desde la fecha del acto convalidado.",
+    "Solo los actos nulos por incompetencia, mediante resolución del Consejo de Ministros.",
+    "Los actos anulables, siempre que no hayan transcurrido seis meses desde que se dictaron."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 52: solo se convalidan los actos **anulables**; la convalidación produce efecto **desde su fecha** (salvo lo previsto para la retroactividad en el art. 39.3). Los actos **nulos no son convalidables**."
+  }
+ ],
+ "a53": [
+  {
+   "pregunta": "De acuerdo con el artículo 53.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los interesados en un procedimiento administrativo tienen derecho a formular alegaciones, utilizar los medios de defensa admitidos por el ordenamiento y aportar documentos:",
+   "opciones": [
+    "Únicamente en el plazo de diez días desde la iniciación del procedimiento.",
+    "Hasta que se dicte la resolución definitiva, en todo caso.",
+    "En cualquier fase del procedimiento anterior al trámite de audiencia.",
+    "Solo en el trámite de audiencia."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 53.1.e) (y art. 76.1): las alegaciones y documentos pueden presentarse **en cualquier fase anterior al trámite de audiencia**, y se tienen en cuenta al redactar la propuesta de resolución."
+  },
+  {
+   "pregunta": "Según el artículo 53.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos de naturaleza sancionadora, además de los derechos generales, los presuntos responsables tienen derecho:",
+   "opciones": [
+    "A no ser sancionados en ningún caso si reconocen voluntariamente su responsabilidad.",
+    "A que la instrucción y la resolución las realice el mismo órgano.",
+    "A recurrir en alzada el acuerdo de iniciación del procedimiento sancionador.",
+    "A la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 53.2: en el sancionador hay además derecho a ser **notificado de los hechos, infracciones y sanciones** que se imputan, del instructor y del órgano competente, y a la **presunción de no existencia de responsabilidad**. Instrucción y resolución corresponden a **órganos distintos** (art. 63.1)."
+  }
+ ],
+ "a54": [
+  {
+   "pregunta": "De acuerdo con el artículo 56.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las medidas provisionales adoptadas antes de la iniciación del procedimiento, en casos de urgencia inaplazable, deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá efectuarse dentro de:",
+   "opciones": [
+    "Los diez días siguientes a su adopción.",
+    "El mes siguiente a su adopción.",
+    "Los quince días siguientes a su adopción.",
+    "Los tres meses siguientes a su adopción."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 56.2: las medidas previas a la iniciación las adopta el órgano competente para **iniciar o instruir** y deben confirmarse en el acuerdo de iniciación dictado en **quince días**; si no, **quedan sin efecto**."
+  },
+  {
+   "pregunta": "Según el artículo 57 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra el acuerdo de acumulación de un procedimiento a otros con los que guarde identidad sustancial o íntima conexión:",
+   "opciones": [
+    "Cabe recurso de alzada en el plazo de un mes.",
+    "Cabe recurso potestativo de reposición en el plazo de un mes.",
+    "Cabe recurso extraordinario de revisión.",
+    "No procederá recurso alguno."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 57: la acumulación exige que sea **el mismo órgano** quien tramite y resuelva, y contra el acuerdo **no procede recurso alguno**."
+  }
+ ],
+ "a58": [
+  {
+   "pregunta": "De acuerdo con el artículo 58 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de:",
+   "opciones": [
+    "Solicitud del interesado, orden superior o denuncia.",
+    "Orden superior, petición razonada de otros órganos o declaración responsable.",
+    "Denuncia, comunicación previa o solicitud de cualquier Administración.",
+    "Orden superior, a petición razonada de otros órganos o por denuncia."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 58: la iniciación de oficio puede ser por **propia iniciativa**, **orden superior**, **petición razonada** de otros órganos o **denuncia**. La solicitud del interesado es la **otra** forma de iniciación (art. 54)."
+  },
+  {
+   "pregunta": "Según el artículo 62.5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la presentación de una denuncia:",
+   "opciones": [
+    "Confiere en todo caso la condición de interesado en el procedimiento.",
+    "Obliga a la Administración a iniciar el procedimiento.",
+    "No confiere, por sí sola, la condición de interesado en el procedimiento.",
+    "Solo es válida si se presenta de forma anónima."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 62: la denuncia debe expresar la **identidad** del denunciante y el relato de los hechos (62.2) y **no da por sí sola la condición de interesado** (62.5). Si el denunciante participó en la infracción y es el primero en aportar pruebas, queda **exento** de la sanción (62.4)."
+  }
+ ],
+ "a70": [
+  {
+   "pregunta": "De acuerdo con el artículo 70.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, NO formará parte del expediente administrativo:",
+   "opciones": [
+    "La información que tenga carácter auxiliar o de apoyo, como notas, borradores, opiniones, resúmenes e informes internos.",
+    "Los informes preceptivos solicitados antes de la resolución.",
+    "Las notificaciones practicadas en el procedimiento.",
+    "La copia electrónica certificada de la resolución adoptada."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 70.4: se excluye la **información auxiliar o de apoyo** (notas, borradores, opiniones, resúmenes, comunicaciones e informes internos, juicios de valor), **salvo** los informes preceptivos y facultativos solicitados antes de la resolución. La copia certificada de la resolución sí debe constar (70.2)."
+  },
+  {
+   "pregunta": "Según el artículo 74 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones:",
+   "opciones": [
+    "Suspenderán en todo caso la tramitación del procedimiento.",
+    "No suspenderán la tramitación, salvo las relativas a la nulidad de actuaciones.",
+    "No suspenderán la tramitación del mismo, salvo la recusación.",
+    "Suspenderán la tramitación cuando así lo solicite cualquier interesado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 74: las cuestiones incidentales **no suspenden** la tramitación, **salvo la recusación**. Por eso la recusación es también una causa de **suspensión obligatoria** del plazo para resolver (art. 22.2.c)."
+  }
+ ],
+ "a84": [
+  {
+   "pregunta": "De acuerdo con el artículo 85.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en un procedimiento sancionador en el que la sanción tenga únicamente carácter pecuniario, si el infractor reconoce su responsabilidad y paga voluntariamente, el órgano competente aplicará reducciones:",
+   "opciones": [
+    "Del 10 % sobre el importe de la sanción propuesta, no acumulables.",
+    "De, al menos, el 20 % sobre el importe de la sanción propuesta, acumulables entre sí.",
+    "De, al menos, el 50 % sobre el importe de la sanción propuesta, no acumulables.",
+    "Del 20 % sobre el importe de la sanción propuesta, solo aplicable una de ellas."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 85.3: reducciones de **al menos el 20 %** por reconocimiento y por pago voluntario, **acumulables**. Su efectividad está condicionada al **desistimiento o renuncia** de cualquier recurso en vía administrativa, y el porcentaje puede incrementarse reglamentariamente."
+  },
+  {
+   "pregunta": "Según el artículo 95.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá de que se producirá la caducidad del procedimiento transcurrido el plazo de:",
+   "opciones": [
+    "Un mes.",
+    "Seis meses.",
+    "Tres meses.",
+    "Diez días."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 95.1: advertencia de caducidad a los **tres meses**; consumido el plazo, se acuerda el **archivo**. No hay caducidad por no cumplimentar trámites **no indispensables** (solo se pierde el trámite), y la caducidad **no produce por sí sola la prescripción** (95.2 y 95.3)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 91.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en los procedimientos de responsabilidad patrimonial, transcurridos seis meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa:",
+   "opciones": [
+    "Se entenderá estimada la reclamación por silencio administrativo.",
+    "Se producirá la caducidad del procedimiento.",
+    "Se entenderá que la Administración ha desistido del procedimiento.",
+    "Podrá entenderse que la resolución es contraria a la indemnización del particular."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 91.3: pasados **seis meses** sin resolución, el silencio es **desestimatorio** (contrario a la indemnización), coherente con la excepción del art. 24.1 para la responsabilidad patrimonial."
+  }
+ ],
+ "a96": [
+  {
+   "pregunta": "Según el artículo 96.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, salvo que reste menos para su tramitación ordinaria, los procedimientos tramitados de manera simplificada deberán ser resueltos en:",
+   "opciones": [
+    "Quince días, a contar desde la presentación de la solicitud.",
+    "Un mes, a contar desde el acuerdo de iniciación.",
+    "Tres meses, a contar desde el acuerdo de tramitación simplificada.",
+    "Treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 96.6: **treinta días** desde el siguiente a la notificación del acuerdo. Los trámites son tasados: alegaciones al inicio en **cinco días**, **audiencia solo si la resolución va a ser desfavorable**, informes o dictámenes preceptivos (el del Consejo de Estado puede emitirse en quince días) y resolución."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 96.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando la Administración acuerde de oficio la tramitación simplificada del procedimiento y alguno de los interesados manifieste su oposición expresa:",
+   "opciones": [
+    "La oposición no tendrá efecto alguno, pues la decisión corresponde a la Administración.",
+    "La Administración deberá seguir la tramitación ordinaria.",
+    "La Administración resolverá la oposición en el plazo de cinco días, sin posibilidad de recurso.",
+    "Se suspenderá el procedimiento hasta que el superior jerárquico resuelva la oposición."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 96.2: si un interesado **se opone expresamente**, se sigue la **tramitación ordinaria**. Excepción: en sancionadores por infracción **leve** no cabe oposición (96.5). Si es el interesado quien la pide y no procede, se desestima en **cinco días** sin recurso (96.3)."
+  }
+ ],
+ "a97": [
+  {
+   "pregunta": "Según el artículo 98.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán inmediatamente ejecutivos, salvo, entre otros casos, que:",
+   "opciones": [
+    "Se trate de una resolución de un procedimiento de naturaleza sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+    "Se haya interpuesto contra ellos recurso contencioso-administrativo.",
+    "El interesado haya manifestado su disconformidad en el trámite de audiencia.",
+    "Se trate de actos de gravamen dictados en procedimientos iniciados de oficio."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 98.1: no son inmediatamente ejecutivos si se **suspende** su ejecución, si es una **resolución sancionadora** contra la que **quepa recurso administrativo** (incluida la reposición), si una disposición lo establece o si necesitan **aprobación superior**. La mera interposición de un recurso no suspende (art. 117.1)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 103 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las multas coercitivas:",
+   "opciones": [
+    "Requieren que así lo autoricen las Leyes y son independientes de las sanciones que puedan imponerse y compatibles con ellas.",
+    "Pueden imponerse en todo caso, sin necesidad de autorización legal, y sustituyen a la sanción.",
+    "Solo pueden imponerse una vez y su importe se descuenta de la sanción.",
+    "Solo proceden para ejecutar obligaciones de pagar una cantidad líquida."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 103: la multa coercitiva exige **autorización legal**, se **reitera** por lapsos suficientes hasta el cumplimiento y es **compatible con las sanciones**. Las deudas de cantidad líquida se ejecutan por **apremio sobre el patrimonio** (art. 101)."
+  }
+ ],
+ "a112": [
+  {
+   "pregunta": "Según el artículo 112.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra las disposiciones administrativas de carácter general:",
+   "opciones": [
+    "Cabrá recurso de alzada ante el superior jerárquico del órgano que las dictó.",
+    "Cabrá recurso potestativo de reposición en el plazo de un mes desde su publicación.",
+    "No cabrá recurso en vía administrativa.",
+    "Cabrá recurso extraordinario de revisión en el plazo de cuatro años."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 112.3: contra los **reglamentos no cabe recurso administrativo**; se impugnan directamente ante el contencioso o indirectamente a través de sus actos de aplicación. Los recursos contra un acto fundados **solo** en la nulidad del reglamento pueden presentarse directamente ante el órgano que lo dictó."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 117 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la ejecución del acto impugnado se entenderá suspendida si, solicitada la suspensión, el órgano a quien compete resolver el recurso no ha dictado y notificado resolución expresa al respecto transcurrido:",
+   "opciones": [
+    "Un mes desde que la solicitud haya tenido entrada en el registro electrónico del órgano competente para decidir sobre ella.",
+    "Diez días desde la presentación de la solicitud.",
+    "Tres meses desde la interposición del recurso.",
+    "Quince días desde la presentación de la solicitud."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 117: como regla, **el recurso no suspende** la ejecución (117.1). Pero si se pide la suspensión y no se resuelve en **un mes**, se entiende **suspendida** (117.3). Puede acordarse por perjuicios de imposible o difícil reparación o si el recurso se funda en una **causa de nulidad** (117.2)."
+  }
+ ],
+ "a127": [
+  {
+   "pregunta": "Según el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, las Administraciones Públicas actuarán de acuerdo con los principios de:",
+   "opciones": [
+    "Necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.",
+    "Necesidad, eficacia, jerarquía, seguridad jurídica, publicidad y economía.",
+    "Legalidad, eficacia, proporcionalidad, seguridad jurídica, participación y eficiencia.",
+    "Necesidad, oportunidad, proporcionalidad, irretroactividad, transparencia y eficiencia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 129.1: los **principios de buena regulación** son **necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia**, y deben justificarse en la exposición de motivos o el preámbulo."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 133.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento, se sustanciará:",
+   "opciones": [
+    "Un trámite de información pública en el diario oficial con un plazo mínimo de veinte días.",
+    "Una consulta pública, a través del portal web de la Administración competente, en la que se recabará la opinión de los sujetos y organizaciones más representativas potencialmente afectados.",
+    "Un dictamen preceptivo del Consejo de Estado.",
+    "Un trámite de audiencia a los interesados de diez a quince días."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 133.1: **antes** de redactar el texto hay **consulta pública** en el portal web sobre los problemas, la necesidad, los objetivos y las alternativas. **Después**, con el texto ya redactado, **audiencia e información pública** si afecta a derechos e intereses legítimos (133.2)."
+  }
  ]
 }

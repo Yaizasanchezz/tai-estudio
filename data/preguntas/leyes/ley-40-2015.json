@@ -12,5 +12,587 @@
    "parte": "p1",
    "n": "22"
   }
+ ],
+ "a47": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "s2",
+   "n": "13"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 48.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los convenios suscritos por la Administración General del Estado o sus organismos públicos y entidades de derecho público vinculados o dependientes resultarán eficaces:",
+   "opciones": [
+    "Desde su firma por las partes, sin necesidad de inscripción.",
+    "Desde su publicación en el Boletín Oficial del Estado, que se producirá en el plazo de un mes.",
+    "Una vez autorizados por el Consejo de Ministros.",
+    "Una vez inscritos, en el plazo de 5 días hábiles desde su formalización, en el Registro Electrónico estatal de Órganos e Instrumentos de Cooperación del sector público estatal."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 48.8: los convenios se **perfeccionan con el consentimiento**, pero los de la AGE son **eficaces** una vez **inscritos en el REOICO** (en **5 días hábiles** desde su formalización); además se publican en el BOE (10 días hábiles)."
+  },
+  {
+   "pregunta": "Según el artículo 53.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, deberán remitirse electrónicamente al Tribunal de Cuentas u órgano externo de fiscalización autonómico, dentro de los tres meses siguientes a su suscripción, los convenios cuyos compromisos económicos asumidos superen:",
+   "opciones": [
+    "300.000 euros.",
+    "600.000 euros.",
+    "1.000.000 de euros.",
+    "150.000 euros."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 53.1: convenios con compromisos económicos de **más de 600.000 euros** → al **Tribunal de Cuentas** (u órgano autonómico) en **tres meses**. También se comunican sus modificaciones, prórrogas y extinción (53.2)."
+  }
+ ],
+ "a57": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "8"
+  },
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "12"
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 57.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la determinación del número, la denominación y el ámbito de competencia respectivo de los Ministerios y las Secretarías de Estado se establecen mediante:",
+   "opciones": [
+    "Real Decreto del Presidente del Gobierno.",
+    "Real Decreto del Consejo de Ministros, a propuesta del Ministro de Hacienda.",
+    "Ley aprobada por las Cortes Generales.",
+    "Orden del Ministro de la Presidencia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 57.3: **Real Decreto del Presidente del Gobierno**. En cambio, la creación de Subsecretarías, Secretarías generales, Direcciones y Subdirecciones generales se hace por **Real Decreto del Consejo de Ministros** (art. 59)."
+  }
+ ],
+ "a69": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "13"
+  },
+  {
+   "pregunta": "Según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los Subdelegados del Gobierno en las provincias son nombrados:",
+   "opciones": [
+    "Por Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno.",
+    "Por el Ministro del Interior.",
+    "Por el Presidente de la Comunidad Autónoma, previo informe del Delegado del Gobierno.",
+    "Por el Delegado del Gobierno en la Comunidad Autónoma."
+   ],
+   "respuesta": "d",
+   "explicacion": "Arts. 73.1.a).2.º y 74: el **Delegado del Gobierno nombra a los Subdelegados**, por **libre designación** entre funcionarios de carrera del Subgrupo A1, y es su superior jerárquico. Los **Delegados**, en cambio, se nombran por **Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno** (art. 72.4)."
+  }
+ ],
+ "a1": [
+  {
+   "pregunta": "Según el artículo 2.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Universidades públicas:",
+   "opciones": [
+    "No forman parte del sector público y se rigen exclusivamente por su normativa específica.",
+    "Forman parte del sector público institucional y se rigen por su normativa específica y supletoriamente por esa Ley.",
+    "Tienen la consideración de Administración General del Estado.",
+    "Se rigen íntegramente por esa Ley, como cualquier organismo autónomo."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 2.2.c): el sector público institucional incluye organismos públicos y entidades de derecho público, entidades de derecho privado vinculadas y **Universidades públicas**, que se rigen por su **normativa específica** y **supletoriamente** por la Ley 40/2015."
+  }
+ ],
+ "a3": [
+  {
+   "pregunta": "De acuerdo con el artículo 3.4 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, cada una de las Administraciones Públicas actúa para el cumplimiento de sus fines:",
+   "opciones": [
+    "Con tantas personalidades jurídicas como órganos superiores la integren.",
+    "Sin personalidad jurídica propia, como parte del Estado.",
+    "Con personalidad jurídica únicamente en sus relaciones de Derecho privado.",
+    "Con personalidad jurídica única."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 3.4: cada Administración actúa con **personalidad jurídica única**. Además, se relacionan entre sí y con sus organismos **por medios electrónicos** (3.2) y actúan según los principios de **eficacia, jerarquía, descentralización, desconcentración y coordinación** (3.1)."
+  }
+ ],
+ "a4": [
+  {
+   "pregunta": "Según el artículo 4.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Administraciones Públicas que establezcan medidas que limiten el ejercicio de derechos o exijan requisitos para el desarrollo de una actividad deberán:",
+   "opciones": [
+    "Obtener la autorización previa del Consejo de Ministros.",
+    "Elegir la medida más eficaz aunque sea la más restrictiva, si así lo exige el interés general.",
+    "Aplicar el principio de proporcionalidad, elegir la medida menos restrictiva, motivar su necesidad para la protección del interés público y justificar su adecuación.",
+    "Someter la medida a información pública durante un plazo mínimo de veinte días."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 4.1: principio de intervención: **proporcionalidad**, **medida menos restrictiva**, **motivación** de su necesidad y justificación de su adecuación, sin diferencias de trato discriminatorias. Las Administraciones deben además evaluar periódicamente sus efectos."
+  }
+ ],
+ "a5": [
+  {
+   "pregunta": "De acuerdo con el artículo 6.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el incumplimiento de las instrucciones u órdenes de servicio:",
+   "opciones": [
+    "Determina la nulidad de pleno derecho de los actos dictados.",
+    "Determina en todo caso la anulabilidad de los actos dictados.",
+    "Solo produce efectos si las instrucciones se publicaron en el Boletín Oficial del Estado.",
+    "No afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 6.2: incumplir una instrucción u orden de servicio **no invalida por sí solo** el acto, aunque puede generar **responsabilidad disciplinaria**. Se publican en el boletín oficial cuando lo exija una disposición o por razón de sus destinatarios o efectos (6.1)."
+  },
+  {
+   "pregunta": "Según el artículo 5.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de cualquier órgano administrativo exigirá, al menos:",
+   "opciones": [
+    "Una norma con rango de ley que lo cree y un informe favorable del Consejo de Estado.",
+    "Delimitar sus funciones, publicar su creación en el BOE y nombrar a su titular entre funcionarios del Subgrupo A1.",
+    "Determinar su forma de integración y su dependencia jerárquica, delimitar sus funciones y competencias y dotarlo de los créditos necesarios.",
+    "Un informe previo del Tribunal de Cuentas sobre su coste."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 5.3: requisitos mínimos: **integración y dependencia jerárquica**, **funciones y competencias** y **créditos**. Además, no pueden crearse órganos que **dupliquen** otros existentes sin suprimir o restringir la competencia de estos (5.4)."
+  }
+ ],
+ "a8": [
+  {
+   "pregunta": "Según el artículo 8.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de:",
+   "opciones": [
+    "Encomienda de gestión o suplencia.",
+    "Delegación de firma o encomienda de gestión.",
+    "Suplencia o delegación de firma.",
+    "Delegación o avocación, cuando se efectúen en los términos previstos en esa u otras leyes."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 8.1: la competencia es **irrenunciable**, salvo **delegación o avocación**. La delegación de competencias, la encomienda de gestión, la delegación de firma y la suplencia **no alteran la titularidad** de la competencia; solo la **desconcentración** (8.2) traslada titularidad y ejercicio a órganos dependientes."
+  }
+ ],
+ "a9": [
+  {
+   "pregunta": "Según el artículo 9.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál de las siguientes competencias puede ser objeto de delegación?",
+   "opciones": [
+    "La adopción de disposiciones de carácter general.",
+    "La resolución de procedimientos en los que la norma reguladora prevea como trámite preceptivo un informe, siempre que este no se haya emitido todavía.",
+    "La resolución de recursos en los órganos administrativos que hayan dictado los actos objeto de recurso.",
+    "Los asuntos que se refieran a relaciones con la Jefatura del Estado o las Cortes Generales."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 9.2: no se delegan las relaciones con la Jefatura del Estado, Presidencia del Gobierno y Cortes (y órganos equivalentes autonómicos), la adopción de **disposiciones generales**, la **resolución de recursos** en el órgano que dictó el acto y lo que diga una ley. Que esté previsto un informe preceptivo **no impide** delegar, salvo que ya se haya emitido (9.5)."
+  },
+  {
+   "pregunta": "De acuerdo con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, para la validez de la delegación de firma:",
+   "opciones": [
+    "No será necesaria su publicación.",
+    "Será necesaria su publicación en el Boletín Oficial del Estado.",
+    "Será necesaria la aprobación previa del Consejo de Ministros.",
+    "Será necesario que el órgano delegado no dependa jerárquicamente del delegante."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 12.2: la **delegación de firma** no altera la competencia y **no necesita publicación** (tampoco la suplencia, art. 13.2). La que **sí se publica** es la **delegación de competencias** y su revocación (art. 9.3). La firma se delega en órganos o unidades **dependientes**."
+  },
+  {
+   "pregunta": "Según el artículo 10.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, contra el acuerdo de avocación:",
+   "opciones": [
+    "Cabe recurso de alzada ante el superior jerárquico del órgano que avoca.",
+    "Cabe recurso potestativo de reposición en el plazo de un mes.",
+    "No cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+    "Cabe recurso contencioso-administrativo directo en el plazo de dos meses."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 10.2: la avocación se hace por **acuerdo motivado** notificado antes o a la vez que la resolución final; **no cabe recurso** contra él, pero puede alegarse al recurrir la resolución del procedimiento."
+  }
+ ],
+ "a14": [
+  {
+   "pregunta": "De acuerdo con el artículo 14.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los conflictos de atribuciones solo podrán suscitarse:",
+   "opciones": [
+    "Entre órganos de distintas Administraciones Públicas, en cualquier momento.",
+    "Entre órganos de una misma Administración no relacionados jerárquicamente, respecto a asuntos sobre los que no haya finalizado el procedimiento administrativo.",
+    "Entre órganos de una misma Administración relacionados jerárquicamente.",
+    "Entre la Administración y los Juzgados y Tribunales, una vez finalizado el procedimiento."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 14.3: **misma Administración**, órganos **no relacionados jerárquicamente** y **procedimiento no finalizado** (entre órganos jerarquizados decide el superior). Los conflictos entre Administración y tribunales son **conflictos de jurisdicción**."
+  }
+ ],
+ "a15": [
+  {
+   "pregunta": "Según el artículo 17.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, para la válida constitución de un órgano colegiado a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia:",
+   "opciones": [
+    "Del Presidente y Secretario, o de quienes les suplan, y de la mitad, al menos, de sus miembros.",
+    "Del Presidente y de la mayoría absoluta de sus miembros, sin necesidad del Secretario.",
+    "Del Presidente, el Secretario y dos tercios de sus miembros.",
+    "De la mitad más uno de sus miembros, incluido en todo caso el Secretario."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 17.2: quórum de **Presidente + Secretario + la mitad, al menos, de los miembros**. Si están el Secretario y **todos** los miembros, pueden constituirse **sin convocatoria previa** si así lo deciden todos."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 19.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los miembros de los órganos colegiados de la Administración General del Estado deberán recibir la convocatoria, con el orden del día, con una antelación mínima de:",
+   "opciones": [
+    "Veinticuatro horas.",
+    "Tres días.",
+    "Cinco días.",
+    "Dos días."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 19.3.a): convocatoria con **dos días** de antelación mínima. También son **dos días** los que tiene un miembro para formular **voto particular por escrito** (19.5)."
+  },
+  {
+   "pregunta": "Según el artículo 20.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, son órganos colegiados de la Administración General del Estado aquellos que se creen formalmente y estén integrados por:",
+   "opciones": [
+    "Tres o más personas, a los que se atribuyan funciones administrativas de decisión, propuesta, asesoramiento, seguimiento o control.",
+    "Dos o más personas, con funciones exclusivamente decisorias.",
+    "Cinco o más personas, con funciones de decisión o propuesta.",
+    "Tres o más personas, siempre que todas ellas sean funcionarios de carrera."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 20.1: **tres o más personas** con funciones de **decisión, propuesta, asesoramiento, seguimiento o control**. El Presidente dirime los empates con su **voto de calidad** (19.2.d)."
+  }
+ ],
+ "a23": [
+  {
+   "pregunta": "De acuerdo con el artículo 23.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, es motivo de abstención tener parentesco con cualquiera de los interesados:",
+   "opciones": [
+    "De consanguinidad dentro del cuarto grado o de afinidad dentro del segundo.",
+    "De consanguinidad dentro del segundo grado o de afinidad dentro del primero.",
+    "De consanguinidad dentro del tercer grado o de afinidad dentro del segundo.",
+    "De consanguinidad o afinidad dentro del cuarto grado."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 23.2.b): matrimonio o situación asimilable y parentesco de **consanguinidad hasta el 4.º grado** (primos hermanos) o de **afinidad hasta el 2.º** (cuñados). Otros motivos: interés personal, amistad íntima o enemistad manifiesta, haber sido perito o testigo y relación de servicio o servicios profesionales en los **dos últimos años**."
+  },
+  {
+   "pregunta": "Según el artículo 24 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, si el recusado niega la causa de recusación alegada, su superior resolverá:",
+   "opciones": [
+    "En el plazo de diez días, previa audiencia del recusante.",
+    "En el plazo de tres días, previos los informes y comprobaciones que considere oportunos.",
+    "Al día siguiente, sin necesidad de informes.",
+    "En el plazo de un mes, y contra su resolución cabe recurso de alzada."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 24: el recusado manifiesta **al día siguiente** si se da la causa (24.3); si la niega, el superior resuelve en **tres días** (24.4). Contra lo resuelto **no cabe recurso**, aunque puede alegarse al recurrir la resolución final (24.5)."
+  }
+ ],
+ "a25": [
+  {
+   "pregunta": "De acuerdo con el artículo 25.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la potestad sancionadora de las Administraciones Públicas se ejercerá cuando haya sido expresamente reconocida por:",
+   "opciones": [
+    "Cualquier disposición de carácter general.",
+    "Una norma con rango de Ley.",
+    "Un reglamento aprobado por el Consejo de Ministros.",
+    "Una ordenanza o un reglamento, indistintamente."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 25.1: **principio de legalidad**: la potestad sancionadora debe reconocerla una **norma con rango de ley**. Su ejercicio corresponde a los órganos que la tengan atribuida por disposición de rango legal o reglamentario (25.2), y el capítulo se aplica también a la **potestad disciplinaria** (25.3)."
+  },
+  {
+   "pregunta": "Según el artículo 30.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, si las leyes que las establezcan no fijan plazos de prescripción:",
+   "opciones": [
+    "Las infracciones leves prescribirán a los seis meses y las sanciones impuestas por faltas leves al año.",
+    "Las infracciones leves y las sanciones impuestas por faltas leves prescribirán al año.",
+    "Las infracciones leves prescribirán a los tres meses y las sanciones impuestas por faltas leves a los seis meses.",
+    "Las infracciones leves prescribirán al año y las sanciones impuestas por faltas leves a los dos años."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 30.1: infracciones **muy graves 3 años, graves 2 años y leves 6 meses**; sanciones por faltas **muy graves 3 años, graves 2 años y leves 1 año**. La infracción prescribe desde que se cometió (en las continuadas, desde que terminó la conducta)."
+  }
+ ],
+ "a33": [
+  {
+   "pregunta": "De acuerdo con el artículo 33.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, cuando de la gestión dimanante de fórmulas conjuntas de actuación entre varias Administraciones Públicas se derive responsabilidad patrimonial, las Administraciones intervinientes responderán frente al particular:",
+   "opciones": [
+    "En todo caso, de forma solidaria.",
+    "De forma mancomunada, en proporción a su participación.",
+    "Únicamente la Administración que haya iniciado la actuación conjunta.",
+    "De forma subsidiaria, por orden de competencia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 33.1: actuación **conjunta** → responsabilidad **solidaria** en todo caso. En otros supuestos de concurrencia se reparte por **competencia, interés público tutelado e intensidad de la intervención**, y es solidaria si no puede determinarse (33.2)."
+  },
+  {
+   "pregunta": "Según el artículo 34.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, NO serán indemnizables los daños que se deriven de hechos o circunstancias:",
+   "opciones": [
+    "Producidos por el funcionamiento normal de los servicios públicos.",
+    "Que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de su producción.",
+    "Causados por personal interino al servicio de la Administración.",
+    "Derivados de la anulación de un acto administrativo en vía contencioso-administrativa."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 34.1: no se indemnizan los **riesgos del progreso**: lo que no se podía prever o evitar según el **estado de la ciencia o de la técnica**. La responsabilidad cubre el funcionamiento **normal o anormal** de los servicios (art. 32.1); la anulación de un acto no presupone por sí sola derecho a indemnización, pero tampoco lo excluye."
+  }
+ ],
+ "a36": [
+  {
+   "pregunta": "De acuerdo con el artículo 36.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Administración que hubiera indemnizado a los lesionados exigirá de oficio de sus autoridades y demás personal la responsabilidad en que hubieran incurrido:",
+   "opciones": [
+    "Por cualquier grado de culpa o negligencia, incluso leve.",
+    "Solo cuando hayan sido condenados penalmente por los mismos hechos.",
+    "Solo si el particular lesionado lo solicita expresamente.",
+    "Por dolo, o culpa o negligencia graves, previa instrucción del correspondiente procedimiento."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 36: el particular reclama **siempre a la Administración** (36.1), que después ejerce de oficio la **acción de regreso** contra su personal por **dolo, culpa o negligencia graves** (36.2). La resolución declaratoria de responsabilidad **pone fin a la vía administrativa** (36.5)."
+  }
+ ],
+ "a38": [
+  {
+   "pregunta": "Según el artículo 41.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se entiende por actuación administrativa automatizada:",
+   "opciones": [
+    "Cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público.",
+    "Cualquier acto firmado electrónicamente por un empleado público mediante certificado cualificado.",
+    "Cualquier actuación realizada en la sede electrónica a instancia del interesado.",
+    "Cualquier acto dictado por un órgano colegiado reunido a distancia."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 41.1: actuación **íntegramente electrónica** sin intervención **directa** de un empleado público. Hay que fijar **previamente** el órgano responsable de las especificaciones, programación, mantenimiento, supervisión, control de calidad y **auditoría del sistema y de su código fuente**, y el órgano responsable a efectos de **impugnación** (41.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 42 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la actuación administrativa automatizada cada Administración podrá determinar los supuestos de utilización de los siguientes sistemas de firma electrónica:",
+   "opciones": [
+    "Firma electrónica cualificada del titular del órgano y Cl@ve PIN.",
+    "Certificado de autenticación de sitio web y firma manuscrita digitalizada.",
+    "Firma electrónica del empleado público que supervise el sistema y sello de tiempo.",
+    "Sello electrónico de Administración Pública, órgano, organismo público o entidad de derecho público, y código seguro de verificación."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 42: en la actuación automatizada se usa **sello electrónico** (basado en certificado cualificado) o **código seguro de verificación (CSV)**, que permite comprobar la integridad del documento en la **sede electrónica**."
+  },
+  {
+   "pregunta": "Según el artículo 46 bis de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los sistemas de información y comunicaciones para la gestión del censo electoral, los padrones municipales, los datos fiscales de tributos propios o cedidos y los datos de usuarios del sistema nacional de salud deberán ubicarse y prestarse:",
+   "opciones": [
+    "Dentro del territorio español, en todo caso.",
+    "En cualquier país que haya sido objeto de una decisión de adecuación de la Comisión Europea.",
+    "Dentro del territorio de la Unión Europea.",
+    "En los centros de proceso de datos de la Secretaría General de Administración Digital."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 46 bis (añadido por el RDL 14/2019): estos sistemas deben estar **dentro de la Unión Europea**, y los datos no pueden transferirse a terceros países salvo decisión de adecuación de la Comisión u obligaciones internacionales."
+  }
+ ],
+ "a54": [
+  {
+   "pregunta": "De acuerdo con el artículo 55 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en la organización central de la Administración General del Estado son órganos superiores:",
+   "opciones": [
+    "Los Ministros, los Secretarios de Estado y los Subsecretarios.",
+    "Los Ministros y los Subsecretarios.",
+    "Los Ministros y los Secretarios de Estado.",
+    "El Presidente del Gobierno, los Vicepresidentes y los Ministros."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 55.3: **órganos superiores**: **Ministros y Secretarios de Estado**. **Directivos**: Subsecretarios y Secretarios generales; Secretarios generales técnicos y Directores generales; y Subdirectores generales."
+  },
+  {
+   "pregunta": "Según el artículo 55.6 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los órganos superiores y directivos tienen además la condición de alto cargo, excepto:",
+   "opciones": [
+    "Los Secretarios generales técnicos.",
+    "Los Delegados del Gobierno en las Comunidades Autónomas.",
+    "Los Subdirectores generales y asimilados.",
+    "Los Directores generales."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 55.6: todos los órganos superiores y directivos son **altos cargos** salvo los **Subdirectores generales y asimilados** (Ley 3/2015). Por eso los Delegados del Gobierno, con rango de Subsecretario, sí lo son."
+  }
+ ],
+ "a81": [
+  {
+   "pregunta": "De acuerdo con el artículo 84.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál de las siguientes entidades NO integra el sector público institucional estatal?",
+   "opciones": [
+    "Las autoridades administrativas independientes.",
+    "Los fondos sin personalidad jurídica.",
+    "Las Corporaciones de Derecho público, como los colegios profesionales.",
+    "Las universidades públicas no transferidas."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 84.1: el sector público institucional estatal lo forman organismos públicos (**OO. AA., EPE y agencias estatales**), **autoridades administrativas independientes**, **sociedades mercantiles estatales**, **consorcios**, **fundaciones del sector público**, **fondos sin personalidad jurídica** y **universidades públicas no transferidas**. La AGE no puede crear ni controlar otros tipos de entidad (84.2)."
+  },
+  {
+   "pregunta": "Según el artículo 82 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la integración y gestión del Inventario de Entidades del Sector Público Estatal, Autonómico y Local, así como su publicación, dependerá de:",
+   "opciones": [
+    "La Intervención General de la Administración del Estado.",
+    "El Tribunal de Cuentas.",
+    "La Secretaría General de Administración Digital.",
+    "El Instituto Nacional de Estadística."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 82.1: el **Inventario de Entidades del Sector Público** es un registro público administrativo que depende de la **Intervención General de la Administración del Estado (IGAE)**. Como mínimo se inscriben la creación, transformación, fusión o extinción de cualquier entidad (82.3)."
+  }
+ ],
+ "a88": [
+  {
+   "pregunta": "De acuerdo con el artículo 89.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, a los organismos públicos les corresponden, dentro de su esfera de competencia, las potestades administrativas precisas para el cumplimiento de sus fines, salvo:",
+   "opciones": [
+    "La potestad sancionadora.",
+    "La potestad de autoorganización.",
+    "La potestad de revisión de oficio.",
+    "La potestad expropiatoria."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 89: los organismos públicos tienen **personalidad jurídica pública diferenciada**, patrimonio y tesorería propios y autonomía de gestión, y todas las potestades administrativas precisas **salvo la expropiatoria**."
+  },
+  {
+   "pregunta": "Según el artículo 91.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la creación de los organismos públicos estatales se efectuará:",
+   "opciones": [
+    "Por Real Decreto del Consejo de Ministros.",
+    "Por Orden del Ministro del que dependan.",
+    "Por Ley.",
+    "Por acuerdo del Consejo de Ministros publicado en el Boletín Oficial del Estado."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 91.1: los organismos públicos (OO. AA., EPE y agencias estatales) se crean **por Ley**. El anteproyecto se acompaña de una propuesta de **estatutos** y un **plan inicial de actuación** (91.3)."
+  }
+ ],
+ "a109": [
+  {
+   "pregunta": "De acuerdo con el artículo 109.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las autoridades administrativas independientes de ámbito estatal son entidades de derecho público que tienen atribuidas:",
+   "opciones": [
+    "Actividades prestacionales financiadas mayoritariamente con ingresos de mercado.",
+    "Funciones de asesoramiento jurídico al Gobierno, con dependencia jerárquica del Ministerio de adscripción.",
+    "Actividades de fomento sin ánimo de lucro, sin poder ejercer potestades públicas.",
+    "Funciones de regulación o supervisión de carácter externo sobre sectores económicos o actividades determinadas, por requerir su desempeño independencia funcional, lo que deberá determinarse en una norma con rango de Ley."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 109.1: las **AAI** (por ejemplo, la CNMC o la AEPD) ejercen funciones de **regulación o supervisión** con **independencia funcional** respecto de la AGE, y su carácter debe fijarlo una **norma con rango de ley**. Las otras opciones describen EPE y fundaciones."
+  }
+ ],
+ "a111": [
+  {
+   "pregunta": "Según el artículo 111.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, se entiende por sociedad mercantil estatal aquella sobre la que se ejerce control estatal, entre otros casos, porque la participación directa en su capital social de la Administración General del Estado o de entidades del sector público institucional estatal sea:",
+   "opciones": [
+    "Igual o superior al 25 por 100.",
+    "Superior al 50 por 100.",
+    "Superior al 33 por 100.",
+    "Del 100 por 100."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 111.1.a): participación directa **superior al 50 %** (o control según la legislación del mercado de valores). Su denominación debe incluir «**sociedad mercantil estatal**» o «**S.M.E.**» (111.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 113 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las sociedades mercantiles estatales:",
+   "opciones": [
+    "En ningún caso podrán disponer de facultades que impliquen el ejercicio de autoridad pública, sin perjuicio de que excepcionalmente la ley pueda atribuirles el ejercicio de potestades administrativas.",
+    "Se rigen íntegramente por el Derecho administrativo.",
+    "Pueden ejercer la potestad expropiatoria si así lo prevén sus estatutos.",
+    "Tienen la consideración de Administración Pública a efectos de la Ley 39/2015."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 113: se rigen por el **ordenamiento jurídico privado**, salvo en materia presupuestaria, contable, de personal, de control económico-financiero y de contratación, y **no pueden ejercer autoridad pública** (salvo potestades que excepcionalmente les atribuya una ley). No son Administración Pública."
+  }
+ ],
+ "a118": [
+  {
+   "pregunta": "Según el artículo 118.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los consorcios son:",
+   "opciones": [
+    "Sociedades mercantiles con participación mayoritaria de varias Administraciones Públicas.",
+    "Entidades de derecho público, con personalidad jurídica propia y diferenciada, creadas por varias Administraciones Públicas o entidades del sector público institucional, entre sí o con participación de entidades privadas, para actividades de interés común.",
+    "Órganos de cooperación sin personalidad jurídica entre el Estado y las Comunidades Autónomas.",
+    "Fundaciones creadas por una sola Administración con aportación privada minoritaria."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 118.1: el **consorcio** es una entidad de **derecho público** con **personalidad propia**, creada por **varias** Administraciones o entidades públicas (con o sin participación privada) para actividades de **interés común**. En su denominación debe figurar «consorcio» o «C» (118.4)."
+  }
+ ],
+ "a128": [
+  {
+   "pregunta": "De acuerdo con el artículo 128 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las fundaciones del sector público estatal:",
+   "opciones": [
+    "Pueden ejercer potestades públicas si así lo prevén sus estatutos.",
+    "Deben estar íntegramente financiadas por la Administración General del Estado, sin aportación privada.",
+    "Realizan sin ánimo de lucro actividades para el cumplimiento de fines de interés general y no pueden ejercer potestades públicas.",
+    "Tienen la consideración de organismos públicos y se crean por ley."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 128: son del sector público estatal si hay **aportación mayoritaria** estatal, más del **50 % del patrimonio** aportado por el sector público estatal o **mayoría de votos en el patronato**. Actúan **sin ánimo de lucro** para fines de interés general y **no pueden ejercer potestades públicas**; cabe aportación privada **no mayoritaria** (128.3)."
+  }
+ ],
+ "a137": [
+  {
+   "pregunta": "Según el artículo 137 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los fondos carentes de personalidad jurídica del sector público estatal:",
+   "opciones": [
+    "Se crean por Ley y se extinguen por norma de rango reglamentario.",
+    "Se crean y se extinguen por Real Decreto del Consejo de Ministros.",
+    "Se crean por Orden ministerial y se extinguen por Ley.",
+    "Se crean por Ley y solo pueden extinguirse por otra Ley."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 137: **creación por Ley**, que determina su adscripción a la AGE, y **extinción por norma reglamentaria**. Su denominación debe incluir «fondo carente de personalidad jurídica» o «F.C.P.J.»."
+  }
+ ],
+ "a140": [
+  {
+   "pregunta": "De acuerdo con el artículo 140.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, el principio por el que dos o más Administraciones Públicas, de manera voluntaria y en ejercicio de sus competencias, asumen compromisos específicos en aras de una acción común se denomina:",
+   "opciones": [
+    "Colaboración.",
+    "Cooperación.",
+    "Coordinación.",
+    "Lealtad institucional."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 140.1: **colaboración** = deber de actuar con las demás para fines comunes (c); **cooperación** = compromisos **voluntarios** para una acción común (d); **coordinación** = obligación, sobre todo de la AGE, de garantizar la **coherencia** de las actuaciones cuando lo prevea el ordenamiento (e)."
+  }
+ ],
+ "a141": [
+  {
+   "pregunta": "Según el artículo 141.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la asistencia y colaboración requerida por otra Administración solo podrá negarse, entre otros casos, cuando:",
+   "opciones": [
+    "La Administración requerida no tenga interés directo en el asunto.",
+    "La Administración solicitante pertenezca a otro nivel territorial.",
+    "La información solicitada tenga carácter confidencial o reservado, debiendo comunicarse la negativa motivadamente.",
+    "Hayan transcurrido más de diez días desde la solicitud."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 141.2: solo cabe negarse si el órgano **no está facultado**, **no dispone de medios**, causaría un **perjuicio grave** a sus intereses o funciones, o la información es **confidencial o reservada**; la negativa se comunica **motivadamente**."
+  }
+ ],
+ "a143": [
+  {
+   "pregunta": "De acuerdo con el artículo 146 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Conferencia de Presidentes está formada por:",
+   "opciones": [
+    "El Presidente del Gobierno, los Ministros y los Presidentes de las Comunidades Autónomas.",
+    "Los Presidentes de las Comunidades Autónomas, que eligen a su Presidente por turno rotatorio anual.",
+    "El Presidente del Gobierno y los Presidentes de las Comunidades Autónomas, sin incluir a Ceuta y Melilla.",
+    "El Presidente del Gobierno, que la preside, y los Presidentes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla."
+   ],
+   "respuesta": "d",
+   "explicacion": "Art. 146: órgano multilateral formado por el **Presidente del Gobierno** (que la **preside**) y los **Presidentes de las CC. AA. y de Ceuta y Melilla**. Le asiste un **Comité preparatorio** presidido por un Ministro, con un Consejero de cada Comunidad."
+  },
+  {
+   "pregunta": "Según el artículo 151.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en las Conferencias Sectoriales la votación para la adopción de decisiones se producirá:",
+   "opciones": [
+    "Por cada uno de los miembros presentes, por mayoría simple.",
+    "Por cada uno de los miembros presentes, por mayoría absoluta.",
+    "Por la representación que cada Administración Pública tenga y no por los distintos miembros de cada una de ellas.",
+    "Por unanimidad de todos los miembros, en todo caso."
+   ],
+   "respuesta": "c",
+   "explicacion": "Art. 151.1: se vota **por Administración**, no por persona. Los **Acuerdos** obligan a quienes votaron a favor y, cuando la AGE ejerce funciones de **coordinación**, a todas las Administraciones con independencia de su voto (151.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 147.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Conferencias Sectoriales están presididas por:",
+   "opciones": [
+    "El Presidente del Gobierno.",
+    "El miembro del Gobierno que, en representación de la Administración General del Estado, resulte competente por razón de la materia.",
+    "El Consejero autonómico competente por razón de la materia, por turno rotatorio.",
+    "El Secretario de Estado de Política Territorial."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 147.1: la Conferencia Sectorial es un órgano **multilateral y sectorial** que reúne, **como Presidente**, al **miembro del Gobierno competente por la materia** (el Ministro) y a los consejeros autonómicos y de Ceuta y Melilla. Debe inscribirse en el **REOICO** para su válida constitución (147.2)."
+  }
+ ],
+ "a155": [
+  {
+   "pregunta": "Según el artículo 155.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, cuando la Administración cesionaria de datos pretenda su tratamiento ulterior para una finalidad que estime compatible con el fin inicial, deberá comunicarlo a la Administración cedente, que podrá oponerse motivadamente en el plazo de:",
+   "opciones": [
+    "Cinco días.",
+    "Diez días.",
+    "Quince días.",
+    "Un mes."
+   ],
+   "respuesta": "b",
+   "explicacion": "Art. 155.3: comunicación previa a la cedente, que puede **oponerse motivadamente en diez días**. Nunca cabe un tratamiento ulterior para **fines incompatibles** con los iniciales (155.2)."
+  },
+  {
+   "pregunta": "De acuerdo con el artículo 157.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, si al consultar el directorio general de aplicaciones antes de adquirir o desarrollar una aplicación existe una solución disponible para su reutilización total o parcial, las Administraciones Públicas:",
+   "opciones": [
+    "Estarán obligadas a su uso, salvo que la decisión de no reutilizarla se justifique en términos de eficiencia.",
+    "Podrán utilizarla con carácter potestativo, sin necesidad de justificación.",
+    "Deberán solicitar autorización al Consejo de Ministros para no utilizarla.",
+    "Estarán obligadas a su uso sin excepción alguna."
+   ],
+   "respuesta": "a",
+   "explicacion": "Art. 157.3: hay que consultar **antes** el **directorio general de aplicaciones** (el CTT) y, si existe una solución reutilizable, **su uso es obligatorio** salvo justificación en términos de **eficiencia** (art. 7 de la LO 2/2012)."
+  }
  ]
 }
