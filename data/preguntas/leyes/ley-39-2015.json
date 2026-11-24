@@ -1,0 +1,75 @@
+{
+ "a16": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "13"
+  },
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p2",
+   "n": "7"
+  }
+ ],
+ "a48": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "17"
+  }
+ ],
+ "a114": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "18"
+  }
+ ],
+ "a87": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "19"
+  }
+ ],
+ "a43": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "r1",
+   "n": "R4"
+  }
+ ],
+ "a68": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "s1",
+   "n": "2"
+  }
+ ],
+ "a11": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "19"
+  },
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "10"
+  }
+ ],
+ "a39": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "20"
+  }
+ ],
+ "a30": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "20"
+  }
+ ]
+}

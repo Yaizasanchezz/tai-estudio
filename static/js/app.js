@@ -273,6 +273,24 @@
     }
   }
 
+  // ------------------------------------------------------------ preguntas tipo examen (páginas anotadas)
+  function setupPreg() {
+    document.addEventListener("click", (e) => {
+      const b = e.target.closest(".preg-op");
+      if (!b) return;
+      const box = b.closest(".preg");
+      if (box.classList.contains("done")) return;
+      const ok = box.dataset.ok;
+      box.classList.add("done");
+      box.querySelectorAll(".preg-op").forEach((x) => {
+        if (x.dataset.k === ok) x.classList.add("ok");
+        else if (x === b) x.classList.add("ko");
+      });
+      const sol = box.querySelector(".preg-sol");
+      if (sol) sol.open = true;
+    });
+  }
+
   window.TAI = { store: store, markStudyDay: markStudyDay, streak: streak, todayStr: todayStr, BASE: BASE };
 
   document.addEventListener("DOMContentLoaded", () => {
@@ -281,6 +299,7 @@
     setupSidebar();
     setupStudied();
     setupToc();
+    setupPreg();
     setupSearch();
     renderStreakMini();
     setupSW();

@@ -1,0 +1,64 @@
+{
+ "a67": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "3"
+  }
+ ],
+ "a78": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "5"
+  },
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "5"
+  },
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "3"
+  }
+ ],
+ "a68": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "4"
+  },
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "3"
+  }
+ ],
+ "a82": [
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "10"
+  }
+ ],
+ "a71": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "5"
+  }
+ ],
+ "a66": [
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "3"
+  },
+  {
+   "examen": "tai-libre-2026",
+   "parte": "p1",
+   "n": "4"
+  }
+ ]
+}

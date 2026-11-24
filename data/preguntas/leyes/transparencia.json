@@ -1,0 +1,28 @@
+{
+ "a14": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "7"
+  }
+ ],
+ "a24": [
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "6"
+  }
+ ],
+ "a17": [
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "12"
+  },
+  {
+   "examen": "tai-libre-2026-extraordinario",
+   "parte": "p1",
+   "n": "8"
+  }
+ ]
+}

@@ -133,6 +133,7 @@ def index_html_sections(page_title: str, url: str, body: str, kind: str, limit: 
     """Divide el HTML por h2/h3 y añade cada sección al índice de búsqueda."""
     # en las páginas anotadas, el texto oficial ya se indexa en su página de texto oficial
     body = re.sub(r'<div class="oficial">.*?</div>', "", body, flags=re.S)
+    body = re.sub(r'<div class="preg".*?</details></div>', "", body, flags=re.S)
     body = re.sub(r'<details class="oficial-final">.*?</details>', "", body, flags=re.S)
     parts = re.split(r'(<h[23][^>]*id="[^"]+"[^>]*>.*?</h[23]>)', body, flags=re.S)
     current = {"s": "", "a": "", "x": ""}
@@ -260,7 +261,7 @@ def load_collection(folder: Path) -> list[dict]:
     for f in sorted(folder.glob("*.md")):
         meta, text = front_matter(f.read_text(encoding="utf-8"))
         if meta.get("texto"):
-            text = compose_annotated(meta, text)
+            text = compose_annotated(meta, text, f"{folder.name}/{f.stem}")
         body, toc = render_md(text)
         pages.append({"slug": f.stem, "meta": meta, "body": body, "toc": toc,
                       "title": meta.get("title", f.stem), "order": float(meta.get("order", 99))})
@@ -388,11 +389,73 @@ def emphasize(html: str, phrases: list[str]) -> str:
     return html
 
 
-def compose_annotated(meta: dict, text: str) -> str:
+EXAM_NAMES = {"tai-libre": "TAI", "aux-libre": "Auxiliar", "adm-libre": "Administrativo"}
+_EXAMS: dict = {}
+
+
+def exam_question(ref: dict) -> dict:
+    """Busca una pregunta real (examen, parte, n) en data/**/examenes."""
+    if not _EXAMS:
+        for f in list((DATA / "examenes").glob("*.json")) + list(DATA.glob("*/examenes/*.json")):
+            d = json.loads(f.read_text(encoding="utf-8"))
+            _EXAMS[d["slug"]] = d
+    d = _EXAMS[ref["examen"]]
+    parte = next(p for p in d["partes"] if p["id"] == ref["parte"])
+    q = next(x for x in parte["preguntas"] if str(x["n"]) == str(ref["n"]))
+    m = re.match(r"([a-z]+-libre)-(\d{4})(-extraordinario)?", d["slug"])
+    name = f'{EXAM_NAMES.get(m.group(1), m.group(1))} {m.group(2)}{" (extraordinario)" if m.group(3) else ""}'
+    where = parte["titulo"].lower()
+    origen = f"Cayó en el examen de {name} · {where}, pregunta {q['n']}"
+    return {"pregunta": q["pregunta"], "opciones": q["opciones"], "respuesta": q["respuesta"],
+            "explicacion": q.get("explicacion", ""), "origen": origen,
+            "url": f'{BASE}{ {"aux-libre": "auxiliar/", "adm-libre": "administrativo/"}.get(m.group(1), "") }examenes/{d["slug"]}/'}
+
+
+def load_preguntas(page: str, default_slug: str) -> dict:
+    f = DATA / "preguntas" / f"{page}.json"
+    if not f.exists():
+        return {}
+    raw = json.loads(f.read_text(encoding="utf-8"))
+    out: dict = {}
+    for key, lst in raw.items():
+        slug, bid = key.split(":", 1) if ":" in key else (default_slug, key)
+        out[(slug, bid)] = [exam_question(q) if "examen" in q else q for q in lst]
+    return out
+
+
+def _md_inline(t: str) -> str:
+    h = inline_md(t).strip()
+    return re.sub(r"^<p>(.*)</p>$", r"\1", h, flags=re.S)
+
+
+def preg_html(qs: list[dict]) -> str:
+    out = []
+    for q in qs:
+        ok = "abcd".index(q["respuesta"])
+        if q.get("origen"):
+            tag = f'<p class="preg-tag preg-real"><a href="{q["url"]}">{html.escape(q["origen"])}</a></p>' if q.get("url") else f'<p class="preg-tag preg-real">{html.escape(q["origen"])}</p>'
+        else:
+            tag = '<p class="preg-tag">Pregunta tipo examen</p>'
+        ops = "".join(f'<li><button type="button" class="preg-op" data-k="{i}"><span class="preg-l">{"abcd"[i]})</span> {_md_inline(o)}</button></li>' for i, o in enumerate(q["opciones"]))
+        out.append(f'\n\n<div class="preg" data-ok="{ok}">{tag}<div class="preg-q">{_md_inline(q["pregunta"])}</div>'
+                   f'<ol class="preg-ops">{ops}</ol><details class="preg-sol"><summary>Ver respuesta</summary>'
+                   f'<p><strong>Correcta: {q["respuesta"]})</strong></p>{inline_md(q.get("explicacion", ""))}</details></div>\n\n')
+    return "".join(out)
+
+
+def compose_annotated(meta: dict, text: str, page: str = "") -> str:
     """Devuelve el markdown completo de una página anotada."""
     slugs = [x.strip() for x in str(meta["texto"]).split(",") if x.strip()]
     notes, titles, marks = parse_annotations(text, slugs[0])
     used = set()
+    pregs = load_preguntas(page, slugs[0])
+    pused = set()
+
+    def quiz(law, bid):
+        if (law, bid) in pregs:
+            pused.add((law, bid))
+            return preg_html(pregs[(law, bid)])
+        return ""
 
     def take(law, bid, before):
         key = (law, bid, before)
@@ -415,7 +478,7 @@ def compose_annotated(meta: dict, text: str) -> str:
             out.append(f'\n\n<p class="oficial-falta">Esta norma no se publica en el BOE (es europea): su texto oficial está en <a href="{law.get("url", "")}" target="_blank" rel="noopener">EUR-Lex ↗</a>. Abajo, las explicaciones.</p>\n\n')
             rest = [k for k in notes if k[0] == slug and k not in used]
             for key in rest:
-                out.append(note_md(take(*key)))
+                out.append(note_md(take(*key)) + ("" if key[2] else quiz(key[0], key[1])))
             continue
         blocks = [b for b in data["bloques"] if b["tipo"] in ("encabezado", "precepto", "preambulo")]
         if not rng or rng[0] != "preambulo":
@@ -429,7 +492,7 @@ def compose_annotated(meta: dict, text: str) -> str:
         for b in blocks:
             bid = b["id"]
             is_art = b["tipo"] == "precepto"
-            noted = any((slug, bid, x) in notes for x in (True, False))
+            noted = any((slug, bid, x) in notes for x in (True, False)) or (slug, bid) in pregs
             if is_art and not bid.startswith("a") and not rng and not noted:
                 in_final = True
             pre = take(slug, bid, True)
@@ -441,6 +504,7 @@ def compose_annotated(meta: dict, text: str) -> str:
                 chunk = f'\n\n{level} {heading_text(b["html"])} {{#{hid} .oficial-h}}\n\n'
                 chunk += note_md(pre) if pre else ""
                 chunk += note_md(take(slug, bid, False)) if (slug, bid, False) in notes else ""
+                chunk += quiz(slug, bid)
                 out.append(chunk)
                 continue
             body = re.sub(r'^\s*<p class="articulo">.*?</p>', "", b["html"], count=1, flags=re.S)
@@ -456,6 +520,7 @@ def compose_annotated(meta: dict, text: str) -> str:
             after = take(slug, bid, False)
             if after:
                 chunk += note_md(after)
+            chunk += quiz(slug, bid)
             (finals if in_final and not noted else out).append(chunk)
         if finals:
             out.append('\n\n<details class="oficial-final" markdown="1">\n<summary>Disposiciones adicionales, transitorias, derogatorias y finales (texto oficial)</summary>\n\n' + "".join(finals) + "\n\n</details>\n\n")
@@ -465,6 +530,9 @@ def compose_annotated(meta: dict, text: str) -> str:
     left = [k for k in notes if k not in used]
     if left:
         raise SystemExit(f"Notas sin destino en {meta.get('title')}: {left[:5]}")
+    pleft = [k for k in pregs if k not in pused]
+    if pleft:
+        raise SystemExit(f"Preguntas sin destino en {meta.get('title')}: {pleft[:5]}")
     return "".join(out)
 
 

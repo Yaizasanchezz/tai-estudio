@@ -677,3 +677,25 @@ html[data-opo="tai"] .opo-btn[data-opo-switch="tai"], html[data-opo="aux"] .opo-
 details.oficial-final { margin: 2em 0; border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 8px 14px; }
 details.oficial-final > summary { cursor: pointer; font-weight: 700; }
 .nota h4 { font-family: var(--font-body); font-weight: 800; }
+
+/* Preguntas tipo examen en las páginas anotadas */
+:root { --q-text: #1e3a8a; --q-bg: #eff4ff; --q-border: #2563eb; --q-ok: #15803d; --q-ok-bg: #dcfce7; --q-ko: #b91c1c; --q-ko-bg: #fee2e2; }
+[data-theme="dark"] { --q-text: #bfdbfe; --q-bg: #172036; --q-border: #60a5fa; --q-ok: #86efac; --q-ok-bg: #14321f; --q-ko: #fca5a5; --q-ko-bg: #3b1a1a; }
+.legend-notes .lg-preg { color: var(--q-text); font-weight: 700; border-left: 4px solid var(--q-border); padding-left: 8px; }
+.preg { color: var(--q-text); background: var(--q-bg); border-left: 4px solid var(--q-border); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; padding: 10px 16px 12px; margin: .9em 0 1.6em; }
+.preg-tag { font-size: .72rem; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; opacity: .9; margin: 0 0 .4em; }
+.preg-tag::before { content: "✎ "; }
+.preg-tag.preg-real::before { content: "★ "; }
+.preg-tag a { color: inherit; text-decoration: underline; }
+.preg-q { font-weight: 700; margin-bottom: .5em; }
+.preg-q p { margin: 0; }
+.preg-ops { list-style: none; padding: 0; margin: 0 0 .5em; display: grid; gap: 6px; }
+.preg-op { width: 100%; text-align: left; font: inherit; color: var(--q-text); background: var(--surface, #fff); border: 1px solid color-mix(in srgb, var(--q-border) 35%, transparent); border-radius: var(--radius-sm); padding: 7px 10px; cursor: pointer; line-height: 1.4; }
+.preg-op:hover { border-color: var(--q-border); }
+.preg-op .preg-l { font-weight: 800; margin-right: 2px; }
+.preg-op.ok { background: var(--q-ok-bg); color: var(--q-ok); border-color: var(--q-ok); font-weight: 700; }
+.preg-op.ko { background: var(--q-ko-bg); color: var(--q-ko); border-color: var(--q-ko); text-decoration: line-through; }
+.preg.done .preg-op { cursor: default; }
+.preg-sol summary { cursor: pointer; font-weight: 700; font-size: .9rem; }
+.preg-sol p:last-child { margin-bottom: 0; }
+.preg-sol strong, .preg-sol a { color: inherit; }

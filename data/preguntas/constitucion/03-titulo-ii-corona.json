@@ -1,0 +1,40 @@
+{
+ "a62": [
+  {
+   "examen": "adm-libre-2026",
+   "parte": "p1",
+   "n": "2"
+  },
+  {
+   "examen": "tai-libre-2021",
+   "parte": "p1",
+   "n": "2"
+  },
+  {
+   "examen": "tai-libre-2024",
+   "parte": "p1",
+   "n": "3"
+  }
+ ],
+ "a57": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "4"
+  }
+ ],
+ "a63": [
+  {
+   "examen": "aux-libre-2026",
+   "parte": "p1",
+   "n": "6"
+  }
+ ],
+ "a64": [
+  {
+   "examen": "tai-libre-2023",
+   "parte": "p1",
+   "n": "1"
+  }
+ ]
+}
